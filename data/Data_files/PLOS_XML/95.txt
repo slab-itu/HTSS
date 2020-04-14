@@ -1,0 +1,50 @@
+article id="http://dx.doi.org/10.1371/journal.pbio.1002273"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Risk of Bias in Reports of In Vivo Research: A Focus for Improvement  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+The reliability of experimental findings depends on the rigour of experimental design.  #@NEW_LINE#@#  Here we show limited reporting of measures to reduce the risk of bias in a random sample of life sciences publications, significantly lower reporting of randomisation in work published in journals of high impact, and very limited reporting of measures to reduce the risk of bias in publications from leading United Kingdom institutions.  #@NEW_LINE#@#  Ascertainment of differences between institutions might serve both as a measure of research quality and as a tool for institutional efforts to improve research quality.  #@NEW_LINE#@#  
+
+Citation: Macleod MR, Lawson McLean A, Kyriakopoulou A, Serghiou S, de Wilde A, Sherratt N, et al.  #@NEW_LINE#@#  (2015) Risk of Bias in Reports of In Vivo Research: A Focus for Improvement.  #@NEW_LINE#@#  PLoS Biol 13(10):  #@NEW_LINE#@#  
+           e1002273.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pbio.1002273  #@NEW_LINE#@#  
+Published:  October 13, 2015  #@NEW_LINE#@#  
+Copyright:  © 2015 Macleod et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited  #@NEW_LINE#@#  
+Data Availability: All datasets are available in the Dryad repository, http://dx.doi.org/10.5061/dryad.cs3t8.  #@NEW_LINE#@#  
+Funding: This work was supported by a grant from the UK NC3Rs NC/L000970/1 (https://www.nc3rs.org.uk/) to MRM.  #@NEW_LINE#@#  The funder had no role in the study design, data collection and analysis, decision to publish or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  MRM is a member of the PLOS Medicine Editorial Board.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          ARRIVE,  #@NEW_LINE#@#  
+            Animal Research: Reporting of In Vivo Experiments; CAMARADES,  #@NEW_LINE#@#  
+            Collaborative Approach to Meta-Analysis and Review of Experimental Data from Animal Studies; HEFC,  #@NEW_LINE#@#  
+            Higher Education Funding Council; MRC,  #@NEW_LINE#@#  
+            Medical Research Council; RAE,  #@NEW_LINE#@#  
+            Research Assessment Exercise; NIH,  #@NEW_LINE#@#  
+            National Institutes of Health; REF,  #@NEW_LINE#@#  
+            Research Excellence Framework  #@NEW_LINE#@#  
+Vertical error bars represent the 95% confidence intervals of the estimates (S1 Data).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.1002273.g001  #@NEW_LINE#@#  
+Vertical error bars represent the 95% confidence intervals, and the horizontal grey bar represents the 95% confidence interval of the overall estimate (S2 Data).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.1002273.g002  #@NEW_LINE#@#  
+Vertical error bars represent the 95% confidence intervals of the estimates (S3 Data).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.1002273.g003  #@NEW_LINE#@#  
+Black lines indicate the median value in that decile, and grey lines indicate the 95% confidence limits derived from nonparametric median regression (S4 Data).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.1002273.g004  #@NEW_LINE#@#  
+For each institution, the vertical error bars represent the 95% confidence intervals, and the horizontal grey bar represents the 95% confidence interval of the overall estimate for that risk-of-bias item (S5 Data).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.1002273.g005  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.1002273.t001  #@NEW_LINE#@#  
+
+

@@ -1,0 +1,255 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0169144"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Biting Midges (Diptera: Ceratopogonidae) from Cambay Amber Indicate that the Eocene Fauna of the Indian Subcontinent Was Not Isolated  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Indias unique and highly diverse biota combined with its unique geodynamical history has generated significant interest in the patterns and processes that have shaped the current distribution of Indias flora and fauna and their biogeographical relationships.  #@NEW_LINE#@#  Fifty four million year old Cambay amber from northwestern India provides the opportunity to address questions relating to endemism and biogeographic history by studying fossil insects.  #@NEW_LINE#@#  Within the present study seven extant and three fossil genera of biting midges are recorded from Cambay amber and five new species are described: Eohelea indica Stebner & Szadziewski n.  #@NEW_LINE#@#  sp., Gedanohelea gerdesorum Stebner & Szadziewski n.  #@NEW_LINE#@#  sp., Meunierohelea cambayana Stebner & Szadziewski n.  #@NEW_LINE#@#  sp., Meunierohelea borkenti Stebner & Szadziewski n.  #@NEW_LINE#@#  sp., and Meunierohelea orientalis Stebner & Szadziewski n. sp.  #@NEW_LINE#@#  Fossils of species in the genera Leptoconops Skuse, 1889, Forcipomyia Meigen, 1818, Brachypogon Kieffer, 1899, Stilobezzia Kieffer, 1911, Serromyia Meigen, 1818, and Mantohelea Szadziewski, 1988 are recorded without formal description.  #@NEW_LINE#@#  Furthermore, one fossil belonging to the genus Camptopterohelea Wirth & Hubert, 1960 is included in the present study.  #@NEW_LINE#@#  Our study reveals faunal links among Ceratopogonidae from Cambay amber and contemporaneous amber from Fushun, China, Eocene Baltic amber from Europe, as well as the modern Australasian and the Oriental regions.  #@NEW_LINE#@#  These findings imply that faunal exchange between Europe, Asia and India took place before the formation of Cambay amber in the early Eocene.  #@NEW_LINE#@#  
+
+1_Introduction  #@NEW_LINE#@#  
+Modern India is characterized by a diverse biota with many endemic elements especially in the area of the Western Ghats, one of only two terrestrial biodiversity hotspots in South Asia [1].  #@NEW_LINE#@#  To explain Indias diversity, various biogeographic models have been developed.  #@NEW_LINE#@#  
+The Biotic ferry model postulates that India formed an isolated continent for at least 30 Ma after its separation from Madagascar and before its collision with Asia [2, 3], allowing a highly diverse and endemic biota to develop.  #@NEW_LINE#@#  Common Asian and Indian faunal elements are explained by the Out of India and Out of Asia theories respectively.  #@NEW_LINE#@#  In contrast to the Biotic ferry theory, models have been developed in which broad land bridge connections between drifting India and Africa or island arcs between India and Asia or India and Africa existed, allowing faunal exchange [3, 4, 5].  #@NEW_LINE#@#  The plausibility of these different models strongly depends on geodynamic reconstructions and the precise timing of the India-Asia collision.  #@NEW_LINE#@#  Age estimates of the initial contact between India and the remainder of Asia range from 7065 Ma to as recently as 2520 Ma (e.g.  #@NEW_LINE#@#  [4, 6, 7, 8, 9, 10, 11]).  #@NEW_LINE#@#  
+Cambay amber derives from active lignite mines in the state of Gujarat, India, about 30 km northeast of Surat.  #@NEW_LINE#@#  The amber bearing sediments have been dated to early Eocene age (5255 Ma) [12, 13, 14, 15] and more precisely, terrestrial vertebrate remains from between the two major amber layers in Vastan mine have been estimated at 54.5 Ma [16].  #@NEW_LINE#@#  Thus, formation of the amber is within the collision estimations of the Indian subcontinent with the remainder of Asia.  #@NEW_LINE#@#  Cambay amber fossils are of particular importance since they provide a window to Indias diversity at that time and can facilitate understanding of Indias geological history.  #@NEW_LINE#@#  Initial studies of inclusions have revealed little faunal isolation of the Indian subcontinent [17].  #@NEW_LINE#@#  Rather, other insects in Cambay amber have shown connections to Eocene European Baltic amber (4843 Ma; [18, 19, 20]) and to the Miocene as well as the modern Neotropics [21, 22].  #@NEW_LINE#@#  Interestingly, so far only the whipspiders (Amblypygi) and webspinners (Embioptera) from Cambay amber show biogeographic affinities to Africa and to Africa and South America respectively, indicating a possible Gondwanan origin for these taxa [23, 24].  #@NEW_LINE#@#  
+Ceratopogonidae is one of the most abundant dipteran groups in Cambay amber and one of the most diverse families of Diptera both in the fossil record as well as in modern ecosystems.  #@NEW_LINE#@#  Currently, there are 283 fossil and 6267 extant species recorded from all over the world [25].  #@NEW_LINE#@#  The fossil record of Ceratopogonidae dates back to the Early Cretaceous with findings in the Purbeck limestone of Great Britain (142 Ma) [26], in amber from Jordan and Lebanon (125129 Ma) [27, 28], in the Koonwarra fossil bed of Australia (113116 Ma) [29], and in amber from Spain (110113 Ma) [30] (see also [25, 28]).  #@NEW_LINE#@#  Late Cretaceous records are from amber from Myanmar (Burmese amber, 9899 Ma), France (Vendean amber: 8597 Ma; Charantese amber: late Albianearly Cenomanian), Taimyr (Yantardakh: Santonian; Agapa River: late Cenomanian), New Jersey (9094 Ma), Hungary (Campanian-Santonian), and Canada (7680 Ma) (summarized in [25, 28).  #@NEW_LINE#@#  The earliest Paleogene amber inclusions are early Eocene fossils from India (54 Ma) and Fushun (5053 Ma) followed by middle Eocene amber of Sakhalin (e.g.  #@NEW_LINE#@#  [31]).  #@NEW_LINE#@#  With 26 genera and 109 species recorded [32, 33] the middle to late Eocene Baltic amber fauna is the best studied fossil assemblage.  #@NEW_LINE#@#  The youngest amber fossils are from the Miocene of Mexico (1520 Ma) [34, 35] and the Dominican Republic (1520 Ma) [36].  #@NEW_LINE#@#  
+In the present work Ceratopogonidae from Cambay amber were systematically studied, compared to contemporaneous amber faunas from Fushun and the Baltic Region, and analyzed with respect to their palaeobiogeography.  #@NEW_LINE#@#  Since Cambay amber was formed at a climatically pivotal period, at the end of the Paleocene Eocene Thermal Maximum and the beginning of the Early Eocene Climatic Optimum (e.g.  #@NEW_LINE#@#  [37]), the fossils were also examined relative to their palaeoecological implications.  #@NEW_LINE#@#  
+
+2_Materials_and_Methods  #@NEW_LINE#@#  
+The study is based on 38 specimens of Ceratopogonidae in early Eocene Cambay amber from India (Table 1).  #@NEW_LINE#@#  Syninclusions are listed separately in S1 Table.  #@NEW_LINE#@#  Photos of Ceratopogonidae specimens from Cambay amber without formal descriptions can be found in S1 and S2 Figs.  #@NEW_LINE#@#  Eight fossil Ceratopogonidae from contemporaneous Fushun amber, deposited at the Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing, China are included in the biogeographic discussion.  #@NEW_LINE#@#  Cambay amber specimens derive from lignite mines in Tadkeshwar (N 21° 21.400, E 073° 04.532), Vastan (N 21° 25.239, E 073° 07.249) and Valia (21°24.690, 073°05.939) in Gujarat, India.  #@NEW_LINE#@#  Samples are from the collections of the Steinmann Institute, Bonn, Germany and the American Museum of Natural History (AMNH), New York, USA.  #@NEW_LINE#@#  Both collections have been amassed without any collectors bias so that Ceratopogonidae composition recorded reflects the actual faunal elements entrapped in the collected amber material.  #@NEW_LINE#@#  All specimens will be deposited in the collection of the AMNH.  #@NEW_LINE#@#  All necessary permits were obtained for the described study, which complied with all relevant regulations.  #@NEW_LINE#@#  
+Abbreviations: H = holotype, P = paratype.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0169144.t001  #@NEW_LINE#@#  
+Amber pieces were ground using a Buehler Phoenix Beta grinding machine.  #@NEW_LINE#@#  For taxonomic identification and investigation a Leica MZ 125 stereoscope was used.  #@NEW_LINE#@#  Photographs were taken with an AXIO Zoom.V16 Stereomicroscope (Carl Zeiss, Jena) equipped with an AXIOCam HRc Digital Camera (Zeiss), using the extended depth of focus function and with the classic microscope PZO Biolar SK14 and the Helicon Focus 6 image stacking software.  #@NEW_LINE#@#  
+Terms for morphological structures follows those used in the Manual of Nearctic Diptera [38]; special morphological terms and abbreviations follow those explained by Szadziewski [32, 39].  #@NEW_LINE#@#  The female antennal ratio (AR) is obtained by dividing the combined length of the distal five flagellomeres by the combined length of the proximal eight flagellomeres; that of the male is obtained by dividing the combined length of the distal three flagellomeres by the combined length of the proximal 10 flagellomeres; the tarsal ratio of the fore leg TR (I), mid leg TR (II) and hind leg TR (III) is obtained by dividing the length of the respective first tarsomere by the length of the second tarsomere; the costal ratio (CR) is calculated by dividing the length of the costa by wing length as measured from the arculus.  #@NEW_LINE#@#  Wing cells and veins are abbreviated as follows: br = basal radial cell; C = costal vein; CuA1, CuA2 = branches of cubital vein; M1, M2 = branches of medial vein; R1, R3 = branches of radial vein; r1 r3 = radial cells; r-m = radial-medial crossvein; Sc = subcostal vein.  #@NEW_LINE#@#  
+Drawings were made using Adobe Illustrator CS6; photo-plates were edited using Photoshop CS5.1 and Adobe Illustrator CS6.  #@NEW_LINE#@#  Data in the figure showing relationships of select extant and fossil Ceratopogonidae genera was plotted using R [40] and the phytools package [41].  #@NEW_LINE#@#  
+There still is controversy about the age and origin of Baltic, Bitterfeld (Saxonian) and Rovno amber and whether they are contemporaneous.  #@NEW_LINE#@#  Since most of the aforementioned ambers have been treated and labeled as Baltic amber, which makes an exact assignment impossible, the term Baltic amber is used in the present study for amber deriving from all three localities.  #@NEW_LINE#@#  
+Nomenclatural Acts  #@NEW_LINE#@#  
+The electronic edition of this article conforms to the requirements of the amended International Code of Zoological Nomenclature, and hence the new names contained herein are available under that Code from the electronic edition of this article.  #@NEW_LINE#@#  This published work and the nomenclatural acts it contains have been registered in ZooBank, the online registration system for the ICZN.  #@NEW_LINE#@#  The ZooBank LSIDs (Life Science Identifiers) can be resolved and the associated information viewed through any standard web browser by appending the LSID to the prefix http://zoobank.org/.  #@NEW_LINE#@#  The LSID for this publication is: urn:lsid:zoobank.org:pub:F92B27AC-F83B-41B4-802E-A60EEF245643.  #@NEW_LINE#@#  The electronic edition of this work was published in a journal with an ISSN, and has been archived and is available from the following digital repositories: PubMed Central, LOCKSS.  #@NEW_LINE#@#  
+
+3_Results  #@NEW_LINE#@#  
+Within the present study 34 of the 38 fossil biting midges from Cambay amber could be assigned to one of three subfamilies: Leptoconopinae (2 specimens), Forcipomyiinae (14 specimens), Ceratopogoninae (18 specimens) (Table 1).  #@NEW_LINE#@#  All of these fossils are determined to one of six extant and three fossil genera: Forcipomyia Meigen (14 specimens), Meunierohelea Szadziewski (5), Brachypogon Kieffer (3), Stilobezzia Kieffer (3), Leptoconops Skuse (2), Serromyia Meigen (1), Mantohelea Szadziewski (1), Eohelea Szadziewski (1) and Gedanohelea Szadziewski (4).  #@NEW_LINE#@#  One fossil belonging to the genus Camptopterohelea Wirth & Hubert has been described in an earlier work [42].  #@NEW_LINE#@#  
+In addition to three previously described species from the genera Gedanohelea and Mantohelea [43] the study of five newly studied fossils from early Eocene Fushun amber yielded three fossils of the genus Atrichopogon Kieffer and two undetermined Forcipomyiinae.  #@NEW_LINE#@#  
+Systematic_palaeontology  #@NEW_LINE#@#  
+Family Ceratopogonidae Newman, 1834  #@NEW_LINE#@#  
+Subfamily Ceratopogoninae  #@NEW_LINE#@#  
+Tribe Ceratopogonini  #@NEW_LINE#@#  
+Genus Eohelea Petrunkevitch, 1957  #@NEW_LINE#@#  
+Type_species  #@NEW_LINE#@#  
+Eohelea stridulans Petrunkevitch, 1957  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Male with 12 flagellomeres, terminal 4 flagellomeres elongate, plume not developed.  #@NEW_LINE#@#  Wing in both sexes with cell r1 short, cell r2elongate, costa prolonged nearly to wing apex.  #@NEW_LINE#@#  Female wing either with elliptic to circular wing patch (commonly: stridulating organ) in anterodistal portion of cell r3 and vein M1 absent distally or without wing patch and vein M1 complete; claws short, equal, each with basal inner tooth.  #@NEW_LINE#@#  
+
+Distribution  #@NEW_LINE#@#  
+Six fossil species in Eocene amber from the Baltic Region (E. sinuosa (Meunier 1904); E. petrunkevitchi Szadziewski, 1984; E. grogani Szadziewski, 1988; E. gedanica Szadziewski, 1988; E. fossicola Szadziewski, 1993; E. miocaenea Szadziewski, 1993) and one fossil species in Eocene Sakhalin amber (E. sakhalinica Szadziewski, 1990).  #@NEW_LINE#@#  
+Eohelea indica Stebner & Szadziewski n. sp.  #@NEW_LINE#@#  
+urn:lsid:zoobank.org:act:3DC2CD4E-0D68-4D72-A201-1BF7A2300F51  #@NEW_LINE#@#  
+Figs 1A1F and 2D and 2E  #@NEW_LINE#@#  
+
+Type_material  #@NEW_LINE#@#  
+Holotype female: No.  #@NEW_LINE#@#  Tad-855, in amber from India: Gujarat, Tadkeshwar lignite mine, Cambay Formation (lower Eocene, Ypresian); in a box labelled Eohelea indica Stebner & Szadziewski.  #@NEW_LINE#@#  HOLOTYPE AMNH IN-Tad-855.  #@NEW_LINE#@#  Cambay Form.  #@NEW_LINE#@#  Gujarat India.  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Female: only species of Eohelea with a very long subcosta extending beyond apex of cell r1 and a circular wing patch that does not extend to the wing apex.  #@NEW_LINE#@#  
+
+Description  #@NEW_LINE#@#  
+Female.  #@NEW_LINE#@#  Poorly preserved.  #@NEW_LINE#@#  Body length 1 mm.  #@NEW_LINE#@#  
+Head.  #@NEW_LINE#@#  Eyes separated.  #@NEW_LINE#@#  Right antenna not preserved, left antenna broken beyond flagellomere 6 (Fig 1A); AR about 1.0 (approximated since antenna is broken and flagellomere 6 is not completely preserved); flagellomeres 28 subcylindrical; sensilla coeloconica absent.  #@NEW_LINE#@#  Proboscis short.  #@NEW_LINE#@#  Palpus short, with 5 segments.  #@NEW_LINE#@#  
+Wing (Fig 1F).  #@NEW_LINE#@#  Broad, tilted, therefore length approximately 0.48 mm, CR 0.9, vein C nearly reaching wing apex.  #@NEW_LINE#@#  Vein Sc very long, reaching wing margin beyond level of cell r1.  #@NEW_LINE#@#  Cell r1 short, veins R1 and R3 not visible/preserved distally, thus cell r2 not preserved.  #@NEW_LINE#@#  Wing patch in shape of nearly circular field of wing membrane just below vein R3 (only visible in left wing) appears cross-hatched.  #@NEW_LINE#@#  Vein M1 absent distally, vein M2 absent.  #@NEW_LINE#@#  Veins CuA1, CuA2 well developed, wing membrane without macrotrichia.  #@NEW_LINE#@#  
+Legs (Fig 1B1E).  #@NEW_LINE#@#  Slender; each with two short equal claws, each armed with basal ventral tooth; fourth tarsomeres subcylindrical; TR(I) 2.5, TR(II) 3.8, TR(III) 2.9.  #@NEW_LINE#@#  Tibial comb of hind leg with at least 4 spines (Fig 1C), tarsomere 1 of hind leg with two rows of palisade setae (Fig 1E).  #@NEW_LINE#@#  
+Genitalia.  #@NEW_LINE#@#  Cercus short.  #@NEW_LINE#@#  
+Male unknown.  #@NEW_LINE#@#  
+
+Etymology  #@NEW_LINE#@#  
+Specific name refers to the origin of Cambay amber from India.  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+Eohelea indica n. sp.  #@NEW_LINE#@#  can be distinguished from all other species of this fossil genus by the very long subcosta.  #@NEW_LINE#@#  The female of the new species resembles that of E. sinuosa, E. petrunkevitchi, E. fossicola, E. miocaenea and E. sakhalinica in having a circular or elliptic, variously structured wing patch just below vein R3.  #@NEW_LINE#@#  The wing patch of E. indica most closely resembles that of E. fossicola from Baltic amber.  #@NEW_LINE#@#  The latter species has a circular patch covered with finely wrinkled wing membrane [44] whereas E. indica has a cross-hatched patterning.  #@NEW_LINE#@#  All of the wing membrane of both wings of E. indica n. sp.  #@NEW_LINE#@#  has an irregular patterning that is most probably a taphonomic result (perhaps caused by infiltration from a subsequent flow of resin after initial capture) and therefore the patterning of the wing patch might also be an artefact and therefore not be useful in distinguishing the two species.  #@NEW_LINE#@#  Nevertheless, the wing patch of E. indica is clearly smaller and does not extend close to the wing apex as it does in E. fossicola.  #@NEW_LINE#@#  
+Genus Gedanohelea Szadziewski, 1988  #@NEW_LINE#@#  
+
+Type_species  #@NEW_LINE#@#  
+Gedanohelea loewi Szadziewski, 1988  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Wing broad with distinct anal lobe; only first radial cell present; media petiolate, strongly divergent; M1 distinctly bowed upward; female claws single and long.  #@NEW_LINE#@#  
+
+Distribution  #@NEW_LINE#@#  
+This fossil genus is known from three species in Eocene Baltic amber (G. wirthi Szadziewski, 1988; G. loewi Szadziewski, 1988; G. succinea Szadziewski, 1988) and two species in early Eocene Fushun amber (G. fushunensis Stebner et al., 2016; G. liaoningensis Stebner et al., 2016).  #@NEW_LINE#@#  
+Gedanohelea gerdesorum Stebner & Szadziewski n. sp.  #@NEW_LINE#@#  
+urn:lsid:zoobank.org:act:09FD7F99-40C5-4BB2-9984-5D081E6C98BE  #@NEW_LINE#@#  
+Figs 2A2C and 3A3G,  #@NEW_LINE#@#  
+
+Type_material  #@NEW_LINE#@#  
+Holotype female: No.  #@NEW_LINE#@#  Tad-857, in amber from India: Gujarat, Tadkeshwar lignite mine, Cambay Formation (lower Eocene, Ypresian); in a box labelled Gedanohelea gerdesorum Stebner & Szadziewski.  #@NEW_LINE#@#  HOLOTYPE AMNH IN-Tad-857.  #@NEW_LINE#@#  Cambay Form.  #@NEW_LINE#@#  Gujarat India.  #@NEW_LINE#@#  Paratypes, 3 females: Tad-513, Tad-661, Val-3 a.  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Female: only species of Gedanohelea with wing vein R3 basally with peculiar thickening that has several vertical running slit-like lines, and with the first radial cell single, long and broad.  #@NEW_LINE#@#  
+
+Description  #@NEW_LINE#@#  
+Female.  #@NEW_LINE#@#  Body length 0.80.9 mm.  #@NEW_LINE#@#  
+Head.  #@NEW_LINE#@#  Eyes separated.  #@NEW_LINE#@#  Both antennae missing in holotype, paratypes with 13 flagellomeres (Fig 3A), length of flagellum 0.35 mm, AR 1.06; flagellomeres 28 gradually increasing in length; sensilla coeloconica absent.  #@NEW_LINE#@#  Proboscis short.  #@NEW_LINE#@#  Palpus missing in holotype, in paratype Tad-513 palpus very short, with 5 segments, segment 3 with sensory pit (Fig 3C).  #@NEW_LINE#@#  
+Thorax.  #@NEW_LINE#@#  Scutellum with 4 marginal setae.  #@NEW_LINE#@#  
+Wing (Fig 3B).  #@NEW_LINE#@#  Broad, length 0.50 mm; CR 0.9; vein R3 basally bearing peculiar thickening with several vertical running thin lines.  #@NEW_LINE#@#  Cell r1 long, single; veins M1, M2 well visible, petiolate; veins CuA1, CuA2 well developed.  #@NEW_LINE#@#  Wing membrane covered with distinct microtrichia, macrotrichia absent.  #@NEW_LINE#@#  
+Legs (Fig 3D3G).  #@NEW_LINE#@#  Broken, partly missing in holotype; in paratypes slender, each armed with single long claw, fourth tarsomeres cordiform, TR(I) 3.2, TR(II) 3.5, TR(III) 3.6.  #@NEW_LINE#@#  
+Abdomen.  #@NEW_LINE#@#  With short cercus.  #@NEW_LINE#@#  
+Male unknown.  #@NEW_LINE#@#  
+
+Etymology  #@NEW_LINE#@#  
+The species name is dedicated to the women in the first authors family: her mother Heike Gerdes, aunt Karin Gerdes and grandmother Christine Gerdes.  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+Because the view of the mid leg of the holotype Tad-857 is distorted the first tarsomere appears shortened when compared to that of the paratype Tad-513.  #@NEW_LINE#@#  
+Females of Gedanohelea gerdesorum n. sp.  #@NEW_LINE#@#  can be easily distinguished from other species of the genus by the unique thickening of the vein R3, which is unmodified in all other members of the genus and represents a unique character in the whole family Ceratopogonidae.  #@NEW_LINE#@#  
+Genus Meunierohelea Szadziewski, 1988  #@NEW_LINE#@#  
+
+Type_species  #@NEW_LINE#@#  
+Meunierohelea nielseni Szadziewski, 1988  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Wing with cells r1, r2 widely separated by anastomosed R1 and R3 veins, rarely cell r1 absent, base of M2 absent.  #@NEW_LINE#@#  
+
+Distribution  #@NEW_LINE#@#  
+One extant species in Australia [M. caligula (Debenham, 1987)] and four named fossil species from Eocene Baltic amber (M. wirthi Szadziewski, 1988; M. gedanicola Szadziewski, 1988; M. nielseni Szadziewski, 1988; M. miocaenica Szadziewski, 1993) have been described.  #@NEW_LINE#@#  
+Meunierohelea cambayana Stebner & Szadziewski n. sp.  #@NEW_LINE#@#  
+urn:lsid:zoobank.org:act:7F551482-1B19-4019-920E-50A45F31905E  #@NEW_LINE#@#  
+Figs 4A4E and 5A5E  #@NEW_LINE#@#  
+
+Type_material  #@NEW_LINE#@#  
+Holotype male: No.  #@NEW_LINE#@#  Tad-507, in amber from India: Gujarat, Tadkeshwar lignite mine, Cambay Formation (lower Eocene, Ypresian); in a box labelled Meunierohelea cambayana Stebner & Szadziewski.  #@NEW_LINE#@#  HOLOTYPE AMNH IN-Tad-507.  #@NEW_LINE#@#  Cambay Form.  #@NEW_LINE#@#  Gujarat India.  #@NEW_LINE#@#  Other material.  #@NEW_LINE#@#  Male, Tad-519, is poorly preserved, doubtfully determined and therefore not considered a paratype.  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Male: only species of Meunierohelea with AR 1.4, cell r1 well developed, and a slender gonostylus.  #@NEW_LINE#@#  
+
+Description  #@NEW_LINE#@#  
+Male.  #@NEW_LINE#@#  Body length 0.8 mm.  #@NEW_LINE#@#  
+Head.  #@NEW_LINE#@#  Flagellum (Fig 4A) with flagellomeres 210 fused, length: 0.70 mm; AR 1.4; plume well developed.  #@NEW_LINE#@#  Proboscis short.  #@NEW_LINE#@#  Palpus with 5 segments.  #@NEW_LINE#@#  
+Wing.  #@NEW_LINE#@#  Poorly preserved, slender, length 0.63 mm.  #@NEW_LINE#@#  cell r1 well-developed; cell r2 not preserved (Fig 4D).  #@NEW_LINE#@#  Wing membrane covered with distinct microtrichia, macrotrichia absent.  #@NEW_LINE#@#  
+Legs (Fig 4B and 4C).  #@NEW_LINE#@#  Femur, tibia of hind leg slightly stouter than those of other legs; fourth tarsomeres cylindrical; tarsomeres 13 of hind leg with palisade setae, tibial comb with 5 spines; TR (II) approximately 2.2, TR(III) 2.4.  #@NEW_LINE#@#  
+Genitalia (Fig 4E).  #@NEW_LINE#@#  Inverted; gonocoxite not modified; gonostylus slender, tapering evenly to acute apex, slightly bent; one gonostylus swollen, with broadly rounded apex which is most likely an artefact.  #@NEW_LINE#@#  Parameres not visible.  #@NEW_LINE#@#  
+Female unknown.  #@NEW_LINE#@#  
+
+Etymology  #@NEW_LINE#@#  
+The specific name refers to the Cambay Formation.  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+The fused flagellomeres 210 and a gonostylus tapering to its apex in Meunierohelea cambayana n. sp.  #@NEW_LINE#@#  resembles those of M. gedanicola and M. nielseni from Baltic amber.  #@NEW_LINE#@#  Meunierohelea cambayana n. sp.  #@NEW_LINE#@#  can be distinguished from the two Baltic amber species by its AR, which is distinctly lower in M. nielseni and M. gedanicola (below 1.0).  #@NEW_LINE#@#  
+Meunierohelea borkenti Stebner & Szadziewski n. sp.  #@NEW_LINE#@#  
+urn:lsid:zoobank.org:act:D6E21814-FDA5-42B4-A8A3-45365C1D0B4E  #@NEW_LINE#@#  
+Figs 6A6E and 7A, 7B and 7D  #@NEW_LINE#@#  
+
+Type_material  #@NEW_LINE#@#  
+Holotype male: No.  #@NEW_LINE#@#  Tad-516, in amber from India: Gujarat, Tadkeshwar lignite mine, Cambay Formation (lower Eocene, Ypresian); in a box labelled Meunierohelea borkenti Stebner & Szadziewski.  #@NEW_LINE#@#  HOLOTYPE AMNH IN-Tad-516.  #@NEW_LINE#@#  Cambay Form.  #@NEW_LINE#@#  Gujarat India.  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Male: only species of Meunierohelea with cell r1 absent, AR slightly lower than 1.0, and a broad gonostylus.  #@NEW_LINE#@#  
+
+Description  #@NEW_LINE#@#  
+Male.  #@NEW_LINE#@#  Body length 0.7 mm.  #@NEW_LINE#@#  
+Head.  #@NEW_LINE#@#  Flagellum (Fig 6A) with flagellomeres 210 fused, length 0.37 mm, AR 0.9; plume well developed.  #@NEW_LINE#@#  Proboscis short.  #@NEW_LINE#@#  Palpus with 5 segments.  #@NEW_LINE#@#  
+Wing.  #@NEW_LINE#@#  Slender; cell r1 absent, cell r2 with opened apex (Fig 6C).  #@NEW_LINE#@#  Length approximately 0.51 mm; CR 0.80.  #@NEW_LINE#@#  Wing membrane without macrotrichia.  #@NEW_LINE#@#  
+Legs (Fig 6D and 6E) slender, fourth tarsomeres cylindrical; tarsomeres 13 of hind leg with palisade setae, TR (II) 2.7, TR(III) 2.8.  #@NEW_LINE#@#  
+Genitalia.  #@NEW_LINE#@#  Gonostylus broad, cylindrical, abruptly tapering at distal 5th, ending in blunt apex (Fig 6B).  #@NEW_LINE#@#  Pointed structure below tergite IX might be aedeagus, parameres not visible.  #@NEW_LINE#@#  
+Female unknown.  #@NEW_LINE#@#  
+
+Etymology  #@NEW_LINE#@#  
+Dedicated to Art Borkent in recognition of his knowledge and valuable contributions to the study of biting midges.  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+Meunierohelea borkenti n. sp.  #@NEW_LINE#@#  can be distinguished from all species of the genus by the absence of cell r1 and a broad gonostylus.  #@NEW_LINE#@#  
+Meunierohelea orientalis Stebner & Szadziewski n. sp.  #@NEW_LINE#@#  
+urn:lsid:zoobank.org:act:EB808952-EAFB-4BD0-A109-889CB02E554E  #@NEW_LINE#@#  
+Figs 7C and 7E and 8A8F  #@NEW_LINE#@#  
+
+Type_material  #@NEW_LINE#@#  
+Holotype male: No.  #@NEW_LINE#@#  Tad-858 a, in amber from India: Gujarat, Tadkeshwar lignite mine, Cambay Formation (lower Eocene, Ypresian); in a box labelled Meunierohelea orientalis Stebner & Szadziewski.  #@NEW_LINE#@#  HOLOTYPE AMNH IN-Tad-858a.  #@NEW_LINE#@#  Cambay Form.  #@NEW_LINE#@#  Gujarat India.  #@NEW_LINE#@#  
+
+Diagnosis  #@NEW_LINE#@#  
+Male: the only species of Meunierohelea with cell r1 absent, and a long slender gonostylus.  #@NEW_LINE#@#  
+
+Description  #@NEW_LINE#@#  
+Male.  #@NEW_LINE#@#  Complete, dark, generally opaque due to preservation.  #@NEW_LINE#@#  Body length 0.75 mm.  #@NEW_LINE#@#  
+Head.  #@NEW_LINE#@#  Flagellum (Fig 8A) with flagellomeres 210 fused, length: 0.37 mm, AR 1.25; plume well developed.  #@NEW_LINE#@#  Proboscis, palpus not visible.  #@NEW_LINE#@#  
+Wing (Fig 8C).  #@NEW_LINE#@#  Slender, cell r1 absent, cell r2 with opened apex.  #@NEW_LINE#@#  Length 0.40 mm; CR 0.70.  #@NEW_LINE#@#  Wing membrane without macrotrichia.  #@NEW_LINE#@#  
+Legs (Fig 8D8F).  #@NEW_LINE#@#  Hind leg stout, fourth tarsomeres cylindrical; tarsomere 1 of fore leg with one strong, curved subbasal, one subapical spine, tarsomere 1 of mid leg with subbasal spine, tarsomeres 13 of mid-, hind legs with palisade setae, tibial comb with 4 spines, all claws with subbasal inner tooth, TR(I) 2.2, TR(II) 2.8, TR(III) 2.4.  #@NEW_LINE#@#  
+Genitalia (Fig 8B).  #@NEW_LINE#@#  Gonocoxite, gonostylus long, slender; gonostylus slightly bent, evenly tapering to pointed apex; parameres, aedeagus barely visible.  #@NEW_LINE#@#  
+Female unknown.  #@NEW_LINE#@#  
+
+Etymology  #@NEW_LINE#@#  
+The specific name refers to the Oriental Region.  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+Meunierohelea orientalis n. sp.  #@NEW_LINE#@#  can be easily distinguished from all Baltic amber species by the presence of a strong curved subapical spine on tarsomere 1 of the fore leg and by the absence of the first radial cell.  #@NEW_LINE#@#  The species can be distinguished from M. borkenti, which also is missing cell r1, by a higher antennal ratio and a longer and slender gonostylus.  #@NEW_LINE#@#  
+
+
+
+4_Discussion  #@NEW_LINE#@#  
+41_Palaeohabitat  #@NEW_LINE#@#  
+According to Borkent [28] the proportion of extant male to female Ceratopogonidae within their habitat and summed as a group, is about 40:60 and shifts with distance from the original habitat in favor of the females because of female dispersal.  #@NEW_LINE#@#  In Cambay amber a proportion of 39:61 in favor of the females indicates entrapment at the site of emergence.  #@NEW_LINE#@#  This indicates that Ceratopogonidae based habitat reconstruction can be applied directly to the resin producing forest.  #@NEW_LINE#@#  
+Ceratopogonidae in Indian Cambay amber include representatives, such as Leptoconops, which fed on vertebrate blood as well as taxa that fed on the liquified contents of other insects (resulting from injected proteolytic saliva).  #@NEW_LINE#@#  Females of Meunierohelea, Serromyia, Eohelea, Mantohelea, Gedanohelea, Camptopterohelea and Stilobezzia (all in the tribe Ceratopogonini) were predators of male insects of similar or smaller size such as Chironomidae, Chaoboridae or Ceratopogonidae (Table 2).  #@NEW_LINE#@#  For Eohelea [45, 46] and Serromyia [47] it has been shown that females also fed on the males during mating.  #@NEW_LINE#@#  Adults of Forcipomyia and most probably also Stilobezzia are important pollinators for a number of trees and plants [48].  #@NEW_LINE#@#  Larval ecology is known for some of the modern taxa recorded from Cambay amber and ranges from mainly aquatic to terrestrial habitats (Table 2).  #@NEW_LINE#@#  Forcipomyia larvae and pupae can be found in a variety of terrestrial to aquatic habitats where they feed on algae and rotting plants.  #@NEW_LINE#@#  Brachypogon larvae live in aquatic and semi-aquatic habitats and can be found in small ponds, at the edges of lakes and rivers and in wet turf [49].  #@NEW_LINE#@#  Species of Stilobezzia inhabit a variety of aquatic habitats like lakes, streams, rivers, ponds, swamps and marshes, tree hollows and other phytotelmata [49].  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0169144.t002  #@NEW_LINE#@#  
+Leptoconops species are generally associated with xeric habitats and larvae develop in wet alkaline or saline sand at sea shores, estuaries or deserts today.  #@NEW_LINE#@#  Serromyia species are associated with bogs, fens, wet meadows, streams or small rivers [50].  #@NEW_LINE#@#  Their larvae occur in mosses at lake margins and in mud associated with marshlands [50, 49].  #@NEW_LINE#@#  
+Ceratopogonidae-based reconstruction of the palaeoenvironment primarily depicts a forest growing under very humid conditions.  #@NEW_LINE#@#  Most modern representatives of the genera recorded from Cambay amber have aquatic to semi-aquatic larvae, indicating a moist habitat rich in decomposing plant material with permanent aquatic habitats like marshes or bogs, and some temporary waters like puddles, or water loaded tree hollows.  #@NEW_LINE#@#  Findings of Leptoconops prove a near shore resin production which corresponds with sedimentological analyses that interpreted the depositional system as a low energy near shore/coastal environment, ranging through lacustrine, swampy, marshy and deltaic environments [51].  #@NEW_LINE#@#  The accompanying fauna must have been rich in small insects like Chironomidae, which are in fact the most common dipteran group in Indian amber.  #@NEW_LINE#@#  Furthermore, from Vastan and Tadkeshwar lignite mine bats [52], birds [53, 54], lizards [55, 56], and a number of mammals (summarized in [16, 57]) have been recorded which could have served as potential hosts for Leptoconops [58].  #@NEW_LINE#@#  
+
+42_Biogeography  #@NEW_LINE#@#  
+Knowledge of present days diversity is far from being complete, especially in megadiverse areas, such as the Neotropics or Australasia.  #@NEW_LINE#@#  Likewise, the knowledge of fossil insects still is fragmentary.  #@NEW_LINE#@#  This is partly due to the lack of deposits, but also to the fact that the fossil record itself does not display the actual past diversity.  #@NEW_LINE#@#  Nevertheless, there are constantly new fossil deposits being discovered from all over the world, providing more and more information about past diversity and allowing analysis of biogeographic patterns.  #@NEW_LINE#@#  In this context, Cambay amber as well as Fushun amber are of great significance because together with Oise amber from France they fill a large gap in the spatial fossil record of the Paleogene.  #@NEW_LINE#@#  
+Beckenbach and Borkent [59] proposed a phylogenetic relationship for 14 species from 12 genera of Ceratopogonidae based on mitochondrial cytochrome oxidase subunit 2 as well as morphological characters.  #@NEW_LINE#@#  Previously, Borkent [28] demonstrated that the fossil record has a high congruence with the cladistic results (meaning that earlier fossils represent only older lineages).  #@NEW_LINE#@#  Incorporation of the taxa found in Cambay and Fushun amber clearly supports this finding (Fig 9).  #@NEW_LINE#@#  
+Dashed lines in the cladogram refer to extinct taxa, solid lines to extant taxa.  #@NEW_LINE#@#  ## refers to genera in tribes different than Ceratopogonini (Heteromyiini, Hebetulini, Johannsenomyiini, Sphaeromiini, Palpomyiini and Stenoxenini).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0169144.g009  #@NEW_LINE#@#  
+The earliest extant lineage of Ceratopogonidae are the Leptoconopinae with two extant genera, Leptoconops (worldwide) and Austroconops (now restricted to southwest Australia).  #@NEW_LINE#@#  Both of these genera have been recorded in Lower Cretaceous deposits.  #@NEW_LINE#@#  Only two fossils of Leptoconops are recorded from Cambay amber and no fossils have been found in Fushun amber so far.  #@NEW_LINE#@#  Another early clade of biting midges, the Forcipomyiinae (including Forcipomyia and Atrichopogon), is represented by 12 fossils from one genus in Cambay amber (Forcipomyia) and five specimens in Fushun amber (Atrichopogon + Forcipomyiinae indet., pers.  #@NEW_LINE#@#  observ.)  #@NEW_LINE#@#  respectively.  #@NEW_LINE#@#  
+Seven out of nine genera recorded from Cambay amber belong to the tribe Ceratopogonini (all genera from Ceratopogon to Camptopterohelea in Fig 9), a paraphyletic group whose relationships are not yet fully understood although a comprehensive analysis of pupal data contributed to partially resolving phylogenetic relationships [60].  #@NEW_LINE#@#  The oldest Ceratopogonini are recorded from Cretaceous New Jersey, French and Canadian ambers followed by representatives in early Eocene Cambay (54 Ma) and Fushun amber (53 Ma) (herein and [43]).  #@NEW_LINE#@#  It is, to some extent, striking that most Ceratopogonini as well as the Forcipomyiinae in Cambay and Fushun amber represent their first appearances in the fossil record.  #@NEW_LINE#@#  This includes the extant genera Brachypogon, Serromyia, Meunierohelea, Forcipomyia and Atrichopogon, as well as the extinct taxa Gedanohelea, Eohelea and Mantohelea, and the first fossil of the modern genus Camptopterohelea.  #@NEW_LINE#@#  Besides the fact that the late Paleocene-middle Eocene was one of the hottest periods of the Cenozoic, which probably triggered radiation of many plant and animal taxa (e.g.  #@NEW_LINE#@#  [61]), fossils in Cambay amber might also provide evidence for the theory that species diversification is strongly linked to geodynamic activity.  #@NEW_LINE#@#  The Indian-Asian collision, which finally led to the uplift of the Himalaya, certainly was a major tectonic event that resulted in habitat fragmentation and formation of heterogeneous habitats.  #@NEW_LINE#@#  It has been shown that the Andean uplift for example was the leading event for the evolution of the Amazonian current biodiversity [62] and the same mechanism might be true for the regions adjacent to the collision boundary of India and Asia.  #@NEW_LINE#@#  
+Explanations: EG-IND, MDG = beginning of separation of India (IND) and Madagascar (MDG) from East Gondwanaland (EG) (after [64]); EG-AU, NZ = beginning of separation of Australia (AU) and New Zealand (NZ) from East Gondwana (after [64]); IND+ASI = collision of India with Asia (after [65]).  #@NEW_LINE#@#  
+Distribution patterns of extant and extinct representatives of the fossils recorded from Cambay amber (Table 3) show that amber from India includes:  #@NEW_LINE#@#  
+Abbreviations: Ne: Nearctic Region; Nt: Neotropic Region; Pal: Palaearctic Region; Af: Afrotropical Region; OR: Oriental Region; Aus: Australia; Mad: Madagascar; NZ: New Zealand; Ca: Cambay amber; Fu: Fushun amber; Ba: Baltic amber.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0169144.t003  #@NEW_LINE#@#  
+This mixture of different faunal links demonstrates that, at the generic level, the biting midge fauna from Cambay amber was not endemic to India during the Eocene.  #@NEW_LINE#@#  Instead, Ceratopogonini reveal affinities to slightly younger amber from the Baltic region and contemporaneous Fushun amber from eastern Asia (Fig 10C) as well as to modern faunas from Australia and the Oriental Region (Fig 10D).  #@NEW_LINE#@#  Based on the occurrence of the earliest fossils, the origin of Ceratopogonini has been estimated to Late Cretaceous age (90 Ma [59, 28]).  #@NEW_LINE#@#  At that time the Indian subcontinent, which started separating from East Gondwanaland (Antarctica, Australia, New Zealand, India) in the Early Cretaceous (ca 130 Ma), was already on its drift northwards (e.g.  #@NEW_LINE#@#  [64]) (Fig 9, Fig 10A and 10B).  #@NEW_LINE#@#  The estimated age of the fossils (Gedanohelea, Eohelea, Camptopterohelea, Mantohelea) and their distributional patterns (i.e.  #@NEW_LINE#@#  present only in Europe and Asia during the Paleogene) (Fig 10C) together with Indias geological history implies that they are not of Gondwanan origin but that faunal exchange between India and Asia/Europe occurred before the formation of the amber in the early Eocene and that dispersal was one important factor that shaped Indias biota at that time.  #@NEW_LINE#@#  
+A.  #@NEW_LINE#@#  Late Cretaceous.  #@NEW_LINE#@#  B. Cretaceous-Paleogene Boundary.  #@NEW_LINE#@#  Dashed lines showing possible dispersal routes between India and Africa/Asia (Oman-Kohistan-Dras Island Arc, summarized in Chatterjee & Scotese [5]).  #@NEW_LINE#@#  C. Early Eocene.  #@NEW_LINE#@#  Circles and hexagon showing fossil () genera of Gedanohelea, Mantohelea and Eohelea in Eocene ambers.  #@NEW_LINE#@#  Abbreviations: Ba = amber from the Baltic Region, Ca = Cambay amber, Fu = Fushun amber, Sa = Sakhalin amber.  #@NEW_LINE#@#  D. Present.  #@NEW_LINE#@#  Circles and hexagon showing fossil () genera in Eocene ambers and recent representatives of Meunierohelea and Camptopterohelea.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0169144.g010  #@NEW_LINE#@#  
+Whether this exchange took place by transoceanic dispersal or geodispersal (expansion of species when geographical barriers disappear) remains unsolved for now.  #@NEW_LINE#@#  The latter scenario however might be explained by land bridge connections between drifting India and Asia (Oman-Kohistan-Dras Island Arc, Fig 10B, summarized in [5]) or by a collision of the Indian subcontinent with Asia prior to the time of amber formation at 54 Ma.  #@NEW_LINE#@#  A late Paleocene collision date (59 Ma) has recently been supported by the study of radiolarian and nannofossil biostratigraphy and detrital zircon geochronology [65].  #@NEW_LINE#@#  Nevertheless, the Oman-Kohistan-Dras Island Arc, which existed during the latest Cretaceous between India, Africa and Asia (Fig 10B), could have acted as a geodispersal route for Ceratopogonidae, as has been suggested for Maastrichtian tetrapods [5].  #@NEW_LINE#@#  
+The distribution of Meunierohelea with only one extant species known from Australia but four named fossil species in European Baltic amber [32] and three in Indian Cambay amber (present paper) might indicate that this genus has had a much broader distribution in the past than in present times (Fig 10D).  #@NEW_LINE#@#  Nevertheless it has to be considered that the modern Oriental Region, including India, is poorly sampled and might therefore harbor undiscovered species of Meunierohelea that dispersed to Australia only recently.  #@NEW_LINE#@#  In this context, knowledge about the phylogenetic relationships of the fossil and extant species of Meunierohelea would help in resolving their historical zoogeography; i.e.  #@NEW_LINE#@#  if the extant species is the sister group to all fossil species or if it is more closely related to one fossil species.  #@NEW_LINE#@#  
+In contrast to the aforementioned taxa, fossil as well as recent Camptopterohelea show a very limited occurrence restricted to the Oriental Region (Fig 10D).  #@NEW_LINE#@#  Borkent & Picado [71] proposed a sister group relationship between Cacaohelea+Parastilobezzia and Camptopterohelea+Eohelea.  #@NEW_LINE#@#  Since the latter two taxa are now recorded from the early Eocene they must have diverged from the Cacaohelea+Parastilobezzia assemblage and from each other prior to this time.  #@NEW_LINE#@#  The Cacaohelea+Parastilobezzia group is restricted to the Neotropical Region today, whereas the Camptopterohelea+Eohelea lineage has been recorded from the Palaearctic and Oriental regions only.  #@NEW_LINE#@#  This distribution pattern suggests that the two groups (New World and Old World group) might have been separated by a vicariance event and, furthermore, that Camptopterohelea and Eohelea originated and diversified in the Palaearctic/Oriental region.  #@NEW_LINE#@#  Distribution of extant species of Camptopterohelea exactly follows the northern boundary of Wallaces Line (Fig 10D), which separates the fauna of Asia and Australia (although some authors consider the Philippines, which harbor one species of Camptopterohelea, to belong to the transitional area Wallacea between the two biogeographic provinces).  #@NEW_LINE#@#  Faunal exchange of Asian biota with the islands of the Malay Archipelago northern of Wallaces Line was facilitated during the Pleistocene glaciations when, due to sea level decline, Asia was united with these islands on its continental shelves (e.g.  #@NEW_LINE#@#  [72]).  #@NEW_LINE#@#  Distribution of Camptopterohelea might indicate that dispersal of this taxon is restricted by sea, which in turn might imply that this genus entered (or dispersed from) India before the early Eocene via geodispersal rather than by transoceanic dispersal.  #@NEW_LINE#@#  However, it has to be considered that parts of the archipelago between mainland Southeast Asia and Australia, like New Guinea for example, are poorly collected and that Camptopterohelea might be present on one of the islands southern of the Philippines.  #@NEW_LINE#@#  
+Certainly, all these hypotheses strongly depend on factors related to the quality of the fossil record, including the rather small sample size available for the present work, and to the state of knowledge about Ceratopogonidae phylogeny.  #@NEW_LINE#@#  Further resolution of relationships within Ceratopogonidae, both below and above genus level, would help in understanding and interpreting past and present distribution patterns in order to contribute to reconstructing Indias plate tectonics history.  #@NEW_LINE#@#  In this context the scarcity of known fossil deposits in Africa, as well as the lack of phylogenetic information about modern Ceratopogonini in Africa, is a major handicap.  #@NEW_LINE#@#  It is thus possible, that the so far missing African connections of Cambay biting midges (as in many other insects groups found in Indian amber), which could be evidence for Gondwanan distribution of the respective clades, simply is a result of lack of knowledge.  #@NEW_LINE#@#  Similarly, there are no significant Paleocene and Eocene amber deposits in the New World, which hampers the analysis of palaeobiogeographic patterns, because there is no information about whether the distribution of Old World fossils extended to the Nearctic or not at that time.  #@NEW_LINE#@#  Thus, absence of a group from the fossil record does not necessarily mean that the taxon in question was not present at that time but simply that it has not been sampled or preserved.  #@NEW_LINE#@#  Hence, there is a reasonable possibility that some taxa such as Culicoides, an earlier lineage of Ceratopogoninae and well known from various deposits since the Cretaceous, will be discovered in Indian amber in the future.  #@NEW_LINE#@#  
+For helping to understand India´s plate tectonics history the phylogenetic relationships as well as the age of origination of the various clades, and also the knowledge of Asian faunas subsequent to Cambay amber, which is rather fragmentary, are of great importance.  #@NEW_LINE#@#  In this regard future studies on insects in middle Miocene Zhangpu amber from Southeast China might also prove to be of great interest [73].  #@NEW_LINE#@#  
+Despite the uncertainties discussed above and the fact that the fossil assemblage studied in the present work is rather small, data recorded here display a valuable source of information for Indian amber research, which is still in its beginning, and should be regarded as a small fraction of a puzzle that still is far from being complete.  #@NEW_LINE#@#  
+
+
+Supporting_Information  #@NEW_LINE#@#  
+S1_Fig_Brachypogon_and_Forcipomyia_fossils_from_early_Eocene_Cambay_amber  #@NEW_LINE#@#  
+A. Tad-508 Brachypogon sp.. B. Tad-854 Brachypogon sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  C. Tad-851 Brachypogon sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  D. Tad-163 Forcipomyia sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  E. Tad-565 Forcipomyia sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  F. Tad-602 Forcipomyia sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  G. Val-3.4 Forcipomyia sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  H. Tad-860 Forcipomyia sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  Scale bars A, B, D-H: 0.2 mm, C: 0.1 mm.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0169144.s001  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S2_Fig_Gedanohelea__Stilobezzia__Leptoconops_and_Mantohelea_fossils_from_early_Eocene_Cambay_amber  #@NEW_LINE#@#  
+A. Val-3.2 Gedanohelea gerdesorum n.  #@NEW_LINE#@#  sp., paratype .  #@NEW_LINE#@#  B. Tad-853a Stilobezzia sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  C. Tad-506 Leptoconops sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  D. Tad-673 Mantohelea sp.  #@NEW_LINE#@#  .  #@NEW_LINE#@#  Scale bars A, C, D: 0.2 mm, B: 0.5 mm.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0169144.s002  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S1_Table_Syninclusions_of_the_samples_investigated_in_the_present_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0169144.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The research was possible through funding to JR (Steinmann Institut, Universität Bonn, Germany) No.  #@NEW_LINE#@#  RU665/10-1 from the German Research Foundation (DFG).  #@NEW_LINE#@#  The authors would like to thank David Grimaldi (American Museum of Natural History, New York, USA) for the loan of samples, Art Borkent (Royal British Columbia Museum, Columbia, Canada) for critical comments, which significantly helped to improve the manuscript, Phil Barden (American Museum of Natural History, New York, USA; Rutgers University, Newark, USA) for grammar correction and helpful comments on the manuscript, one anonymous referee for valuable comments, Jonas Bartels, Christine Grabatin and Anna Lena Möller (Steinmann Institut, Bonn) for their technical support, Ashok Sahni (Centre of Advanced Study in Geology, Panjab University, Chandigarh, India), Rajendra.  #@NEW_LINE#@#  S. Rana (Department of Geology, Hemwati Nandan Bahuguna Garhwal University, Srinagar, India) for support in field work.  #@NEW_LINE#@#  The authors are grateful to the authorities of the Tadkeshwar, Vastan and Valia lignite mines for assistance during fieldwork in Gujarat, India.  #@NEW_LINE#@#  The first author thanks her husband Richard for his continuous support.  #@NEW_LINE#@#  H.S.  #@NEW_LINE#@#  thanks the director of the Birbal Sahni Institute of Palaeobotany (Lucknow, India) for his support.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: FS JR.  #@NEW_LINE#@#  
+Funding acquisition: JR.  #@NEW_LINE#@#  
+Investigation: FS RS JR.  #@NEW_LINE#@#  
+Resources: FS HS JR.  #@NEW_LINE#@#  
+Writing  original draft: FS RS HS SG JR.  #@NEW_LINE#@#  
+Writing  review & editing: FS RS HS SG JR.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+

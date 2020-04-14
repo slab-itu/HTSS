@@ -1,0 +1,204 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0174693"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+An archosauromorph dominated ichnoassemblage in fluvial settings from the late Early Triassic of the Catalan Pyrenees (NE Iberian Peninsula)  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+The vertebrate recovery after the end-Permian mass extinction can be approached through the ichnological record, which is much more abundant than body fossils.  #@NEW_LINE#@#  The late Olenekian (Early Triassic) tetrapod ichnoassemblage of the Catalan Pyrenean Basin is the most complete and diverse of this age from Western Tethys.  #@NEW_LINE#@#  This extensional basin, composed of several depocenters, was formed in the latest phases of the Variscan orogeny (Pangea breakup) and was infilled by braided and meandering fluvial systems of the red-beds Buntsandstein facies.  #@NEW_LINE#@#  Abundant and diverse tetrapod ichnites are recorded in these facies, including Prorotodactylus mesaxonichnus isp.  #@NEW_LINE#@#  nov. (tracks possibly produced by euparkeriids), cf.  #@NEW_LINE#@#  Rotodactylus, at least two large chirotheriid morphotypes (archosauriform trackmakers), Rhynchosauroides cf.  #@NEW_LINE#@#  schochardti, two other undetermined Rhynchosauroides forms, an undetermined Morphotype A (archosauromorph trackmakers) and two types of Characichnos isp.  #@NEW_LINE#@#  (swimming traces, here associated to archosauromorph trackmakers).  #@NEW_LINE#@#  The Pyrenean ichnoassemblage suggests a relatively homogeneous ichnofaunal composition through the late Early Triassic of Central Pangea, characterized by the presence of Prorotodactylus and Rotodactylus.  #@NEW_LINE#@#  Small archosauromorph tracks dominate and present a wide distribution through the different fluviatile facies of the Triassic Pyrenean Basin, with large archosaurian footprints being present in a lesser degree.  #@NEW_LINE#@#  Archosauromorphs radiated and diversified through the Triassic vertebrate recovery, which ultimately lead to the archosaur and dinosaur dominance of the Mesozoic.  #@NEW_LINE#@#  
+
+Citation: Mujal E, Fortuny J, Bolet A, Oms O, López JÁ (2017) An archosauromorph dominated ichnoassemblage in fluvial settings from the late Early Triassic of the Catalan Pyrenees (NE Iberian Peninsula).  #@NEW_LINE#@#  PLoS ONE 12(4):  #@NEW_LINE#@#  
+           e0174693.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0174693  #@NEW_LINE#@#  
+Editor: David Carrier, University of Utah, UNITED STATES  #@NEW_LINE#@#  
+Received: December 1, 2016; Accepted: February 21, 2017; Published:  April 19, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Mujal et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: This work was supported by the Universitat Autònoma de Barcelona (www.uab.cat), PhD grant (PIF Geologia) to EM, the Centre de Recherche sur la Paléobiodiversité et les Paléoenvironnements (CR2P, MNHN), the Agència de Gestió d'Ajuts Universitaris i de Recerca (AGAUR) (http://agaur.gencat.cat/) through grant 2014 - BP-A 00048 to JF, the Generalitat de Catalunya (http://web.gencat.cat/) through fieldwork projects 2014/100606 and 57 641992013 03 to JF, and by the CERCA programme to JF and AB.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+The earliest Mesozoic fossil record represents the life recovery and ecosystems turnover [1] after the loss of most species during the end-Permian mass extinction [2].  #@NEW_LINE#@#  The environmental and climatic conditions hindered recovery of life on land, delaying the recovery until the Middle Triassic [3, 4].  #@NEW_LINE#@#  Concerning the vertebrate non-marine fauna, several lineage pulses took place during the Early Triassic [4], but the role of the main tetrapod groups in the recovery, as well as their paleogeographic and environmental distribution, are still a matter of discussion.  #@NEW_LINE#@#  
+The earliest Triassic non-marine tetrapod record (Induan to middle Olenekian) is only known from a few areas, such as the South-African Karoo Basin [5] and the Russian South Urals [1].  #@NEW_LINE#@#  Most of the Early Triassic record is restricted to the late Olenekian, as occurs in the Western Tethys basins, mainly consisting of red-bed deposits of complex alluvial and aeolian continental systems [68].  #@NEW_LINE#@#  The few Western Tethys vertebrate records, mostly footprints, are known from Morocco [9, 10], the Italian Southern Alps [11], southern Austria (the only known early Olenekian locality) [12], and the Catalan Pyrenees [8].  #@NEW_LINE#@#  Further Lower Triassic records are found in the well-known archosaur-dominated tracksites from the Central European Germanic Basin [1319], and in the Red Peak and Moenkopi formations of the USA [2022].  #@NEW_LINE#@#  
+In this contribution we present and discuss a diverse Triassic tetrapod ichnoassociation from the Catalan Pyrenees (NE Iberian Peninsula; Fig 1) framed in its stratigraphic and sedimentological setting.  #@NEW_LINE#@#  The reconstructed (ichno-) faunal assemblage and paleoenvironment (an archosauromorph-dominated fluvial setting) shed light on the paleobiogeography of the EarlyMiddle Triassic transition, as well as on the onset of continental vertebrate recovery after the end-Permian mass extinction.  #@NEW_LINE#@#  
+(A) Situation of the localities in the Pyrenees.  #@NEW_LINE#@#  (B-D) Detailed geological maps of Erillcastell (B), Buira (C) and Port del Cantó (D) localities.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g001  #@NEW_LINE#@#  
+
+Geological_setting  #@NEW_LINE#@#  
+The Catalan Pyrenees (NE Iberian Peninsula, S Europe) are a significant target to understand the late Paleozoicearly Mesozoic evolution in terms of paleontology and paleobiogeography, as long and continuous sedimentary successions ranging from the late Carboniferous to the Middle Triassic are recorded (Fig 1).  #@NEW_LINE#@#  The reference studies by Mey et al.  #@NEW_LINE#@#  [23] and Nagtegaal [24] defined the post-hercynian units containing the studied fossils.  #@NEW_LINE#@#  Séguret [25] and Zwart [26] performed the basic regional geology and mapping, while more recent works focused on tectonics and basin architecture and evolution [2730].  #@NEW_LINE#@#  Fortuny et al.  #@NEW_LINE#@#  [31] revised the vertebrate paleontological content, and Mujal et al.  #@NEW_LINE#@#  [8] revised and provided new data on the Permian-Triassic transition.  #@NEW_LINE#@#  
+During the earliest Triassic, the continental Pyrenean Basin was arranged in several depocenters resulting from strike-slip (transtensional) tectonics developed in the latest phases of the Variscan cycle [2730] related with the breakup of Pangea [32].  #@NEW_LINE#@#  In this extensional regime, fluviatile sediments covered the Variscan basement and the Carboniferous-Permian volcanosedimentary sequences by means of an erosive angular unconformity (Figs 1 and 2).  #@NEW_LINE#@#  The resulting deposits are attributed to the syn-rift Buntsandstein facies, later overlaid by post-rift Muschelkalk and Keuper facies (Figs 2 and 3).  #@NEW_LINE#@#  
+Triassic logged sections (I-IX) and location of tetrapod ichnotaxa (A-J).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g002  #@NEW_LINE#@#  
+Facies codes correspond to those of the text.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g003  #@NEW_LINE#@#  
+
+Material_and_methods  #@NEW_LINE#@#  
+In order to provide a detailed geographical and geological framework, we mapped three fossil-bearing localities based on field tracking of strata and photointerpretation (Fig 1).  #@NEW_LINE#@#  We logged (by means of a Jacobs staff and a centimeter) and correlated bed-by-bed a total of nine stratigraphic sections (numbered I to IX from West to East; Fig 2).  #@NEW_LINE#@#  The sedimentary facies and architectural elements (Figs 3 and 4) were classified following nomenclature of Miall [33, 34] and further compared with those of Gretter et al.  #@NEW_LINE#@#  [30].  #@NEW_LINE#@#  
+The dashed black square in the top picture corresponds to the detail of the fluvial systems in the bottom photo.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g004  #@NEW_LINE#@#  
+Tetrapod tracks and trackways (some represented in plastic films) were measured on both specimens and photographs (using ImageJ v.148, http://rsbweb.nih.gov/ij/) following Haubold [35, 36], Leonardi [37] and Ptaszyski [13].  #@NEW_LINE#@#  Ichnites were outlined in transparency films and finally digitized with a vector-based drawing software.  #@NEW_LINE#@#  3D photogrammetric models of selected specimens were performed using photographs obtained with a digital compact camera Sony T-200 8.1 megapixel following the procedures of Mallison and Wings [38] and processed with three open access software following the procedures of Mujal et al.  #@NEW_LINE#@#  [8, 39]: Visual SFM (v.0.5.22, http://www.ccwu.me/vsfm/) to generate the point cloud, MeshLab (v.1.3.2, http://meshlab.sourceforge.net/) to perform and edit the mesh (texture, scale, orientation) and ParaView (v.4.1.0 http://www.paraview.org) to generate a color depth map and contour lines.  #@NEW_LINE#@#  High-resolution molds of tracks and trackways that could not be recovered were made with a two-component polyaddition silicone Harduplex® 23SH, acrylic resin (Acrystal Prima®) and glass-fiber.  #@NEW_LINE#@#  Once in the laboratory, a cast of each mold was produced with the same acryclic resin.  #@NEW_LINE#@#  Most of the studied specimens were found in situ and remained in the field, but those recovered and molds and casts are stored at the Institut Català de Paleontologia Miquel Crusafont.  #@NEW_LINE#@#  
+Abbreviations  #@NEW_LINE#@#  
+Institutional abbreviation: IPS, Institut Català de Paleontologia Miquel Crusafont, Sabadell, Spain.  #@NEW_LINE#@#  Studied specimens: IPS-73754, IPS-82611, IPS-82612, IPS-82613, IPS-82614, IPS-82615, IPS-82616, IPS-82617, IPS-82618, IPS-82619, IPS-82619, IPS-82620, IPS-82621, IPS-82622, IPS-82623, IPS-83739, IPS-83740, IPS-83743, IPS-83747, IPS-83748, IPS-83749, IPS-83750, IPS-83753, IPS-88716, IPS-88717, IPS-93867, IPS-93868, IPS-93869, IPS-93870, IPS-93872, IPS-93873, IPS-93874, IPS-93875  #@NEW_LINE#@#  
+Sedimentary facies and architectural elements codes are modified from Miall [33, 34] and Gretter et al.  #@NEW_LINE#@#  [30].  #@NEW_LINE#@#  Conglomerate facies: Gh, Gmpt.  #@NEW_LINE#@#  Sandstone facies: St, Sp, Sr, Sh, Sl, Se.  #@NEW_LINE#@#  Very fine-grained sandstone and mudstone (siltstone and claystone) facies: Fl, Fsc, Fm, Fr.  #@NEW_LINE#@#  Paleosol facies: P. Architectural elements: CH1 (coarse-grained channels), CH2 (medium- to fine-grained channels), GB (gravel bars), SB (sandy bedforms), LA (sand lateral accretions), LS (laminated sand sheets), OF (overbank fines).  #@NEW_LINE#@#  
+
+Nomenclatural_acts  #@NEW_LINE#@#  
+The electronic edition of this article conforms to the requirements of the amended International Code of Zoological Nomenclature, and hence the new names contained herein are available under that Code from the electronic edition of this article.  #@NEW_LINE#@#  This published work and the nomenclatural acts it contains have been registered in ZooBank, the online registration system for the ICZN.  #@NEW_LINE#@#  The ZooBank LSIDs (Life Science Identifiers) can be resolved and the associated information viewed through any standard web browser by appending the LSID to the prefix "http://zoobank.org/".  #@NEW_LINE#@#  The LSID for this publication is: urn:lsid:zoobank.org:pub:B6C36C28-68EF-4F02-B6DD-3A0C8760CCD2.  #@NEW_LINE#@#  The electronic edition of this work was published in a journal with an ISSN, and has been archived and is available from the following digital repositories: PubMed Central, LOCKSS.  #@NEW_LINE#@#  
+
+
+Stratigraphy_and_sedimentology  #@NEW_LINE#@#  
+The fossil-bearing unit corresponds to the redbed Buntsandstein facies, analyzed in three different areas, from W to E: Erillcastell (section I, of  greater than 151 m thick, including the Tossal de Pollerini tracksite, Erillcastell-Estac basin), Buira (section II, of  greater than 226 m, Erillcastell-Estac basin, at 8.32 km from Erillcastell) and Port del Cantó (sections III-IX, of 240 to 350 m, including the Rubió and Argestues tracksites, Cadí basin, at 27.52 km from Buira) (Figs 1 and 2).  #@NEW_LINE#@#  
+Three main units (sensu [28]) can be distinguished within the Buntsandstein sequences, from base to top: (a) conglomerate unit (oligomictic conglomerates of quartz pebbles and coarse sandstone with occasional breccia levels with lydite fragments), (b) shale and sandstones unit (reddish and greenish to greyish medium-coarse sandstones with some discontinuous conglomerate levels, reddish very fine to fine sandstones and reddish shales), and (c) shale unit (reddish shales with occasional thin but continuous sandstone beds as those of the shale and sandstones unit).  #@NEW_LINE#@#  It is worth noting that the thickness of each unit varies according to the basin configuration, and in some cases the conglomerate unit is even missing.  #@NEW_LINE#@#  
+We identified 13 lithofacies (Fig 3), grouped in seven facies associations and constituting architectural elements characteristic from channel to floodplain environments (Fig 4).  #@NEW_LINE#@#  The sedimentological interpretations are based on our field observations and follow those of Miall [33, 34] and Gretter et al.  #@NEW_LINE#@#  [30].  #@NEW_LINE#@#  Two facies (Gh and Gmpt) are conglomeratic (commonly of quartz pebbles, and either massive or with cross stratification and other water flow structures), mainly located and well developed in the basal conglomerate unit and constituting deposits of braided systems, such as channels and longitudinal bars (architectural element CH1) and gravel bars (architectural element GB).  #@NEW_LINE#@#  Six sandstone facies are found (St, Sp, Sr, Sh, Sl and Se), with grain sizes ranging from very coarse to very fine, and a wide variety of internal stratifications and water flow structures.  #@NEW_LINE#@#  In the conglomerate unit, facies St and Sp are in association with facies Gh and Gmpt, constituting the architectural element CH1, and all the sandstone facies constitute channel fills and minor bars of braided systems (architectural element SB).  #@NEW_LINE#@#  In the shale and sandstones unit, and occasionally in the shale unit, sandstone facies occur as meandering systems elements, constituting sandy bedforms (e.g., crevasse splay deposits) associated to lateral accretions (architectural elements SB and LA, respectively).  #@NEW_LINE#@#  Facies St and Sp are also displayed as small channels (in association with facies Sr and occasionally Gh; architectural element CH2).  #@NEW_LINE#@#  The laminated sand sheets (architectural element LS), such as crevasse splays, of the shale and sandstones unit are mainly constituted by facies Sh and Sl.  #@NEW_LINE#@#  Scour fill deposits are mostly constituted by facies Se.  #@NEW_LINE#@#  Four facies are related to siltstones and claystones with occasional very fine sandstones (Fl, Fsc, Fm and Fr).  #@NEW_LINE#@#  They mainly constitute floodplain deposits (with common greenish reduction marks associated to plant roots) associated to the meandering systems, which occasionally underwent subaerial exposure (identified by the desiccation structures).  #@NEW_LINE#@#  These facies are commonly displayed as overbank fines (architectural element OF).  #@NEW_LINE#@#  In the shale and sandstones unit and in the shale unit, levels related to pedogenic processes (paleosols, facies P) were identified: (1) scarce thin levels of carbonate nodules and (2) hardened intervals of facies Fsc with hydromorphic marks (large green mottles), root traces and slickensides.  #@NEW_LINE#@#  
+A relevant association is the transition to the Muschelkalk facies.  #@NEW_LINE#@#  The facies Fsc of the shale unit are in transition to marls and fine laminated limestones corresponding to transitional/marine facies.  #@NEW_LINE#@#  At Port del Cantó, a thick sequence of dark red facies Fsc evolves to a laminated grey-greenish limestone/marl sequence.  #@NEW_LINE#@#  Although the top of the Buntsandstein sequence appears covered at Buira, the base of the Muschelkalk crops out and displays a breccia with Buntsandstein facies clasts embedded in a micritic limestone matrix.  #@NEW_LINE#@#  
+The detailed descriptions and interpretations of facies and architectural elements are provided in the supplemental information (S1 Text).  #@NEW_LINE#@#  In general terms, the Buntsandstein fluvial succession is displayed as a fining upwards sequence grading from coarse-grained braided to finer meandering and floodplain fluvial systems (high to low energy) and is arranged as a growth strata onlapping onto the Carboniferous-Permian sequences or the Variscan basement (Fig 2).  #@NEW_LINE#@#  The long laterally-extended meandering sand bodies are interbedded within floodplain mudstone intervals.  #@NEW_LINE#@#  
+Concerning the age of the Buntsandstein facies, Calvet et al.  #@NEW_LINE#@#  [40] provided palynological data from the shale unit, attributed to the early Anisian (early Middle Triassic).  #@NEW_LINE#@#  More recently, Mujal et al.  #@NEW_LINE#@#  [8] provided new palynological and ichnological data, giving an age of late Olenekian (late Early Triassic) for the lower-medium part of the shale and sandstones unit.  #@NEW_LINE#@#  
+
+Systematic_paleontology  #@NEW_LINE#@#  
+The studied sequences yield a diverse tetrapod ichnoassemblage (Figs 2 and 513), including abundant footprints with extramorphological features (precluding ichnotaxonomic assignation) related to locomotion and substrate conditions.  #@NEW_LINE#@#  Here we provide a detailed description of the identified tetrapod footprint morphotypes.  #@NEW_LINE#@#  We erect a new ichnospecies and emend the corresponding ichnogenus (monospecific until now), which was only known from the Central European Germanic Basin so far.  #@NEW_LINE#@#  Some ichnotaxa are equivalent to those of the Palanca de Noves tracksite (12 km Eastwards from Argestues tracksite) [8], thus here we provide additional remarks.  #@NEW_LINE#@#  
+(A) Trackway of the holotype (IPS-93870) and outline of the ichnites with the trackmaker (euparkeriid or basal archosauriform) silhouettes in plant view (idealized position in four consecutive tracks) and profile view (position during locomotion).  #@NEW_LINE#@#  (B) 3D photogrammetric model of a manus-pes set squared in (A).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g005  #@NEW_LINE#@#  
+(A) Trackway of the paratype IPS-93867 and outline of the ichnites.  #@NEW_LINE#@#  (B, C) Detail of a manus-pes set (B) and a pes track (C) of the trackway with the 3D models and correlated with the limbs of Euparkeria capensis (modified from Nesbitt, 2011 and Bernardi et al., 2015); note that bones and ichnites are at the same scale.  #@NEW_LINE#@#  (D) Paratype of a well-preserved pes completely overstepping the manus (IPS-93867).  #@NEW_LINE#@#  (E) Paratype of the manus-pes set of IPS-93871.  #@NEW_LINE#@#  (F, G) Right pes tracks with prevalence impression of digits II, III and IV (tridactyl function); M and P in (E) refer to manus and pes tracks, respectively.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g006  #@NEW_LINE#@#  
+(A, B) Manus-pes sets with 3D models and ichnites outline of the paratypes IPS-93868 (A) and IPS-93869 (B).  #@NEW_LINE#@#  (C) Trampled surface with most of the tracks advancing in the same direction (Westwards).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g007  #@NEW_LINE#@#  
+(A) Manus-pes set with the 3D model and ichnites outline.  #@NEW_LINE#@#  (B-N) Isolated sets, manus and pes tracks with different states of preservation.  #@NEW_LINE#@#  (O) Pes track with digit scratches and large pes with prevalence of digits II, III and IV.  #@NEW_LINE#@#  Note the characteristic hooked digit tips (D-G), tracks resembling Rhynchosauroides due to the dragging of digit tips (E, I).  #@NEW_LINE#@#  All tracks scaled at 10 mm except the manus in (B), which is at 5 mm.  #@NEW_LINE#@#  All tracks are from Tossal de Pollerini site (Erillcastell).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g008  #@NEW_LINE#@#  
+Isolated impressions with a different preservation state (probably corresponding to undertracks or overtracks).  #@NEW_LINE#@#  Note the same kind of preservation despite tracks are small (A, C) or large (B).  #@NEW_LINE#@#  All tracks are from Port del Cantó, at sections VI (A), VIII (B) and VII (C).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g009  #@NEW_LINE#@#  
+Isolated manus track with the 3D model and ichnite outline.  #@NEW_LINE#@#  Note the longest digit III and the backwards rotated digit V.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g010  #@NEW_LINE#@#  
+(A) Manus-pes set (mold IPS-82616).  #@NEW_LINE#@#  (B) Ichnites outline.  #@NEW_LINE#@#  (C, D) 3D models of manus and pes tracks, respectively.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g011  #@NEW_LINE#@#  
+Isolated ichnite with the 3D model and outline.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g012  #@NEW_LINE#@#  
+(A) Prorotodactylus mesaxonichnus isp.  #@NEW_LINE#@#  nov. (B) cf.  #@NEW_LINE#@#  Rotodactylus.  #@NEW_LINE#@#  (C-E) Chirotheriid tracks: Morphotype I (C), Morphotype II (D) and Morphotype indet.  #@NEW_LINE#@#  (E).  #@NEW_LINE#@#  (F-H) Rhynchosauroides tracks: R. cf.  #@NEW_LINE#@#  schochardti (F), R. isp.  #@NEW_LINE#@#  indet.  #@NEW_LINE#@#  1 (G) and R. isp.  #@NEW_LINE#@#  indet (H).  #@NEW_LINE#@#  (I) Undetermined Morphotype A.  #@NEW_LINE#@#  (J, K) Swimming scratches of Characichnos isp.  #@NEW_LINE#@#  of small (J) and large (K) size.  #@NEW_LINE#@#  (L) Arthropod body impressions.  #@NEW_LINE#@#  (M) Invertebrate burrows.  #@NEW_LINE#@#  (N) Trunk mark.  #@NEW_LINE#@#  (O) Plant remain.  #@NEW_LINE#@#  (P) Paleoenvironmental reconstruction of the Triassic Pyrenean Basin (faunas and plants are not scaled).  #@NEW_LINE#@#  (Q) Prorotodactylus-Rotodactylus zone (P.-R. zone; grey interval) correlated with the Triassic biochronological intervals (see text for explanation of 1, 2 and 3).  #@NEW_LINE#@#  FAD: First Appearance Datum.  #@NEW_LINE#@#  IND.  #@NEW_LINE#@#  : Induan.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0174693.g013  #@NEW_LINE#@#  
+The fossil assemblage of the studied localities also contains invertebrate trace fossils such as arthropod (limulid) body impressions (Fig 13L) and burrows (both horizontal and vertical; Fig 13M), root traces, trunk marks (Fig 13N) and plant stems (Fig 13O).  #@NEW_LINE#@#  Such remains deserve further analyses out of the scope of this work.  #@NEW_LINE#@#  
+Ichnofamily_Prorotodactylidae_Ptaszyski__2000  #@NEW_LINE#@#  
+
+Ichnofamily_Rotodactylidae_Peabody__1948  #@NEW_LINE#@#  
+
+Ichnofamily_Chirotheriidae_Abel__1935  #@NEW_LINE#@#  
+
+Ichnofamily_Rhynchosauroidae_Haubold__1966  #@NEW_LINE#@#  
+
+Morphotype_indet_A  #@NEW_LINE#@#  
+Undetermined Morphotype A of [8] (Fig 13I, S7 Fig).  #@NEW_LINE#@#  
+
+Ichnogenus_Characichnos_Whyte_and_Romano__2001  #@NEW_LINE#@#  
+Characichnos isp.  #@NEW_LINE#@#  indet.  #@NEW_LINE#@#  (Fig 13J and 13K).  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Paleoenvironmental_reconstruction_of_the_Triassic_Pyrenean_fossil_record  #@NEW_LINE#@#  
+Stratigraphic and sedimentological data allow to determine the environmental conditions of the studied successions (Fig 13P, Table 3).  #@NEW_LINE#@#  The upper part of the basal conglomerate unit is constituted by sequences of facies St-Sp (Fig 2), where cylindrical burrows (mostly vertical) are common and scarce plant remains are also present, demonstrating the general high energy water flow of the braided system.  #@NEW_LINE#@#  Some surfaces yield abundant arthropod (limulid) body and trace fossils (Fig 13L), indicating episodes of relatively low water flow energy on the braided systems.  #@NEW_LINE#@#  Deeper environmental affinities of such arthropods in Early Triassic deposits deserve further analyses out of the scope of this work.  #@NEW_LINE#@#  
+In the floodplain deposits of the shale and sandstones unit and shale unit, root traces are evidenced by greenish reduction marks that at some points define horizons parallel to the stratification, sometimes related to paleosols (Fig 3).  #@NEW_LINE#@#  This last feature indicate soil stabilization and energy decrease of the depositional system (final phases of the syn-rift).  #@NEW_LINE#@#  In the upper surfaces of crevasse splay deposits of 1015 cm thick plant stem impressions and rounded trunk marks are preserved (Fig 13N), sometimes associated to capped root traces, indicating episodic flooding events of the meandering streams.  #@NEW_LINE#@#  The thick sandstone deposits of Port del Cantó (section IV), interpreted as large point bars of meandering systems, preserve large plant stems (Fig 13O), probably transported in episodic high energetic flow events of the main rivers streams.  #@NEW_LINE#@#  Invertebrate burrows are common in fluvial bars of the shale and sandstones unit.  #@NEW_LINE#@#  In deposits associated to occasional and rapid events (i.e., crevasse splays and scour fill deposits) burrows are vertical, whereas in abandoned channels (low energy systems) burrows are horizontal, long and sinuous (Fig 13M).  #@NEW_LINE#@#  
+The tetrapod footprints are found in the shale and sandstones unit (Figs 2, 4 and 13P, Table 3).  #@NEW_LINE#@#  They are abundantly preserved in abandoned channels (at facies Fl and facies association Sl-Fm) and even in small point bars (at facies associations St-Fsc, St-Sr, and St-Sp), as well as in crevasse splay deposits (at facies Sl and facies associations Sr-Sl, Sp-Fsc, and St-Sl-Fsc) (Table 3).  #@NEW_LINE#@#  The low number of swimming scratches may indicate that trackmakers passed through the deposits with a low water level.  #@NEW_LINE#@#  Only the large chirotheriid scratch is found in well-developed point bar facies (St-Sp), thus suggesting that relatively large archosauromorphs probably had swimming faculties and possible water-living activity.  #@NEW_LINE#@#  Some Prorotodactylus mesaxonichnus isp.  #@NEW_LINE#@#  nov. trackways have asymmetric manus-pes distances (i.e., in one side the fore- and hindlimbs of the trackmaker were closer than in the other during locomotion; Figs 5A and 6A, S1 Fig, S2 Table), suggesting surface sloping towards the side of the more spaced tracks.  #@NEW_LINE#@#  
+Several trampled surfaces with hundreds of Prorotodactylus mesaxonichnus isp.  #@NEW_LINE#@#  nov. footprints advancing in the same direction (westwards) occur in Erillcastell (Fig 7C).  #@NEW_LINE#@#  This also occurs in Buira, although footprints are not so abundant and an isolated chirotheriid track is also preserved.  #@NEW_LINE#@#  The trampled surfaces may indicate gregarious behavior and increased activity [15].  #@NEW_LINE#@#  Similarly, such abundance of footprints, as well as their wide distribution along the different facies (Table 3), may also denote generalist faunas [8] occupying a wide range of ecological niches.  #@NEW_LINE#@#  In the same way, different states of footprint preservation (i.e., unguligrade, digitigrade, semiplantigrade, plantigrade) are observed (Figs 59, S2S4 Figs), both in different levels and in the same surfaces.  #@NEW_LINE#@#  Footprints with large dragging component denote soft substrates, while faint digit tip impressions or claw marks were recorded in relatively dry or hard substrates.  #@NEW_LINE#@#  Some track-bearing surfaces present either flow structures (e.g., facies St, Sr and Se) or mud-cracks (e.g., facies Fm).  #@NEW_LINE#@#  In sum, this would be the result of substrate varying moisture, a recurrent process in small ponds and crevasses with sporadic flooding (Fig 13P).  #@NEW_LINE#@#  
+
+Early_Triassic_biostratigraphy_and_paleobiogeography  #@NEW_LINE#@#  
+The Triassic Pyrenean tetrapod ichnoassemblage contributes to the knowledge of the general frame and distribution of the ichnofaunal record.  #@NEW_LINE#@#  Until now, occurrences of Prorotodactylus, which are always associated with Rotodactylus, were restricted to the Central European Germanic Basin [1519], and possibly to the French Lodève Basin [13].  #@NEW_LINE#@#  This association of ichnogenera indicates a late Olenekian age [19].  #@NEW_LINE#@#  Recently, Mujal et al.  #@NEW_LINE#@#  [8] provided palynological data giving a late Olenekian age for the basal portion of the Pyrenean Buntsandstein facies.  #@NEW_LINE#@#  Similarly, Calvet et al.  #@NEW_LINE#@#  [40] dated as early Anisian the shale unit (uppermost Buntsandstein).  #@NEW_LINE#@#  Together, these works support a latest Olenekian age of the tetrapod ichnoassociation.  #@NEW_LINE#@#  In this way, the Pyrenean ichnoassemblage points to a Central Pangean distribution of Prorotodactylus, although it could be similar to that of Rotodactylus.  #@NEW_LINE#@#  Therefore, we suggest the Prorotodactylus-Rotodactylus zone as a new Triassic biochronological interval for, at least, Central Pangea, constituted by deposits with both ichnogenera (Fig 13Q).  #@NEW_LINE#@#  This zone probably corresponds to the lower parts of the Triassic biochron II [57] (1 in Fig 13Q) and the First Appearance Datum of Rotodactylus and Chirotherium barthii [52] (2 in Fig 13Q), coinciding with the overlapping interval of Prorotodactylus and Rotodactylus (3 in Fig 13; see [19]).  #@NEW_LINE#@#  Other characteristic late Early Triassic ichnotaxa are Rhynchosauroides and large chirotheriid tracks, such as Protochirotherium [16, 53], being potentially similar ichnotaxa to those of the Triassic Pyrenean assemblage and denoting a Central Pangean homogeneity of ichnofaunas.  #@NEW_LINE#@#  The trackmakers of all these ichnotaxa most probably correspond to archosauromorphs.  #@NEW_LINE#@#  This group radiated in the late Permian [1, 43, 58, 59], and several clades evolved along Pangea, probably in the aftermath of the different Permian extinctions [60].  #@NEW_LINE#@#  
+The pedal and trackway pattern differences of the Pyrenean and Polish Prorotodactylus indicate that this ichnogenus includes different trackmakers, being in accordance with the late Early Triassic archosauromorph diversification in the aftermath of the end-Permian extinction event.  #@NEW_LINE#@#  The mesaxonic pedes and the low pace angulations of Prorotodactylus mesaxonichnus isp.  #@NEW_LINE#@#  nov. are possibly correlated to euparkeriids and basal archosauriforms (sensu [44, 49]), whereas P. mirus (ectaxonic pedes and higher pace angulations) has been referred to small dinosauromorphs [13, 15, 19], although such attribution is controversial [16, 17, 45, 46].  #@NEW_LINE#@#  The Polish Prorotodactylus (and also Rotodactylus) tracks were compared with the limbs of the dinosauromorph Lagerpeton [15] and a potential Lagerpeton-like dinosauromorph [61].  #@NEW_LINE#@#  Nevertheless, the relative digits length and proportions of Lagerpeton do not match the relative depths of Prorotodactylus digit impressions (e.g., digit I would not be impressed) [46].  #@NEW_LINE#@#  Interestingly, the similar manus impressions of the Pyrenean and Polish Prorotodactylus may be related to the low morphological disparity of archosauriforms suggested by Ezcurra and Butler [62].  #@NEW_LINE#@#  In summary, we suggest stem archosauriforms as potential trackmakers of Prorotodactylus, such as euparkeriids for P. mesaxonichnus isp.  #@NEW_LINE#@#  nov.  #@NEW_LINE#@#  
+
+The_Triassic_vertebrate_recovery  #@NEW_LINE#@#  
+In recent years, several works focused on the diversification of archosauromorphs during the Triassic [43, 44, 49, 60, 62].  #@NEW_LINE#@#  Early Triassic footprints are much more abundant than body fossils, as is the case of the Western Tethys region [20, 52, 59], hence the ichnological record plays an important role to understand the vertebrate recovery.  #@NEW_LINE#@#  The new findings represent the earliest evidence of Mesozoic Iberian vertebrates, and one of the few and the most complete record from the Western Tethys.  #@NEW_LINE#@#  
+The correlation between ichnites and sedimentary environments in the Catalan localities (Table 3) shows that archosauromorph footprints occur throughout the different sub-environments of the fluvial systems (Fig 13P).  #@NEW_LINE#@#  Similarly, Bernardi et al.  #@NEW_LINE#@#  [59] also suggested that the preferential habitats of archosauromorphs were the fluvial environments.  #@NEW_LINE#@#  Therefore, the Early Triassic archosauromorph radiation, increasing in diversity and final dominance [60, 63], may be linked to the widely extended and well-developed fluvial settings along Pangea after the end-Permian extinction event.  #@NEW_LINE#@#  On the instable Early Triassic ecosystems [3, 4], archosauromorph faunas were probably generalist [8, 11], taking advantage and occupying a widespread range of ecologic niches (see [3] for other groups).  #@NEW_LINE#@#  Key ecological innovations, such as those related to locomotion [49], permitted a rapid radiation and dominance of archosauromorphs, also hampering the radiation of other groups.  #@NEW_LINE#@#  
+
+
+Conclusions  #@NEW_LINE#@#  
+The Triassic Pyrenean Basin is a key region of Western Tethys to understand the early Mesozoic non-marine evolution in terms of paleoenvironment and (ichno-) faunal diversity.  #@NEW_LINE#@#  The red-bed Buntsandstein deposits of the Catalan Pyrenees correspond to a fluvial setting evolving from high-energy braided systems to low-energy meandering and floodplain systems that infilled the depocenters generated during the Triassic rifting.  #@NEW_LINE#@#  In our case, the Buntsandstein facies are arranged as a fining-upwards sequence culminated by the marine transgression of the Muschelkalk facies.  #@NEW_LINE#@#  A relatively diverse fossil record is yielded in the red-beds, and tetrapod footprints are especially abundant.  #@NEW_LINE#@#  We identified an ichnoassemblage composed by Prorotodactylus mesaxonichnus isp.  #@NEW_LINE#@#  nov., cf.  #@NEW_LINE#@#  Rotodactylus, at least two different chirotheriid morphotypes, Rhynchosauroides cf.  #@NEW_LINE#@#  schochardti and two other Rhynchosauroides forms, an undetermined Morphotype A, and two types of swimming scratches corresponding to Characichnos isp.  #@NEW_LINE#@#  The potential trackmakers of P. mesaxonichnus isp.  #@NEW_LINE#@#  nov. are archosauriform euparkeriids, suggesting, together with the other ichnotaxa, an ichnofaunal homogeneity at least along Central Pangea.  #@NEW_LINE#@#  Prorotodactylus and Rotodactylus may characterize the late Early Triassic continental deposits.  #@NEW_LINE#@#  The trackmakers of all these ichnotaxa probably correspond to archosauromorphs, suggesting that this group became dominant in the instable terrestrial settings after the end-Permian mass extinction.  #@NEW_LINE#@#  Archosauromorphs may represent the main pull of vertebrate recovery that lead to the further ecosystem stabilization of the Middle Triassic, with a turnover to larger archosaurian faunas and the radiation of this lineage.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Text_Sedimentology  #@NEW_LINE#@#  
+Facies Description and Interpretation.  #@NEW_LINE#@#  Architectural Elements.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_Track_measurements_of_Prorotodactylus_mesaxonichnus_isp_nov_trackways  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Trackway_measurements_of_Prorotodactylus_mesaxonichnus_isp_nov  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Fig_Trackways_of_Prorotodactylus_mesaxonichnus_isp_nov  #@NEW_LINE#@#  
+(A-C) Specimens from Erillcastell; dashed squares from A and C are correspond to manus-pes sets from Fig 7A and 7B, respectively.  #@NEW_LINE#@#  (D) Specimen from Buira.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s004  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S2_Fig_Tracks_of_Prorotodactylus_mesaxonichnus_isp_nov_from_Buira  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s005  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S3_Fig_Tracks_of_Prorotodactylus_mesaxonichnus_isp_nov_from_Port_del_Cantó  #@NEW_LINE#@#  
+Ichnites from sections IV (A) and VII (B).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s006  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S4_Fig_Tracks_of_Prorotodactylus_mesaxonichnus_isp_nov_from_Port_del_Cantó  #@NEW_LINE#@#  
+(A) IPS-83740 from Argestues tracksite.  #@NEW_LINE#@#  (B-E) Isolated ichnites from Rubió tracksite.  #@NEW_LINE#@#  Note the relatively bad preservation of the ichnites, all in convex hyporelief, preserved in the bases of small meandering channels (facies St).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s007  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S5_Fig_Tracks_of_chirotheriid_morphotype_indet_from_Port_del_Cantó  #@NEW_LINE#@#  
+(A) Manus-pes set (M-P).  #@NEW_LINE#@#  (B) Scratch-like track.  #@NEW_LINE#@#  (C) Partial track of IPS-83750.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s008  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S6_Fig_Tracks_of_Rhynchosauroides_morphotypes_from_Port_del_Cantó  #@NEW_LINE#@#  
+(A-C) Rhynchosauroides cf.  #@NEW_LINE#@#  schochardti.  #@NEW_LINE#@#  (D) Rhynchosauroides isp.  #@NEW_LINE#@#  indet.  #@NEW_LINE#@#  1.  #@NEW_LINE#@#  (E-G) Rhynchosauroides isp.  #@NEW_LINE#@#  indet.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s009  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S7_Fig_Isolated_and_partially_preserved_tracks_of_the_undetermined_Morphotype_A_from_Port_del_Cantó_(section_IV)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0174693.s010  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We are deeply indebted to Aixa and Lluís Tosal for the discovery of the Tossal de Pollerini (Erillcastell) locality and guidance to the tracksites.  #@NEW_LINE#@#  We acknowledge advices and suggestions of Agustina Leucona.  #@NEW_LINE#@#  We thank Ruben Garcia-Artigas, Mireia Plà, Pablo Rodríguez-Salgado and Montse Vilalta for making the fieldwork possible and Xènia Aymerich (ICP) for assistance in lab preparation of trackways molds and casts.  #@NEW_LINE#@#  Agustí López, Jordi Palau, Marc Garriga, Marc Cortina are acknowledged for logistic facilities during fieldwork.  #@NEW_LINE#@#  Comments of Hendrik Klein and anonymous reviewers improved a previous version of the manuscript.  #@NEW_LINE#@#  We acknowledge the reviewer Prof. M. Benton and the Academic Editor Prof. D. Carrier for the revision of the present manuscript.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: EM JF OO.  #@NEW_LINE#@#  
+Funding acquisition: JF.  #@NEW_LINE#@#  
+Investigation: EM JF AB OO JÁL.  #@NEW_LINE#@#  
+Methodology: EM JF AB OO JÁL.  #@NEW_LINE#@#  
+Project administration: JF EM.  #@NEW_LINE#@#  
+Resources: JF OO.  #@NEW_LINE#@#  
+Visualization: EM.  #@NEW_LINE#@#  
+Writing  original draft: EM JF.  #@NEW_LINE#@#  
+Writing  review & editing: EM JF AB OO JÁL.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

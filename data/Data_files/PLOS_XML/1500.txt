@@ -1,0 +1,344 @@
+article id="http://dx.doi.org/10.1371/journal.pgen.1006852"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+The population genomics of archaeological transition in west Iberia: Investigation of ancient substructure using imputation and haplotype-based methods  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+We analyse new genomic data (0.052.95x) from 14 ancient individuals from Portugal distributed from the Middle Neolithic (42003500 BC) to the Middle Bronze Age (17401430 BC) and impute genomewide diploid genotypes in these together with published ancient Eurasians.  #@NEW_LINE#@#  While discontinuity is evident in the transition to agriculture across the region, sensitive haplotype-based analyses suggest a significant degree of local hunter-gatherer contribution to later Iberian Neolithic populations.  #@NEW_LINE#@#  A more subtle genetic influx is also apparent in the Bronze Age, detectable from analyses including haplotype sharing with both ancient and modern genomes, D-statistics and Y-chromosome lineages.  #@NEW_LINE#@#  However, the limited nature of this introgression contrasts with the major Steppe migration turnovers within third Millennium northern Europe and echoes the survival of non-Indo-European language in Iberia.  #@NEW_LINE#@#  Changes in genomic estimates of individual height across Europe are also associated with these major cultural transitions, and ancestral components continue to correlate with modern differences in stature.  #@NEW_LINE#@#  
+
+Author_summary  #@NEW_LINE#@#  
+Recent ancient DNA work has demonstrated the significant genetic impact of mass migrations from the Steppe into Central and Northern Europe during the transition from the Neolithic to the Bronze Age.  #@NEW_LINE#@#  In Iberia, archaeological change at the level of material culture and funerary rituals has been reported during this period, however, the genetic impact associated with this cultural transformation has not yet been estimated.  #@NEW_LINE#@#  In order to investigate this, we sequence Neolithic and Bronze Age samples from Portugal, which we compare to other ancient and present-day individuals.  #@NEW_LINE#@#  Genome-wide imputation of a large dataset of ancient samples enabled sensitive methods for detecting population structure and selection in ancient samples.  #@NEW_LINE#@#  We revealed subtle genetic differentiation between the Portuguese Neolithic and Bronze Age samples suggesting a markedly reduced influx in Iberia compared to other European regions.  #@NEW_LINE#@#  Furthermore, we predict individual height in ancients, suggesting that stature was reduced in the Neolithic and affected by subsequent admixtures.  #@NEW_LINE#@#  Lastly, we examine signatures of strong selection in important traits and the timing of their origins.  #@NEW_LINE#@#  
+
+Citation: Martiniano R, Cassidy LM, Ó'Maoldúin R, McLaughlin R, Silva NM, Manco L, et al.  #@NEW_LINE#@#  (2017) The population genomics of archaeological transition in west Iberia: Investigation of ancient substructure using imputation and haplotype-based methods.  #@NEW_LINE#@#  PLoS Genet 13(7):  #@NEW_LINE#@#  
+           e1006852.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pgen.1006852  #@NEW_LINE#@#  
+Editor: Anna Di Rienzo, University of Chicago, UNITED STATES  #@NEW_LINE#@#  
+Received: February 22, 2017; Accepted: June 2, 2017; Published:  July 27, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Martiniano et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All raw and aligned read files are available from the European Nucleotide Archive database (accession number ERP016408).  #@NEW_LINE#@#  Imputed genotypes for the 67 ancient samples analysed are available at Dryad (DOI: http://dx.doi.org/10.5061/dryad.g9f5r).  #@NEW_LINE#@#  All other relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: This study has been financed by the BEAN project of the Marie Curie Initial Training Network (grant number 289966).  #@NEW_LINE#@#  LMC is funded by the Irish Research Council Government of Ireland Scholarship Scheme (GOIPG/2013/1219).  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Ancient genomics, through direct sampling of the past, has allowed an unprecedented parsing of the threads of European ancestry.  #@NEW_LINE#@#  Most strikingly, longitudinal studies of genomewide variation have revealed that two major technological innovations in prehistory, agriculture and metallurgy, were associated with profound population change [15].  #@NEW_LINE#@#  These findings firmly address the longstanding archaeological controversy over the respective roles of migration, acculturation and independent innovation at such horizons; migration clearly played a key role.  #@NEW_LINE#@#  However, this may not be universal and genomes from several important European regions and time periods remain unexamined.  #@NEW_LINE#@#  In particular, at the southwestern edge of Europe several aspects of the archaeology suggest that some querying of the emerging paradigm is necessary.  #@NEW_LINE#@#  
+First, whereas dating and similarity of the Portuguese Neolithic sites to other Mediterranean regions point to a rapid spread of agriculture at around 5500 BC [6], local Mesolithic communities were sedentary, dense and innovative; they appear to have persisted for at least 500 years after the onset of the Neolithic [7] and, along with those Brittany, may have had a role in the subsequent emergence of the earliest Megalithic tradition [8].  #@NEW_LINE#@#  
+Second, in the transition to metallurgy, the Tagus estuary region of Portugal was a source for innovation.  #@NEW_LINE#@#  The distinctive Maritime Beaker, a key component of the Bell Beaker Package, characterised by grave goods including copper daggers and archery equipment first emerged there during the first half of the 3rd millennium BC.  #@NEW_LINE#@#  The Beaker package subsequently spread through Western Europe, where it is thought to have met and hybridized with the Steppe-derived Corded Ware or Single-Grave culture [9,10].  #@NEW_LINE#@#  It remains an open question whether the influx of Steppe ancestry into North and Central Europe [4,5,11] associated with Corded Ware, also had a third millennium impact in Iberia.  #@NEW_LINE#@#  
+Third, modern Iberia has a unique diversity of language with the persistence of a language of pre-Indo European origin in the Basque region.  #@NEW_LINE#@#  Interestingly, the population of Euskera speakers shows one of the maximal frequencies (87.1%) for the Y-chromosome variant, R1b-M269 [12], which is carried at high frequency into Northern Europe by the Late Neolithic/Bronze Age steppe migrations [4,5,13], although its arrival time in Iberia remains unknown.  #@NEW_LINE#@#  
+In order to investigate the nature of cultural progression at Europes south Atlantic edge we analyse genomes from 14 ancient Portuguese samples from the Middle Neolithic through to the Middle Bronze Age (42001430 BC).  #@NEW_LINE#@#  For broader context we also impute genomewide diploid genotypes in these and other ancient Eurasians and investigate ancient population structure and examine temporal change in individual height.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Ancient_DNA_extraction__sequencing_and_authenticity  #@NEW_LINE#@#  
+DNA was extracted from the dense portions of fourteen petrous bones [3] excavated from eight archaeological sites across Portugal (S1 Fig), dated from the Middle Neolithic (MN) and Late Neolithic/Copper Age (LNCA) to the Bronze Age (BA) (S1 Text).  #@NEW_LINE#@#  Genomic coverage obtained was between 0.05x-2.95x and endogenous DNA estimates ranged from 5.6% to 70.2% (Table 1).  #@NEW_LINE#@#  Data authenticity was attested to by post-mortem deamination at the end of reads (S2 Text, S3 Fig) and low contamination estimates; X-chromosomes in males gave an average of 1.3% (02.3%) (S1 and S2 Tables) and mtDNA 1.07% (01.71%) (S4 Table).  #@NEW_LINE#@#  
+
+FineSTRUCTURE_analyses  #@NEW_LINE#@#  
+In order to harness the power of haplotype-based methods to investigate substructure in our ancient samples, we imputed missing genotypes in 10 out of 14 ancient Portuguese together with 57 published ancient DNA genomes, choosing those with  greater than 0.85X coverage and using the 1000 Genomes phase 3 reference haplotypes [2,3,5,11,1421].  #@NEW_LINE#@#  
+Comparison of imputed variants from down sampled genomes with those called from full coverage has shown that this approach gives genotype accuracy of ~99% in ancient Europeans and we confirmed this using four down-sampled genomes from different time horizons included within our analysis [3,19] (S5 Text, S6 Fig).  #@NEW_LINE#@#  We observed that lower minor allele frequencies (MAF) imputed less accurately (S7 Fig).  #@NEW_LINE#@#  We also used D statistics to test whether imputed calls from down-sampled high coverage genomes shared significantly more drift with reference populations, relative to high quality diploid calls from those same genomes.  #@NEW_LINE#@#  For comparison, we also tested the most commonly used form of ancient variant data; pseudo-haploid calls.  #@NEW_LINE#@#  Both types of call demonstrated bias towards reference panel populations, with pseudo-haploid data showing the most extreme deviations.  #@NEW_LINE#@#  The extent of bias was dependent on a number of variables, such as the MAF filters imposed, reference population ancestry and sample ancestry, which are discussed in S5 Text.  #@NEW_LINE#@#  
+We subsequently use both low coverage calling approaches in complementary analyses of our ancient data and filtered for MAF  greater than  0.05 (S5 Text).  #@NEW_LINE#@#  This gave 1.5 million markers with phase information called across each of the 67 samples.  #@NEW_LINE#@#  With these we first used CHROMOPAINTER [22] to generate an ancestry matrix which was utilized by fineSTRUCTURE [22] to identify clusters (Fig 1).  #@NEW_LINE#@#  The 67 Eurasian samples divided into 19 populations on the basis of haplotype sharing which are highlighted in a principal component analysis (PCA) calculated from the coancestry matrix (Fig 1A).  #@NEW_LINE#@#  Geographical and temporal locations are shown for these also, where Fig 1B shows four populations of hunter-gatherers (HG) individuals, Fig 1C, three populations belonging to Neolithic farmers and Fig 1D other groups containing samples ranging from Copper Age to the Anglo-Saxon period.  #@NEW_LINE#@#  
+Hunter-gatherer samples fall into 4 clusters (Fig 1B); interestingly the Paleolithic Bichon and Mesolithic Loschbour fall together (Western_HG1), despite 6,000 years separation, hinting at some level of continuity in the Rhine basin.  #@NEW_LINE#@#  Earlier Neolithic individuals are separated into two groupings, one comprising NW Anatolian and Greek samples, as well as two LBK individuals from Hungary and Germany.  #@NEW_LINE#@#  The second consists of Hungarian individuals from the Middle Neolithic to Copper Age alongside a Spanish Cardial Early Neolithic.  #@NEW_LINE#@#  A large cluster of individuals from Atlantic Europe, spanning the Middle Neolithic to Copper Age, is also seen, including all Portuguese MN and LNCA samples.  #@NEW_LINE#@#  
+Samples belonging to the Copper Age and subsequent time periods in Russia showed strong stratification, with previous insights into ancient population structure in the steppe [5] corroborated by the formation of the Yamnaya_Afanasievo cluster and the Sintashta_Andronovo.  #@NEW_LINE#@#  In contrast, Central/Northern European samples stretching from the Copper Age to Anglo Saxon period all clustered together with no detectable substructure (CopperAge_to_AngloSaxon).  #@NEW_LINE#@#  However, the Portuguese Bronze Age individuals formed a distinct cluster.  #@NEW_LINE#@#  This was seen to branch at a higher level with the Atlantic_Neolithic rather than CopperAge_to_AngloSaxon, and in the PCA plot placed between the two.  #@NEW_LINE#@#  
+
+Increase_in_local_hunter-gatherer_ancestry_in_the_Middle_and_Late_Neolithic  #@NEW_LINE#@#  
+It has been previously shown that an individual (CB13) dating from the very beginning of the Neolithic in Spain showed ancestry closer to a Hungarian hunter-gatherer (KO1, found within a very early European Neolithic context) than to the more western HGs from LaBrana in Spain and Loschbour in Luxembourg [18].  #@NEW_LINE#@#  Furthermore, recent studies have highlighted an increase in western hunter-gatherer (WHG) admixture through the course of the Spanish Neolithic [17,23].  #@NEW_LINE#@#  To investigate suspected local HG introgression in Iberia we compared relative haplotype donation between different hunter-gatherers within European farmers and other samples from later time-periods (Fig 2).  #@NEW_LINE#@#  In Iberia, a clear shift in relative HG ancestry between the Early Neolithic (EN) to MN was observed, with greater haplotype donation from the Hungarian HG within the Cardial Neolithic sample CB13 [18], when compared to other HG of more western provenance (Bichon, Loschbour and LaBrana).  #@NEW_LINE#@#  A reversal of this trend is seen in the later Neolithic and Chalcolithic individuals from Portugal and Spain, but intriguingly not in other Atlantic Neolithic samples from Ireland and Sweden.  #@NEW_LINE#@#  This is confirmed by a Mann-Whitney test demonstrating that Iberian Neolithic samples receive significantly more (p = 1.02x10-6) haplotypes from west European HG (Bichon, Loschbour and LaBrana) than KO1 relatively to Neolithic samples from elsewhere in Europe suggesting a more prolonged hunter-gatherer interaction at the littoral.  #@NEW_LINE#@#  In the transition to the Portuguese Bronze Age, a second shift can be seen in relative hunter-gatherer ancestry with some increase in relative haplotype donation from KO1, which is seen more prominently in the majority of post-Neolithic Eurasian samples, hinting at some difference between the Portuguese Neolithic and Bronze Age.  #@NEW_LINE#@#  
+
+Steppe-related_introgression_into_the_Portuguese_Bronze_Age  #@NEW_LINE#@#  
+Next, to further investigate this apparent shift between the Neolithic and Bronze Age in Iberia, we explored haplotype sharing patterns of ancient samples in the context of modern populations.  #@NEW_LINE#@#  We merged our dataset of imputed variants with 287,334 SNPs typed in 738 individuals of European, Middle Eastern, North African, Yoruba and Han Chinese ancestry [24] and ran CHROMOPAINTER/FineSTRUCTURE as above.  #@NEW_LINE#@#  
+When comparing vectors of haplotype donation between Neolithic and Bronze Age individuals of different European regions to modern populations, a geographical pattern emerges (Fig 3) [25].  #@NEW_LINE#@#  As expected, Neolithic samples present an excess of genetic contribution to southern Europeans, in particular to modern Sardinians, when compared to Bronze Age samples, which in turn consistently share more haplotypes with northern/eastern groups.  #@NEW_LINE#@#  
+Consistent with this, when comparing Portuguese Neolithic to Bronze Age samples, the former presented an excess of haplotype donation to Sardinian and Spanish (p = 0.017).  #@NEW_LINE#@#  Northern/eastern ancestry is evident in the Bronze Age, with significantly increased enrichment in Chuvash, Orcadian (p = 0.017), Lezgin and Irish (p = 0.033).  #@NEW_LINE#@#  However, this shift from southern to northern affinity is markedly weaker than that observed between Neolithic and Bronze Age genomes in Ireland, Scandinavia, Hungary and Central Europe.  #@NEW_LINE#@#  These findings suggest detectable, but comparatively modest, Steppe-related introgression present at the Portuguese Bronze Age.  #@NEW_LINE#@#  
+
+Comparison_of_ancient_samples_from_Portugal_with_ancient_and_modern_individuals_using_directly_observed_haploid_genotypes  #@NEW_LINE#@#  
+
+Polygenic_risk_score_analysis_of_height_in_ancient_samples  #@NEW_LINE#@#  
+Height can be expected to give the most reliable predictions due its strong heritability and massive scale of genome wide association studies; the GIANT consortium has estimated 60% of genetic variation as described by common variants [27].  #@NEW_LINE#@#  Using the imputed data of  greater than 500 thousand diploid SNP calls [27] we combined genetic effects across the whole genome to estimate this phenotype in individuals.  #@NEW_LINE#@#  Fig 5 plots genetic height in ancient individuals and reveals clear temporal trends.  #@NEW_LINE#@#  European hunter-gatherers were genetically tall and a dramatic decrease in genetic height is associated with the transition to agriculture (pless_than0.001).  #@NEW_LINE#@#  During the Neolithic period, we see a steady increase, probably influenced by admixture with hunter-gatherers.  #@NEW_LINE#@#  Within this trend, Iberian individuals are typical of the Middle and Late Neolithic and we see no evidence of an Iberian-specific diminution as has been previously suggested from a 180 SNP panel [23] (Fig 5; S7 Text, S30 Fig).  #@NEW_LINE#@#  This increase continues through the Bronze Age, influenced in part by admixture with Steppe introgressors who have high predicted values (Neolithic vs Yamnaya_Afanasievo, pless_than0.018) and into the early centuries AD where ancient Britons and Anglo-Saxons are among the tallest in the sample (ignoring the undoubted influence of differing environments).  #@NEW_LINE#@#  That Yamnaya and hunter-gatherer introgressions are major determinant of height variation is supported by strong correlations between these ancestral components and genetic height in modern European populations (Fig 4, S7 Text, S32 Fig).  #@NEW_LINE#@#  
+
+Extended_haplotype_homozygosity  #@NEW_LINE#@#  
+The role of positive selection in shaping diversity at specific loci in European populations has been of enduring interest and thus we tested whether our imputed genomes could directly reveal the imprint of adaptation in the past.  #@NEW_LINE#@#  For this we used the extended haplotype homozygosity (EHH) method [28] with the six loci related to diet and pigmentation highlighted in the analysis by [23]: LCT (rs4988235), SLC24A5 (rs1426654), SLC45A2 (rs16891982), HERC2 (rs12913832), EDAR (rs3827760) and FADS1 (rs174546) (S8 Text, S37 Fig).  #@NEW_LINE#@#  Two of these, LCT and FADS1 showed strong signals consistent with selective sweeps; homozygous haplotypes that are longer than those surrounding the derived selected allele and that are also markedly longer than those observed in modern populations (Fig 6).  #@NEW_LINE#@#  The selective sweep signal for LCT (driven by adaptation to a dietary reliance on raw milk) appears in the Bronze Age and that associated with FADS1 shows first in the Neolithic sample, supporting that this may be a response to changes in the spectrum of fatty acid intake afforded after the transition to an agricultural diet [29].  #@NEW_LINE#@#  We caution that the limited success demonstrated in the imputation of rare/low frequency variants in ancient samples (S7 Fig), together with potential phasing inaccuracy may result in overestimation of the length of homozygous genomic segments.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Our genomic data from 14 ancient individuals from 8 Portuguese archaeological contexts ranging from the Middle Neolithic to Middle Bronze Age throws light on how the two fundamental transitions in European prehistory affected populations at the Atlantic edge.  #@NEW_LINE#@#  Previous data from north Mediterranean regions in Iberia have shown that the first farmers had predominantly Anatolian ancestry [4,18,21], with some increase in hunter-gatherer admixture occurring between the Early and Middle Neolithic.  #@NEW_LINE#@#  Our analyses, using both observed haploid SNPs and imputed diploid haplotypes show this pattern extends to the Atlantic coast of the peninsula, a region where a dense Mesolithic population persisted in the Neolithic for some 500 years.  #@NEW_LINE#@#  We support Middle Neolithic HG admixture having occurred locally, as there is greater haplotypic affinity of these Iberians to HG genomes from western Europe than to a hunter-gatherer genome excavated from a much earlier point of contact within the spread of the Neolithic; that within a Hungarian settlement representative of the earliest agricultural cultures of southeast Europe.  #@NEW_LINE#@#  This affinity is not shared by the earlier genome from the classical Neolithic Cardial phase (75007100 BP) which supports the geographical adjacency of this Middle Neolithic HG admixture.  #@NEW_LINE#@#  
+Imputation of ancient European genomes sequenced to 1x coverage has been shown to give diploid genotypes at ~99% accuracy [3].  #@NEW_LINE#@#  Our investigation of bias in both imputed and haploid calls suggests value in complementary approaches to genotype determination in the analysis and interpretation of palaeogenomic data.  #@NEW_LINE#@#  Our imputation of 67 genomes yielded genome-scale diploid calls which we surmised should allow the prediction of polygenic traits at the individual level.  #@NEW_LINE#@#  We illustrate this for height, in which combined genomewide locus effects are known to explain a high proportion of trait variance and which has been shown to have been under selection in Europeans [23,30,31].  #@NEW_LINE#@#  Most strikingly, we find that European hunter-gatherers are significantly taller than their early Neolithic farming counterparts.  #@NEW_LINE#@#  A pattern of increasing genetic height with time since the Neolithic is clear in these European individuals, which may be influenced by increasing admixture with populations containing higher ancestral components of Eurasian hunter-gatherers.  #@NEW_LINE#@#  This concords with the increased forager-farmer admixture in the transition from the Early to Middle Neolithic; including within Iberian Neolithic individuals.  #@NEW_LINE#@#  Interestingly, this is in contrast to previous results which estimated a height decrease within this group.  #@NEW_LINE#@#  However, that work used more limited data, 169 predictive loci, and predicted at a population rather than individual level using a minimum of only two chromosomes called per SNP [23].  #@NEW_LINE#@#  Genetic height increases through the Bronze Age are further influenced by Yamnaya introgression and continue through to a series of early Britons sampled from the early centuries AD.  #@NEW_LINE#@#  Within this time frame, the genetically tallest individual is an Anglo-Saxon from Yorkshire, followed by a Nordic Iron Age sample.  #@NEW_LINE#@#  
+Our analyses yield both signals of continuity and change between Portuguese Neolithic and Bronze Age samples.  #@NEW_LINE#@#  ADMIXTURE analysis showing similar ancestral components, and higher order branching in fineSTRUCTURE clustering suggest a level of continuity within the region.  #@NEW_LINE#@#  Also, both show a degree of local European HG admixture (relative to central European HG influence) that is not observed within other samples in the data set.  #@NEW_LINE#@#  However, final fineSTRUCTURE clustering and the PCA plot places the Portuguese BA as a separate group which is intermediate between Atlantic Neolithic samples and the Central European Bronze Age individuals.  #@NEW_LINE#@#  D-statistics support some influx of ancestral elements derived from the east, as is seen in the northern Bronze Age, and a distinct change in Y-chromosome haplotypes is clearall three Iberian BA males are R1b, the haplogroup that has been strongly associated with Steppe-related migrations.  #@NEW_LINE#@#  Patterns of haplotype affinity with modern populations illustrate the Portuguese population underwent a shift from southern toward northern affinity to a distinctly reduced degree to that seen with other regional Neolithic-BA transitions.  #@NEW_LINE#@#  
+Taken together this is suggestive of small-scale migration into the Iberian Peninsula which stands in contrast to what has been observed in Northern, Central [4,5] and Northwestern Europe [11] where mass migration of steppe pastoralists during the Copper Age has been implied.  #@NEW_LINE#@#  The Y-chromosome haplotype turnover, albeit within a small sample, concords with this having been male-mediated introgression, as suggested elsewhere for the BA transition [26].  #@NEW_LINE#@#  
+Several candidate windows for the entry of Steppe ancestry into Portugal exist.  #@NEW_LINE#@#  The first is the possible emergence of Bell Beaker culture in Southwest Iberia and subsequent establishment of extensive networks with Central and NW European settlements, opening up the possibility of back-migration into Iberia.  #@NEW_LINE#@#  Indeed, Central European Bell Beaker samples have been observed to possess both steppe-related ancestry and R1b-P312 Y-chromosomes [4,5].  #@NEW_LINE#@#  Furthermore, through the analysis of modern samples, it has been proposed that the spread of Western R1b-lineages fits with the temporal range of the Corded Ware and Bell Beaker complexes [32].  #@NEW_LINE#@#  
+An alternative is in the Iberian Middle to Late Bronze Age when individualized burials became widespread and bronze production began [33].  #@NEW_LINE#@#  At this time the spread of horse domestication enabled unprecedented mobility and connectedness.  #@NEW_LINE#@#  This was coupled with the emergence of elites and eventually led to the complete replacement of collective Megalithic burials with single-grave burials and funerary ornamentation reflecting the status of the individual in society.  #@NEW_LINE#@#  These changes are seen in the Iberian Bronze Age, with the appearance of cist burials and bronze daggers [34].  #@NEW_LINE#@#  Indeed, two of the Bronze Age samples analysed in the present work belong to an archaeological site in SW Iberia where the earliest presence of bronze in the region was demonstrated, as well as high status burials with elaborate bronze daggers [34,35].  #@NEW_LINE#@#  
+Two alternate theories for the origin and spread of the Indo-European language family have dominated discourse for over two decades: first that migrating early farmers disseminated a tongue of Neolithic Anatolian origin and second, that the third Millennium migrations from the Steppe imposed a new language throughout Europe [36,37] [4].  #@NEW_LINE#@#  Iberia is unusual in harbouring a surviving pre-Indo-European language, Euskera, and inscription evidence at the dawn of history suggests that pre-Indo-European speech prevailed over a majority of its eastern territory with Celtic-related language emerging in the west [38].  #@NEW_LINE#@#  Our results showing that predominantly Anatolian-derived ancestry in the Neolithic extended to the Atlantic edge strengthen the suggestion that Euskara is unlikely to be a Mesolithic remnant [17,18].  #@NEW_LINE#@#  Also our observed definite, but limited, Bronze Age influx resonates with the incomplete Indo-European linguistic conversion on the peninsula, although there are subsequent genetic changes in Iberia and defining a horizon for language shift is not yet possible.  #@NEW_LINE#@#  This contrasts with northern Europe which both lacks evidence for earlier language strata and experienced a more profound Bronze Age migration.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+Ancient_DNA_sampling__extractions_and_sequencing  #@NEW_LINE#@#  
+All ancient DNA (aDNA) work was done in clean-room facilities exclusively dedicated to this purpose at the Smurfit Institute, Trinity College Dublin, Ireland.  #@NEW_LINE#@#  We extracted DNA from ~100 mg of temporal bone samples belonging to 14 samples from 8 archaeological sites in Portugal ranging from the Mid Neolithic to the Mid Bronze Age in Portugal (S1 Text) using a silica-column-based method [39] with modifications [40].  #@NEW_LINE#@#  We incorporated DNA fragments into NGS libraries using the library preparation method described in [41] and amplified these with 24 different indexing primers per samples and purified (Qiagen MinElute PCR Purification Kit, Qiagen, Hilden, Germany) and quantified (Agilent Bioanalyzer 2100).  #@NEW_LINE#@#  Samples were sequenced to ~1.15X (0.052.95X) in an Illumina HiSeq 2000 (100 cycle kit, single-end reads mode; Macrogen) (S2 Text).  #@NEW_LINE#@#  
+
+Read_processing_and_analysis  #@NEW_LINE#@#  
+We used Cutadapt v. 1.3 [42] to trim NGS read adapters and aligned reads to the human reference genome (UCSC hg19) and mtDNA (rCRS, NC_012920.1) with the Burrows-Wheeler Aligner (BWA) v.0.7.5a-r405 [43], trimming low quality bases (q  20), removing PCR duplicates and reads with mapping quality inferior to 30 using SAMtools v.0.1.19-44428cd [44].  #@NEW_LINE#@#  We estimated genomic coverage with Qualimap v2.2 [45] using default parameters (S2 Text).  #@NEW_LINE#@#  Raw data and aligned reads have been submitted to http://www.ebi.ac.uk/ena/data/view/PRJEB14737, secondary accession ERP016408.  #@NEW_LINE#@#  
+
+Contamination_estimates_and_authenticity  #@NEW_LINE#@#  
+In order to assess the level of contamination in ancient samples, we considered the number of mismatches in mtDNA haplotype defining mutations and determined the number of X-chromosome polymorphisms in male samples (S2 Text) [46].  #@NEW_LINE#@#  We analysed aligned reads using mapDamage v2.0 [47] to inspect patterns of aDNA misincorporations, which confirm the authenticity of our data.  #@NEW_LINE#@#  
+
+Sex_determination_and_uniparental_lineage_determination  #@NEW_LINE#@#  
+We used the method published in reference [48] to determine the sex of the ancient individuals (S2 Text, S2 Fig).  #@NEW_LINE#@#  Y-chromosome lineages of ancient male samples were identified using Y-haplo software [49] (https://github.com/23andMe/yhaplo, S4 Table).  #@NEW_LINE#@#  For mtDNA analysis, reads were separately aligned to the revised Cambridge Reference Sequence (rCRS; NC_012920.1) [50], trimming low quality bases (q  20) and filtering by mapping quality (q  30) and duplicate reads as above.  #@NEW_LINE#@#  mtDNA haplogroups were identified using mtDNA-server (http://mtdna-server.uibk.ac.at/start.html, with default parameters.  #@NEW_LINE#@#  
+
+Comparison_with_modern_and_ancient_individuals  #@NEW_LINE#@#  
+Smartpca version 10210 from EIGENSOFT [51,52] was used to perform PCA on a subset of West Eurasian populations (604 individuals) from the Human Origins dataset [2], based on approximately 600,000 SNPs (S3 Text, S4 Fig).  #@NEW_LINE#@#  The genetic variation of 239 ancient Eurasian genomes [2,4,5,11,1421,23,5356] was then projected onto the modern PCA (lsqproject: YES option).  #@NEW_LINE#@#  A model-based clustering approach implemented by ADMIXTURE v.1.23 [57] was used to estimate ancestry components in 10 of the Portuguese samples, alongside 1941 modern humans from populations worldwide [2] and 166 ancient individuals.  #@NEW_LINE#@#  Only ancient samples with a minimum of 250,000 pseudo-haploid calls were included.  #@NEW_LINE#@#  The dataset was also filtered for related individuals, and for SNPs with genotyping rate below 97.5%.  #@NEW_LINE#@#  A filter for variants in linkage disequilibrium was applied using theindep-pairwise option in PLINK v1.90 with the parameters 200, 25 and 0.4.  #@NEW_LINE#@#  This resulted in a final 219,982 SNPs for analysis.  #@NEW_LINE#@#  ADMIXTURE was run for all ancestral population numbers from K = 2 to K = 15, with cross-validation enabled (cv flag), and replicated for 40 times.  #@NEW_LINE#@#  The results for the best of these replicates for each value of K, i.e.  #@NEW_LINE#@#  those with the highest log likelihood, were extremely close to those presented in [11].  #@NEW_LINE#@#  The lowest median CV error was obtained for K = 10.  #@NEW_LINE#@#  
+
+D-statistics  #@NEW_LINE#@#  
+Formal tests of admixture were implemented using D-statistics [58] and F-statistics [59,60] using the AdmixTools package (version 4.1).  #@NEW_LINE#@#  These were carried out on WGS ancient data only, using autosomal biallelic transversions from the 1000 Genomes phase 3 release (S4 Text, S5 and S6 Tables).  #@NEW_LINE#@#  
+
+Genotype_imputation  #@NEW_LINE#@#  
+We selected for genotype imputation relevant published samples that had been sequenced by whole-genome shotgun sequencing and for which coverage is above 0.85X, including 5 ancient individuals downsampled to 2X which were included for estimating accuracy and possible bias in imputation.  #@NEW_LINE#@#  Within these were called ~77.8 million variants present in the 1000 Genomes dataset using Genome Analysis Toolkit (GATK) [61], removing potential deamination calls.  #@NEW_LINE#@#  These were used as input by BEAGLE 4.0 [62] which phased and imputed the data (S5 Text, S7 Table).  #@NEW_LINE#@#  This resulted in a VCF file with approximately 30 M SNPs.  #@NEW_LINE#@#  Imputed genotypes for 67 ancient samples analysed are available at Dryad (DOI: http://dx.doi.org/10.5061/dryad.g9f5r).  #@NEW_LINE#@#  
+
+FineSTRUCTURE_analyses  #@NEW_LINE#@#  
+In analysis I (Fig 1), imputed variants in 67 ancient Eurasian samples were filtered for posterior genotype probability greater or equal to 0.99.  #@NEW_LINE#@#  Variants not genotyped across all individuals were removed with vcftools [63], also excluding SNPs with MAF less_than 0.05, resulting in approximately 1.5 M SNPs and the resulting VCF was converted to IMPUTE2 format with bcftools version 0.1.19-96b5f2294a (https://samtools.github.io/bcftools/).  #@NEW_LINE#@#  Hap files were converted to CHROMOPAINTER format with the script impute2chromopainter.pl, available at http://www.paintmychromosomes.com/ and created a recombination map with makeuniformrecfile.pl.  #@NEW_LINE#@#  We then split the dataset by chromosome with vcftools and ran CHROMOPAINTER and fineSTRUCTURE v2 [22] with the following parameters: 3,000,000 burn-in iterations, 1,000,000 MCMC iterations, keeping every 100th sample.  #@NEW_LINE#@#  In S6 Text we describe all 5 analysis CHROMOPAINTER and fineSTRUCTURE analyses in more detail: IaDNA samples only (S12S25 Figs, S8 Table); IIaDNA samples and present-day Eurasians and Yoruba (Fig 3; S9 Table); IIIComparison of linked and unlinked analyses (S26 Fig); IVAnalysis with unfiltered genotype probabilities; VDetection of biases in CHROMOPAINTER analyses derived from genotype imputation in ancient samples (S27 and S28 Figs).  #@NEW_LINE#@#  
+
+Polygenic_traits_in_ancient_samples  #@NEW_LINE#@#  
+Genetic scores for polygenic traits including height [27], pigmentation [64], Anthropometric BMI [65] and T2D [66] in 67 ancient samples were estimated using PLINK [67] using thescore flag.  #@NEW_LINE#@#  Odds ratio in the T2D summary statistics [66] were converted to effect size by taking the logarithm of OR/1.81 [68].  #@NEW_LINE#@#  In our analyses, we compared p-value filtering (unfiltered p-value threshold against pless_than0.001) when possible to qualitatively evaluate robustness of signals observed (S7 Text, S29S31 and S33S36 Figs).  #@NEW_LINE#@#  
+In order to investigate the correlation between ancient ancestry in present-day populations and height genetic scores, we first calculated polygenic risk in Eurasian populations from the Human Origins dataset.  #@NEW_LINE#@#  This was followed by the estimation of the percentage ancestry of five distinct ancient populations (EHG, CHG, WHG, Yamnaya, Anatolian Neolithic) in the same dataset, which was done through the implementation of the F4 ratio method described in [60] using the Admixtools package (version 4.1).  #@NEW_LINE#@#  Two individuals possessing the highest genomic coverage from each population were used in the test, which took the form f4(Mbuti, Ancient_Ind1; Modern_WEurasian, Dai)/f4(Mbuti, Ancient_Ind1; Ancient_Ind2, Dai) (S10 Table; S32 Fig).  #@NEW_LINE#@#  
+
+Extended_haplotype_homozygosity_analysis  #@NEW_LINE#@#  
+We used Selscan [69] to investigate extended haplotype homozygosity (EHH) around SNPs of interest previously described in [23]: LCT (rs4988235), SLC24A5 (rs1426654), SLC45A2 (rs16891982), HERC2 (rs12913832), EDAR (rs3827760) and FADS1 (rs174546).  #@NEW_LINE#@#  First, SNPs within 5 Mb of each SNP were included for analysis, removing SNPs which are multiallelic and with multiple physical coordinates.  #@NEW_LINE#@#  EHH requires large populations, and therefore we used selscan in 3 groups: HG, Neolithic farmers and Copper Age to Anglo-Saxon, using theehh andkeep-low-freq flag (S8 Text; S37 Fig).  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Text_Archaeological_information  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Text_Ancient_DNA_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Text_Comparison_of_ancient_samples_with_other_ancient_and_modern_datasets_using_genotype_data  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Text_Exploring_ancient_Iberian_affinities_through_F-_and_D-statistics  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Text_Imputation_of_missing_genotypes_in_ancient_samples  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Text_CHROMOPAINTER_and_fineSTRUCTURE_analyses  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Text_Analysis_of_polygenic_traits  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S8_Text_Extended_haplotype_homozygosity_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_X-chromosome_contamination_estimated_with_ANGSD_(Korneliussen_et_al_2014)_and_based_on_a_previously_published_method_(Rasmussen_et_al_2011)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s009  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_X-chromosome_contamination_based_on_the_number_of_mismatches_at_X-chromosome_SNPs_and_adjacent_sites  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s010  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_mtDNA_lineages_and_contamination_estimates_based_on_mismatches_at_haplotype_defining_sites  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s011  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S4_Table_Y-chromosome_lineages_determined_in_the_ancient_Portuguese_samples  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s012  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S5_Table_D-statistics_in_the_form_of_D(Mbuti__X;_Y__Z)_to_test_admixture_between_ancient_populations  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s013  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S6_Table_Selected_D-statistics_associated_with_Portuguese_Neolithic_and_Bronze_samples  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s014  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S7_Table_List_of_ancient_samples_selected_for_genotype_imputation  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s015  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S8_Table_Coancestry_matrix_obtained_with_CHROMOPAINTER_for_the_analysis_including_67_ancient_samples  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s016  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S9_Table_Coancestry_matrix_obtained_with_CHROMOPAINTER_for_the_analysis_of_a_dataset_including_67_ancient_samples_and_modern_Eurasian_genomes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s017  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S10_Table_List_of_ancient_individuals_used_in_the_F4_ratio_test  #@NEW_LINE#@#  
+This table contains the individuals which were used to estimate the approximate percentage ancestry in modern populations of five ancestral groups who have contributed to western Eurasian variation, using an F4 ratio test (Patterson 2012).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s018  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S1_Fig_Map_and_geographical_locations_of_the_archaeological_locations_of_the_samples_sequenced_in_the_present_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s019  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S2_Fig_Sex_determination_using_Ry_compute  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s020  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S3_Fig_Post-mortem_misincorporations_in_ancient_samples  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s021  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S4_Fig_Principal_component_analysis_of_604_modern_West_Eurasians_onto_which_variation_from_224_ancient_genomes_has_been_projected  #@NEW_LINE#@#  
+The analysis is based on approximately 600,000 SNP positions.  #@NEW_LINE#@#  Moderns samples from the Human Origins dataset are represented in greyscale, with the exception of modern Iberians shown in green.  #@NEW_LINE#@#  Ancient samples are coloured by time depth and shaped according to geographic region.  #@NEW_LINE#@#  Ancient individuals from Portugal are outlined in red.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s022  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S5_Fig_Outgroup_F3-statistics_in_the_form_F3(Mbuti;_X__modern_European_population)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s023  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S6_Fig_Estimation_of_imputation_accuracy_on_chromosome_21  #@NEW_LINE#@#  
+Comparison of variant calls obtained for BR2, NE1, Loschbour and Stuttgart at full coverage with genotypes from the same 4 individuals downsampled to 2x and subsequently imputed.  #@NEW_LINE#@#  Accuracy in (A) all 3 types of genotypes; (B) homozygous reference; (C) heterozygous and (D) homozygous alternate.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s024  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S7_Fig_Proportion_of_correctly_imputed_genotypes_grouped_by_minor_allele_frequency_bins_of_0005  #@NEW_LINE#@#  
+In this analysis, imputed genotypes were filtered by post imputation genotype probability  0.99.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s025  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S8_Fig_Affinity_of_imputed_calls_to_reference_panel_populations__relative_to_pseudo-haploid_and_diploid_calls__for_five_high_coverage_ancient_samples  #@NEW_LINE#@#  
+Results are shown for both all sites and just transversions in two separate panels.  #@NEW_LINE#@#  A world minor allele frequency of 25% has been applied.  #@NEW_LINE#@#  1000 Genomes population and superpopulation names are noted along the X axis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s026  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S9_Fig_Affinity_of_imputed_calls_from_five_high_coverage_ancient_samples_to_reference_panel_populations__relative_to_diploid_calls__for_a_series_of_MAF_filters  #@NEW_LINE#@#  
+Results are shown for both all sites and just transversions in on left hand and right hand panels respectively.  #@NEW_LINE#@#  Top panels display world MAF filters of 25% and 5%.  #@NEW_LINE#@#  Bottom panels display European MAF filters of 25% and 5%.  #@NEW_LINE#@#  1000 Genomes population and superpopulation names are noted along the X axis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s027  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S10_Fig_Affinity_of_imputed_calls_from_five_high_coverage_ancient_samples_to_reference_panel_populations__relative_to_diploid_calls__for_the_final_set_of_SNPs_used_in_downstream_analyses_1000_Genomes_population_and_superpopulation_names_are_noted_along_the_X_axis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s028  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S11_Fig_Affinity_of_pseudo-haploid_calls_to_reference_panel_populations__relative_to_diploid_calls__for_five_high_coverage_ancient_samples  #@NEW_LINE#@#  
+Results are shown for world MAF filters of 25% and 5%.  #@NEW_LINE#@#  Only transversion SNPs are considered.  #@NEW_LINE#@#  1000 Genomes population and superpopulation names are noted along the X axis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s029  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S12_Fig_Geographical_and_PC_genetic_coordinates_for_the_Western_HG1_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s030  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S13_Fig_Geographical_and_PC_genetic_coordinates_for_the_Western_HG2_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s031  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S14_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Scandinavian_HG_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s032  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S15_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_cluster_Caucasus_Hunter-gatherers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s033  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S16_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_AegeanEN_HungarianLBK_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s034  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S17_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_HungarianMLN_SpainCardialEN_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s035  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S18_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Atlantic_Neolithic_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s036  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S19_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Yamnaya_Afanasievo_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s037  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S20_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Sintashta_Andronovo_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s038  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S21_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_CopperAge_to_AngloSaxon_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s039  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S22_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Hungary_BA_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s040  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S23_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Portugal_BA_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s041  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S24_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Russia_LBA_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s042  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S25_Fig_Geographical_and_PC_genetic_coordinates_for_the_fineSTRUCTURE_Russia_LBA_IA_cluster  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s043  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S26_Fig_Comparison_between_(A)_unlinked_and_(B)_linked_CHROMOPAINTER_fineSTRUCTURE_analyses  #@NEW_LINE#@#  
+The unlinked analysis is only able to identify 10 populations, 9 less than when incorporating the linkage model.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s044  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S27_Fig_CHROMOPAINTER_haplotype_donation_vectors_between_each_one_of_the_imputed_and_non-imputed_samples  #@NEW_LINE#@#  
+(A) Correlation between imputed and non-imputed median haplotype donation from sample BR2 (1), Loschbour (2) and LBK (3).  #@NEW_LINE#@#  (B) Normal Quantile-Quantile plots and outlier detection (labelled populations).  #@NEW_LINE#@#  Coloured dots show populations present (red) or absent (black) in the 1000 Genomes reference haplotype dataset.  #@NEW_LINE#@#  (C) Barplots illustrating imputed (left) and non-imputed (right) median haplotype donation (light blue) and the difference between median haplotype donation per population (dark blue).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s045  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S28_Fig_fineSTRUCTURE_tree_comparison_between_each_one_of_the_imputed_and_non-imputed_samples_(BR2__Loschbour_and_LBK)  #@NEW_LINE#@#  
+The position of aDNA samples (shown in red) is very similar in both analyses.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s046  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S29_Fig_Bar_plots_illustrating_polygenic_risk_scores_across_time__estimated_for_each_one_of_the_ancient_population_clusters  #@NEW_LINE#@#  
+The traits chosen were: A) Height; B) Pigmentation; C) BMI and D) T2D.  #@NEW_LINE#@#  Polygenic scores were centered at the mean for the dataset.  #@NEW_LINE#@#  As in Fig 1 in the main text, each cluster is represented with a different colour.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s047  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S30_Fig_Polygenic_risk_scores_estimated_for_height_using_genomewide_summary_statistics_from_the_Wood_2014_dataset  #@NEW_LINE#@#  
+(A) p = 0 (B) pless_than0.001.  #@NEW_LINE#@#  SNPs with posterior genotype probability of less than 0.99 were excluded from analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s048  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S31_Fig_Polygenic_risk_scores_estimated_for_height_using_genomewide_summary_statistics_(Lango_et_al__180_SNPs)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s049  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S32_Fig_Correlation_between_strands_of_ancestry_and_inferred_polygenic_risk_score_in_present-day_Europeans  #@NEW_LINE#@#  
+Hunter-gatherer (WHG, EHG, CHG), Neolithic (Anatolian_EN) and Steppe (Yamnaya) Ancestry was measured by f4(Mbuti, Ancient_Ind1; Modern_WEurasian, Dai)/f4(Mbuti, Ancient_Ind1; Ancient_Ind2, Dai).  #@NEW_LINE#@#  Polygenic risk scores for height (92) were determined using ~280.000 SNPs in 48 European populations.  #@NEW_LINE#@#  Blue line presents the linear regression.  #@NEW_LINE#@#  Individual samples are represented by gray dots and larger coloured circles represent the mean genetic score for each population.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s050  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S33_Fig_Height_map_and_PCA  #@NEW_LINE#@#  
+Redincreased genetic height scores, blackdecreased genetic height.  #@NEW_LINE#@#  Broadly, hunter-gatherers and populations from Copper age and after present highest proportion of height increasing associated variants followed by Neolithic farmers.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s051  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S34_Fig_Polygenic_scores_for_pigmentation  #@NEW_LINE#@#  
+SNPs with posterior genotype probability of less than 0.99 were excluded from analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s052  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S35_Fig_Polygenic_risk_scores_estimated_for_BMI_using_genomewide_summary_statistics  #@NEW_LINE#@#  
+(A) p = 0 (B) pless_than0.001.  #@NEW_LINE#@#  SNPs with posterior genotype probability of less than 0.99 were excluded from analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s053  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S36_Fig_Polygenic_risk_scores_estimated_for_T2D_using_genomewide_summary_statistics  #@NEW_LINE#@#  
+A) p = 0 B) pless_than0.001.  #@NEW_LINE#@#  SNPs with posterior genotype probability of less than 0.99 were excluded from analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s054  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S37_Fig_Extended_haplotype_homozygosity_(EHH)_in_regions_under_selection  #@NEW_LINE#@#  
+Panels on the left represent the decay of EHH, or the probability of homozygosity at a certain base across 2 randomly chosen chromosomes in a population.  #@NEW_LINE#@#  Plots on the right represent existing haplotypes in a population, with the lower portion of the graph depicting haplotypes with the derived allele (red) and the upper part showing haplotypes carrying the ancestral allele (blue).  #@NEW_LINE#@#  Unique haplotypes in a population are not represented.  #@NEW_LINE#@#  Legend: CEUUtah Residents (CEPH) with Northern and Western Ancestry; YRIYoruba in Ibadan, Nigeria; CHBHan Chinese in Beijing, China; 1KG: 1000 Genomes Project.  #@NEW_LINE#@#  * Earliest appearance of the homozygous derived allele in the samples analysed.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1006852.s055  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors wish to acknowledge the DJEI/DES/SFI/HEA Irish Centre for High-End Computing (ICHEC) for the provision of computational facilities and support.  #@NEW_LINE#@#  We thank Matteo Fumagalli and two anonymous reviewers for their valuable comments to the manuscript.  #@NEW_LINE#@#  We thank Eppie Jones for critically reading the manuscript.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

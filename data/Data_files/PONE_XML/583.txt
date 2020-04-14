@@ -1,0 +1,220 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0180418"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Myotis rufoniger genome sequence and analyses: M. rufonigers genomic feature and the decreasing effective population size of Myotis bats  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Myotis rufoniger is a vesper bat in the genus Myotis.  #@NEW_LINE#@#  Here we report the whole genome sequence and analyses of the M. rufoniger.  #@NEW_LINE#@#  We generated 124 Gb of short-read DNA sequences with an estimated genome size of 1.88 Gb at a sequencing depth of 66× fold.  #@NEW_LINE#@#  The sequences were aligned to M. brandtii bat reference genome at a mapping rate of 96.50% covering 95.71% coding sequence region at 10× coverage.  #@NEW_LINE#@#  The divergence time of Myotis bat family is estimated to be 11.5 million years, and the divergence time between M. rufoniger and its closest species M. davidii is estimated to be 10.4 million years.  #@NEW_LINE#@#  We found 1,239 function-altering M. rufoniger specific amino acid sequences from 929 genes compared to other Myotis bat and mammalian genomes.  #@NEW_LINE#@#  The functional enrichment test of the 929 genes detected amino acid changes in melanin associated DCT, SLC45A2, TYRP1, and OCA2 genes possibly responsible for the M. rufonigers red fur color and a general coloration in Myotis.  #@NEW_LINE#@#  N6AMT1 gene, associated with arsenic resistance, showed a high degree of function alteration in M. rufoniger.  #@NEW_LINE#@#  We further confirmed that the M. rufoniger also has bat-specific sequences within FSHB, GHR, IGF1R, TP53, MDM2, SLC45A2, RGS7BP, RHO, OPN1SW, and CNGB3 genes that have already been published to be related to bats reproduction, lifespan, flight, low vision, and echolocation.  #@NEW_LINE#@#  Additionally, our demographic history analysis found that the effective population size of Myotis clade has been consistently decreasing since ~30k years ago.  #@NEW_LINE#@#  M. rufonigers effective population size was the lowest in Myotis bats, confirming its relatively low genetic diversity.  #@NEW_LINE#@#  
+
+Introduction  #@NEW_LINE#@#  
+M. rufoniger is a species of vesper bat in the family Vespertilionidae [1].  #@NEW_LINE#@#  It can be distinguished from other bats by its rusty orange fur (S1 Picture) and is therefore called golden bat or red bat in South Korea (Republic of Korea).  #@NEW_LINE#@#  Recently, its scientific name has been re-assigned to M. rufoniger from Myotis formosus tsuensis based on a molecular phylogeny and morphological study of bats [2].  #@NEW_LINE#@#  Although its population is not assessed systematically, it is apparently a rare species that has only been collected in a handful of localities [2].  #@NEW_LINE#@#  In South Korea, M. rufoniger is protected and designated as a natural monument.  #@NEW_LINE#@#  Being one of the most well-known and iconic protected wild animals in South Korea, even an M. rufoniger exhibition center is also in operation (golden bat exhibition center in Hampyeong County, South Korea).  #@NEW_LINE#@#  
+In 2012, a fruit bat Pteropus alecto and an insectivorous Myotis davidii genomes were published, reporting bat-specific amino acid sequences on TP53 (Tumor Protein P53) and MDM2 (MDM2 Proto-Oncogene) genes that are associated with DNA damage checkpoint and DNA repair pathways.  #@NEW_LINE#@#  They provided insights into bats evolution of high metabolic rate and an increased amount of free radicals that are associated with flight [3].  #@NEW_LINE#@#  In 2013, the Brandts bat (Myotis brandtii) genome analysis further identified unique amino acid sequence changes in GHR (Growth Hormone Receptor), IGF1R (Insulin Like Growth Factor 1 Receptor), FSHB (Follicle Stimulating Hormone Beta Subunit), SLC45A2 (Solute carrier family 45, member 2), RGS7BP (Regulator of G-protein signaling 7 binding protein), RHO (Rhodopsin), OPN1SW (Opsin 1 [Cone Pigments], Short-Wave-Sensitive), and CNGB3 (cyclic nucleotide gated channel beta 3) genes, providing new insights into bats delayed ovulation during hibernation, long lifespan, small body size, low vision, and echolocation [4].  #@NEW_LINE#@#  
+As such, a set of close but distinct species genomes enable prediction of variants that may contain significant geno-phenotype association information [58].  #@NEW_LINE#@#  This close species comparative genomics approach has been applied to M. rufoniger genome analyses to identify the species-specific variants that can confer functional and hence evolutionary adaptation of the M. rufoniger.  #@NEW_LINE#@#  To confirm and further identify such species-specific or bat-specific sequence changes, it is critical to evaluate such amino acid changes with as many genomes as possible at different levels of background comparison species.  #@NEW_LINE#@#  Thus, it is important to build biological resource with continuous sequencing of various species genomes.  #@NEW_LINE#@#  
+A complete mitochondrial genome of M. rufoniger has been published already [9], while no whole-genome sequence has been reported yet, thus limiting the investigation of autosomal genetic signatures for environmental adaptations of M. rufoniger.  #@NEW_LINE#@#  Furthermore, the demographic history of a species can only be reconstructed accurately from deeply sequenced whole genomes [10,11].  #@NEW_LINE#@#  Here, we provide a whole genome analysis of M. rufoniger by producing massively parallel short DNA sequences (approximately 124 Gb) with its genomic features and unique amino acid sequences, accompanied by its demographic history and genetic diversity.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Whole_genome_sequences_of_M_rufoniger  #@NEW_LINE#@#  
+The genomic DNA from the wild carcass of M. rufoniger found in Gosudonggul cave, Danyang, in South Korea, was sequenced using Illumina HiSeq2000 platform.  #@NEW_LINE#@#  A total of 124 Gb of paired-end short DNA sequences were produced with a read length of 100 bp, and target insert sizes of 566 bp and 574 bp from two genomic libraries.  #@NEW_LINE#@#  After reducing low sequencing quality reads and possible microbial contaminated reads, we acquired a total of 115 Gb of DNA sequences (Table 1; S1 Table).  #@NEW_LINE#@#  To confirm the species identification of the sample, a phylogenetic analysis was performed using a multiple sequence alignment of mitochondrial cytochrome b sequences, and our sample was verified to be the closest to M. rufoniger (S1 Fig).  #@NEW_LINE#@#  We performed a K-mer analysis (K = 17) using the M. rufoniger whole genome sequences, and its genome size was predicted to be approximately 1.88 Gb (S2 Fig; S2 Table).  #@NEW_LINE#@#  This is similar to those of other bat species and smaller than those of other mammals [3,4,12].  #@NEW_LINE#@#  Since there is no de novo assembled M. rufoniger genome, the DNA reads were aligned to all three available Myotis bat reference genomes (M. brandtii, M. davidii, and M. lucifugus; Table 1; S3 Table).  #@NEW_LINE#@#  The consensus DNA sequences of M. rufoniger were generated by substituting M. rufoniger single nucleotide variants (SNVs) detected from the whole genome sequencing data against the three reference genomes.  #@NEW_LINE#@#  The genome coverage (10×, 87.63%) was the highest when the M. lucifugus assembly was the reference, while the coding sequence (CDS) coverage (10×, 96.60%) was the highest when the M. davidii genome was the reference.  #@NEW_LINE#@#  The number of SNVs (58,660,193) was the lowest when the M. brandtii was the reference, while the number of small insertions and deletions was the lowest when the M. daividii was the reference.  #@NEW_LINE#@#  However, when the M. brandtii assembly was the reference, the mapping rate (96.50%) and the number of consensus genes (17,247) was the highest.  #@NEW_LINE#@#  Therefore, we used M. brandtii reference-guided M. rufoniger consensus sequences for following analyses.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0180418.t001  #@NEW_LINE#@#  
+We examined the base composition of M. rufoniger genome (S4 Table) and found that the ratio of GC content was higher in the CDS region (52.15 ~ 52.95%) than that of the whole genome (41.49 ~ 42.28%), and this is concordant with the other mammalian species (the GC content ratios of the other species were 48.98 ~ 54.35% in the CDS region and 37.82 ~ 42.93% in the whole genome; S5 Table).  #@NEW_LINE#@#  The proportion of known transposon-derived repeats in the M. rufoniger genome was 19.05%, which is comparable with those of other bats (19.34 ~ 33.32%), but significantly lower than those of other mammalian genomes (25.27 ~ 51.62%; S6 Table).  #@NEW_LINE#@#  
+The body of the M. rufoniger carcass used in this study was damaged and its morphological sex determination was not possible.  #@NEW_LINE#@#  We therefore compared its heterozygosity in X-chromosomal scaffolds with that of the other male Myotis bat (S7 Table).  #@NEW_LINE#@#  Since mammalian males have both X and Y sex chromosomes while females have two X chromosomes, a male individual has to show a lower heterozygosity in X chromosome than that of a female individual.  #@NEW_LINE#@#  Our sample showed an even lower heterozygosity in X-chromosomal scaffolds than that of the male M. davidii individual, indicating that it is clearly a male.  #@NEW_LINE#@#  
+
+Relationship_of_M_rufoniger_to_other_mammalian_species  #@NEW_LINE#@#  
+We identified orthologous gene clusters from 13 mammalian genomes (seven bat genomes: Myotis brandtii, Myotis lucifugus, Myotis davidii, Eptesicus fuscus, Pteropus alecto, Pteropus vampyrus, and Rousettus aegyptiacus, and six other mammalian genomes: Homo sapiens, Mus musculus, Bos taurus, Equus caballus, Heterocephalus glaber, and Monodelphis domestica; S2 Table) using OrthoMCL software [13].  #@NEW_LINE#@#  The M. rufoniger genes were matched and added to the orthologous clusters of M. brandtiis genes, and 6,782 single-copy gene families among the 14 species were identified [7].  #@NEW_LINE#@#  
+The divergence times of M. rufoniger and the 13 mammals were estimated using 1,258,141 four-fold degenerate sites from the 6,782 single-copy genes (Fig 1).  #@NEW_LINE#@#  The closest clade to bats was E. caballus (horse) and B. taurus (cow) clade (diverged at 79.45 million years ago [MYA]).  #@NEW_LINE#@#  The Myotis bats diverged into its current clade approximately 11.52 MYA.  #@NEW_LINE#@#  M. davidii was estimated to be the closest to the M. rufoniger among the three Myotis bats used in this study.  #@NEW_LINE#@#  The divergence time between M. rufoniger and M. davidii was estimated to be 10.41 million years, indicating a fairly recent divergence which is suitable for our close species comparative genomics analyses.  #@NEW_LINE#@#  
+The estimated divergence time (million years ago; MYA) is given at the nodes, with the 95% confidence intervals in parentheses.  #@NEW_LINE#@#  The calibration times of M. brandtiiH.  #@NEW_LINE#@#  sapiens (97.5 MYA), and M. brandtiiP.  #@NEW_LINE#@#  alecto (62.6 MYA) were derived from the TimeTree database.  #@NEW_LINE#@#  Colored branches and circles represent bat groups (blue: insect-eating microbat, red: fruits-eating mega bat).  #@NEW_LINE#@#  M. domestica, used as an outgroup species, was excluded in this figure.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0180418.g001  #@NEW_LINE#@#  
+
+M_rufoniger_specific_amino_acid_sequences  #@NEW_LINE#@#  
+From previous studies [3,4], bat-specific amino acid sequences within FSHB, GHR, IGF1R, TP53, MDM2, SLC45A2, RGS7BP, RHO, OPN1SW, and CNGB3 genes were reported.  #@NEW_LINE#@#  They represent some general characteristics of Myotis bats: delayed ovulation (FHSB), long lifespan (GHR and IGF1R), powered flight (TP53 and MDM2), echolocation (SLC45A2 and RGS7B), and low vision (RHO, OPN1SW, and CNGB3).  #@NEW_LINE#@#  The same amino acid sequences within the above listed genes were also identified in the M. rufoniger genome (S3 Fig).  #@NEW_LINE#@#  
+To further identify bat-specific amino acid sequences linked to environmental adaptations and unique evolutionary features, we investigated M. rufoniger specific amino acid changes compared to other Myotis bats.  #@NEW_LINE#@#  A total of 3,366 unique amino acid changes (uAACs) from 2,125 genes were identified in M. rufoniger.  #@NEW_LINE#@#  Among them, 1,696 uAACs from 1,228 genes were predicted to be function altering by the protein variation effect analyzer (PROVEAN) software (variant score  -2.5; S8 Table) [14].  #@NEW_LINE#@#  These function-altering variants and associated genes can provide insights onto M. rufoniger specific evolutionary adaptation.  #@NEW_LINE#@#  When gap-containing genes were excluded, 1,239 uAACs from 929 genes were predicted to be function altering (S9 Table).  #@NEW_LINE#@#  A functional enrichment analysis of the 929 genes having function-altering uAACs was performed using DAVID (Database for Annotation Visualization and Integrated Discovery) tool [15].  #@NEW_LINE#@#  The probably function-altered genes were significantly enriched in reproduction related terms (Gene Ontology [GO] analysis with a Pvalue  0.05 by EASE scores [modified Fishers exact test] and with a 10% of false discovery rate [FDR]) including reproductive processes in a multicellular organism (P-value: 0.00026, 39 genes, GO: 0048609), ovulation cycle (P-value: 0.00052, 11 genes, GO: 0042698), and gamete generation (P-value: 0.0017, 31 genes, GO: 0007276; S10 Table).  #@NEW_LINE#@#  In M. rufoniger, pigment related terms were significantly enriched in the function-altered genes as in the melanin biosynthetic process (P-value: 0.0037, 4 genes, GO: 0042438; S10 Table).  #@NEW_LINE#@#  The genes are DCT (Dopachrome tautomerase), SLC45A2 (Solute carrier family 45), TYRP1 (Tyrosinase-related protein 1), and OCA2 (Oculocutaneous albinism II).  #@NEW_LINE#@#  We could identify some uAACs in DCT, SLC45A2, TYRP1, and OCA2 genes in the other Myotis bats as function-altering using PROVEAN software (Table 2; S11 Table) [14] indicating those genes are not only specific to M. rufonigers red fur color.  #@NEW_LINE#@#  The multiple sequence alignments and specific amino acid sequences are presented in S4 Fig  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0180418.t002  #@NEW_LINE#@#  
+As we were interested in the variants whole gene function, all the PROVEAN variant scores of each gene were summed up.  #@NEW_LINE#@#  We then ranked the sums of the function-altered gene candidates (S12 Table).  #@NEW_LINE#@#  For the top 20 genes, the same analysis was carried out in the other Myotis bat species for comparison (Table 3; S13 and S14 Tables).  #@NEW_LINE#@#  We ranked M. rufonigers genes according to the numbers of variants and summed variant scores, and compared them to those of other Myotis bat genes.  #@NEW_LINE#@#  From the result, N6AMT1 (N-6 Adenine-Specific DNA Methyltransferase 1) showed the fourth-lowest sum of variants scores (sum of PROVEAN variant scores: -40.285 and number of variants: six in M. rufoniger; no uAAC in the other Myotis bats), indicating a high degree of function alteration of N6AMT1 in M. rufoniger.  #@NEW_LINE#@#  The multiple sequence alignments and specific amino acid sequences are presented in S5 Fig  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0180418.t003  #@NEW_LINE#@#  
+
+Demographic_history_and_the_genetic_diversity_of_Myotis_bats  #@NEW_LINE#@#  
+Deeply sequenced genomes allow the estimation of population structure history [10,11].  #@NEW_LINE#@#  To investigate the demographic history of Myotis bats, a pairwise sequentially Markovian coalescent (PSMC) model inference analysis was conducted [11].  #@NEW_LINE#@#  M. rufoniger was estimated as the most flourished species around 30 ~ 300 k years ago compared to the other Myotis bats, and its demographic history showed that its population peak was 50 k years ago (Fig 2).  #@NEW_LINE#@#  However, its effective population size was dramatically decreased during the last glacial period (10 ~ 50 k years ago), and it was estimated to be the lowest in present.  #@NEW_LINE#@#  Also, a consistent decline in the effective population size of Myotis bats since ~30 k years ago was found (Fig 2).  #@NEW_LINE#@#  We further investigated the genomic diversity (which can be affected by population size) of the M. rufoniger and compared it to those of the other Myotis bats.  #@NEW_LINE#@#  The M. rufoniger genetic diversity (0.00391), based on the heterozygous SNV rate, was lower than those of the M. davidii (0.00471) and the M. brandtii (0.00614), confirming the M. rufonigers low effective population size (S13 Table).  #@NEW_LINE#@#  
+Tsurf, atmospheric surface air temperature (T indicates temperature, surf indicates surface); RSL, relative sea level; 10 m.s.l.e., 10 m sea level equivalent; g, generation time (years); , mutation rate per base pair per year.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0180418.g002  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+The function-altering variants containing genes of the M. rufoniger were concentrated in reproduction associated pathways.  #@NEW_LINE#@#  Prolonged sperm storage is a common behavior in Vespertilionidae (including genus Myotis, Pipistrellus, Nyctalus, Eptesicus, Vesoertilio, Chalinolobus, and Plecotus) and Rhinolophidae family species [1618], and thus it is probably not M. rufoniger specific as reproduction related genes are always under strong natural selection.  #@NEW_LINE#@#  Therefore, such hits can be regarded as general or even a kind of artefact.  #@NEW_LINE#@#  Therefore, further detailed functional verification is necessary to understand the roles of each uAAC in functional categories such as reproduction.  #@NEW_LINE#@#  
+The previous bat studies reported unique variants representing some general characteristics of Myotis bats: delayed ovulation (FHSB), long lifespan (GHR and IGF1R), powered flight (TP53 and MDM2), echolocation (SLC45A2 and RGS7B), and low vision (RHO, OPN1SW, and CNGB3) [3, 4].  #@NEW_LINE#@#  We confirmed the reported amino acid sequences within the above listed genes were conserved in the M. rufoniger as in other bat genomes (S3 Fig), supporting that those variants are Myotis bat-wide not one species-specific nor individual-specific variants.  #@NEW_LINE#@#  
+We also found that the function-altering unique variants containing the genes of the M. rufoniger were concentrated in a melanin associated pathway including DCT, SLC45A2, TYRP1, and OCA2 genes.  #@NEW_LINE#@#  TYRP1 and DCT genes are known to influence the quantity and quality of melanin [19].  #@NEW_LINE#@#  Mutations on the TYRP1 gene are known to be associated with rufous/red albinism, causing reddish-brown skin or red hair [2022].  #@NEW_LINE#@#  The protein (melanocyte-specific transporter protein) encoded by OCA2 gene has been reported as a transporter of tyrosine, the precursor to melanin synthesis [23].  #@NEW_LINE#@#  Variants within the SLC45A2 gene have shown association with hair color, affecting red/yellow pheomelanin pathway [2425].  #@NEW_LINE#@#  In this context, we suggest that the variants within the DCT, SLC45A2, TYRP1, and OCA2 genes are likely responsible for the M. rufonigers rusty orange fur color, which distinguish it from the other bats.  #@NEW_LINE#@#  However, fewer but certain uAACs within the DCT, SLC45A2, TYRP1, and OCA2 genes were also found in the other Myotis bats, suggesting a possible general role of those genes in bat-wide coloration.  #@NEW_LINE#@#  Therefore, a set of bat species with color diversity will be required for further analyses to understand the precise geno-phenotype associations in coloration.  #@NEW_LINE#@#  
+In the M. rufoniger genome, N6AMT1 gene showed a high degree of function alteration.  #@NEW_LINE#@#  The protein (HemK methyltransferase family member 2) encoded by N6AMT1 gene can transform monomethylarsonous acid to dimethylarsinic acid, conferring resistance of mammalian cells to arsenic-induced toxicity [26].  #@NEW_LINE#@#  An elemental analysis in the tissues from the M. rufoniger individual analyzed in the present study showed a very high concentration of arsenic in its intestinal tissue [27], suggesting that the M. rufoniger individual was exposed to food or water highly contaminated with arsenic.  #@NEW_LINE#@#  In this context, uAACs in N6AMT1 can be considered as a possible chemical adaptation signature.  #@NEW_LINE#@#  It can be a generally stressful condition for the bats living in caves, because caves are hazardous due to various harmful elements and chemicals such as heavy metals [28].  #@NEW_LINE#@#  However, until a further experimental validation is carried out, it is a very speculative hypothesis of rapid adaptation to harmful cave elements.  #@NEW_LINE#@#  Furthermore, this study used genomic data from only one individual for each species and the variant comparison analysis can be biased by individual-specific variants.  #@NEW_LINE#@#  More genomes are necessary to be sequenced to confirm that our findings general applicability in both M. rufoniger and Myotis bats.  #@NEW_LINE#@#  
+The M. rufoniger showed the lowest effective population size compared to other Myotis bats from the PSMC analysis.  #@NEW_LINE#@#  This does not necessarily indicate that they are the most endangered as they are fairly widely spread.  #@NEW_LINE#@#  It is perhaps more reasonable to attribute it to very recent human encroachment.  #@NEW_LINE#@#  It is also shown that the population size of the M. rufoniger was dramatically decreased during the latter part of the last glacial period.  #@NEW_LINE#@#  There was a consistent decline of Myotis bat familys effective population size since ~30 k years ago.  #@NEW_LINE#@#  However, we cannot determine whether it is a bat-wide or Myotis bat specific phenomenon either, because we conducted the PSMC analysis using a small number of species.  #@NEW_LINE#@#  The dramatic decrease in the population size of the M. rufoniger could be a Korean M. rufoniger specific phenomenon.  #@NEW_LINE#@#  Therefore, a set of diverse species will be required to accurately model the bats effective population size history.  #@NEW_LINE#@#  
+In conclusion, we report the first whole genome sequences of the M. rufoniger with bioinformatics analyses such as multiple sequence alignment, function altering uAAC prediction, functional enrichment, and population size estimation using PSMC.  #@NEW_LINE#@#  These provided us with some speculative insights on how bats adapted to environment sustaining the current behavioral, physiological, and demographic features such as bats prolonged sperm storage during reproduction, long lifespan, powered flight, low vision, echolocation, possible arsenic resistance, fur coloration, and consistently decreasing effective population sizes in their demographic history.  #@NEW_LINE#@#  
+
+Materials_and_method  #@NEW_LINE#@#  
+Sample_and_genome_sequencing  #@NEW_LINE#@#  
+The partially decomposed carcass of M. rufoniger was found in August 2012 at Gosudonggul cave in Danyang, South Korea (coordinates: 36° 59' 18.67'' N, 128° 22' 53.26'' E; elevation: 180.65 m) by Gosudonggul cave management office staff.  #@NEW_LINE#@#  The M. rufoniger was moved to the Natural Heritage Center of the Cultural Heritage Administration (South Korea) and kept frozen (Keeping temperature: -70°C).  #@NEW_LINE#@#  We acquired the M. rufoniger sample from the Natural Heritage Center under the Cultural Heritage Administration permit in June 2013.  #@NEW_LINE#@#  The wing membrane tissue, which seemed not decayed, was acquired for genomic DNA sequencing (S1 Picture).  #@NEW_LINE#@#  
+Its genomic DNA was sequenced using Illumina HiSeq2000 platform, with a read length of 100 bp and insert sizes of 566 and 574 bp from two genomic libraries.  #@NEW_LINE#@#  The DNA was extracted using a Tiangen Micro DNA Kit.  #@NEW_LINE#@#  The amount of DNA was quantified by fluorometry using a UV spectrophotometer (Tecan F200).  #@NEW_LINE#@#  A partial DNA degradation was identified by electrophoresis (S2 Picture), but it was judged good resulting in no significant sequencing quality problems.  #@NEW_LINE#@#  The genomic DNA was sheared to approximately 566 bp and 574 bp using a Covaris S2 Ultrasonicator, and then used in the preparation of whole-genome shotgun libraries according to Illuminas library preparation protocols.  #@NEW_LINE#@#  The efficacy of each step of the library construction was ascertained using a 2100 Bioanalyzer (S6 Fig).  #@NEW_LINE#@#  The final dilutions of the two libraries were then sequenced using a HiSeq2000 sequencer with the TruSeq PE Cluster kit v3-cbot HS and TruSeq SBS kit v3-HS for 200 cycles.  #@NEW_LINE#@#  
+
+Sequencing_read_filtering  #@NEW_LINE#@#  
+A DNA read was filtered out when the read Q20 base content was lower than 70%, using IlluQCPRLL.pl script of NGSQCToolkit (ver 2.3.3; S1 Table) [29].  #@NEW_LINE#@#  We additionally downloaded genome data of the other bats (Myotis brandtii, Myotis davidii, Myotis lucifugus, Pteropus Alecto, and Pteropus vampyrus) from the NCBI database.  #@NEW_LINE#@#  Low quality DNA reads from the other bats were also filtered out using the same method (S1 Table).  #@NEW_LINE#@#  The possible microbial contaminated DNA reads were filtered out when the reads alignment scores to microbial (bacteria and fungi) genomes were higher than that to the Myotis bat genomes (M. brandtii, M. davidii, and M. lucifugus; S3 Table).  #@NEW_LINE#@#  We used microbial genomes that were downloaded from Ensembl database and the three Myotis bat genome assemblies were from NCBI.  #@NEW_LINE#@#  The DNA reads were mapped to the microbial and Myotis bat genomes using BWA-MEM algorithm of BWA (version 0.7.15) with Mark shorter split hits as a secondary option (-M) [30].  #@NEW_LINE#@#  The rmdup command of SAMtools (ver 0.1.19) was used to remove PCR duplicates [31].  #@NEW_LINE#@#  The possible microbial contaminated reads in the other Myotis bats were also filtered out by using the same method but mapping was to their own genome assemblies (S1 Table).  #@NEW_LINE#@#  
+
+Species_identification  #@NEW_LINE#@#  
+To construct the phylogenetic tree and identify the samples species, the mitochondrial cytochrome b consensus sequence was generated by mapping the sequencing data to the M. rufoniger mitochondrial cytochrome b sequence (GenBank accession number: HQ184048.1) using BWA-MEM algorithm of BWA (version 0.7.15) with Mark shorter split hits as a secondary option (M) [30].  #@NEW_LINE#@#  The reads were realigned using the GATK (version 2.52) RealignerTargetCreator and IndelRealigner algorithms to minimize the read alignment mismatches [32].  #@NEW_LINE#@#  The rmdup command of SAMtools (ver 0.1.19) was used to remove PCR duplicates [31].  #@NEW_LINE#@#  The variants from the whole genome sequencing data against the reference were called using mpileup command of SAMtools (version 0.1.19) withE option to minimize the noise, -A option to use regardless of insert size constraint, -q 20 to consider only high quality mapping reads, andQ 30 to consider only high quality bases [31].  #@NEW_LINE#@#  The called variants were filtered using vcfutils.pl varFilter command of SAMtools (ver 0.1.19) with -d 8 option (minimal depth of 8) [31].  #@NEW_LINE#@#  SNVs detected from the whole genome sequencing data against the reference were substituted to construct mitochondrial cytochrome b consensus sequence of the M. rufoniger using vcfutils.pl vcf2fq command of SAMtools (ver 0.1.19) with -l 5 option (no indel present within a 5 bp window) [31].  #@NEW_LINE#@#  A multiple sequence alignment of the mitochondrial cytochrome b sequences was conducted using MUSCLE (version 3.8.31) program with default options [2,33].  #@NEW_LINE#@#  A phylogenetic analysis was conducted using MEGA 7.0 program [34].  #@NEW_LINE#@#  The phylogenetic tree was inferred by using a Maximum Likelihood method based on the Tamura-Nei model with 1,000 replicates bootstrapping [35,36]  #@NEW_LINE#@#  
+
+Genome_size_estimation  #@NEW_LINE#@#  
+For a K-mer analysis, KmerFreq_HA command of SOAPec program in SOAPdenovo2 package was used with a K = 17 option [37].  #@NEW_LINE#@#  The genome size was estimated from the number of K-mers (depth  3) divided by the peak depth of the K-mer graph.  #@NEW_LINE#@#  
+
+Mapping_sequence_data  #@NEW_LINE#@#  
+The filtered sequenced reads were mapped to the three Myotis bat genome assemblies (M. brandtii, M. davidii, and M. lucifugus) using BWA-MEM algorithm of BWA (version 0.7.15) with Mark shorter split hits as a secondary option (-M) [30].  #@NEW_LINE#@#  The reads were realigned using the GATK (version 2.52) RealignerTargetCreator and IndelRealigner algorithms to minimize the read alignment mismatches [32].  #@NEW_LINE#@#  The rmdup command of SAMtools (ver 0.1.19) was used to remove PCR duplicates [31].  #@NEW_LINE#@#  The variants of M. rufoniger were called using mpileup command of SAMtools withE, -q 20, -A, andQ 30 options [31].  #@NEW_LINE#@#  The called variants were filtered using vcfutils.pl varFilter command of SAMtools (ver 0.1.19) with -d 8 and -D 250 options (minimal depth of 8 and maximal depth of 250) [31].  #@NEW_LINE#@#  The DNA consensus sequences of M. rufoniger were generated by substituting the M. rufoniger SNVs detected from the whole genome sequencing data to each reference bat genome using the vcfutils.pl vcf2fq command of SAMtools (ver 0.1.19) with -l 5 option [31].  #@NEW_LINE#@#  
+
+Repeat_annotation  #@NEW_LINE#@#  
+RepeatMasker (version 4.0.5) was used to identify transposable elements by aligning the M. rufoniger consensus genome sequence against a library of M. brandtii with default option [38].  #@NEW_LINE#@#  For the comparison of the M. rufonigers repeat annotation with the other species, the same method was used for other genome references.  #@NEW_LINE#@#  
+
+Sex_determination  #@NEW_LINE#@#  
+Male M. davidii reads were mapped to the M. brandtii (a male sample) genome assembly using BWA-MEM algorithm of BWA 0.7.15 version [30] withM option.  #@NEW_LINE#@#  The reads were realigned using the GATK (version 2.52) RealignerTargetCreator and IndelRealigner algorithms to minimize the read mismatches [32].  #@NEW_LINE#@#  The rmdup command of SAMtools (ver 0.1.19) was used to remove PCR duplicates [31].  #@NEW_LINE#@#  Variants were called using mpileup command of SAMtools withE, -q 20, -A, andQ 30 options [31].  #@NEW_LINE#@#  The called variants were filtered using vcfutils.pl varFilter command of SAMtools (ver 0.1.19) with -d 8 and -D 250 options [31].  #@NEW_LINE#@#  To identify X-chromosomal scaffolds from the M. brandtii genome assembly, we conducted BLASTn (Blast 2.2.26) with an E-value cutoff of 1E-6 using X-chromosomal CDS sequences of human as queries [39].  #@NEW_LINE#@#  Scaffolds having greater than or equal to 10 top hits were considered as X-chromosomal scaffolds.  #@NEW_LINE#@#  
+
+Comparative_evolutionary_analysis  #@NEW_LINE#@#  
+Orthologous gene families between M. rufonigers sequence and 13 mammalian genomes (Seven bat genomes: M. brandtii, M. lucifugus, M. davidii, E. fuscus, P. alecto, P. vampyrus, and R. aegyptiacus, and six other mammals: H. sapiens, M. musculus, B. taurus, E. caballus, H. glaber, and M. domestica; S2 Table) were identified using OrthoMCL software (version 2.0.9) by matching and adding the M. rufoniger genes to orthologous clusters of M. brandtiis genes, and 6,782 single-copy gene families among the 14 species were collected [7,13].  #@NEW_LINE#@#  M. brandtii, M. lucifugus, M. davidii, E. fuscus, P. alecto, P. vampyrus, R. aegyptiacus, H. sapiens, M. musculus, B. taurus, E. caballus, H. glaber, and M. domestica genomes and gene sets were downloaded from the NCBI database (S3 Table).  #@NEW_LINE#@#  
+To construct a phylogenetic tree and estimate the divergence time of bats and other mammals, 1,258,141 four-fold degenerate sites from the 6,782 single-copy gene families were used to conduct the multiple sequence alignment (MSA) using MUSCLE (version 3.8.31) program [33].  #@NEW_LINE#@#  The phylogenetic tree was constructed among the 14 species using a Randomized Axelerated Maximum Likelihood (RAxML) program (version 8.2) [40].  #@NEW_LINE#@#  In RAxML program, GTR gamma model was used as the nucleotide substitution model.  #@NEW_LINE#@#  In order to check the branch reliability, 1,000 rapid bootstrapping was used.  #@NEW_LINE#@#  The M. domestica was used as an outgroup species.  #@NEW_LINE#@#  Based on this phylogenetic tree topology, the divergence time was estimated using Reltime-ML in MEGA 7.0 program [34].  #@NEW_LINE#@#  In this process, the divergence time at the node between M. brandtiiH.  #@NEW_LINE#@#  sapiens was constrained to be 97.5 MYA, and M. brandtiiP.  #@NEW_LINE#@#  alecto was constrained to be 62.6 MYA based on the TimeTree database [41].  #@NEW_LINE#@#  
+Amino acid changes were identified by constructing MSAs among the 6,782 single copy gene families using Clustal Omega (version 1.2.4) [42].  #@NEW_LINE#@#  Function-altering amino acid changes were predicted using PROVEAN (version 1.1.5) [14].  #@NEW_LINE#@#  The MSAs of the DCT, SLC45A2, TYRP1, OCA2, and N6AMT1 genes were manually checked, and uAACs within misaligned regions were excluded in the variant score analysis.  #@NEW_LINE#@#  Only homozygous amino acid variants were considered in the amino acid sequence comparison analysis to reduce bias from individual-specific variants.  #@NEW_LINE#@#  
+
+Demographic_history_and_genetic_diversity  #@NEW_LINE#@#  
+The demographic history of the Myotis bats was estimated using a pairwise sequential Markovian coalescent (PSMC) program [11].  #@NEW_LINE#@#  We mapped the downloaded genome sequencing data of Myotis bats to the M. lucifugus genome assembly using BWA-MEM algorithm of BWA 0.7.15 version [30] withM option.  #@NEW_LINE#@#  The reads were realigned using the GATK (version 2.52) RealignerTargetCreator and IndelRealigner algorithms to minimize the read mismatches [32].  #@NEW_LINE#@#  The rmdup command of SAMtools (ver 0.1.19) was used to remove PCR duplicates [31].  #@NEW_LINE#@#  SAMtools was used to extract diploid genome information from the BAM files [31].  #@NEW_LINE#@#  Options of -N25 -t15 -r -p 4+25*2+4+6 were used for the PSMC analysis.  #@NEW_LINE#@#  The generation time for the Myotis bats was estimated as sum of average maturation and gestation time (S16 Table) [43,44].  #@NEW_LINE#@#  The mutation rate of Myotis bats was estimated by multiplying reported neutral mutation rate for mammals (2.2 × 109 per base pair per year) by the generation time (1.2 year) [45].  #@NEW_LINE#@#  Atmospheric surface air temperature and global relative sea level data of the past three million years were obtained and used for this analysis [46].  #@NEW_LINE#@#  The genomic diversity was calculated by dividing the number of heterozygous SNVs by its genome size (bp) [8].  #@NEW_LINE#@#  For the genomic diversity calculation, variants were called using mpileup command of SAMtools withE, -q 20, -A, andQ 30 options [31].  #@NEW_LINE#@#  The called variants were filtered using vcfutils.pl varFilter command of SAMtools (ver 0.1.19) with -d 8 and -D 250 options [31].  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Picture_M_rufoniger_carcass_picture  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s001  #@NEW_LINE#@#  
+(JPG)  #@NEW_LINE#@#  
+
+S2_Picture_DNA_sample_electrophoresis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s002  #@NEW_LINE#@#  
+(JPG)  #@NEW_LINE#@#  
+
+S1_Fig_Phylogenetic_relationship_of_the_M_rufoniger_sample_with_other_bats  #@NEW_LINE#@#  
+The phylogenetic relationship of Myotis bats was inferred from the alignment of mitochondrial cytochrome b coding sequences.  #@NEW_LINE#@#  The percentage of trees in which the associated taxa clustered together is shown next to the branches.  #@NEW_LINE#@#  Each node has its species name and GenBank accession number.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s003  #@NEW_LINE#@#  
+(JPG)  #@NEW_LINE#@#  
+
+S2_Fig_Estimation_of_genome_size_using_a_K-mer_(17-mers)_analysis  #@NEW_LINE#@#  
+The x-axis represents depth, and the y-axis represents proportion, as calculated by the frequency at a given depth divided by the total frequency at all depths.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s004  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S3_Fig_Previously_reported_bats__unique_amino_acid_changes  #@NEW_LINE#@#  
+Previously reported bats unique amino acid sequence changes within FSHB, GHR, IGF1R, TP53, and MDM2 are highlighted in yellow; (A), Alignment of FSHB encoded peptide sequences; (B), Alignment of GHR-encoded peptide sequences; (C), Alignment of IGF1R encoded peptide sequences; (D), Alignment of TP53-encoded peptide sequences; (E), Alignment of MDM2 encoded peptide sequences; (F), Alignment of SLC45A2-encoded peptide sequences; (G), Alignment of RGS7BP-encoded peptide sequences; (H), Alignment of RHO-encoded peptide sequences; (I), Alignment of OPN1SW-encoded peptide sequences; (J), Alignment of CNGB3-encoded peptide sequences.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s005  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S4_Fig_Myotis_bats__uAACs_within_DCT__SLC45A2__TYRP1__and_OCA2_genes  #@NEW_LINE#@#  
+Myotis bats uAACs within DCT, SLC45A2, TYRP1, and OCA2 genes are highlighted (yellow if PROVEAN score of variant  -2.5, unless green).  #@NEW_LINE#@#  The domain region of human sequences are shaded in gray; (A) Alignment of DCT encoded peptide sequences; (B) Alignment of SLC45A2 encoded peptide sequences; (C) Alignment of TYRP1 encoded peptide sequences; (D) Alignment of OCA2 encoded peptide sequences.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s006  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S5_Fig_M_rufoniger_specific_amino_acid_sequence_changes  #@NEW_LINE#@#  
+M. rufoniger specific amino acid sequence changes within N6AMT1 gene are highlighted in yellow.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s007  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S6_Fig_Sequencing_library_574bp_QC  #@NEW_LINE#@#  
+(A) Sequencing library 574bp QC; (B) Sequencing library 566bp QC.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s008  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Table_Sequencing_read_filtering_result  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s009  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_17-mer_statistics_information  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s010  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_Reference_genomes_used_in_this_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s011  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S4_Table_Base_composition_of_M_rufoniger_genome  #@NEW_LINE#@#  
+The GC contents were calculated by dividing the number of [(C+G+S)(M+K+R+Y)] ~ [(C+G+S) + (M+K+R+Y)] by the number of (sumgap); The proportion of A, C, G, and T, and the proportion of W, S, M, K, and Y were calculated by dividing each number by the number of (sum-gap)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s012  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S5_Table_GC_content_statistics_of_M_rufoniger  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s013  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S6_Table_Transposon-derived_repeats_in_the_M_rufoniger_genome  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s014  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S7_Table_Comparison_of_X-chromosomal_scaffold_heterozygosity  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s015  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S8_Table_M_rufoniger_unique_amino_acid_changes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s016  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S9_Table_M_rufoniger_unique_amino_acid_changes_from_gap_filtered_sequences  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s017  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S10_Table_Functional_enrichment_of_M_rufoniger_uAACs_containing_genes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s018  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S11_Table_PROVEAN_scores_of_DCT__SLC45A2__TYRP1__and_OCA2_genes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s019  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S12_Table_Sum_of_the_PROVEAN_scores  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s020  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S13_Table_PROVEAN_scores_of_top_20_ranked_genes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s021  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S14_Table_Sum_of_the_PROVEAN_scores_of_top_20_ranked_genes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s022  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S15_Table_Variants_statistics_regarding_mapping_of_Myotis_bat_raw_reads_to_the_M_lucifugus_reference  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s023  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S16_Table_Generation_time_calculation  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0180418.s024  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+Korea Institute of Science and Technology Information (KISTI) provided us with Korea Research Environment Open NETwork (KREONET), which is an academic internet connection service.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: YB YSC DYR JB.  #@NEW_LINE#@#  
+Data curation: YB OC S. Jho JHJ HMK.  #@NEW_LINE#@#  
+Formal analysis: YB YJ S. Jeon.  #@NEW_LINE#@#  
+Funding acquisition: JB.  #@NEW_LINE#@#  
+Investigation: YB YJ S. Jeon YC.  #@NEW_LINE#@#  
+Methodology: JB YB.  #@NEW_LINE#@#  
+Project administration: JA DYR JB.  #@NEW_LINE#@#  
+Resources: DYR SL JHK JDL.  #@NEW_LINE#@#  
+Software: YB YJ S. Jeon OC S. Jho JHJ HMK.  #@NEW_LINE#@#  
+Supervision: JB.  #@NEW_LINE#@#  
+Validation: YB CY.  #@NEW_LINE#@#  
+Visualization: YB S. Jeon.  #@NEW_LINE#@#  
+Writing  original draft: JB YB.  #@NEW_LINE#@#  
+Writing  review & editing: YB YJ S. Jeon JA YSC JB.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+

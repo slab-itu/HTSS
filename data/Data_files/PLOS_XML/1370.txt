@@ -1,0 +1,191 @@
+article id="http://dx.doi.org/10.1371/journal.pntd.0005440"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+The effect of current Schistosoma mansoni infection on the immunogenicity of a candidate TB vaccine, MVA85A, in BCG-vaccinated adolescents: An open-label trial  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Helminth infection may affect vaccine immunogenicity and efficacy.  #@NEW_LINE#@#  Adolescents, a target population for tuberculosis booster vaccines, often have a high helminth burden.  #@NEW_LINE#@#  We investigated effects of Schistosoma mansoni (Sm) on the immunogenicity and safety of MVA85A, a model candidate tuberculosis vaccine, in BCG-vaccinated Ugandan adolescents.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+In this phase II open label trial we enrolled 36 healthy, previously BCG-vaccinated adolescents, 18 with no helminth infection detected, 18 with Sm only.  #@NEW_LINE#@#  The primary outcome was immunogenicity measured by Ag85A-specific interferon gamma ELISpot assay.  #@NEW_LINE#@#  Tuberculosis and schistosome-specific responses were also assessed by whole-blood stimulation and multiplex cytokine assay, and by antibody ELISAs.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Ag85A-specific cellular responses increased significantly following immunisation but with no differences between the two groups.  #@NEW_LINE#@#  Sm infection was associated with higher pre-immunisation Ag85A-specific IgG4 but with no change in antibody levels following immunisation.  #@NEW_LINE#@#  There were no serious adverse events.  #@NEW_LINE#@#  Most reactogenicity events were of mild or moderate severity and resolved quickly.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+The significant Ag85A-specific T cell responses and lack of difference between Sm-infected and uninfected participants is encouraging for tuberculosis vaccine development.  #@NEW_LINE#@#  The implications of pre-existing Ag85A-specific IgG4 antibodies for protective immunity against tuberculosis among those infected with Sm are not known.  #@NEW_LINE#@#  MVA85A was safe in this population.  #@NEW_LINE#@#  
+
+Trial_registration  #@NEW_LINE#@#  
+ClinicalTrials.gov NCT02178748  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+There is an urgent global need for an improved TB vaccine strategy.  #@NEW_LINE#@#  Adolescents are an important target population for a TB vaccine.  #@NEW_LINE#@#  In field settings where the need for a vaccine is greatest, co-infection with other pathogens including malaria, HIV and helminths, may interfere with the impact of such strategies.  #@NEW_LINE#@#  In this study, we used a model TB vaccine candidate based on a genetically engineered viral vector, and with an excellent safety profile, to determine whether there was any immunological interference when this vaccine was used in adolescents who were co-infected with S. mansoni.  #@NEW_LINE#@#  Our data shows comparable immunogenicity in adolescents infected and uninfected with S. mansoni, suggesting that co-infection with this helminth species may not have an adverse impact on candidate TB vaccines of this type.  #@NEW_LINE#@#  The vaccine was safe and induced robust cellular responses in both the infected and uninfected adolescents following immunisation.  #@NEW_LINE#@#  These findings are important and encouraging for tuberculosis vaccine development.  #@NEW_LINE#@#  
+
+Citation: Wajja A, Kizito D, Nassanga B, Nalwoga A, Kabagenyi J, Kimuda S, et al.  #@NEW_LINE#@#  (2017) The effect of current Schistosoma mansoni infection on the immunogenicity of a candidate TB vaccine, MVA85A, in BCG-vaccinated adolescents: An open-label trial.  #@NEW_LINE#@#  PLoS Negl Trop Dis 11(5):  #@NEW_LINE#@#  
+           e0005440.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pntd.0005440  #@NEW_LINE#@#  
+Editor: David Joseph Diemert, George Washington University School of Medicine and Health Sciences, UNITED STATES  #@NEW_LINE#@#  
+Received: September 26, 2016; Accepted: February 27, 2017; Published:  May 4, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Wajja et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Data is available at http://www.jenner.ac.uk/pntd-d-16-01618r1.  #@NEW_LINE#@#  
+Funding: This work was supported by the European Community's Seventh Framework Programme [FP7/2007-2013] under EC-GA No 241642 and the Wellcome Trust [grant numbers 095778 to AME and 095780/Z/11/Z to HM].  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Helminth infection is widespread with over a billion people infected worldwide [1].  #@NEW_LINE#@#  In 2014, at least 258 million people required treatment for schistosomiasis, 90% of whom lived in Africa [2].  #@NEW_LINE#@#  In animal models, schistosomiasis impairs responses to immunisation against hepatitis B [3], malaria [4], mycobacterial infection and BCG immunisation [5, 6].  #@NEW_LINE#@#  In humans, the effects are less clear.  #@NEW_LINE#@#  Helminth infections can modulate vaccine-induced responses against tetanus [7], influenza [8], cholera [9], and Salmonella typhi [10].  #@NEW_LINE#@#  T-helper (Th)1 responses are important for protective immunity against intracellular bacteria and viruses, while helminths characteristically induce Th2 [11] and immunoregulatory responses, both of which can down-regulate Th1 pathways [8].  #@NEW_LINE#@#  If concurrent helminth infection impairs vaccine-induced immunity, policies for helminth treatment before, or at, the time of immunisation may be needed.  #@NEW_LINE#@#  
+Tuberculosis (TB) remains a global health problem with very high mortality and morbidity.  #@NEW_LINE#@#  In 2014, there were an estimated 9.6 million new cases and 1.5 million deaths from the disease [12].  #@NEW_LINE#@#  The only licensed TB vaccine, Bacille Calmette-Guérin (BCG), prevents severe disease in childhood [1315] but does not protect against pulmonary TB in many parts of the world.  #@NEW_LINE#@#  Development of an effective vaccine is a key strategy for combating the epidemic.  #@NEW_LINE#@#  
+Adolescents are an important target population for a TB vaccine [16, 17] because TB presents as the pulmonary (transmissible) form, in adolescents and young adults.  #@NEW_LINE#@#  However, adolescents harbour a high prevalence and intensity of helminth infection in countries where helminths are endemic.  #@NEW_LINE#@#  
+MVA85A, a recombinant Modified Vaccinia Ankara virus expressing the Mycobacterium tuberculosis (Mtb) antigen 85A, is a clinically advanced TB vaccine candidate.  #@NEW_LINE#@#  It has been administered to over 2400 human subjects and has an excellent safety profile.  #@NEW_LINE#@#  It is highly immunogenic in BCG-primed UK adults [18], but only modestly immunogenic in BCG-vaccinated South African infants [19], and did not confer protection in either BCG-vaccinated infants or HIV-infected adults [20].  #@NEW_LINE#@#  Reasons for the reduced immunogenicity, and methods of enhancing immunogenicity, are currently being evaluated [21].  #@NEW_LINE#@#  Co-infection with helminths may contribute to poor immunogenicity in high TB burden countries.  #@NEW_LINE#@#  
+We here use MVA85A, a candidate TB vaccine with an excellent safety profile, as a model TB vaccine candidate with which to evaluate the effect of S. mansoni (Sm) infection on the T cell immunogenicity induced.  #@NEW_LINE#@#  Findings from this study may be important for all TB vaccine development.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+Ethics_statement  #@NEW_LINE#@#  
+The study was approved by the Research Ethics Committee of the Uganda Virus Research Institute, the Uganda National Council for Science and Technology, the Uganda National Drug Authority, Oxford Tropical Research Ethics Committee, and London School of Hygiene & Tropical Medicine Ethics Committee.  #@NEW_LINE#@#  Participants provided written informed assent and their parents or guardians gave written informed consent.  #@NEW_LINE#@#  
+
+Study_design  #@NEW_LINE#@#  
+This was a phase II open-label, non-randomised trial with two trial groups: Group 1 without any current helminth infection detected and Group 2 with current Sm infection only.  #@NEW_LINE#@#  Laboratory staff performing immunological assays were blinded to helminth infection status.  #@NEW_LINE#@#  
+The primary objective was to compare the T cell immunogenicity of MVA85A in adolescents with and without Sm infection.  #@NEW_LINE#@#  Secondary objectives were to explore effects of Sm infection on other aspects of the immune response following MVA85A immunisation and to assess the safety of MVA85A in BCG-vaccinated Ugandan adolescents.  #@NEW_LINE#@#  
+
+Study_setting  #@NEW_LINE#@#  
+The study took place in five primary schools within schistosomiasis-endemic areas in Wakiso District, Uganda, on the shores of Lake Victoria, between June 2014 and January 2015.  #@NEW_LINE#@#  Community leaders, district Ministry of Education and Health officials and school staff were consulted and parent-teacher meetings held before the trial started to describe the trial, explain procedures and answer questions.  #@NEW_LINE#@#  
+
+Pre-screening  #@NEW_LINE#@#  
+Pre-screening, by Kato Katz microscopy, was undertaken by the Vector Control Division (VCD) of the Ministry of Health who hold the mandate to screen for helminths in Ugandan schools.  #@NEW_LINE#@#  Children who had no helminths (candidates for Group 1) or Sm only (candidates for Group 2), who were within the eligible age group and who had a BCG scar, were invited for screening visits.  #@NEW_LINE#@#  
+
+Recruitment_and_follow_up  #@NEW_LINE#@#  
+Assenting adolescents, with consent from a parent or guardian, were screened on the school premises.  #@NEW_LINE#@#  A maximum of 60 days was allowed between screening and vaccination.  #@NEW_LINE#@#  Participants provided blood for haematology and biochemistry, urine and three stool samples at screening, and blood samples for evaluation of immune responses at screening, enrolment and 7, 28 and 56 days post-vaccination.  #@NEW_LINE#@#  Stool samples for Kato Katz for all participants were performed at D28 and D56.  #@NEW_LINE#@#  Group 2 participants had an extra visit at D42 for anthelminthic treatment.  #@NEW_LINE#@#  
+
+Exclusion_and_inclusion_criteria  #@NEW_LINE#@#  
+Participants were eligible for vaccination if aged 12 to 17 years, resident in the study area, BCG-vaccinated (based on BCG scar or written documentation), healthy by history and physical examination.  #@NEW_LINE#@#  Exclusion criteria were clinical, radiological, or laboratory evidence of, or previous treatment for, active or latent TB (including a positive ELISpot for ESAT6 or CFP10 at screening); sharing a residence with an individual on anti-TB treatment or with culture or smear-positive pulmonary TB within the last year; positive serology for HIV (Murex Diasorin, Italy and Vironostika, Biomerieux, France), hepatitis B or C (Innotest HCV Ab IV, Innogenetics, Belgium); positive rapid diagnostic test for malaria (SD-Bioline Inc, Korea); Mansonella perstans infection (modified Knotts method [22]); intestinal parasites other than Sm; pregnancy; history of anaphylaxis or allergy likely to be exacerbated by vaccine; haematological or biochemical findings deemed clinically significant at screening; Sm infection intensity greater than 2000 eggs per gram of stool (these individuals were treated immediately).  #@NEW_LINE#@#  
+
+Definition_of_study_groups  #@NEW_LINE#@#  
+Three baseline stool samples were examined by the Kato Katz method [23, 24].  #@NEW_LINE#@#  Urine was examined for schistosome circulating cathodic antigen (CCA) by rapid test (ICT International, Cape Town, South Africa).  #@NEW_LINE#@#  Participants were recruited to Group 1 (no helminths) if none of these assays were positive.  #@NEW_LINE#@#  Participants were recruited to Group 2 (Sm infected) if at least one stool sample was microscopy positive on Kato Katz examination for Sm, and none of the investigations were positive for any other helminths.  #@NEW_LINE#@#  
+One stool sample per participant was also examined by PCR [2528] for Sm, Strongyloides stercoralis and Necator americanus (helminths prevalent in the area [29, 30]).  #@NEW_LINE#@#  Participants were excluded from Group 1 if Sm positive and from both groups if S. strongyloides positive.  #@NEW_LINE#@#  The protocol initially required exclusion from both groups if PCR positive for N. amercianus, however, this was amended when a high proportion of Sm positive individuals were found to be N. americanus PCR positive (despite having three samples negative by microscopy).  #@NEW_LINE#@#  
+
+Investigational_medicinal_product  #@NEW_LINE#@#  
+MVA85A was produced under Good Manufacturing Practice conditions by IDT Biologika GmbH, Dessau-Rosslau, Germany.  #@NEW_LINE#@#  It was stored at -80°C in a locked, temperaturemonitored freezer at the Uganda Virus Research Institute-International AIDS Vaccine Initiative HIV Vaccine Program pharmacy, Entebbe.  #@NEW_LINE#@#  On vaccination days, vaccine was transported from pharmacy to field on dry ice.  #@NEW_LINE#@#  
+
+Vaccination  #@NEW_LINE#@#  
+All participants received 1x108 plaque forming units (PFU) MVA85A as a single intramuscular injection in the deltoid region.  #@NEW_LINE#@#  
+
+Anti-helminthic_treatment  #@NEW_LINE#@#  
+All participants were treated for helminths with praziquantel (40mg/kg) and albendazole (400 mg) under observation by trial staff.  #@NEW_LINE#@#  Group 1 received a single dose on D56 (in accord with annual mass treatment performed by VCD).  #@NEW_LINE#@#  Group 2 participants received two doses of praziquantel, one on D28 (after samples were obtained) and one on D42, to optimise clearance of infection.  #@NEW_LINE#@#  In this community, free diagnosis and treatment for Schistosomiasis is largely provided by the VCD, with whom we worked, so any treatment was done with the study teams knowledge.  #@NEW_LINE#@#  
+
+Endpoints  #@NEW_LINE#@#  
+The primary endpoint was T cell immunogenicity assessed by ex vivo Ag85A-specific interferon gamma (IFN-) ELISpot response.  #@NEW_LINE#@#  Secondary endpoints were the profile of cytokine responses assessed by multiplex Luminex assay of supernatant following six-day whole blood stimulation, plasma antibody concentrations, and solicited and unsolicited local and systemic adverse events.  #@NEW_LINE#@#  
+
+Immunological_assays  #@NEW_LINE#@#  
+
+Whole_blood_stimulation_and_multiplex_Luminex_assay  #@NEW_LINE#@#  
+Whole blood assays were conducted as previously described [18, 31, 33].  #@NEW_LINE#@#  Briefly, whole blood diluted to a final concentration of 1:4 in RPMI supplemented with 10% Fetal Calf Serum (R10) was stimulated with Ag85A (2g/ml), PPD-T (10g/ml), schistosome worm antigen (SWA;10g/ml, provided by Professor M Doenhoff, University of Nottingham, UK) and phytohaemaggluttin (Sigma-Aldrich; 10g/ml) or left unstimulated and incubated for 6 days in 5% carbon dioxide at 37°C.  #@NEW_LINE#@#  Cytokine responses (IFN-, interleukin (IL)10, tumour necrosis factor (TNF), granulocyte-monocyte stimulating factor (GMCSF), IL12P40, IL13, IL17A, IL1A, IL2, IL5, inducible protein (IP)10, macrophage inflammatory protein-1-alpha (MIP1), IL6, IL1270, IL4, monocyte chemoattractant protein-3 (MCP3) and macrophage-derived chemokine (MDC)) in culture supernatants were assessed using a MILLIPLEX MAP Kit, (EMD Millipore Corporation, Billerica, MA, USA).  #@NEW_LINE#@#  Detection antibody cocktail, streptavidin-phycoerythrin working concentrations, and the bead cocktail were diluted to allow three plates to be run from each kit.  #@NEW_LINE#@#  
+
+Antibody_ELISA  #@NEW_LINE#@#  
+ELISA assays were used to measure levels of total IgG, IgG1, IgG4 and IgE to Ag85A, SWA and SEA using an established protocol modified to include responses to mycobacterial antigens [34], detailed in the supplementary methods (S1 Methods).  #@NEW_LINE#@#  
+
+Parasite_PCR_assays  #@NEW_LINE#@#  
+A portion of a stool sample from each participant was suspended in ethanol and stored at -80°C.  #@NEW_LINE#@#  Subsequently, DNA was extracted and samples were examined for Sm, S. stercoralis and N. americanus DNA, as previously described [25].  #@NEW_LINE#@#  
+Aliquots of EDTA-anticoagulated whole blood were stored at -80°C.  #@NEW_LINE#@#  To investigate for low-intensity Plasmodium falciparum infection (the common malaria species in this setting [35] which could have been missed by the rapid diagnostic test) DNA was extracted from 500l whole blood then assessed using Real Time PCR as previously described [36] and detailed in the supplementary methods (S1 Methods).  #@NEW_LINE#@#  A positive malaria PCR was not an exclusion criterion for eligibility.  #@NEW_LINE#@#  
+
+Adverse_events  #@NEW_LINE#@#  
+Solicited and unsolicited adverse events were collected using a diary card completed at home by the participant from D0 to D6 and were assessed by the clinician at every clinic visit.  #@NEW_LINE#@#  
+
+Statistical_methods  #@NEW_LINE#@#  
+The initial plan was to enrol 30 subjects in group 1 and 4060 subjects in group 2.  #@NEW_LINE#@#  The sample size was amended due to challenges with enrolment, to 1224 subjects in each group.  #@NEW_LINE#@#  With 1218 participants in each group, the study had 5674% power to detect a 40% reduction in geometric mean SFUs, and 8294% power to detect a 50% reduction.  #@NEW_LINE#@#  The sample size calculation was based on previous ELISpot data from an adolescent trial [37] and assumed a mean response on the log-scale for SFUs of 6.40 with a standard deviation of 0.59 corresponding to a geometric mean of 600 SFUs on the back-transformed original scale.  #@NEW_LINE#@#  The initial plan was to match participants in the two groups by age and gender, however, this was not possible and these variables were therefore considered a priori as confounders.  #@NEW_LINE#@#  
+The primary immunogenicity analysis was comparison of Ag85A ELISpot responses between Sm infected (Group 2) and uninfected (Group 1) adolescents at peak response (D7).  #@NEW_LINE#@#  Non-parametric analyses using the Mann Whitney U-test and multiple linear regression with bootstrapped confidence intervals adjusting for age, gender, school and hookworm PCR results were used.  #@NEW_LINE#@#  Area under the curve (AUC) analysis was done from D0 to D28.  #@NEW_LINE#@#  
+Multiplex Luminex data were analysed using R (version 3.2.2).  #@NEW_LINE#@#  Unstimulated cytokine responses were subtracted from antigen-stimulated results and negative values were assigned 0.  #@NEW_LINE#@#  Baseline responses were compared between the groups and change following vaccination was evaluated.  #@NEW_LINE#@#  Cytokine responses were compared between Sm infected and Sm uninfected individuals by fitting regression models which also contained terms for appropriate confounders [38], age, gender and school.  #@NEW_LINE#@#  Mean (geometric mean) fold differences were calculated.  #@NEW_LINE#@#  Principal component analysis was conducted on the standardised log AUC cytokine data.  #@NEW_LINE#@#  Bonferroni corrections were used to account for multiple testing.  #@NEW_LINE#@#  
+For antibody concentrations, comparisons were made between baseline levels and change following vaccination.  #@NEW_LINE#@#  
+Solicited and unsolicited adverse events overall and for each group were summarised by frequency and severity.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+1068 pupils were pre-screened, and 174, who were within the target age group of 1217 years, were approached for screening.  #@NEW_LINE#@#  Sixty-seven were excluded before consenting, 35 because parents/guardians declined to consent; 12 had no BCG scar; 10 left school during the initial processes; five had no adult or responsible legal guardian accessible for consenting; three had recently been treated for schistosomiasis; one volunteered known HIV-positive status and one was found to be under age at screening (11 years) despite having reported being 12 years at pre-screening.  #@NEW_LINE#@#  107 subjects consented, assented and were screened for eligibility of whom 36 were enrolled (Fig 1).  #@NEW_LINE#@#  
+Abbreviations: CCA, schistosome circulating cathodic antigen; KK, Kato Katz; RDT, rapid diagnostic test; Sm, Schistosoma mansoni.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pntd.0005440.g001  #@NEW_LINE#@#  
+Eighteen subjects had Sm infection only and were enrolled into Group 2, 18 had no helminth infection detected and were enrolled into group 1 (3 of these subsequently had Sm detected on PCR and were excluded from all further analysis).  #@NEW_LINE#@#  Participants in Group 1 and 2 differed in age, school and N. americanus PCR status (Table 1).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pntd.0005440.t001  #@NEW_LINE#@#  
+Effect_of_S_mansoni_on_vaccine_immunogenicity  #@NEW_LINE#@#  
+The peak D7 Ag85A IFN ELISpot response was compared between groups.  #@NEW_LINE#@#  Two participants from group 1 and four from group 2 with missing data were excluded from the analysis.  #@NEW_LINE#@#  Median Ag85A SFC/ 1x106 PBMC were not significantly different (Mann-Whitney p = 0.65).  #@NEW_LINE#@#  Regression and AUC analysis of the Ag85A ELISpot response (D0 to D28) adjusting for age, gender, school and stool PCR for N. americanus showed no evidence of an association between Sm infection and MVA85A induced IFN response (see Table 2 and Fig 2).  #@NEW_LINE#@#  
+D7 ELISpot and AUC analysis (D0D28) for purified protein derivative (PPD) responses showed no significant difference between the two groups (S1 Table).  #@NEW_LINE#@#  ESAT and CFP 10 responses remained negative at all time points (S1 Fig).  #@NEW_LINE#@#  
+Ag85A antibody levels were not significantly different in the two groups with the exception of IgG4, which was significantly higher in the Sm infected group at baseline and at all time points post-vaccination (Fig 3); this difference remained significant after correcting for multiple testing using Bonferroni correction (p = 0.012).  #@NEW_LINE#@#  Ag85A-specific antibodies were present at baseline and showed no significant change post-vaccination.  #@NEW_LINE#@#  Our assay did not detect much Ag85A specific IgE in the study participants.  #@NEW_LINE#@#  
+SWA-specific IgG antibodies and sub-classes were significantly higher (p values for IgG = 0.0060, IgG1 = 0.0136 and IgG4 = 0.0004) in the Sm infected group (Fig 4).  #@NEW_LINE#@#  SWA-specific IgE levels were low in both groups, and no statistically significant differences were seen between the groups (Fig 4).  #@NEW_LINE#@#  SWA-specific antibody levels tended to increase at day 56 in the Sm infected group (after praziquantel treatment).  #@NEW_LINE#@#  Exploring the observed elevated levels of Ag85A-specific IgG4, we found no correlation between SWA or SEA-specific IgG4 and Ag85A-specific IgG4 among Sm-infected participants.  #@NEW_LINE#@#  
+Analysis of the multiplex Luminex assays following six-day stimulation and culture for Ag85A and PPD stimulation showed no significant difference in pre-immunisation responses for any cytokine, and all cytokines showed an enhanced response post-vaccination in both groups, with the exception of IL2, for which measured levels were very low.  #@NEW_LINE#@#  There was no significant difference post-vaccination in levels of any individual cytokine.  #@NEW_LINE#@#  Regression analysis (supplementary S3 and S4 Tables) of AUC accounting for age, gender and school as confounders suggested a higher response to Ag85A and PPD among Sm infected compared to uninfected participants for all cytokines except IL12P40 (to Ag85A) and IL2 (to both Ag85A and PPD).  #@NEW_LINE#@#  There was no significant difference in geometric means following stimulation with Ag85A and PPD for any of the cytokines (except for IL1A to PPD, p value = 0.017) between uninfected and infected when adjusted for multiple testing using Bonferroni correction (S3 and S4 Tables).  #@NEW_LINE#@#  
+
+Safety_results  #@NEW_LINE#@#  
+Safety results were considered for all 36 subjects who received the vaccine despite the fact that three subjects initially allocated to Group 1 were found to have Sm on PCR and therefore excluded from the immunogenicity analysis (Table 3 and S2 Table).  #@NEW_LINE#@#  
+No serious adverse events were reported in this trial.  #@NEW_LINE#@#  Using data collected from the diary cards and at clinic visits on days 0, 7, 28 and 56, all 36 children reported at least one adverse event.  #@NEW_LINE#@#  34 (94%) of 36 children vaccinated experienced at least one local adverse event and 6 (17%) experienced at least one systemic event.  #@NEW_LINE#@#  There was no difference in adverse events between the two groups.  #@NEW_LINE#@#  All adverse events had resolved by day 56.  #@NEW_LINE#@#  
+Local warmth (94%) and pain (92%) at the injection site were the most commonly reported of the solicited local adverse events by subjects in both groups, while headache (69%) was the most commonly reported of the solicited systemic adverse events in the diary card.  #@NEW_LINE#@#  The AE profile was not different in those excluded from the immunogenicity analysis.  #@NEW_LINE#@#  
+259 graded adverse events were recorded (See S2 Table).  #@NEW_LINE#@#  192 (72%) of the adverse events were mild.  #@NEW_LINE#@#  Two severe adverse events occurred and were pain at vaccination site and itching at vaccination site, both observed in participants in the no helminth group.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+MVA85A induced a robust cellular response, with no difference in cellular immunogenicity between adolescents with and without current Sm infection.  #@NEW_LINE#@#  MVA85A did not boost the baseline Ag85-specific antibody response (as expected [18]).  #@NEW_LINE#@#  Levels of Ag85A specific IgG4 antibody were elevated among the Sm infected participants at baseline and at all subsequent time points.  #@NEW_LINE#@#  The safety profile was consistent with other published data on this vaccine from African populations [37, 39].  #@NEW_LINE#@#  
+The peak (D7) Ag85A ELISpot response of  greater than 500 SFC/million PBMC, was comparable to, or higher than, responses previously observed among adolescents and adults in the Cape region of South Africa [37, 39], where lifetime exposure to schistosomiasis and other tropical parasitic infections is likely to be lower than in tropical Africa [40].  #@NEW_LINE#@#  Current exposure to Sm among Ugandan adolescents did not impair the cellular immunogenicity of MVA85A.  #@NEW_LINE#@#  This is important given the poor efficacy of BCG in tropical latitudes [41].  #@NEW_LINE#@#  One potential advantage for booster TB vaccines may be prior exposure to environmental mycobacteria: besides BCG, the Ugandan participants would have been extensively exposed to environmental mycobacteria [42], as evidenced by anti-mycobacterial antibody levels prior to MVA85A vaccination [18].  #@NEW_LINE#@#  A point for caution is that selection for prior BCG based largely on BCG scar (as most had no records available) may have biased recruitment to individuals who received a more immunogenic formulation of BCG, or who were predisposed to stronger anti-mycobacterial responses, since scarring varies between BCG strains and only about 60% of infants scar in response to strains commonly used in Uganda [43].  #@NEW_LINE#@#  
+Our initial focus was on Th1 cytokines as measured by ex-vivo ELISpot and Luminex, as there is clear evidence for a role for Th1 cytokines in protective immunity against Mycobacterium tuberculosis.  #@NEW_LINE#@#  Given the increased interest in a role of humoral immunity and B cells in protective immunity against mycobacteria, we also investigated the humoral response as measured by IgG to the Ag85A insert.  #@NEW_LINE#@#  Further measures of immunogenicity such as mycobacterial growth inhibition assays and other T cell functions may be considered as part of future work on stored samples from this trial.  #@NEW_LINE#@#  There is as yet no clearly defined immunological correlate of protection with which to measure candidate vaccine immunogenicity.  #@NEW_LINE#@#  However, the recent paper by Fletcher et al [44] indicated that pre-MVA85A-immunisation BCG-specific ELIspot responses and post MVA85A antibody (specific for antigen 85) were protective.  #@NEW_LINE#@#  We did not perform the former but did measure the latter and observed no effect.  #@NEW_LINE#@#  
+Recruitment to this study was challenging and the final sample size had power only to detect a large effect of current Sm infection on vaccine immunogenicity.  #@NEW_LINE#@#  However, there is no suggestion in the data that Sm was associated with a reduced or biased response to immunisation.  #@NEW_LINE#@#  If anything, cellular responses to MVA85A were slightly stronger, and increased further following treatment with praziquantel, in the Sm infected group.  #@NEW_LINE#@#  This was surprising given prior results in animal models of schistosomiasis and BCG immunisation and infection [5, 6].  #@NEW_LINE#@#  Our findings in the human population may relate, again, to the impact of prior mycobacterial exposure, to intensity of Sm infection (low in most of our subjects) and to the characteristics of MVA85A (a viral vector vaccine which enters host cells but does not replicate [18]) as opposed to BCG (an attenuated mycobacterial vaccine which replicates in the host).  #@NEW_LINE#@#  
+Lack of bias in the profile of cytokine response following MVA85A was also surprising, given evidence from earlier studies of Th2 bias following tetanus immunisation among individuals with Sm infection [7], and more particularly given evidence of bias in the antibody response to Ag85A (to IgG4) prior to MVA85A administration.  #@NEW_LINE#@#  
+The groups in this study were defined by detection of current Sm infection.  #@NEW_LINE#@#  It is possible that prior helminth exposure might influence vaccine responses (rendering current status less relevant).  #@NEW_LINE#@#  Recent helminthic disease acquisition in the Sm negative group during follow up, detectable by Kato Katz, was ruled out using the follow up samples collected.  #@NEW_LINE#@#  It is plausible that previous exposure to helminths in the Sm negative group (which we could not measure in this study) may be responsible for the lack of difference, but the differences in Sm-specific antibody levels make this unlikely.  #@NEW_LINE#@#  For the Sm positive group, we expect that infections were chronicas we have previously reported among adults in related fishing communities [45].  #@NEW_LINE#@#  The finding that schistosome-specific IgG levels were significantly higher in the Sm infected group suggests that these individuals differed in prior, as well as current, Sm exposure.  #@NEW_LINE#@#  Sm-specific IgE increases gradually among exposed populations.  #@NEW_LINE#@#  Low levels in these adolescents (Sm infected or otherwise) is in keeping with this pattern [4649].  #@NEW_LINE#@#  
+This was an observational study, susceptible to unmeasured confounding.  #@NEW_LINE#@#  We attempted to exclude confounding by parasitic co-infections by enrolling participants in whom no other parasites that are common in this setting could be detected.  #@NEW_LINE#@#  This proved challenging for sub-microscopic hookworm and malaria infection, but adjusting for hookworm PCR status and sub-microscopic malaria (measured by malaria PCR) made no difference to the results.  #@NEW_LINE#@#  
+It may not be possible to extrapolate these findings to other vaccines and other species of helminth.  #@NEW_LINE#@#  There is substantial evidence of variability between populations in vaccine immunogenicity: notably, impaired responses to yellow fever vaccine were observed in Uganda, compared to Switzerland, in a study that found reduced vaccine virus replication and neutralising antibody production and persistence, in the context of elevated innate and adaptive immune response activation, among Ugandan volunteers [50].  #@NEW_LINE#@#  There is evidence, for other vaccines, of differences (such as Th2 bias) in the response between people with and without schistosomiasis [7, 10], and of modulation of vaccine responses by other helminth species [8, 9].  #@NEW_LINE#@#  Key factors in helminth-vaccine interactions are likely to include vaccine characteristics (live, replicating, protein or toxoid), prior exposure to environmental organisms or pathogens homologous to the vaccine, and the nature of the desired response (cellular or antibody).  #@NEW_LINE#@#  
+We conclude that current Sm infection did not interfere with the cellular immunogenicity of MVA85A in our study population.  #@NEW_LINE#@#  These findings are important and encouraging for the development of TB vaccines in general, and support the further development of booster TB vaccines for populations in tropical countries.  #@NEW_LINE#@#  MVA85A was safe in this population of African adolescents.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Methods_Supplementary_methods  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0005440.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Fig_Ex-vivo_interferon_gamma_responses_to_ESAT-6_and_CFP-10_at_each_time_point  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0005440.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_Regression_Analysis_of_PPD_response_as_measured_by_ELISPOT  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0005440.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Severity_of_graded_adverse_events  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0005440.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Regression_analysis_of_AUC_comparing_geometric_means_of_cytokine_responses_to_Ag85A_between_the_uninfected_and_infected_groups_as_measured_by_multiplex_Luminex_assay  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0005440.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Regression_analysis_of_AUC_comparing_geometric_means_of_cytokine_responses_to_PPD_between_the_uninfected_and_infected_groups_as_measured_by_multiplex_Luminex_assay  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0005440.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We acknowledge Giuseppe Pantaleo for his contribution to the concept and design of the study, and Simon Kerridge for training.  #@NEW_LINE#@#  We thank the participants, their parents, the school staff and the Wakiso District education authorities for supporting our work, the Vector Control Division of the Ministry of Health for arranging and conducting the initial screening for helminth infections, and the trial team for all their work.  #@NEW_LINE#@#  
+TB036_trial_team  #@NEW_LINE#@#  
+Project leader: Anne Wajja.  #@NEW_LINE#@#  Statisticians and data managers: Jonathan Levin, Rebecca Nsubuga, Gertrude Mutonyi, Ronald Galiwango.  #@NEW_LINE#@#  Field team: Milly Namutebi, Barbara Apule, Gloria Oduru, Sam Kiwanuka.  #@NEW_LINE#@#  Immunology laboratory: Dennison Kizito, Beatrice Nassanga, Angela Nalwoga, Simon Kimuda.  #@NEW_LINE#@#  Parasite PCR: Barbara Nerima, Joyce Kabagenyi, Jaco Verweij.  #@NEW_LINE#@#  Pharmacist: Ismail Sekandi.  #@NEW_LINE#@#  Vector Control Programme: Edridah Tukahebwa, Juma Mpima.  #@NEW_LINE#@#  University of Oxford: Samantha Vermaak, Iman Satti, Alison Lawrie, Hannah Johnson.  #@NEW_LINE#@#  Co-investigators: Pontiano Kaleebu, Stephen Cose.  #@NEW_LINE#@#  Principal Investigator: Alison Elliott.  #@NEW_LINE#@#  Chief Investigator: Helen McShane.  #@NEW_LINE#@#  
+
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: HM AME PK ET.  #@NEW_LINE#@#  
+Data curation: IS AME HM JL GM BN.  #@NEW_LINE#@#  
+Formal analysis: JL RG AME IS GM AW.  #@NEW_LINE#@#  
+Funding acquisition: HM AME PK.  #@NEW_LINE#@#  
+Investigation: BN DK AN SK JK.  #@NEW_LINE#@#  
+Methodology: HM AME JL AW ET.  #@NEW_LINE#@#  
+Project administration: AW SV.  #@NEW_LINE#@#  
+Resources: HM IS JV AME.  #@NEW_LINE#@#  
+Software: JL GM.  #@NEW_LINE#@#  
+Supervision: PK AME HM SC.  #@NEW_LINE#@#  
+Validation: IS DK BN SK AN JK AME HM.  #@NEW_LINE#@#  
+Visualization: AW AME HM SV SC IS.  #@NEW_LINE#@#  
+Writing  original draft: AW BN SK JK AME.  #@NEW_LINE#@#  
+Writing  review & editing: AW AME HM IS SV SC SK RG JL.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

@@ -1,0 +1,216 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002283"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Changes in prices, sales, consumer spending, and beverage consumption one year after a tax on sugar-sweetened beverages in Berkeley, California, US: A before-and-after study  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Taxes on sugar-sweetened beverages (SSBs) meant to improve health and raise revenue are being adopted, yet evaluation is scarce.  #@NEW_LINE#@#  This study examines the association of the first penny per ounce SSB excise tax in the United States, in Berkeley, California, with beverage prices, sales, store revenue/consumer spending, and usual beverage intake.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+Methods included comparison of pre-taxation (before 1 January 2015) and first-year post-taxation (1 March 201529 February 2016) measures of (1) beverage prices at 26 Berkeley stores; (2) point-of-sale scanner data on 15.5 million checkouts for beverage prices, sales, and store revenue for two supermarket chains covering three Berkeley and six control non-Berkeley large supermarkets in adjacent cities; and (3) a representative telephone survey (17.4% cooperation rate) of 957 adult Berkeley residents.  #@NEW_LINE#@#  
+Key hypotheses were that (1) the tax would be passed through to the prices of taxed beverages among the chain stores in which Berkeley implemented the tax in 2015; (2) sales of taxed beverages would decline, and sales of untaxed beverages would rise, in Berkeley stores more than in comparison non-Berkeley stores; (3) consumer spending per transaction (checkout episode) would not increase in Berkeley stores; and (4) self-reported consumption of taxed beverages would decline.  #@NEW_LINE#@#  
+Main outcomes and measures included changes in inflation-adjusted prices (cents/ounce), beverage sales (ounces), consumers spending measured as store revenue (inflation-adjusted dollars per transaction) in two large chains, and usual beverage intake (grams/day and kilocalories/day).  #@NEW_LINE#@#  
+Tax pass-through (changes in the price after imposition of the tax) for SSBs varied in degree and timing by store type and beverage type.  #@NEW_LINE#@#  Pass-through was complete in large chain supermarkets (+1.07¢/oz, p = 0.001) and small chain supermarkets and chain gas stations (1.31¢/oz, p = 0.004), partial in pharmacies (+0.45¢/oz, p = 0.03), and negative in independent corner stores and independent gas stations (0.64¢/oz, p = 0.004).  #@NEW_LINE#@#  Sales-unweighted mean price change from scanner data was +0.67¢/oz (p = 0.00) (sales-weighted, +0.65¢/oz, p = 0.003), with +1.09¢/oz (p less_than 0.001) for sodas and energy drinks, but a lower change in other categories.  #@NEW_LINE#@#  Post-tax year 1 scanner data SSB sales (ounces/transaction) in Berkeley stores declined 9.6% (p less_than 0.001) compared to estimates if the tax were not in place, but rose 6.9% (p less_than 0.001) for non-Berkeley stores.  #@NEW_LINE#@#  Sales of untaxed beverages in Berkeley stores rose by 3.5% versus 0.5% (both p less_than 0.001) for non-Berkeley stores.  #@NEW_LINE#@#  Overall beverage sales also rose across stores.  #@NEW_LINE#@#  In Berkeley, sales of water rose by 15.6% (p less_than 0.001) (exceeding the decline in SSB sales in ounces); untaxed fruit, vegetable, and tea drinks, by 4.37% (p less_than 0.001); and plain milk, by 0.63% (p = 0.01).  #@NEW_LINE#@#  Scanner data mean store revenue/consumer spending (dollars per transaction) fell 18¢ less in Berkeley ($0.36, p less_than 0.001) than in comparison stores ($0.54, p less_than 0.001).  #@NEW_LINE#@#  Baseline and post-tax Berkeley SSB sales and usual dietary intake were markedly low compared to national levels (at baseline, National Health and Nutrition Examination Survey SSB intake nationally was 131 kcal/d and in Berkeley was 45 kcal/d).  #@NEW_LINE#@#  Reductions in self-reported mean daily SSB intake in grams (19.8%, p = 0.49) and in mean per capita SSB caloric intake (13.3%, p = 0.56) from baseline to post-tax were not statistically significant.  #@NEW_LINE#@#  
+Limitations of the study include inability to establish causal links due to observational design, and the absence of health outcomes.  #@NEW_LINE#@#  Analysis of consumption was limited by the small effect size in relation to high standard error and Berkeleys low baseline consumption.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+One year following implementation of the nations first large SSB tax, prices of SSBs increased in many, but not all, settings, SSB sales declined, and sales of untaxed beverages (especially water) and overall study beverages rose in Berkeley; overall consumer spending per transaction in the stores studied did not rise.  #@NEW_LINE#@#  Price increases for SSBs in two distinct data sources, their timing, and the patterns of change in taxed and untaxed beverage sales suggest that the observed changes may be attributable to the tax.  #@NEW_LINE#@#  Post-tax self-reported SSB intake did not change significantly compared to baseline.  #@NEW_LINE#@#  Significant declines in SSB sales, even in this relatively affluent community, accompanied by revenue used for prevention suggest promise for this policy.  #@NEW_LINE#@#  Evaluation of taxation in jurisdictions with more typical SSB consumption, with controls, is needed to assess broader dietary and potential health impacts.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Silver LD, Ng SW, Ryan-Ibarra S, Taillie LS, Induni M, Miles DR, et al.  #@NEW_LINE#@#  (2017) Changes in prices, sales, consumer spending, and beverage consumption one year after a tax on sugar-sweetened beverages in Berkeley, California, US: A before-and-after study.  #@NEW_LINE#@#  PLoS Med 14(4):  #@NEW_LINE#@#  
+           e1002283.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002283  #@NEW_LINE#@#  
+Academic Editor: Claudia Langenberg, University of Cambridge, UNITED KINGDOM  #@NEW_LINE#@#  
+Received: November 9, 2016; Accepted: March 10, 2017; Published:  April 18, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Silver et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Data are from the UNC-PHI Berkeley Evaluation of SSB Tax study.  #@NEW_LINE#@#  Datasets from the de-identified telephone survey and from the 26 store survey can be made fully available without restriction upon request.  #@NEW_LINE#@#  The retail scanner data set is available in aggregate form combined across chains due to confidentiality restrictions required when obtaining voluntary data sharing from stores.  #@NEW_LINE#@#  The databases and accompanying documentation are available at: http://globalfoodresearchprogram.web.unc.edu/research-in-the-united-states/u-s-policy-evaluations/Berkeley-SSB-Tax  #@NEW_LINE#@#  
+Funding: Funding for this study came primarily from the Bloomberg Philanthropies, with support from the Carolina Population Center and its NIH Center grant (P2C HD050924) at The University of North Carolina at Chapel Hill.  #@NEW_LINE#@#  Funders had no role design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.  #@NEW_LINE#@#  
+Competing interests:  BMP is on an NAS committee focused on preschool beverage consumption, chairs the Choices International Foundation scientific committee, has been a co-investigator of one random controlled trial funded by Nestles Water USA, but has never consulted for them.  #@NEW_LINE#@#  BMP presented a paper on SSB global trends in a symposium at the British Nutrition Society symposium sponsored by Danone Waters.  #@NEW_LINE#@#  LDS is a volunteer board member of the Center for Science in the Public Interest and has worked as a consultant, both paid and volunteer, for the World Health Organization, and organizations which have advocated for sugar sweetened beverage taxes.  #@NEW_LINE#@#  LDS has also donated to Berkeleys Measure D and advocated for its approval.  #@NEW_LINE#@#  SWN is on the expert advisory committee for the Philadelphia sweetened beverage tax evaluation project that is being conducted by researchers at University of Pennsylvania and Harvard University.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          CPI,  #@NEW_LINE#@#  
+            Consumer Price Index; SSB,  #@NEW_LINE#@#  
+            sugar-sweetened beverage  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Sugar-sweetened beverage (SSB) consumption is linked to increased body weight, diabetes, cardiovascular risk factors, and dental caries, amongst other conditions [1,2].  #@NEW_LINE#@#  Significant SSB taxes have been proposed and increasingly adopted as part of a comprehensive approach to obesity and diabetes prevention [35] with extensive potential health and social benefits [2,57].  #@NEW_LINE#@#  Over 20 countries have passed strengthened SSB taxes of varying sizes, with a growing emphasis on larger excise taxes [6,810].  #@NEW_LINE#@#  
+Berkeley, California, is the first US jurisdiction to successfully place a substantial excise tax on SSB distributors, with the dual goals of reducing consumption and raising revenue for efforts to prevent obesity and diabetes.  #@NEW_LINE#@#  The tax, approved by voters in November 2014, is one penny per fluid ounce (1¢/oz) on beverages with added caloric sweeteners.  #@NEW_LINE#@#  In theory, the tax might add 68¢ to the price of a 2-l (68-oz) bottle of soda, typically priced a little over $2 before the tax, or 12¢ to a 12-oz can, sold for around $1.  #@NEW_LINE#@#  In late January 2015, the city delayed the original 1 January 2015 implementation until 1 March 2015 among the 38 largest beverage distributors [11].  #@NEW_LINE#@#  Tax collection from small retailers obtaining their own supplies (self-distributors) only began 1 January 2016.  #@NEW_LINE#@#  In 2016, other US jurisdictions, including three large citiesPhiladelphia (Pennsylvania), San Francisco (California), and Oakland (California)and Cook County (Illinois), which encompasses Chicagos metro area, as well as two smaller citiesBoulder (Colorado) and Albany (California)followed suit, with similar measures at tax levels from 1¢/oz to 2¢/oz.  #@NEW_LINE#@#  
+The Berkeley tax therefore offered a unique opportunity to evaluate this policy.  #@NEW_LINE#@#  This study sought to examine (1) whether and how the tax was passed through to beverage prices, (2) whether the volume of beverages sold changed, (3) whether store revenues/consumer spending per transaction within these stores changed, and (4) whether beverage consumption changed.  #@NEW_LINE#@#  This study evaluates changes in the first year of implementation (March 2015February 2016).  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Three data collection approaches were employed to measure beverage prices, volume sold, store revenue (or, conversely, consumer spending), and beverage intake.  #@NEW_LINE#@#  Fig 1 illustrates the tax implementation and study data collection timeline.  #@NEW_LINE#@#  Key elements of analyses were determined prospectively; however, some adjustments were required, particularly as we received and analyzed store scanner data.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002283.g001  #@NEW_LINE#@#  
+This study was approved by institutional review boards of the Public Health Institute and the University of North Carolina at Chapel Hill.  #@NEW_LINE#@#  
+Setting.  #@NEW_LINE#@#  The city of Berkeley, located in Californias Bay Area, had an estimated 121,000 inhabitants in 2015 and covers only 10.5 square miles.  #@NEW_LINE#@#  Residents are 55% non-Hispanic white, 19% Asian, 11% Hispanic or Latino, 10% African-American, and 21% foreign-born.  #@NEW_LINE#@#  Berkeley is home to a large public university and a very highly educated population, with 71% of those over age 25 y holding a bachelors degree or higher.  #@NEW_LINE#@#  Nevertheless, it has a high percentage of residents in poverty (20.4% versus 15.3% for California and 13.5% nationwide), though the median income of $66,237 is about 10% above the median for the state as a whole and 23% above the US median [12].  #@NEW_LINE#@#  
+Store price surveys.  #@NEW_LINE#@#  Store price surveys were conducted in December 2014 (pre-tax), June 2015 (4 months post-tax), and March 2016 (13 months post-tax, and 2 months into self-distributor tax collection) among a targeted sample of large supermarkets, small chain supermarkets, chain and independent gas stations, pharmacies (drugstores), and independent corner stores located in Berkeley, California (n = 26).  #@NEW_LINE#@#  Six top stores were identified from the telephone survey (described below), and the remainder were selected randomly within their type.  #@NEW_LINE#@#  Store price surveys collected 744 prices in December 2014, 798 prices in June 2015, and 633 prices in March 2016 for a standard panel of 70 beverages, which included 45 taxed and untaxed branded beverages in a variety of sizes.  #@NEW_LINE#@#  It was possible to collect 313 prices for 55 of the 70 products in the standard panel in all three rounds in the same stores.  #@NEW_LINE#@#  S1 Text provides details on the store price survey design.  #@NEW_LINE#@#  
+Point-of-sale data.  #@NEW_LINE#@#  Point-of-sale electronic scanner data were requested using personal outreach to all large supermarkets in Berkeley, as well as to pharmacies, small supermarkets, ethnic markets, convenience stores, and gas stations with scanner systems, and with extensive follow-up as needed to owners or corporate headquarters.  #@NEW_LINE#@#  Ultimately, two chains of large supermarkets with three of the citys nine large groceries provided electronic data covering 1 January 2013 through 29 February 2016 (26 months pre-tax; 12 months post-tax).  #@NEW_LINE#@#  They also provided data on six Bay Area control stores.  #@NEW_LINE#@#  Data covered 118.8 million barcode scans from 15.5 million transactions (checkout episodes), with 16.2 million barcode scans involving beverages (16,769 unique barcodes), of which 10.8 million barcode scans (5,631 unique barcodes) are included here.  #@NEW_LINE#@#  S2 Text describes the point-of-sale study design and the stores and beverage products included in our analyses.  #@NEW_LINE#@#  The tax status of each beverage was classified using the Berkeley law [13], nutrition data from product websites, and ingredient data from Mintel [14].  #@NEW_LINE#@#  
+Dietary and shopping behavior surveys.  #@NEW_LINE#@#  These telephone surveys were conducted NovemberDecember 2014 (pre-tax/baseline) and NovemberDecember 2015 (post-tax/follow-up).  #@NEW_LINE#@#  The sample was identified using dual frame (landline/cellular) random digit dialing that oversampled lower income census blocks ( greater than 50% of households with annual gross household income less_than$100,000) in Berkeley.  #@NEW_LINE#@#  Only Berkeley residents were interviewed.  #@NEW_LINE#@#  Oral informed consent was obtained from all participants.  #@NEW_LINE#@#  Trained interviewers used standardized questionnaires and computer-assisted telephone interviews to collect information on beverage shopping locations and behaviors, demographics, and 24-h recall of beverage intake [15].  #@NEW_LINE#@#  To adjust for typical daily intake, a second 24-h beverage recall interview was collected 37 d later from consenting respondents.  #@NEW_LINE#@#  
+Sampling weights were calculated using iterative proportional fitting (raking) [16] to adjust the data to demographic proportions for Berkeley, California, obtained from the United States Census Bureau for 2010 [12].  #@NEW_LINE#@#  Details on the sample design, other methods, and response rates are found in S5 Text.  #@NEW_LINE#@#  Caloric intake from beverages consumed was calculated using nutrition data from product websites, nutrition facts panel data from Mintel [14], and US Department of Agriculture databases [17,18].  #@NEW_LINE#@#  
+Analytical_approaches  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Store_price_survey_prices  #@NEW_LINE#@#  
+Prices of taxed beverages collected in all three time points across large supermarkets showed increases from December 2014 (pre-tax) to June 2015 (1.31¢/oz), which continued for December 2014 to March 2016 (1.07¢/oz).  #@NEW_LINE#@#  Taxed beverages in small chain supermarkets and gas stations also had price increases from December 2014 to June 2015 (2.20¢/oz) that continued through March 2016 (1.31¢/oz).  #@NEW_LINE#@#  Price increases were comparatively lower in pharmacies for both intervals (0.90¢/oz and 0.45¢/oz) and were not seen in independent corner stores and gas stations (0.09¢/oz and 0.64¢/oz) (S3 Table).  #@NEW_LINE#@#  The difference between prices of taxed and untaxed beverages (cents/ounce) increased in all store types between December 2014 and March 2016, except for beverages sold in independent corner stores and gas stations (Fig 2).  #@NEW_LINE#@#  
+
+Point-of-sale_prices_from_two_supermarket_chains  #@NEW_LINE#@#  
+Fig 3 shows the model adjusted sales-unweighted beverage prices in Berkeley and non-Berkeley stores, illustrating the price differential for taxed versus untaxed beverages and change in prices of taxed beverages over time.  #@NEW_LINE#@#  Among taxed beverages, there were visible price increases in Berkeley stores after January 2015, but it was not until around April 2015 that prices stabilized.  #@NEW_LINE#@#  Specifically, among the Berkeley stores, taxed beverages had price change of +0.83¢/oz (p less_than 0.001), while this was only +0.16¢/oz (p less_than 0.001) in non-Berkeley stores, for a net difference of +0.67¢/oz (p less_than 0.001).  #@NEW_LINE#@#  Meanwhile, there were no statistically significant differences in the prices of untaxed beverages between Berkeley and non-Berkeley stores in the post-tax period.  #@NEW_LINE#@#  Sales-unweighted pass-through was complete among sodas and energy drinks (+1.09¢/oz), but incomplete for the other taxed beverage groups (S8 Table).  #@NEW_LINE#@#  Sales-weighted price changes for taxed beverages was similar, at +0.69¢/oz (S9 Table).  #@NEW_LINE#@#  
+
+Point-of-sale_volume_sold_in_two_supermarket_chains  #@NEW_LINE#@#  
+The volume of untaxed beverages sold was consistently higher than for taxed beverages in all locations January 2013February 2016 (Fig 4), and both types of sales were consistently and markedly lower in Berkeley than in comparison stores overall, and most notably in neighboring zone 1 stores, suggesting lower baseline purchasing of SSBs and of beverages in general.  #@NEW_LINE#@#  
+Focusing on the post-tax period, our model adjusted estimates show that compared to their counterfactuals, volume (ounces/transaction) of taxed beverages sold fell significantly by 9.6% in Berkeley stores, but rose by 6.9% in non-Berkeley stores (Fig 4A), sales of untaxed beverages rose by 3.5% in Berkeley stores and 0.5% in non-Berkeley stores (Fig 4B), and sales of all study beverages increased by 0.7% and 1.5% in Berkeley and non-Berkeley stores, respectively (Fig 4C).  #@NEW_LINE#@#  In Berkeley, sales of untaxed water rose by 15.6%; untaxed fruit, vegetable, and tea drinks, by 4.37%; and plain milk, by 0.63%.  #@NEW_LINE#@#  Sales of diet soft drinks and energy drinks declined by 9.2% compared to their counterfactuals (Fig 4D).  #@NEW_LINE#@#  
+S10 Table provides the absolute (ounces/transaction) and relative (percent) differences between the counterfactual and post-tax monthly beverage sales in Berkeley versus non-Berkeley stores overall and in the three non-Berkeley zones.  #@NEW_LINE#@#  Neighboring non-Berkeley stores (zone 1) had the highest increase in sales of taxed and untaxed beverages, whereas sales of taxed beverages declined in more distant zone 3.  #@NEW_LINE#@#  S11 Table shows the results by untaxed beverage category for Berkeley versus non-Berkeley stores.  #@NEW_LINE#@#  
+
+Point-of-sale_store_revenue_(consumer_spending)_per_transaction_in_two_supermarket_chains  #@NEW_LINE#@#  
+Over the first year of the SSB tax, across both comparison and Berkeley stores, there was a small reduction in revenue in CPI-adjusted dollars per transaction from all sources (not just beverages).  #@NEW_LINE#@#  Mean store revenue per transaction fell by 18¢ less in Berkeley stores ($0.36, p less_than 0.001) compared to non-Berkeley stores ($0.54, p less_than 0.001) (see Fig 5).  #@NEW_LINE#@#  
+
+Usual_intake_of_beverages_from_self-reports  #@NEW_LINE#@#  
+At baseline (NovemberDecember 2014), 649 of 3,721 eligible and contactable Berkeley residents age 18 y participated (17.4% cooperation), of whom 253 completed a second 24-h beverage recall.  #@NEW_LINE#@#  At follow-up (NovemberDecember 2015), 654 Berkeley residents participated, and 462 completed a second 24-h beverage recall; 346 (53.3%) of the 2015 respondents had completed the baseline survey.  #@NEW_LINE#@#  After exclusion due to missing values on self-reported race/ethnicity, age, education, income, and monthly intake of SSBs, the final analytic sample included 623 at baseline and 613 at follow-up.  #@NEW_LINE#@#  
+S12 Table provides details on beverage subcategories by tax status and percent consumers within subcategory before and after the tax.  #@NEW_LINE#@#  The Berkeley sample had lower per capita and per consumer mean caloric intake from both taxed and untaxed beverages relative to the general US population (S13 Table).  #@NEW_LINE#@#  At baseline, 29% of the Berkeley sample consumed SSBs, substantially below the 58% of consumers in the US population estimated in the National Health and Nutrition Examination Survey.  #@NEW_LINE#@#  Daily usual taxed beverage intake was 121 g/d pre-tax and 97 g/d post-tax (13.3%, p = 0.49), while mean caloric intake of taxed beverages went from 45 kcal/d to 39 kcal/d (19.8%, p = 0.56) (Table 1); neither difference is statistically significant.  #@NEW_LINE#@#  From the pre- to post-tax period, mean volume of untaxed beverage intake went from 1,839 g/d to 1,897 g/d (+3.2%, p = 0.21).  #@NEW_LINE#@#  Reported mean caloric intake of untaxed beverages rose from 116 kcal/d to 148 kcal/d (+27.6%, p = 0.02).  #@NEW_LINE#@#  The increase in untaxed calories appeared to be mainly from increased milk intake and also other beverages (which included dairy-based beverages such as yogurt smoothies and milkshakes).  #@NEW_LINE#@#  Neither juice nor diet soda intake increased.  #@NEW_LINE#@#  There was no significant change in reported beverage shopping location: in Berkeley was 90% at baseline versus 94% at follow-up (p = 0.17).  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+A year following SSB tax implementation in Berkeley, California, there was heterogeneous pass-through of Berkeleys SSB excise tax across store and beverage types.  #@NEW_LINE#@#  SSB sales in Berkeley fell significantly in two chains of large supermarkets, while sales of untaxed beverages, especially water, and of all beverages increased.  #@NEW_LINE#@#  From the available data, there was no evidence of higher consumer spending, nor was there a greater reduction in store revenue per transaction in relation to comparison sites.  #@NEW_LINE#@#  Changes in self-reported SSB intake were not statistically significant.  #@NEW_LINE#@#  
+For taxes to directly affect consumption, beverage distributors (upon whom the tax is levied) have to pass the tax on to retailers, and retailers likewise need to pass the tax on to consumers.  #@NEW_LINE#@#  Tax pass-through in the store price survey was predominant in larger and chain stores but varied in degree and implementation speed by store type, possibly reflecting delayed implementation for self-distributing stores.  #@NEW_LINE#@#  Focusing on large supermarkets, scanner data from two chains showed that the tax was partially passed through for SSBs and that pass-through varied across SSB types, being highest for carbonated beverages.  #@NEW_LINE#@#  This may have been due to confusion on what products were taxed, and how distributors and retailers responded to the tax based on market shares of their beverages.  #@NEW_LINE#@#  These findings resemble findings in Mexico [10] and France [25], where pass-through was complete on carbonated SSBs and lower on noncarbonated products.  #@NEW_LINE#@#  Falbe et al.  #@NEW_LINE#@#  [26] examined pass-through in Berkeley and comparison cities in the first 3 months post-tax, with similar findings.  #@NEW_LINE#@#  Cawley and Frisvold [27] examined pass-though also after only 3 months of the tax9 months prior to full implementation of the tax in small retailersand for a smaller panel of products (five products in several sizes each), and found lower pass-through then Falbe et al.  #@NEW_LINE#@#  ; however, they did not have an adequate sample size of small non-chain stores [27].  #@NEW_LINE#@#  The present study examined a larger group of beverage products over a full year, including the second stage of tax implementation in the third store price survey.  #@NEW_LINE#@#  Pass-through may still evolve, as some price changes emerged later in the year.  #@NEW_LINE#@#  Consumers also saw greater price differentials between taxed and untaxed beverages across all store types.  #@NEW_LINE#@#  Jurisdictions may wish to include recommendations to retailers in future policies to pass through the tax to SSBs.  #@NEW_LINE#@#  Cook County, Illinois, included a requirement to do so in their measure [28].  #@NEW_LINE#@#  
+Despite incomplete pass-through of the SSB tax in the two chains of large supermarkets, the volume of SSBs sold fell by 9.6% in Berkeley stores.  #@NEW_LINE#@#  The volume of beverages sold per transaction as a whole rose in Berkeley, and shopping location did not change.  #@NEW_LINE#@#  This study was also unique in permitting examination of overall consumer spending at the stores studied, which did not increase, a concern widely cited by opponents of SSB taxes [29].  #@NEW_LINE#@#  This study found that consumer spending, measured as store revenue per transaction, declined slightly, falling less in Berkeley stores than in comparison stores, despite increasing overall beverage sales in Berkeley.  #@NEW_LINE#@#  This appears to belie, at least in the chains studied, beverage industry arguments that such policies will raise grocery bills in general or that they will hurt local business.  #@NEW_LINE#@#  The volume of SSBs bought in stores nearest to Berkeley rose, consistent with either potential shifts to buying SSBs outside Berkeley (not reported in the telephone survey) or increasing consumption by residents of the non-Berkeley cities, as found by Falbe et al.  #@NEW_LINE#@#  [30].  #@NEW_LINE#@#  When taxes are implemented in very small geographical areas such as Berkeley, shifts in shopping location may be a greater risk.  #@NEW_LINE#@#  Recent approval of similar policies in three neighboring cities may reduce or displace any shifting.  #@NEW_LINE#@#  Since Berkeley has on average higher education and median income and lower baseline SSB consumption compared to the US in general, it was unclear whether the tax would be high enough to change demand.  #@NEW_LINE#@#  In Berkeley, the post-tax sales of SSBs declined to a greater degree than in Mexico, where the decline was 6% over the first year, and this decline is consistent with earlier estimates that a 10% increase in soft drink prices would reduce consumption by 8%12% [31,32].  #@NEW_LINE#@#  The decline may be due to concomitant high rates of residents in poverty.  #@NEW_LINE#@#  
+Using a 3- to 10-min street intercept survey of low-income residents in Berkeley and control cities, Falbe et al.  #@NEW_LINE#@#  found a significant 21% decline in the frequency of SSB intake in Berkeley [30].  #@NEW_LINE#@#  Our telephone study used calories and grams of reported intake rather than frequency; our finding on change in mean daily SSB intake across the general population lacked statistical significance, although it was of similar magnitude to that found by Falbe et al., with a 19.8% reduction in grams.  #@NEW_LINE#@#  Falbe et al.  #@NEW_LINE#@#  examined only water consumption for untaxed beverages [30], while the present study asked about most untaxed beverages.  #@NEW_LINE#@#  The higher calories from untaxed beverages in our self-reported post-tax survey came predominantly from two sources: milks and other untaxed beverages, which included higher-fat beverages such as yogurt smoothies, milkshakes, atole, horchata, and eggnog.  #@NEW_LINE#@#  These findings contrast with the substitution pattern seen in our Berkeley point-of-sale data, which showed an increase in water sales and smaller but still significant increases in sales of plain milk and untaxed fruit, vegetable, and tea drinks, as well as a significant decline in untaxed diet drinks.  #@NEW_LINE#@#  Prior evidence suggests that when individuals substitute beverages in the wake of increased SSB prices, they are likely to choose water or diet soft drinks or fruit drinks [33], of which only fruit drinks would add calories.  #@NEW_LINE#@#  Our point-of-sale data are consistent with regard to increases in sales of water, and possibly fruit drinks, but not diet drinks.  #@NEW_LINE#@#  Since the point-of-sale data do not show that sales of these other untaxed beverages rose meaningfully, perhaps there was an increase in the intake of these beverages at home (prepared from fruit and plain yogurts or milks) or at food-service locations.  #@NEW_LINE#@#  It is unclear whether consumption changes can be attributed to the tax, and we do not want to speculate since the self-reported beverage intake component of our study did not sample non-Berkeley residents, so we are unable to tell if the increase in the self-reported intake of other untaxed beverages was a secular trend or specific to Berkeley.  #@NEW_LINE#@#  Nonetheless, our results are consistent with Falbe et al.s findings of small increases for frequency of SSB intake in control communities, no change in location of SSB shopping, and an increase in frequency of water intake in Berkeley [30].  #@NEW_LINE#@#  
+In this comparatively low-SSB-consuming city, the citys tax revenue over the first year of the SSB tax was $1,416,973 (approximately $12 per capita) [34], roughly four times the 2015 per capita amount in the federal Prevention and Public Health Fund.  #@NEW_LINE#@#  Proceeds are being used for child nutrition and community health programs [35].  #@NEW_LINE#@#  This suggests that SSB taxes can provide significant revenue for prevention or other societal goals.  #@NEW_LINE#@#  
+Limitations  #@NEW_LINE#@#  
+This observational study cannot establish causal links between the SSB tax implementation and changes in measured outcomes, nor did it assess health outcomes.  #@NEW_LINE#@#  It cannot distinguish the longer-term effects of education and intensive media debate on SSBs in the communities surrounding the San Francisco Bay as a result of tax and other preexisting campaigns in both Berkeley and San Francisco in 2014, although, in contrast to Falbe et al.s work, baseline store price survey and consumption data were collected after those campaigns but before tax implementation, mitigating this issue somewhat.  #@NEW_LINE#@#  Our selection of comparison sites used cities that had been exposed to similar educational campaigns and to the Bay Area tax media campaigns (both for and against), so that the difference-in-difference analysis more purely reflects the effects of the tax itself.  #@NEW_LINE#@#  The alternative of a more distant control would have better captured the combined effects of the campaigns and the tax itself.  #@NEW_LINE#@#  
+This study also cannot clarify whether distributors, retailers, and/or consumers altered their behaviors in anticipation of the SSB tax or to what degree changes in these various parties behaviors were associated with changes in prices and sales.  #@NEW_LINE#@#  The 26-store survey sample was less representative of small and independent stores than of larger groceries.  #@NEW_LINE#@#  Analysis of consumption was limited by the small effect size in relation to high standard error and Berkeleys low baseline consumption, leading to an underpowered sample, and by the absence of a comparison community, suggesting the need for a larger, controlled sample, optimally with higher SSB consumption, more reflective of national consumption patterns.  #@NEW_LINE#@#  Obtaining such a sample in Berkeley proved unfeasible using the random digit dialing approach and available resources in the time-sensitive 6-wk window between passage of the tax and the original implementation date of 1 January 2015, when baseline survey data were collected.  #@NEW_LINE#@#  
+Despite the large number of transactions, while many grocers were invited, scanner data were limited to two chains of large supermarkets and are not generalizable to all stores or store types.  #@NEW_LINE#@#  Independently owned small corner stores, in particular, are very different, did not exhibit price changes in our data, and may not have reliable records on their sales.  #@NEW_LINE#@#  Consequently, Berkeley consumers may have shifted their SSB purchases to independent stores, but our data are unable to determine this.  #@NEW_LINE#@#  The differential pass-through also warrants further investigation.  #@NEW_LINE#@#  However, in separate descriptive analyses of food purchases for the Bay Area from the 2014 Nielsen Homescan data [36,37], about 50% of the volume of beverages purchased is from chain groceries (with 10 locations nationwide), and only about 2% from independent stores (less_than10 locations nationally) (per our own calculations) [36].  #@NEW_LINE#@#  For this reason, chain groceries likely constitute the most significant consumer SSB purchasing setting.  #@NEW_LINE#@#  
+Strengths of this study include an intimate understanding of the local implementation process, the ability to sample large and small stores and chains, and the large volume of transactions studied.  #@NEW_LINE#@#  These strengths allow us to begin learning where and to what degree the tax was implemented as well as to observe changes in prices, volume sold, and store revenue.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+These findings suggest that implementing a SSB excise tax was feasible and SSB sales fell concomitantly, while the tax captured revenue for obesity prevention and other societal goals.  #@NEW_LINE#@#  Whether observed changes in sales were related to enactment of the tax or other local activities cannot be definitively determined due to the observational design.  #@NEW_LINE#@#  However, the observation of price increases for SSBs in two distinct data sources, the timing of those increases, and the patterns of change in taxed and untaxed beverage sales suggest that the observed changes may be attributable to the tax.  #@NEW_LINE#@#  Assessment of newly approved SSB taxes in a number of other cities/counties in the US at 12¢/oz will be important, and associations of taxation with substitutions in beverage sales and intake should be further assessed in settings with more typical consumption and using larger samples.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Fig_Point-of-sale_mean_monthly_unadjusted_sales_(ounces_transaction)_of_beverages_in_Berkeley_versus_non-Berkeley_stores  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_STROBE_STROBE_checklist_for_observational_studies  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_Panel_of_70_beverage_items_by_beverage_and_taxation_categories_collected_in_the_store_price_surveys_conducted_in_December_2014__June_2015__and_March_2016  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Number_of_prices_collected_across_all_stores_for_the_standard_panel_of_70_beverages_in_the_store_price_surveys__by_store_and_beverage_type  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Mean_(95%_CI)_store_price_survey_change_in_beverage_prices_(cents_ounce)_by_store_type_in_Berkeley_that_were_collected_in_all_three_rounds  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Mean_(standard_error)_store_price_survey_change_in_beverage_prices_(cents_ounce)_by_store_type_in_Berkeley_based_on_paired_comparisons  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Neighborhood_characteristics_of_Berkeley_and_non-Berkeley_grocery_stores_providing_scanner_data  #@NEW_LINE#@#  
+American Community Survey 5-y estimates (20092013).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Table_Number_of_barcode_scans__unique_barcodes__and_transactions_included_in_the_point-of-sale_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Table_Beverages_included_and_excluded_from_point-of-sale_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s009  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S8_Table_Point-of-sale_mean_(95%_CI)_sales-unweighted_differences_in_beverage_prices_(cents_ounce)_in_Berkeley_versus_non-Berkeley_stores_by_beverage_group_from_fixed_effects_models  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s010  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S9_Table_Point-of-sale_mean_(95%_CI)_sales-weighted_differences_in_beverage_prices_(cents_ounce)_in_Berkeley_versus_non-Berkeley_stores_by_beverage_group_from_fixed_effects_models  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s011  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S10_Table_Point-of-sale_model_adjusted_monthly_counterfactuals_and_observed_sales_of_beverages_in_Berkeley_versus_non-Berkeley_stores__and_mean_absolute_(ounces_transaction)_and_relative_(percent_of_counterfactual)_differences  #@NEW_LINE#@#  
+CF, counterfactual; NB, non-Berkeley.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s012  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S11_Table_Point-of-sale_model_adjusted_counterfactuals_and_observed_sales_of_untaxed_beverage_categories_in_Berkeley_versus_non-Berkeley_stores__and_mean_absolute_(ounces_transaction)_and_relative_(percent_of_counterfactual)_differences  #@NEW_LINE#@#  
+CF, counterfactual; NB, non-Berkeley.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s013  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S12_Table_Weighted_frequency_of_reported_consumption_rates_of_taxed_and_untaxed_beverages_by_subcategory_pre-_and_post-tax__Berkeley__California__20142015  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s014  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S13_Table_Descriptive_statistics_of_Berkeley_sample_in_2014_and_2015_compared_to_adult_sample_(age_18_y_and_older)_in_the_National_Health_and_Nutrition_Examination_Survey__20112012  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s015  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Text_Details_on_the_store_price_survey_sample_design__data_collection_procedures__and_price_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s016  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Text_Details_on_the_point-of-sale_data_and_price__volume_sold__and_store_revenue_analyses  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s017  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Text_Point-of-sale_price_fixed_effects_models_and_predictions  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s018  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Text_Point-of-sale_volume_sold_difference-in-difference_models_and_predicted_outcomes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s019  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Text_Details_on_the_dietary_and_shopping_behavior_survey  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s020  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Text_Usual_intake_modeling_approach  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s021  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Text_References_for_supporting_information  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002283.s022  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We thank Cory Hamma (Microsoft Certified IT Professional) and Scott Riddle in helping secure and manage the retailer data; Julie Wandell and Emily Yoon, who were invaluable in helping with the beverage groupings and tax classification work; Frances Dancy for administrative and formatting help; Denise Ammons for graphics support; the team from the Survey Research Group at Public Health Institute for data collection and entry work; and the respondents and stores that generously participated, especially those that generously shared their data.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: LDS SWN SRI MI LST BMP.  #@NEW_LINE#@#  
+Data curation: LDS SRI MI DRM JMP SRI.  #@NEW_LINE#@#  
+Formal analysis: SWN DRM LST SRI.  #@NEW_LINE#@#  
+Funding acquisition: BMP.  #@NEW_LINE#@#  
+Investigation: LDS SWN SRI MI LST DRM JMP MI BMP.  #@NEW_LINE#@#  
+Methodology: LDS SWN SRI MI LST BMP DRM.  #@NEW_LINE#@#  
+Project administration: LDS BMP.  #@NEW_LINE#@#  
+Resources: LDS BMP.  #@NEW_LINE#@#  
+Software: SWN DRM JMP SRI LST.  #@NEW_LINE#@#  
+Supervision: LDS BMP.  #@NEW_LINE#@#  
+Validation: LDS SWN BMP.  #@NEW_LINE#@#  
+Visualization: LDS SWN SRI LST.  #@NEW_LINE#@#  
+Writing  original draft: SWN LDS SRI LST BMP.  #@NEW_LINE#@#  
+Writing  review & editing: LDS SWN SRI MI LST DRM JMP MI BMP.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

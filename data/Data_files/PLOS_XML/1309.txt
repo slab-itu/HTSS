@@ -1,0 +1,271 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002280"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Silk garments plus standard care compared with standard care for treating eczema in children: A randomised, controlled, observer-blind, pragmatic trial (CLOTHES Trial)  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+The role of clothing in the management of eczema (also called atopic dermatitis or atopic eczema) is poorly understood.  #@NEW_LINE#@#  This trial evaluated the effectiveness and cost-effectiveness of silk garments (in addition to standard care) for the management of eczema in children with moderate to severe disease.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+This was a parallel-group, randomised, controlled, observer-blind trial.  #@NEW_LINE#@#  Children aged 1 to 15 y with moderate to severe eczema were recruited from secondary care and the community at five UK medical centres.  #@NEW_LINE#@#  Participants were allocated using online randomisation (1:1) to standard care or to standard care plus silk garments, stratified by age and recruiting centre.  #@NEW_LINE#@#  Silk garments were worn for 6 mo.  #@NEW_LINE#@#  Primary outcome (eczema severity) was assessed at baseline, 2, 4, and 6 mo, by nurses blinded to treatment allocation, using the Eczema Area and Severity Index (EASI), which was log-transformed for analysis (intention-to-treat analysis).  #@NEW_LINE#@#  A safety outcome was number of skin infections.  #@NEW_LINE#@#  
+Three hundred children were randomised (26 November 2013 to 5 May 2015): 42% girls, 79% white, mean age 5 y.  #@NEW_LINE#@#  Primary analysis included 282/300 (94%) children (n = 141 in each group).  #@NEW_LINE#@#  The garments were worn more often at night than in the day (median of 81% of nights [25th to 75th centile 57% to 96%] and 34% of days [25th to 75th centile 10% to 76%]).  #@NEW_LINE#@#  Geometric mean EASI scores at baseline, 2, 4, and 6 mo were, respectively, 9.2, 6.4, 5.8, and 5.4 for silk clothing and 8.4, 6.6, 6.0, and 5.4 for standard care.  #@NEW_LINE#@#  There was no evidence of any difference between the groups in EASI score averaged over all follow-up visits adjusted for baseline EASI score, age, and centre: adjusted ratio of geometric means 0.95, 95% CI 0.85 to 1.07, (p = 0.43).  #@NEW_LINE#@#  This confidence interval is equivalent to a difference of 1.5 to 0.5 in the original EASI units, which is not clinically important.  #@NEW_LINE#@#  Skin infections occurred in 36/142 (25%) and 39/141 (28%) of children in the silk clothing and standard care groups, respectively.  #@NEW_LINE#@#  Even if the small observed treatment effect was genuine, the incremental cost per quality-adjusted life year was £56,811 in the base case analysis from a National Health Service perspective, suggesting that silk garments are unlikely to be cost-effective using currently accepted thresholds.  #@NEW_LINE#@#  The main limitation of the study is that use of an objective primary outcome, whilst minimising detection bias, may have underestimated treatment effects.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Silk clothing is unlikely to provide additional benefit over standard care in children with moderate to severe eczema.  #@NEW_LINE#@#  
+
+Trial_registration  #@NEW_LINE#@#  
+Current Controlled Trials ISRCTN77261365  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Thomas KS, Bradshaw LE, Sach TH, Batchelor JM, Lawton S, Harrison EF, et al.  #@NEW_LINE#@#  (2017) Silk garments plus standard care compared with standard care for treating eczema in children: A randomised, controlled, observer-blind, pragmatic trial (CLOTHES Trial).  #@NEW_LINE#@#  PLoS Med 14(4):  #@NEW_LINE#@#  
+           e1002280.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002280  #@NEW_LINE#@#  
+Academic Editor: James K. Tumwine, Makerere University Medical School, UGANDA  #@NEW_LINE#@#  
+Received: October 20, 2016; Accepted: March 2, 2017; Published:  April 11, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Thomas et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: The study used identifiable individual patient data which is subject to ethics, consent and privacy restrictions.  #@NEW_LINE#@#  However within these constraints, we will make fully anonymised data available on request wherever possible, e.g.  #@NEW_LINE#@#  for individual patient data meta-analysis.  #@NEW_LINE#@#  Applications for data access should be made via the CLOTHES Data Access Committee (contact sponsor@nottingham.ac.uk ref: RC3215, and copy in the corresponding author).  #@NEW_LINE#@#  
+Funding: This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment Programme (project number 11/65/01).  #@NEW_LINE#@#  Funder website: http://www.nets.nihr.ac.uk/programmes/hta.  #@NEW_LINE#@#  Espère Healthcare Ltd. (UK and Ireland distributor for DermaSilk, AlPreTec SrL.  #@NEW_LINE#@#  Italy) and DreamSkin Health Ltd. donated the garments.  #@NEW_LINE#@#  Initial development of the CLOTHES trial was funded by the National Institute for Health Research (NIHR) under its Programme Grants for Applied Research Programme (RP-PG-0407-10177).  #@NEW_LINE#@#  SJB is supported by a Wellcome Trust Senior Research Fellowship in Clinical Science (106865/Z/15/Z).  #@NEW_LINE#@#  The trial was supported through the UK Dermatology Clinical Trials Network, who receive infrastructure funding from the British Association of Dermatologists.  #@NEW_LINE#@#  The NIHR had input into trial design through peer review of the funding proposal, and the companies supplying the garments provided advice in defining how the intervention should be used.  #@NEW_LINE#@#  Neither of the funders had a role in data collection, data analysis, data interpretation or writing of the report.  #@NEW_LINE#@#  Both had sight of the results prior to publication and provided comments to the team.  #@NEW_LINE#@#  
+Competing interests:  I have read the journal's policy and the authors of this manuscript have the following competing interests: KST, LEB, THS, JMB, SL, EFH, RHH, HCW, TD, NPB, IP, JL, CC, JDG, JG, EJM, FC and AAM received grants from NIHR Health Technology Assessment Programme (11/65/01), for the conduct of this study.  #@NEW_LINE#@#  KT reports silk garments for use in the trial were donated by Espère Healthcare Ltd. (UK and Ireland distributor for DermaSilk, AlPreTec SrL.  #@NEW_LINE#@#  Italy) and DreamSkin Health Ltd. SL reports receiving an honorarium from Thornton & Ross and Bayer for educational activities outside the submitted work.  #@NEW_LINE#@#  HCW is Director of the NIHR Health Technology Assessment Programme.  #@NEW_LINE#@#  SJB reports grants from Wellcome Trust during the conduct of the study; personal fees from American Academy of Asthma Allergy and Immunology, outside the submitted work; In addition, SJB has a patent GB 1602011.7 pending (outside the submitted work).  #@NEW_LINE#@#  THS holds a Career Development Fellowship (NIHR-2014-07-006) supported by the National Institute for Health Research.  #@NEW_LINE#@#  AG reports salary support from Clinical Research Network and non-financial support from NCTU, outside the submitted work.  #@NEW_LINE#@#  Representatives of Espère Healthcare Ltd. and DreamSkin Health Ltd provided technical advice on how to use the garments.  #@NEW_LINE#@#  However, they played no role in the analysis or interpretation of the trial findings.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          ADQoL,  #@NEW_LINE#@#  
+            Atopic Dermatitis Quality of Life; CACE,  #@NEW_LINE#@#  
+            complier average causal effect; CHU9D,  #@NEW_LINE#@#  
+            Child Health Utility 9 Dimensions; DFI,  #@NEW_LINE#@#  
+            Dermatitis Family Impact; EASI,  #@NEW_LINE#@#  
+            Eczema Area and Severity Index; HOME,  #@NEW_LINE#@#  
+            Harmonising Outcomes Measures for Eczema; IGA,  #@NEW_LINE#@#  
+            Investigator Global Assessment; NHS,  #@NEW_LINE#@#  
+            National Health Service; NICE,  #@NEW_LINE#@#  
+            National Institute for Health and Care Excellence; PGA,  #@NEW_LINE#@#  
+            participant global assessment; POEM,  #@NEW_LINE#@#  
+            Patient Oriented Eczema Measure; PPI,  #@NEW_LINE#@#  
+            public and patient involvement; QALY,  #@NEW_LINE#@#  
+            quality-adjusted life year; RCT,  #@NEW_LINE#@#  
+            randomised controlled trial; SAE,  #@NEW_LINE#@#  
+            serious adverse event; SD,  #@NEW_LINE#@#  
+            standard deviation; TIS,  #@NEW_LINE#@#  
+            Three Item Severity  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Eczema (also called atopic dermatitis or atopic eczema) is a chronic, itchy inflammatory skin condition that is common throughout the world [1].  #@NEW_LINE#@#  Childhood eczema has a substantial impact on the quality of life of children and their families [2].  #@NEW_LINE#@#  Many families are keen to identify new ways of managing the symptoms of eczema using non-pharmacological approaches [3].  #@NEW_LINE#@#  
+Clothing may play a role in either soothing or exacerbating eczema symptoms, and patients are commonly advised to avoid wool because of its tendency to worsen itch, and to use cotton or fine weave materials next to the skin [4].  #@NEW_LINE#@#  Specialist clothing is now available on prescription in a variety of forms including sericin-free silk, viscose, and silver-impregnated fabrics.  #@NEW_LINE#@#  These garments are claimed to be beneficial for the management of eczema as they can help to regulate the humidity and temperature of the surface of the skin, are smooth in texture, and may reduce skin damage from scratching.  #@NEW_LINE#@#  Some products have anti-microbial properties that could help to reduce the bacterial load on the skin, which may be important in eczema [5].  #@NEW_LINE#@#  
+To date, there have been just three small randomised controlled trials (RCTs) of silk clothing for the management of eczema [68].  #@NEW_LINE#@#  These trials involved very few participants (n = 22, 30, and 22 participants, respectively), were of generally short duration, did not incorporate an economic evaluation, and were at risk of bias [9].  #@NEW_LINE#@#  
+In view of the limited evidence for the use of silk clothing for eczema management, the UK National Institute for Health Research Health Technology Assessment programme commissioned the CLOTHing for the relief of Eczema Symptoms (CLOTHES) Trial.  #@NEW_LINE#@#  The trial had two main objectives: (1) to assess whether use of silk garments plus standard eczema treatment reduces eczema severity in children with moderate to severe eczema compared with standard treatment alone, and (2) if so, to establish the likely cost-effectiveness of silk garments.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+The protocol for this study has been published [10], and the protocol (S1 Protocol) and statistical analysis plan are available (http://www.nottingham.ac.uk/CLOTHES).  #@NEW_LINE#@#  The study was approved by the Health Research Authority East MidlandsNottingham 1 Research Ethics Committee (13/EM/0255), and parents/guardians gave written informed consent (children gave assent as appropriate).  #@NEW_LINE#@#  The trial was registered on Current Controlled Trials prior to start of recruitment (ISRCTN77261365; 11 October 2013).  #@NEW_LINE#@#  This study is reported as per CONSORT guidelines (S1 Checklist).  #@NEW_LINE#@#  A full trial report is available [11].  #@NEW_LINE#@#  
+Study_design  #@NEW_LINE#@#  
+The CLOTHES Trial was a multi-centre, parallel-group, observer-blind, pragmatic RCT with 6 mo of follow-up.  #@NEW_LINE#@#  Children aged 1 to 15 y were randomised (1:1) to receive silk garments plus standard eczema care or standard eczema care alone.  #@NEW_LINE#@#  The primary outcome was assessed by research nurses blinded to the treatment allocation at baseline, 2, 4, and 6 mo.  #@NEW_LINE#@#  The trial included a nested qualitative evaluation and health economic analysis.  #@NEW_LINE#@#  Changes to the protocol after start of participant recruitment included amendment of the number of FLG mutations to be included in the genetic analysis and addition of details of the nested qualitative evaluation.  #@NEW_LINE#@#  
+
+Recruitment  #@NEW_LINE#@#  
+Recruitment took place at five UK medical centres: Nottingham University Hospitals NHS Trust, Royal Free London NHS Foundation Trust, Cambridge University Hospitals NHS Foundation Trust, Portsmouth Hospitals NHS Trust, and Isle of Wight NHS Trust.  #@NEW_LINE#@#  Participants were identified through secondary care, through primary care, or in response to local media advertising.  #@NEW_LINE#@#  
+Children aged 1 to 15 y were enrolled.  #@NEW_LINE#@#  All had a diagnosis of eczema according to the UK Working Partys Diagnostic Criteria for Atopic Dermatitis [12] and a score of nine or more on the Nottingham Eczema Severity Score, denoting moderate to severe eczema over the last 12 mo [13].  #@NEW_LINE#@#  All participants had at least one area of active eczema on part of the body that would be covered by the garments.  #@NEW_LINE#@#  
+Children were excluded if they had taken systemic medication (e.g., ciclosporin or oral corticosteroids) or had received light therapy for eczema in the preceding 3 mo, had used wet/dry wraps 5 times in the last month, had started a new medication or treatment regimen that may affect eczema in the last month, were currently using silk clothing for their eczema and were unwilling to stop during the trial, or were currently taking part in another clinical trial.  #@NEW_LINE#@#  Only one child was enrolled per family.  #@NEW_LINE#@#  
+
+Interventions  #@NEW_LINE#@#  
+The silk garments used in the trial (DermaSilk or DreamSkin) are licensed as a medical device with a CE mark for use in eczema, denoting that they comply with EU legislation and safety requirements.  #@NEW_LINE#@#  Two brands were included to improve the generalisability of the trial findings, to avoid commercial advantage to any one company, and to limit the financial commitment for the companies that donated the garments.  #@NEW_LINE#@#  
+The garments are made with antimicrobially protected, knitted, sericin-free silk (100%).  #@NEW_LINE#@#  Sericin is removed from the silk fibres during manufacture because it is a protein that coats the outside of silk fibres and has the potential to cause allergic reactions.  #@NEW_LINE#@#  Participants received three sets of garments (long-sleeved undershirts and leggings or bodysuits and leggings, depending on the age of the child) and were instructed to wear the clothing as often as possible during the day and at night.  #@NEW_LINE#@#  
+Standardised usage instructions were provided, and participants were advised to allow topical medications to absorb into the skin prior to wearing the garments.  #@NEW_LINE#@#  Replacement garments were provided if they were worn out, lost, or no longer fitted during the 6-mo period of the trial.  #@NEW_LINE#@#  
+Participants in both the intervention and control group continued with their standard eczema care in line with National Institute for Health and Care Excellence (NICE) guidance [14], including regular emollient use and topical corticosteroids (or calcineurin inhibitors) for controlling inflammation.  #@NEW_LINE#@#  Participants were asked not to change their standard eczema treatment for the duration of the trial unless medically warranted.  #@NEW_LINE#@#  If a skin infection was suspected, participants were advised to contact their normal medical team for confirmation of diagnosis and subsequent treatment.  #@NEW_LINE#@#  
+
+Outcomes  #@NEW_LINE#@#  
+Core outcomes as defined by the Harmonising Outcomes Measures for Eczema (HOME) initiative [15,16] were included.  #@NEW_LINE#@#  
+
+Primary_outcome  #@NEW_LINE#@#  
+Eczema severity captured using the Eczema Area and Severity Index (EASI) [17] was assessed by trained research nurses at baseline, 2, 4, and 6 mo.  #@NEW_LINE#@#  Baseline EASI score was used as a covariate in the analysis model.  #@NEW_LINE#@#  EASI is a validated scale recommended as the core outcome instrument for eczema signs [18].  #@NEW_LINE#@#  EASI scoring involves an evaluation of four eczema signs (erythema [redness], excoriation [scratching], oedema/papulation [swelling and fluid in the skin], and lichenification [thickening of the skin]) and an assessment of percentage area affected by eczema in four body regions (head and neck, upper limbs, trunk, and lower limbs).  #@NEW_LINE#@#  Higher scores represent more severe disease.  #@NEW_LINE#@#  
+
+Secondary_outcomes  #@NEW_LINE#@#  
+Secondary outcomes were the following:  #@NEW_LINE#@#  
+
+Safety_outcomes  #@NEW_LINE#@#  
+Safety outcomes were skin infections requiring antibiotic or antiviral treatment and serious adverse events (SAEs) related to eczema.  #@NEW_LINE#@#  
+
+Sample_size  #@NEW_LINE#@#  
+Three hundred participants provided 90% power at the 5% significance level (two-tailed) to detect a difference of three points between the groups in mean EASI score.  #@NEW_LINE#@#  Although this between-group difference is approximately half the published minimum clinically important difference for EASI (suggested from one study in adults receiving systemic therapy) [26], we wanted to be sure that a clinically important difference was not missed.  #@NEW_LINE#@#  Sample size was based on repeated measures analysis of covariance, a standard deviation (SD) of 13, a correlation between EASI scores at different time points of 0.6, and a loss to follow-up of 10%.  #@NEW_LINE#@#  
+
+Randomisation_and_blinding  #@NEW_LINE#@#  
+Randomisation was stratified by recruiting centre and by participant age: less_than2 y, 2 to 5 y, and 5 y.  #@NEW_LINE#@#  A computer-generated pseudo-random code with random permuted blocks of randomly varying size was created by the Nottingham Clinical Trials Unit.  #@NEW_LINE#@#  Research nurses accessed the randomisation website via unique user logins.  #@NEW_LINE#@#  The sequence of treatment allocations remained concealed until the database was locked at the end of the study, when it was revealed to data analysts.  #@NEW_LINE#@#  
+Staff at the coordinating centre sent confirmation of treatment allocation to participants (along with the silk clothing as necessary).  #@NEW_LINE#@#  Whilst it was not possible to blind participants to their treatment allocation, efforts were made to minimise expectation bias by emphasising in the trial documents that the evidence supporting the use of silk garments for eczema was limited and that it was not yet known if such clothing offered any benefit over standard care.  #@NEW_LINE#@#  Participant-facing study documents also avoided the use of value-laden terms such as specialist or therapeutic clothing.  #@NEW_LINE#@#  
+In order to preserve blinding of the research nurses, participants were reminded in the study literature and in their clinic appointment letters/texts not to wear the clothing when they attended clinic or to mention the clothing when talking to the research nurses.  #@NEW_LINE#@#  All questions relating to the acceptability and use of the clothing were completed using either postal or online questionnaires, and telephone and email contact with participants was made by staff from the coordinating centre whenever possible.  #@NEW_LINE#@#  If the research nurses became unblinded, this was recorded.  #@NEW_LINE#@#  
+
+FLG_genotype_analysis  #@NEW_LINE#@#  
+Saliva samples were collected for DNA extraction and FLG genotyping.  #@NEW_LINE#@#  Only participants of white European ethnicity were included in this analysis, because FLG mutations are ethnically specific.  #@NEW_LINE#@#  Results for the four most prevalent loss-of-function mutations in the white European population (R501X, 2282del4, R2447X, and S3247X) were obtained for 217 individuals and were used to define genotype categories: FLG wild type (no mutations identified), FLG heterozygote (one FLG null mutation), and FLG homozygote or compound heterozygote (two FLG null mutations).  #@NEW_LINE#@#  
+
+Statistical_methods  #@NEW_LINE#@#  
+Analyses were carried out by L. E. B.  #@NEW_LINE#@#  (trial statistician) using Stata/SE 13.1.  #@NEW_LINE#@#  The main approach to analysis was modified intention to treat, i.e., analysis according to randomised group regardless of adherence to allocation and including participants who provided data for at least one follow-up time point.  #@NEW_LINE#@#  Estimates of the intervention effect are presented with 95% confidence intervals and p-values.  #@NEW_LINE#@#  All regression models included the randomisation stratification variables (recruiting centre and age) as covariates, and baseline scores, if measured.  #@NEW_LINE#@#  Adjusted differences in means for the intervention group compared to the standard care group are presented for continuous outcomes, and adjusted risk differences and relative risks for binary outcomes.  #@NEW_LINE#@#  For outcomes collected at the 2-, 4-, and 6-mo visits, we explored whether the effect of the trial garments on the outcome changed over the study period by including an interaction term between treatment group and time point in the model.  #@NEW_LINE#@#  As there was no evidence of a differential effect over time for any outcomes, we report a single estimate per outcome that averages the treatment effect over all time points.  #@NEW_LINE#@#  
+The primary analysis used a multilevel model with observations at 2, 4, and 6 mo nested within participants.  #@NEW_LINE#@#  The model used a random intercept and slope at the participant level with an unstructured covariance matrix for these random effects.  #@NEW_LINE#@#  The model assumed that missing EASI scores were missing at random given the observed data.  #@NEW_LINE#@#  EASI scores were right skewed at all time points.  #@NEW_LINE#@#  Diagnostic plots indicated that the assumptions for the multilevel model in the original EASI units were not met.  #@NEW_LINE#@#  The data were log-transformed for analysis and the treatment effect presented as a ratio of geometric means [27,28].  #@NEW_LINE#@#  This ratio was back-transformed to the original EASI units to facilitate interpretation of findings.  #@NEW_LINE#@#  
+Sensitivity analyses for the primary outcome adjusted for variables that had an observed imbalance between the groups at baseline, used multiple imputation for missing outcome data, and explored the impact of adherence in wearing the clothing by estimating the complier average causal effect (CACE) at 6 mo using instrumental variable regression.  #@NEW_LINE#@#  
+A planned subgroup analysis based on presence or absence of loss-of-function mutations in FLG (which are associated with impaired skin barrier function and more severe disease) was conducted for the primary outcome by adding an interaction term between allocated treatment and FLG genotype (none, one, or two FLG null mutations) to the primary analysis model.  #@NEW_LINE#@#  
+The global assessment scores (IGA and PGA) were dichotomized into clear, almost clear, or mild eczema versus moderate, severe, or very severe eczema, and analysed using generalised estimating equations.  #@NEW_LINE#@#  The mean weekly POEM scores, percentage of days that topical steroids were used, and quality of life outcomes were analysed using linear models (weighted according to the number of questionnaires completed for the weekly POEM and topical steroid use).  #@NEW_LINE#@#  The TIS score was analysed using the multilevel model framework as outlined above for the primary outcome (not transformed).  #@NEW_LINE#@#  Changes to treatment regimen were based on whether a participant had reported treatment escalation over the 6-mo RCT period and were analysed using a generalised linear model.  #@NEW_LINE#@#  Skin infections were analysed using negative binomial regression.  #@NEW_LINE#@#  SAEs and durability and acceptability of use of the garments were summarised descriptively.  #@NEW_LINE#@#  
+Adherence in wearing the trial clothing was summarised using the percentage of days and nights that the study clothing was worn.  #@NEW_LINE#@#  Participants were classified as being broadly adherent if they wore the trial clothing for at least 50% of the days or 50% of the nights.  #@NEW_LINE#@#  This classification was done for participants for whom at least half (12/24) of the weekly questionnaires were completed, and sensitivity analysis explored the impact of different assumptions for those participants who completed less than 50% of the weekly questionnaires.  #@NEW_LINE#@#  Adherence with the trial clothing was explored descriptively according to age and baseline eczema severity using correlation coefficients.  #@NEW_LINE#@#  
+Full details of the analysis are documented in the statistical analysis plan, which was finalised prior to database lock and release of treatment allocation codes for analysis.  #@NEW_LINE#@#  
+Following concerns that the baseline EASI scores appeared lower than might be expected for children with moderate to severe eczema, an additional post hoc analysis was conducted to explore the interaction between baseline severity and treatment group by adding an interaction term between allocated group and baseline EASI score (log-transformed and continuous) to the primary analysis model.  #@NEW_LINE#@#  
+
+Patient_involvement  #@NEW_LINE#@#  
+Public and patient involvement (PPI) was embedded throughout the CLOTHES Trial.  #@NEW_LINE#@#  Various PPI methods such as online surveys, discussion groups, and patient panels were used to inform multiple aspects of the trial design including choice of comparator, eligibility criteria, potential barriers to participation, and outcome measures.  #@NEW_LINE#@#  PPI members of the trial team also contributed to the development of patient-facing study materials and took part in media interviews to enhance recruitment.  #@NEW_LINE#@#  A PPI representative was a co-applicant on the grant and was involved in all stages from trial design through to data interpretation and write up, and another PPI representative was a member of the trial steering committee.  #@NEW_LINE#@#  
+The study results will be published on the CLOTHES Trial website, and a written summary and child-friendly animated film will be sent to trial participants.  #@NEW_LINE#@#  
+
+Health_economics  #@NEW_LINE#@#  
+The within-trial economic analysis (conducted by T. H. S. using Stata/SE 14.1) compared the costs and QALYs in the standard care and intervention groups from the perspective of the NHS.  #@NEW_LINE#@#  We attached published unit costs (20142015 UK pounds sterling) [2931] to individual-level quantities of resource use (S1 Table) and estimated the mean cost per participant incorporating the cost of the intervention and wider healthcare resource use (primary care, secondary care, and medications).  #@NEW_LINE#@#  
+QALYs were estimated using linear interpolation and area under the curve analysis, adjusting for baseline values, age, and recruitment centre.  #@NEW_LINE#@#  A regression-based approach (seemingly unrelated regression equations) [32] was used for the statistical analysis.  #@NEW_LINE#@#  The level of uncertainty associated with the decision over which option was most cost-effective was explored using non-parametric bootstrapping [33] to construct the cost-effectiveness acceptability curve [34].  #@NEW_LINE#@#  Neither costs nor QALYs were discounted reflecting the time frame.  #@NEW_LINE#@#  
+To test the impact of taking an alternative approach to costing the silk garments, sensitivity analysis included an estimate of the amount pharmacists are reimbursed for each item of clothing they prescribe.  #@NEW_LINE#@#  This analysis was based on the NHS Business Services Authority formula to estimate the actual cost to the NHS.  #@NEW_LINE#@#  The analysis was rerun using the March 2015 tariff data [35], where the average discount was 7.43% and the pharmacists professional fee £0.90 per prescription item.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Recruitment_and_retention  #@NEW_LINE#@#  
+Three hundred children were randomised between 26 November 2013 and 5 May 2015 (last study visit 21 October 2015).  #@NEW_LINE#@#  The primary analysis included 141 participants in each group who had at least one primary outcome assessment after baseline (Fig 1).  #@NEW_LINE#@#  For all but four participants, outcome assessments were performed by the same nurse at all study visits.  #@NEW_LINE#@#  
+For the weekly online questionnaires (24 questionnaires over 6 mo), 126/149 (85%) participants in the intervention group and 127/151 (84%) participants in the standard care group completed 12 questionnaires or more.  #@NEW_LINE#@#  The median number completed was 22 (25th to 75th centile 17 to 24) in both groups.  #@NEW_LINE#@#  
+
+Baseline_characteristics  #@NEW_LINE#@#  
+Participants had a mean age of 5 y, 42% were girls, and 79% were white.  #@NEW_LINE#@#  At recruitment, 72% had moderate or severe eczema, as judged by the IGA (Table 1).  #@NEW_LINE#@#  Demographic and clinical characteristics were well balanced at baseline apart from gender and parental reported history of asthma and food allergy (Table 1).  #@NEW_LINE#@#  The mean baseline EASI score was slightly higher in the intervention group as more children had a baseline EASI score of over 30 points (14 participants in the intervention group, four participants in the standard care group).  #@NEW_LINE#@#  However, the median and interquartile range for EASI score were similar between the groups (Table 2).  #@NEW_LINE#@#  
+
+Adherence__contamination__and_blinding  #@NEW_LINE#@#  
+Adherence in wearing the garments was good.  #@NEW_LINE#@#  The garments were worn more often at night than in the day (median of 81% of nights [25th to 75th centile 57% to 96%] and 34% of days [25th to 75th centile 10% to 76%]) (Fig 2; S2 Table).  #@NEW_LINE#@#  Adherence in wearing the garments was not associated with age or eczema severity at baseline (S2 Table).  #@NEW_LINE#@#  Contamination of the standard care group was low; six participants reported wearing silk clothing during the trial (including one participant who was allocated to the standard care group but was sent the silk clothing in error; this participant was included in the analysis according to randomised allocation).  #@NEW_LINE#@#  
+Acceptability of the garments as assessed at 6 mo suggested that 85/121 (70%) participants were satisfied or very satisfied with the clothing (95% CI 61% to 78%), and 89/121 (74%) participants were either happy or very happy to wear the garments (95% CI 64% to 81%).  #@NEW_LINE#@#  Some participants raised concerns about the garments, including poor durability and fit.  #@NEW_LINE#@#  
+Research nurses remained blinded to treatment allocation for 289/300 (96%) of participants.  #@NEW_LINE#@#  Unblinding occurred for three participants in the standard care group and eight in the intervention group.  #@NEW_LINE#@#  
+
+Primary_outcome  #@NEW_LINE#@#  
+For the primary outcome of eczema severity, there was no difference between the groups in the nurse-assessed EASI scores.  #@NEW_LINE#@#  For EASI scores averaged over the 2-, 4-, and 6-mo follow-up visits, the adjusted ratio of geometric means was 0.95, with 95% CI 0.85 to 1.07 (p = 0.43) (Table 2; Fig 3).  #@NEW_LINE#@#  This confidence interval equates to a difference of approximately 1.5 to 0.5 points in the original EASI units.  #@NEW_LINE#@#  
+All sensitivity analyses for the primary outcome (adjusting for additional baseline factors, imputing missing values, and exploring the impact of adherence [CACE analysis]) were supportive of the primary analysis (S3 Table).  #@NEW_LINE#@#  There was no differential effect of the clothing on EASI score (eczema severity) according to FLG subgroup (S4 Table) or severity of eczema at baseline (S5 Table).  #@NEW_LINE#@#  
+
+Secondary_and_safety_outcomes  #@NEW_LINE#@#  
+For the secondary outcomes, there were no between-group differences in nurse-assessed eczema severity (IGA, TIS), quality of life (DFI, EQ-5D-3L, CHU-9D), or medication use (percentage of days eczema medications used, escalation of eczema treatment) (Tables 2 and 3).  #@NEW_LINE#@#  However, small differences were observed for two of the participant-reported secondary outcomes of eczema severity (PGA, POEM) (Tables 2 and 3; Fig 4).  #@NEW_LINE#@#  Safety outcomes (number of skin infections and hospitalizations due to eczema) were similar in the two groups (Table 4).  #@NEW_LINE#@#  
+
+Cost-effectiveness  #@NEW_LINE#@#  
+The economic evaluation included all participants with complete resource use and ADQoL data at baseline and 6 mo (n = 273).  #@NEW_LINE#@#  The cost of a single set of tops and leggings ranged from £66.02 to £155.49, depending on the size of the child.  #@NEW_LINE#@#  The mean cost of silk garments for 6 mo, including initial and replacement garments, was £318.52 (SD £136.60) per participant in the base case (Table 5).  #@NEW_LINE#@#  The mean number of sets of garments (tops and leggings) per participant in the base case was 4.15 (SD 1.56).  #@NEW_LINE#@#  Sixty-one (45.54%) intervention participants received replacement garments over the 6 mo.  #@NEW_LINE#@#  
+Combined with wider health resource use, the adjusted mean difference in cost per participant was £364.94 (95% CI £217.47 to £512.42, p less_than 0.001) for those who received silk garments compared to those who did not in the base case (Table 5).  #@NEW_LINE#@#  The difference in total costs between groups reflects the cost of the intervention; wider NHS costs were not significantly different between groups (£48.57 higher per participant on average in the intervention group, 95% CI £105.92 to £203.05, p = 0.537).  #@NEW_LINE#@#  For resource use and costs for all resource items, see S6 and S7 Tables.  #@NEW_LINE#@#  
+The adjusted mean difference in QALY per participant was 0.0064 (95% CI 0.0004 to 0.0133, p = 0.07) (Table 5).  #@NEW_LINE#@#  The adjusted incremental cost per QALY was £56,811, suggesting that silk garments for AE are not cost-effective using currently accepted thresholds.  #@NEW_LINE#@#  At a willingness to pay of £30,000 per QALY, the probability of silk garments being cost-effective was 12.13%.  #@NEW_LINE#@#  This conclusion did not change in sensitivity analysis testing an alternative approach to costing the silk garments.  #@NEW_LINE#@#  Although the cost of silk garments was reduced with the alternative approach, at £53,989 per QALY, the estimated incremental cost per QALY was still over the accepted NICE threshold value (see S8 Table).  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Main_findings  #@NEW_LINE#@#  
+This trial found little evidence of clinical or economic benefit of using silk garments in addition to standard care, compared with standard care alone, in children with moderate to severe eczema.  #@NEW_LINE#@#  There were no differences between the treatment groups for any of the outcomes that were assessed by research nurses, who were unaware of participants treatment allocation, and the percentage of days on which topical corticosteroids or calcineurin inhibitors were used did not differ between the groups.  #@NEW_LINE#@#  The 95% confidence intervals around the primary efficacy estimates were narrow, suggesting that a clinically important treatment effect is unlikely to have been missed, and sensitivity analyses (imputing missing values, adjusting for baseline imbalances, and exploring the impact of adherence in wearing the garments) supported the primary analysis.  #@NEW_LINE#@#  
+Subgroup analysis based on FLG genotype showed no evidence of differential treatment response in children with an inherited impairment in skin barrier function, and a post hoc analysis exploring the impact of baseline eczema severity on the primary outcome showed no effect, suggesting that children with more severe disease were no more likely to benefit from silk clothing than those with milder disease.  #@NEW_LINE#@#  
+The trial garments are marketed as possessing antimicrobial properties, but this study found no evidence to suggest a reduction in the number of skin infections in those using the clothing compared to those randomised to standard care alone.  #@NEW_LINE#@#  
+Of the seven unblinded secondary outcomes, two (POEM and PGA) showed small differences in favour of the silk garments, most noticeably in the first 3 mo of the trial.  #@NEW_LINE#@#  Whilst these small differences could have been genuine, they are most likely due to an expectation bias that declined with time.  #@NEW_LINE#@#  Our nested qualitative study (to be reported separately) highlighted the hopes that both children and parents placed on the silk clothing [11].  #@NEW_LINE#@#  A previous eczema trial reported differences between blinded and unblinded outcomes when expectation regarding the benefits of the trial intervention was high [36].  #@NEW_LINE#@#  
+
+Relevance_to_other_studies  #@NEW_LINE#@#  
+To our knowledge, there have been no further RCTs on the effectiveness of silk garments for eczema since the CLOTHES Trial began (search updated 14 March 2016), and meta-analysis of the available silk clothing trials is not possible due to heterogeneity of designs.  #@NEW_LINE#@#  Additional brands of silk garments have since become available for use in eczema (e.g., Skinnies), but these have not been formally evaluated in RCTs.  #@NEW_LINE#@#  At the time of commissioning this research (2011), £840,272 was spent on prescriptions for silk garments per annum in the UK (for all indications).  #@NEW_LINE#@#  By 2014, this amount had risen to £2,082,810 per annum [3740].  #@NEW_LINE#@#  
+
+Strengths_and_limitations  #@NEW_LINE#@#  
+The CLOTHES Trial was an adequately powered RCT, with high follow-up rates and good adherence.  #@NEW_LINE#@#  The pragmatic study design meant that use of silk garments was evaluated as they might be used in normal practice, with mixed patterns of adherence.  #@NEW_LINE#@#  The trial placed special emphasis on objective outcome measures in order to minimise response bias.  #@NEW_LINE#@#  
+It is possible that our emphasis on objective eczema severity outcomes meant that some important potential benefits were not captured in the primary analysis.  #@NEW_LINE#@#  Other factors, such as improvements in quality of life or a reduction in symptoms (especially itch and sleep loss, as measured by POEM), may be important drivers in determining whether or not patients feel that the garments are helpful.  #@NEW_LINE#@#  Nevertheless, we found no evidence of improved quality of life amongst trial participants using a range of validated scales.  #@NEW_LINE#@#  
+Eczema severity scores improved for both groups during the trial, probably due to a combination of regression to the mean and regular monitoring of the eczema resulting in enhanced adherence to standard care.  #@NEW_LINE#@#  It is possible that treatment effects were masked by these general trial effects.  #@NEW_LINE#@#  
+
+Generalisability  #@NEW_LINE#@#  
+The study has strong external validity as it was pragmatic in design to reflect normal clinical practice, and participants were recruited from five UK medical centres covering a range of urban and rural settings.  #@NEW_LINE#@#  We recruited children with a range of eczema severities, but the majority had moderate to severe disease; 32% had at least one mutation in the FLG gene, a proportion typical of eczema patents with moderate or severe disease [36].  #@NEW_LINE#@#  Overall, 49% had self-reported food allergy, which is high for children with moderate to severe disease, and 15% reported a history of anaphylaxis.  #@NEW_LINE#@#  However, these data were collected by self-report and so may include food intolerance as well as food allergy.  #@NEW_LINE#@#  
+We are unable to comment on the effectiveness of the silk garments if used continuously day and night, although sensitivity analysis found no evidence of improved outcomes in those who adhered more fully in wearing the garments.  #@NEW_LINE#@#  It is also possible that the beneficial effects of silk garments are best realised during a period of eczema flare, and daily use of the garments in the CLOTHES trial could have led to more rapid deterioration of the clothing than might have been seen if the garments were worn occasionally when the eczema was at its worst.  #@NEW_LINE#@#  
+
+Conclusion  #@NEW_LINE#@#  
+This is the first large, independent trial to have evaluated silk garments for the management of eczema.  #@NEW_LINE#@#  The nested economic evaluation suggests that use of these garments is unlikely to be cost-effective for health providers, even if the small observed benefits were genuine.  #@NEW_LINE#@#  These trial results provide health commissioners with a better evidence base on which to make informed decisions about silk garments for eczema.  #@NEW_LINE#@#  Whether or not parents feel that the small benefits identified in some of the secondary outcomes are sufficient to justify purchasing these garments is something for individuals to consider on a case-by-case basis.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Alternative_Language_Abstract_French_translation_of_the_abstract_by_Sébastien_Barbarot  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Alternative_Language_Abstract_Chinese_translation_of_the_abstract_by_Lu_Ban  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s002  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+S3_Alternative_Language_Abstract_Spanish_translation_of_the_abstract_by_Ignacio_Garcia_Doval  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Alternative_Language_Abstract_Japanese_translation_of_the_abstract_by_Masaki_Futamura  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Alternative_Language_Abstract_German_translation_of_the_abstract_by_Christien_Apfelbacher_and_Uwe_Matterne  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_Unit_costs_in_20142015_UK_pounds_sterling  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Adherence_according_to_age_and_baseline_severity_of_eczema__plus_sensitivity_analysis_for_adherence  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Sensitivity_analyses_adjusting_for_variables_with_baseline_imbalance_and_imputation_for_missing_primary_outcome_scores  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Subgroup_analysis_of_primary_outcome_by_FLG_status  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s009  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Post_hoc_subgroup_analysis_for_primary_Eczema_Area_and_Severity_Index_outcome_according_to_baseline_eczema_severity  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s010  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Table_Mean_(standard_deviation)_resource_use_and_mean_difference_in_resource_use_per_participant_(95%_confidence_interval)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s011  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Table_Mean_(standard_deviation)_cost_and_cost_difference_(95%_confidence_interval)_per_participant_over_the_6_mo_(in_20142015_UK_pounds_sterling)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s012  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S8_Table_Incremental_cost-effectiveness_analyses_results_for_base_case_and_sensitivity_analysis_testing_an_alternative_approach_to_costing_silk_garments  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s013  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Protocol_CLOTHES_protocol_final_v30_11_(February_2014)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s014  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Checklist_CONSORT_checklist  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002280.s015  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors would like to thank all those who supported the development and conduct of the trial and the participants who took part.  #@NEW_LINE#@#  Particular thanks also to members of the independent rrial steering committee: David Paige (Chair), Consultant Paediatric Dermatologist, Barts Health NHS Trust; Nick Francis, General Practitioner/Senior Clinical Research Fellow, Cardiff University; Caroline OLeary, Senior Statistician, IMS Health; Rosemary Humphreys, Patient Representative.  #@NEW_LINE#@#  
+We would also like to thank members of the Centre of Evidence Based Dermatologys patient panel, people who responded to our online survey to inform the trial design, and the National Eczema Society and Nottingham Eczema Support Group for Carers of Children with Eczema, for advertising the trial.  #@NEW_LINE#@#  
+Dr. Joanne Chalmers and Mrs. Tessa Clarke assisted in developing the trial funding proposal and protocol.  #@NEW_LINE#@#  Dr. Natasha Rogers, Dr. Joanne Chalmers, Ms. Shelley Dowey, Dr. Carron Layfield, and Ms. Margaret McPhee helped with study setup, dissemination, and publicity for the trial.  #@NEW_LINE#@#  
+Ms. Lisa Irvine and Ms. Emma McManus, Norwich Medical School, University of East Anglia, reviewed the health economic analysis plan and final analysis, respectively.  #@NEW_LINE#@#  Antony Colles, Norwich Medical School, University of East Anglia, assisted with formatting data for analysis.  #@NEW_LINE#@#  
+Dr. Sébastien Barbarot provided training for the research nurses in how to identify eczema and how to assess eczema severity using the EASI.  #@NEW_LINE#@#  
+The trial was sponsored by the University of Nottingham, was coordinated from the Nottingham Clinical Trials Unit, and was supported by the National Institute for Health Research Clinical Research Network.  #@NEW_LINE#@#  The trial was developed with support from the UK Dermatology Clinical Trials Network.  #@NEW_LINE#@#  
+Translations of the abstract for this paper were kindly provided by Dr. Sébastien Barbarot (French), Dr. Lu Ban (Chinese), Dr. Ignacio Garcia Doval (Spanish), and Dr. Masaki Futamura (Japanese).  #@NEW_LINE#@#  
+Members_of_the_CLOTHES_Trial_Team_(contributors)  #@NEW_LINE#@#  
+Nottingham Clinical Trials Unit: Lelia Duley, Director of Nottingham Clinical Trials Unit and advisor on trial design; Andrew Jadowski, Trial Administrator; Jennifer White, Trial Coordinator; Sarah Walker, Data Coordinator; Tessa Clarke, Senior Trial Manager; Trish Hepburn, Senior Medical Statistician; Justin Fenty, Senior Statistician; Lucinda Murphy, Data Manager; Daniel Simpkins, IT and Data Manager; Chris Rumsey, IT Programmer.  #@NEW_LINE#@#  
+Other support staff at recruiting centres: Hannah Buckley, Principal Investigator; Sharon McCready, Research Nurse Lead; Rachel Watson, Clinical Trials Assistant; Gill Glasbey, Research Study Coordinator.  #@NEW_LINE#@#  
+Contributors to the qualitative study: Eileen Wake, Paediatric Nurse Lecturer; Rachel Harding, Paediatric Nurse; Jo Aspland, Research Associate.  #@NEW_LINE#@#  
+DNA extraction and genotyping of saliva samples: Professor Irwin McLean, Ms. Linda Campbell, and Ms. Stephanie MacCallum.  #@NEW_LINE#@#  
+The views and opinions expressed herein are those of the authors and do not necessarily reflect those of the Health Technology Assessment Programme, NIHR, NHS, or the Department of Health.  #@NEW_LINE#@#  
+
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: KST HCW IP NPB TD FC THS SL JMB AAM EJM SJB AA.  #@NEW_LINE#@#  
+Data curation: LEB.  #@NEW_LINE#@#  
+Formal analysis: LEB AAM THS.  #@NEW_LINE#@#  
+Funding acquisition: KST HCW IP NPB TD FC THS SL JMB AAM EJM AA.  #@NEW_LINE#@#  
+Investigation: JL JDG CC AG JG FC.  #@NEW_LINE#@#  
+Methodology: KST HCW IP NPB TD FC THS SL JMB LEB EFH RHH AAM EJM SJB AA.  #@NEW_LINE#@#  
+Project administration: EFH RHH.  #@NEW_LINE#@#  
+Resources: SJB.  #@NEW_LINE#@#  
+Software: LEB.  #@NEW_LINE#@#  
+Supervision: KST JMB EJM AAM EFH RHH SL HCW IP NPB HKB TD.  #@NEW_LINE#@#  
+Visualization: LEB THS.  #@NEW_LINE#@#  
+Writing  original draft: KST LEB EFH THS SJB.  #@NEW_LINE#@#  
+Writing  review & editing: KST LEB THS JMB SL EFH RHH AA HCW TD NPB IP HKB JL CC JDG JG AG EJM FC SJB AAM.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

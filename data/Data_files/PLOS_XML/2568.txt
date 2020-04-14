@@ -1,0 +1,207 @@
+article id="http://dx.doi.org/10.1371/journal.pgen.1007559"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Transcriptome analysis of adult Caenorhabditis elegans cells reveals tissue-specific gene and isoform expression  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+The biology and behavior of adults differ substantially from those of developing animals, and cell-specific information is critical for deciphering the biology of multicellular animals.  #@NEW_LINE#@#  Thus, adult tissue-specific transcriptomic data are critical for understanding molecular mechanisms that control their phenotypes.  #@NEW_LINE#@#  We used adult cell-specific isolation to identify the transcriptomes of C. elegans four major tissues (or tissue-ome), identifying ubiquitously expressed and tissue-specific enriched genes.  #@NEW_LINE#@#  These data newly reveal the hypodermis metabolic character, suggest potential worm-human tissue orthologies, and identify tissue-specific changes in the Insulin/IGF-1 signaling pathway.  #@NEW_LINE#@#  Tissue-specific alternative splicing analysis identified a large set of collagen isoforms.  #@NEW_LINE#@#  Finally, we developed a machine learning-based prediction tool for 76 sub-tissue cell types, which we used to predict cellular expression differences in IIS/FOXO signaling, stage-specific TGF- activity, and basal vs. memory-induced CREB transcription.  #@NEW_LINE#@#  Together, these data provide a rich resource for understanding the biology governing multicellular adult animals.  #@NEW_LINE#@#  
+
+Author_summary  #@NEW_LINE#@#  
+C. elegans is the simplest multi-cellular model system, with only 959 somatic cells in the fully-developed adult.  #@NEW_LINE#@#  This work describes the isolation and RNA-seq analysis of the worms major adult tissues.  #@NEW_LINE#@#  Previously, the isolation of adult tissues has been hampered by the worms tough outer cuticle, but identification of the transcriptomes of adult tissues is necessary to understand the biology of adults, which differs substantially from that of embryonic and larval cells.  #@NEW_LINE#@#  We recently developed a method to isolate and RNA-sequence adult tissues, and applied it here to characterize the muscle, neuron, intestine, and epidermis adult transcriptomes and isoform profiles.  #@NEW_LINE#@#  The data reveal interesting new characteristics for adult tissues, particularly the hypodermis metabolic function, which we have functionally tested.  #@NEW_LINE#@#  The tissue transcriptomes were also used to identify relevant human tissue orthologs in an unbiased manner.  #@NEW_LINE#@#  Finally, we present a new prediction tool for gene expression in up to 76 tissues and cell types, and we demonstrate its utility not only in predicting cell-specific gene expression, but in diagnosing expression changes in different genetic pathways and contexts.  #@NEW_LINE#@#  
+
+Citation: Kaletsky R, Yao V, Williams A, Runnels AM, Tadych A, Zhou S, et al.  #@NEW_LINE#@#  (2018) Transcriptome analysis of adult Caenorhabditis elegans cells reveals tissue-specific gene and isoform expression.  #@NEW_LINE#@#  PLoS Genet 14(8):  #@NEW_LINE#@#  
+           e1007559.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pgen.1007559  #@NEW_LINE#@#  
+Editor: Gregory S. Barsh, Stanford University School of Medicine, UNITED STATES  #@NEW_LINE#@#  
+Received: March 14, 2018; Accepted: July 13, 2018; Published:  August 10, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Kaletsky et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Sequences are deposited at NCBI BioProject PRJNA400796.  #@NEW_LINE#@#  
+Funding: CTM is the Director of the Glenn Center for Aging Research at Princeton and an HHMI-Simons Faculty Scholar.  #@NEW_LINE#@#  OGT is a senior fellow of the Genetic Networks program of the Canadian Institute for Advanced Research (CIFAR).  #@NEW_LINE#@#  This work was supported by the NIH (DP1 Pioneer Award (GM119167) and Cognitive Aging R01 (AG034446) to CTM, and R01 GM071966 to OGT), as well as by the Glenn Medical Foundation.  #@NEW_LINE#@#  VY and AMR were supported in part by NIH T32 HG003284 and T32GM007388 grants.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Animals progress through many stages of development before reaching adulthood, and as adults, they exhibit metabolic and behavioral differences from developing animals.  #@NEW_LINE#@#  Studies in the nematode C. elegans demonstrate this phenomenon well: both biological responses and gene expression differ significantly in different stages [1,2].  #@NEW_LINE#@#  Therefore, to understand the biology underlying tissue-specific adult behavior, it is critical to identify adult, tissue-specific transcriptomes.  #@NEW_LINE#@#  
+The advent of whole-genome gene expression approaches allowed the identification of a cells full set of mRNA transcripts, ushering in a new era of understanding biological dynamics [3].  #@NEW_LINE#@#  The ongoing development of new methods to isolate and sequence individual cells in order to approximate their metabolic and biochemical state has refined our understanding of single cells [4].  #@NEW_LINE#@#  The next frontier in this work is the gene expression analysis of whole animals on a tissue-by-tissue and cell-by-cell basis.  #@NEW_LINE#@#  While tissue-specific expression has been measured in other organisms, the combination of extremely small tissue size and adult cuticle impermeability have previously prevented the analysis of adult worm tissue expression, which is necessary in order to understand adult processes, including systemic aging, tissue-specific aging, and cell non-autonomous control of aging.  #@NEW_LINE#@#  More broadly speaking, adult tissue-specific expression can be used to better understand signaling and cell autonomous processes and to compare expression to that in other adult organisms.  #@NEW_LINE#@#  The complexity of tissue autonomous and non-autonomous mechanisms of aging and disease requires the understanding of tissue-specific expression.  #@NEW_LINE#@#  The delineation of adult tissue expression presented here, combined with the genetic and molecular tools available in the worm, provide a unique chance to more directly model aging and disease compared to more complex organisms.  #@NEW_LINE#@#  
+C. elegans is the simplest multicellular model system, with only 959 somatic (non-germline) cells in the fully developed adult animal.  #@NEW_LINE#@#  Four tissuesmuscles, neurons, intestine, and the epidermis (or hypodermis)comprise the bulk of the animals somatic cells and are largely responsible for the animals cell autonomous and non-autonomous biological regulation.  #@NEW_LINE#@#  Until recently, most transcriptional analyses of C. elegans adults utilized whole worms, but the need to identify tissue-specific transcripts in order to better understand both tissue-specific and non-autonomous signaling has become apparent.  #@NEW_LINE#@#  Several tissue profiling techniques that rely on PAB-mediated RNA immunoprecipitation have been widely used, but these methods often introduce very high non-specific background [5] and studies have not focused specifically on adult animals [1,6,7].  #@NEW_LINE#@#  Recent spliced-leader RNA-tagging methods [8] that avoid this problem are also limited, since only 5060% of C. elegans genes exhibit SL1-based trans-splicing [9].  #@NEW_LINE#@#  Furthermore, tools used to isolate embryonic and larval stage C. elegans cells using cell sorting [1,1013] have allowed the transcriptional profiling of specific tissues and cell types, shedding light on larval development processes, but lack information specific to adult tissues.  #@NEW_LINE#@#  Much of worm behavioral analysis, and all aging studiesfor which C. elegans is a premier model system[14] are, not is performed in adults, which are less amenable to standard isolation approaches due to their tough outer cuticle.  #@NEW_LINE#@#  Therefore, we developed a method to disrupt and isolate adult tissues [2].  #@NEW_LINE#@#  That work revealed that the adult neuronal transcriptome differs significantly from earlier embryonic and larval stages, and that the adult neuronal transcriptome best reveals genes involved in behavior and neuronal function.  #@NEW_LINE#@#  The other major tissuesmuscle, intestine, and hypodermisare likely to provide insight into important adult-specific processes that are widely studied in C. elegans as models of human biology, such as pathogenesis, reproduction, age-related decline, and others.  #@NEW_LINE#@#  
+Here we have performed cell-specific transcriptional analysis and characterization of the four major somatic tissues isolated from adult worms.  #@NEW_LINE#@#  As examples of the utility of these data, we used the highly enriched tissue gene sets to identify transcriptional parallels between worm and human tissues and to determine the tissue specificity of DAF-16 transcriptional targets.  #@NEW_LINE#@#  Additionally, our sequencing method allowed the identification of tissue-specific alternatively spliced gene isoforms, which we have used to explore tissue-specific collagen isoform expression.  #@NEW_LINE#@#  Finally, we present a tool that predicts gene expression in 76 different sub-tissue cell types, and demonstrate its utility in the characterization of individual genes, gene classes, and potential cellular differences in gene expression for several different signaling pathways.  #@NEW_LINE#@#  Together, these data provide a rich resource for the examination of adult gene expression in C. elegans.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Isolation_and_sequencing_of_major_adult_C_elegans_tissues  #@NEW_LINE#@#  
+To identify the transcriptomes of adult C. elegans tissues, it is necessary to break open the outer cuticle and release, filter, and sort cells while minimizing cell damage [2].  #@NEW_LINE#@#  We collected 27 Day 1 adult tissue samples (7 neuron, 5 intestine, 7 hypodermis, 8 muscle), utilizing strains with fluorescently-marked neurons (Punc-119::gfp), muscle (Pmyo-3::mCherry), hypodermis (pY37A1B.5::gfp), and intestine (Pges-1::gfp; Fig 1A; see Methods for details).  #@NEW_LINE#@#  
+Multidimensional scaling analysis (Fig 1B) suggests that the samples cluster best with their respective tissue types, and that muscle and hypodermis are most closely related, while neuronal and intestine samples are more distinct from one another.  #@NEW_LINE#@#  Subsampling analysis [15], which determines whether sequencing has been performed to sufficient depth, suggests that this estimate of gene expression is stable across multiple sequencing depths (S1A Fig), and thus gene expression differences represent true differences between tissues.  #@NEW_LINE#@#  
+We obtained reads across the whole transcript length (rather than selecting the 3 end of mRNA via the polyA tail) in order to analyze tissue-specific isoform expression (see below).  #@NEW_LINE#@#  To assess RNA degradation in each sample, we determined the gene body coverage for all 20,389 protein-coding genes [16]; the transcripts have consistent, uniform coverage, with best coverage within the gene bodies (S1B Fig).  #@NEW_LINE#@#  
+Expressed genes are defined as those with both (1) an average log(rpkm) greater than 2, and (2) with each replicate of that tissue having a log(rpkm) greater than 1, resulting in the detection of 8437 neuron, 7691 muscle, 7191 hypodermis, and 9604 intestine protein-coding genes (Fig 1C, S1 Table); 5360 genes are expressed in all sampled tissues.  #@NEW_LINE#@#  Hierarchical clustering of the top 2000 differentially-expressed genes per sample across the four tissue types shows that intra-group tissue samples are most similar, specific genes characterize particular tissue types (especially neurons), and that there is a subgroup of genes expressed in all tissues (Fig 1D).  #@NEW_LINE#@#  As expected, Gene Ontology (GO) analysis of the ubiquitously-expressed gene set shows that basic cell biological and metabolic processes are shared, including such terms as intracellular transport, protein metabolism, catabolism, glucose metabolism, ribosome biogenesis, translation elongation, maintenance of cell polarity, and microtubule-based process (Fig 1E; S2 Table).  #@NEW_LINE#@#  Additionally, terms associated with protection of the cell, such as response to stress, autophagy, protein folding, gene silencing by RNAi, and determination of adult lifespan appear in the ubiquitous category.  #@NEW_LINE#@#  
+
+
+Materials_and_methods  #@NEW_LINE#@#  
+Strains_and_worm_cultivation  #@NEW_LINE#@#  
+OH441: otIs45[Punc-119::GFP], CQ163: wqEx34[Pmyo-3::mCherry], CQ171: [Py37a1b.5::GFP], BC12890: [dpy-5(e907)I; sIs11337(rCesY37A1B.5::GFP + pCeh361), SJ4144: zcIs18 (Pges-1::GFP), CQ236: Pcrh-1g::GFP + Pmyo-2::mcherry.  #@NEW_LINE#@#  Worm strains were maintained at 20°C on HGM plates using E. coli OP50.  #@NEW_LINE#@#  Strains were synchronized using hypochlorite treatment prior cell isolation and grown to day 1 of adulthood on HGM plates with E. coli OP50.  #@NEW_LINE#@#  
+
+Adult_cell_isolation  #@NEW_LINE#@#  
+Synchronized day 1 adult worms with GFP-labeled neurons, muscle, hypodermis, and intestine (Punc119::GFP, Pmyo-3::mCherry, pY37A1B.5::GFP, and Pges-1::GFP) were prepared for cell isolation, as previously described [2].  #@NEW_LINE#@#  
+
+FACS_isolation_of_dissociated_cells  #@NEW_LINE#@#  
+Cells were briefly subjected to SDS-DTT treatment, proteolysis, mechanical disruption, cell filtering, FACS, RNA amplification, library preparation, and single-end (140 nt) Illumina sequencing, as previously described [2].  #@NEW_LINE#@#  Neuron cell suspensions were passed over a 5 m syringe filter (Millipore).  #@NEW_LINE#@#  Muscle and hypodermal samples were gently passed over a 20 mm nylon filter (Sefar Filtration).  #@NEW_LINE#@#  Intestinal cells were passed through a 35 mm filter and by spinning at 500 x g for 30s in a tabletop centrifuge.  #@NEW_LINE#@#  The filtered cells were diluted in PBS/2% FBS and sorted using a either a FACSVantage SE w/ DiVa (BD Biosciences; 488nm excitation, 530/30nm bandpass filter for GFP detection) or a Bio-Rad S3 Cell Sorter (Bio-Rad; 488nm excitation).  #@NEW_LINE#@#  Gates for detection were set by comparison to N2 cell suspensions prepared on the same day from a population of worms synchronized alongside the experimental samples.  #@NEW_LINE#@#  Positive fluorescent events were sorted directly into Eppendorf tubes containing Trizol LS for subsequent RNA extraction.  #@NEW_LINE#@#  For each sample, approximately 50,000250,000 GFP or mCherry positive events were collected, yielding 525 ng total RNA.  #@NEW_LINE#@#  Both sorters were used for each tissue, and the type of sorter did not affect the distribution of samples by multidimensional scaling analysis (Fig 1B), suggesting that the sorter did not contribute to the variability between samples of a given tissue.  #@NEW_LINE#@#  
+
+RNA_isolation__amplification__library_preparation__and_sequencing  #@NEW_LINE#@#  
+RNA was isolated from FACS-sorted samples as previously described [2].  #@NEW_LINE#@#  Briefly, RNA was extracted using standard Trizol/ chloroform/ isopropanol method, DNase digested, and cleaned using Qiagen RNEasy Minelute columns.  #@NEW_LINE#@#  Agilent Bioanalyzer RNA Pico chips were used to assess quality and quantity of isolated RNA.  #@NEW_LINE#@#  10 to 100 ng of the isolated quality assessed RNA was then amplified using the Nugen Ovation RNAseq v2 kit, as per manufacturer suggested practices.  #@NEW_LINE#@#  The resultant cDNA was then sheared to an average size of ~200 bp using Covaris E220.  #@NEW_LINE#@#  Libraries were prepared using either Nugen Encore NGS Library System or the Illumina TruSeq DNA Sample Prep, 1 g of amplified cDNA was used as input.  #@NEW_LINE#@#  RNA from a subset of samples was amplified using the SMARTer Stranded Total RNA kit-pico input mammalian, as per manufacturer suggested practices.  #@NEW_LINE#@#  No differences were observed between the two methods, and samples amplified by different methods clustered well (Fig 1B).  #@NEW_LINE#@#  The resultant sequencing libraries were then submitted for sequencing on the Illumina HiSeq 2000 platform.  #@NEW_LINE#@#  35200 million reads (average of 107,674,388 reads) were obtained for each sample and mapped to the C. elegans genome.  #@NEW_LINE#@#  Sequences are deposited at NCBI BioProject PRJNA400796.  #@NEW_LINE#@#  
+
+RNA-seq_data_analysis  #@NEW_LINE#@#  
+FASTQC was used to inspect the quality scores of the raw sequence data, and to look for biases.  #@NEW_LINE#@#  The first 10 bases of each read were trimmed before adapter trimming, followed by trimming the 3 end of reads to remove the universal Illumina adapter and imposing a base quality score cutoff of 28 using Cutadapt v1.6 The trimmed reads were mapped to the C. elegans genome (Ensembl 84/WormBase 235) using STAR [72] with Ensembl gene model annotations (using default parameters).  #@NEW_LINE#@#  Count matrices were generated for the number of reads overlapping with the gene body of protein coding genes using featureCounts [73].  #@NEW_LINE#@#  The per-gene count matrices were subjected to an expression detection threshold of 1 count per million reads per gene in at least 5 samples.  #@NEW_LINE#@#  EdgeR [74] was used for differential expression analysis and the multidimensional scaling (MDS) analysis.  #@NEW_LINE#@#  MDS is a method that aims to visualize proximity data in such a way that best preserves between-sample distances and is a commonly used technique (similar to PCA) to transform higher-dimension dissimilarity data into a two-dimensional plot.  #@NEW_LINE#@#  Here, we used the log-fold-change of expression between genes to compute distances.  #@NEW_LINE#@#  Genes at FDR = 0.05 were considered significantly differentially expressed.  #@NEW_LINE#@#  DEXSeq [75] was used for differential exon usage (splicing) analysis.  #@NEW_LINE#@#  
+
+Downsampling_analysis  #@NEW_LINE#@#  
+Count matrices of the aligned sequencing data were down-sampled using subSeq [15].  #@NEW_LINE#@#  Reads were down-sampled at proportions using 10^x, starting at x = -5 and increasing at 0.25 increments to 0.  #@NEW_LINE#@#  The down-sampled count matrices were used to assess stability of number of expressed genes detected at multiple depths (S1A Fig).  #@NEW_LINE#@#  Because of minimum library sizes for tractable differential exon usage analysis, reads with down-sampled proportions using 10^x, from x = -2, increasing at 0.25 increments to 0 were used for assessment of power in detecting differential splicing (S1B Fig).  #@NEW_LINE#@#  
+
+Gene_ontology_analysis  #@NEW_LINE#@#  
+Hypergeometric tests of Gene Ontology terms were performed on tissue-enriched gene lists; GO terms reported are a significance of q-value less_than 0.05 unless otherwise noted.  #@NEW_LINE#@#  REVIGO was used to cluster and plot GO terms with q-value less_than 0.05.  #@NEW_LINE#@#  
+
+Motif_analysis  #@NEW_LINE#@#  
+RSAtools [76] was used to identify the -1000 to -1 promoter regions of the tissue enriched genes and perform motif analysis.  #@NEW_LINE#@#  Matrices identified from RSAtools were analyzed using footprintDB [77] to identify transcription factors predicted to bind to similar DNA motifs.  #@NEW_LINE#@#  Alternatively, motifs were analyzed using gProfiler [78].  #@NEW_LINE#@#  
+
+Oil_Red_O_staining_and_analysis  #@NEW_LINE#@#  
+Hypodermal genes appearing in metabolic GO terms were selected from the top of the tissue-enriched list (aldo-2, gpd-2, sams-1, cth-2, pmt-1, idh-1, and fat-2) or the expressed list (far-2 and gpd-3) and knocked down using RNAi and compared to a vector (L4440) control.  #@NEW_LINE#@#  On day 1 of adulthood, all worms were stained in Oil Red O for 624 hours and then imaged using a Nikon Eclipse Ti microscope at 20x magnification [79].  #@NEW_LINE#@#  Images were analyzed for mean intensity in fat objects using CellProfiler [80].  #@NEW_LINE#@#  Additional genes from the hypodermal unique list were also selected and tested for fat (Oil Red O) levels.  #@NEW_LINE#@#  
+
+Worm-human_tissue_comparison  #@NEW_LINE#@#  
+Human orthologs [30] of genes in our tissue-enriched gene lists were compared with curated tissue-specific gene annotations from the Human Protein Reference Database [31] for significant overlap (hypergeometric test).  #@NEW_LINE#@#  
+
+Identification_of_tissue-enriched__and_unique__tissue-specific_genes  #@NEW_LINE#@#  
+Tissue-enriched genes are highly enriched relative to all other tissues, defined as genes that are highly expressed (logRPKM  greater than  5) and significantly differentially expressed relative to the average expression across all of the other tissues (FDR  0.05, logFC  greater than  2; S8 Table).  #@NEW_LINE#@#  
+Unique tissue-specific genes are strongly expressed (logRPKM  greater than  5) and significantly differentially expressed in comparison to the expression of each of the three other tissues (FDR  0.05, logFC  greater than  2 for each comparison; S9 Table, S1E Fig).  #@NEW_LINE#@#  
+
+IIS_FOXO_target_expression_in_adult_tissues  #@NEW_LINE#@#  
+The expression level (expressed defined as log(rpkm)  greater than 2) for previously published IIS/FOXO targets (Tepper et al., 2013, cut-off 5% FDR) were identified for each tissue.  #@NEW_LINE#@#  Tissue overlaps were graphed in Venn diagrams using the Venn diagram package in R.  #@NEW_LINE#@#  
+
+Expression_data_compendium_assembly  #@NEW_LINE#@#  
+To construct these models, we needed a large data compendium and high quality examples of tissue expression.  #@NEW_LINE#@#  We assembled 273 C. elegans expression datasets (comprised of both adult and developmental expression data), representing 4,372 microarray and RNA-seq samples, including our tissue-ome library.  #@NEW_LINE#@#  All other datasets were downloaded from the Gene Expression Omnibus (GEO) data repository, ArrayExpress Archive of Functional Expression Data, and WormBase.  #@NEW_LINE#@#  Samples from each dataset were processed together (duplicate samples were collapsed, background correction and missing value imputation were executed when appropriate).  #@NEW_LINE#@#  Within each dataset, gene expression values were normalized to the standard normal distribution.  #@NEW_LINE#@#  All datasets were then concatenated, and genes that were absent in only a subset of datasets received values of 0 (in datasets in which they were absent).  #@NEW_LINE#@#  The predictions that were used to analyze the tissue-ome dataset were generated using a data compendium that excluded the tissue-ome library.  #@NEW_LINE#@#  
+
+Tissue_expression_gold_standard_construction  #@NEW_LINE#@#  
+Gene annotations to tissues and cell types were obtained from curated anatomy associations from WormBase [81] (WS264) and other small-scale expression analyses as curated by Chikina et al.  #@NEW_LINE#@#  (2009).  #@NEW_LINE#@#  Only annotations based on smaller scale experiments (e.g., single-gene GFP, in situ experiments) were considered for the gold standard, excluding annotations derived from SAGE, microarray, RNA-seq, etc.  #@NEW_LINE#@#  Annotations from both adult and developing worm were considered.  #@NEW_LINE#@#  Annotations were mapped and propagated (up to each of its ancestor terms, e.g., a gene directly annotated to dopaminergic neuron would thus be propagated up to ancestor terms such as neuron and nervous system and included in the corresponding gold standards) based on the WormBase C. elegans Cell and Anatomy Ontology, where a stringent cutoff was used for which tissues and cell types were retained ( greater than 50 direct annotations and  greater than 150 propagated annotations).  #@NEW_LINE#@#  
+We defined a tissue-slim based on system-level anatomy terms in the WormBase anatomy ontology (immediate children of organ system and sex specific entity, under functional system).  #@NEW_LINE#@#  The nine resulting terms are: alimentary system, coelomic system, epithelial system, excretory secretory system, hermaphrodite-specific, male-specific, muscular system, nervous system, and reproductive system.  #@NEW_LINE#@#  For each of the 76 tissues that were retained, a tissue-gene expression gold standard was constructed in which genes annotated (directly or through propagation, i.e., the gene has been associated with either the particular tissue or a part of that tissue in a smaller scale experiment) to the tissue were considered as positive examples.  #@NEW_LINE#@#  Genes that were annotated to other tissues, but not in the same tissue system, were considered negative examples.  #@NEW_LINE#@#  Thus, genes were assigned as positive or negative examples of tissue expression while taking into account the tissue hierarchy represented in the Cell and Anatomy Ontology.  #@NEW_LINE#@#  
+
+An_interactive_web_interface_to_explore_tissue-gene_expression_models  #@NEW_LINE#@#  
+Our tissue-gene expression predictions and similarity profiles have all been made accessible at a dynamic, interactive website, http://worm.princeton.edu.  #@NEW_LINE#@#  From this interface, users can explore the predicted expression patterns of their gene(s) of interest.  #@NEW_LINE#@#  To facilitate this exploration, we have designed an interactive heatmap visualization that allows users to view hierarchically clustered expression patterns or sort by any gene or tissue model of interest.  #@NEW_LINE#@#  In addition, we also provide suggestions of genes with similar tissue expression profiles, which users can immediately visualize alongside their original query.  #@NEW_LINE#@#  All predictions and visualizations are available for direct download.  #@NEW_LINE#@#  
+
+Prediction_and_evaluation_of_tissue-gene_expression_profile_and_similarity  #@NEW_LINE#@#  
+For each of the 76 tissues and cell types, we used the expression data compendium and corresponding gold standard as input into a linear support vector machine (SVM) to make predictions for every gene represented in our data.  #@NEW_LINE#@#  Specifically, given the vector of gene expression data (xi) and training label (yi:{-1,1}) for gene i, hyperplanes described by w and b, and constant c, the SVMs objective function is:  #@NEW_LINE#@#  
+
+SVM parameters were optimized for precision at 10% recall under 5-fold cross validation.  #@NEW_LINE#@#  Resulting SVM scores were normalized to the standard normal distribution for any comparisons across tissues.  #@NEW_LINE#@#  Feature weights for each of the tissue SVM models were also retained for ranking and analysis of samples.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Fig_Analysis_of_RNA-seq_datasets  #@NEW_LINE#@#  
+A) SubSeq analysis calculating number of expressed genes found per tissue at different sequencing depths.  #@NEW_LINE#@#  The identification of expressed genes stabilizes at approximately 10% of the final read depth.  #@NEW_LINE#@#  B) Heatmap showing read coverage profiles over gene body to evaluate whether coverage is uniform (versus potential 5 or 3 bias).  #@NEW_LINE#@#  C) SubSeq analysis calculating number of significant differentially expressed exons that would be identified at different sequencing depths.  #@NEW_LINE#@#  The identification of differential exon usage begins to saturate at the final read depth, demonstrating the necessity for deep sequencing.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s001  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S2_Fig_Oil_Red_O_staining_of_worms_treated_with_RNAi_targeting_hypodermal_genes  #@NEW_LINE#@#  
+A) Comparison of tissue-enriched and unique genes.  #@NEW_LINE#@#  The unique genes comprise a subset of the tissue-enriched gene set.  #@NEW_LINE#@#  B) Spearman correlation of tissue-enriched gene expression in each sample.  #@NEW_LINE#@#  C) Percentage difference of mean intensity of Oil Red O staining relative to vector control.  #@NEW_LINE#@#  aldo-2, far-2, gpd-3, and sams-1 RNAi-treated animals had significantly more fat content (* p-value less_than 0.05, **** p-value less_than 0.0001 by one-way ANOVA), compared to vector control.  #@NEW_LINE#@#  D) Representative 20x images of Day 1 RNAi-treated animals after 6 hours of Oil Red O staining.  #@NEW_LINE#@#  No significant differences in worm size were observed.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s002  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S3_Fig_Computational_evaluations_of_nervous_and_muscular_system_models  #@NEW_LINE#@#  
+Precision-recall curves showing accuracy of predictions for nervous system (A) and muscular system (B) tissues and cell types.  #@NEW_LINE#@#  Dotted line indicates genomic background (i.e., the expected precision if genes were randomly chosen).  #@NEW_LINE#@#  Precision-recall curves show the tradeoff between precision and recall for different thresholds, where high precision corresponds to a low false positive rate.  #@NEW_LINE#@#  Because every gene in the genome is given a prediction, an examination of the complete list results in a recall of 1.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s003  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S4_Fig_Computational_evaluations_of_alimentary__epithelial_coelomic__and_excretory_system_models  #@NEW_LINE#@#  
+Precision-recall curves showing accuracy of predictions for alimentary system (A), epithelial system (B), coelomic system (C), and excretory system (D) tissues and cell types.  #@NEW_LINE#@#  Dotted line indicates genomic background.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s004  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S5_Fig_Computational_evaluations_of_reproductive_system__hermaphrodite-specific__and_male-specific_tissue_models  #@NEW_LINE#@#  
+Precision-recall curves showing accuracy of predictions for reproductive system (A), hermaphrodite-specific (B), and male-specific (C), tissues and cell types.  #@NEW_LINE#@#  Dotted line indicates genomic background.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s005  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S6_Fig_Individual_gene_predictions  #@NEW_LINE#@#  
+A) Predicted expression of daf-2, daf-16, pqm-1, and crh-1.  #@NEW_LINE#@#  B) Insulin genes were analyzed for predicted tissue expression (red = highest predicted expression, blue = lowest predicted expression).  #@NEW_LINE#@#  Gold standard annotations are represented with the highest score possible.  #@NEW_LINE#@#  Tissues are listed by average gene expression score.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s006  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S7_Fig_Predictions_and_curated_annotations_for_insulin_genes  #@NEW_LINE#@#  
+A) Predictions only are shown for the insulin gene family (red = highest predicted expression, blue = lowest predicted expression).  #@NEW_LINE#@#  B) Wormbase curated annotations are shown (black = expressed, grey = unannotated).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s007  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S8_Fig_Tissue_predictions_for_Class_I_and_Class_II_IIS_genes  #@NEW_LINE#@#  
+The top 50 Class I (A) and Class II genes (B) [23] were analyzed for predicted tissue expression (red = highest predicted expression, blue = lowest predicted expression).  #@NEW_LINE#@#  Gold standard annotations are represented with the highest score possible.  #@NEW_LINE#@#  Tissues are listed by average gene expression score.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s008  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S9_Fig_Tissue_predictions_for_TGF--regulated_genes  #@NEW_LINE#@#  
+A) Upregulated genes from microarray analysis of wild type (N2) vs sma-2 oocytes [57] were analyzed for predicted tissue expression.  #@NEW_LINE#@#  B) Whole worm upregulated genes from microarray analysis of wild type (N2) vs sma-2 L4 animals [57] were analyzed for predicted tissue expression.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s009  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Table_Expressed_genes  #@NEW_LINE#@#  
+Genes for each tissue are listed based upon an expression detection threshold of 1 count per million reads per gene in at least 5 samples.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s010  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_Ubiquitous_and_tissue-enriched_GO_terms  #@NEW_LINE#@#  
+Significant gene ontology (GO) terms are listed for genes with ubiquitous expression (S1 Table) or for tissue-enriched genes (S8 Table).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s011  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_Stage-specific_neuron_GO_terms  #@NEW_LINE#@#  
+Stage-specific and stage-overlapping genes from the comparison of larval, embryonic [1] and adult neurons were used for GO analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s012  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S4_Table_Stage-specific_hypodermis_GO_terms  #@NEW_LINE#@#  
+Stage-specific and stage-overlapping genes from the comparison of larval, embryonic [1] and adult hypodermis were used for GO analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s013  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S5_Table_Stage-specific_muscle_GO_terms  #@NEW_LINE#@#  
+Stage-specific and stage-overlapping genes from the comparison of larval, embryonic [1]and adult muscle were used for GO analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s014  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S6_Table_Stage-specific_intestine_GO_terms  #@NEW_LINE#@#  
+Stage-specific and stage-overlapping genes from the comparison of larval, embryonic [1] and adult intestine were used for GO analysis.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s015  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S7_Table_Gene_subsets  #@NEW_LINE#@#  
+Classes of genes, including transcription factors, forkhead transcription factors, secreted proteins, insulins, nuclear hormone receptors, and transmembrane proteins expressed in each tissue type are listed.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s016  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S8_Table_Tissue-enriched_genes  #@NEW_LINE#@#  
+Tissue-enriched genes are highly enriched relative to all other tissues, defined as genes that are highly expressed (logRPKM  greater than  5) and significantly differentially expressed relative to the average expression across all of the other tissues (FDR  0.05, logFC  greater than  2).  #@NEW_LINE#@#  Transcription factors (wTF3.0[86]) are listed in red.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s017  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S9_Table_Unique_genes  #@NEW_LINE#@#  
+Unique tissue-specific genes are strongly expressed (logRPKM  greater than  5) and significantly differentially expressed in comparison to the expression of each of the three other tissues (FDR  0.05, logFC  greater than  2 for each comparison).  #@NEW_LINE#@#  Transcription factors (wTF3.0[86]) are listed in red.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s018  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S10_Table_Tissue-enriched_motif_analysis  #@NEW_LINE#@#  
+Matrices identified from RSAtools were analyzed using footprintDB.  #@NEW_LINE#@#  The 1kb promoter input from the tissue-enriched genes, RSAtools enriched motifs, and significant footprintDB binding factors are listed.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s019  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S11_Table_Comparison_of_worms_and_human_tissues  #@NEW_LINE#@#  
+Human orthologs of genes in our tissue-enriched gene lists were compared with curated tissue-specific gene annotations from the Human Protein Reference Database for significant overlap (hypergeometric test).  #@NEW_LINE#@#  Significant overlapping tissues, genes from each overlapping category, and GO terms of worm orthologs from each overlapping category are provided.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s020  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S12_Table_Tissue-enrichment_of_alternative_splicing  #@NEW_LINE#@#  
+DEXSeq was used for differential exon usage (splicing) analysis.  #@NEW_LINE#@#  Significant splicing events for each tissue are listed.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s021  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S13_Table_IIS_FOXO_genes_in_wild-type_tissues  #@NEW_LINE#@#  
+Adult tissue expression levels of the wild-type worm Class I and Class II IIS-FOXO genes from Tepper et al., 2013.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pgen.1007559.s022  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We thank the Murphy lab for valuable discussion, SB King for assistance, the Center for C. elegans Genetics (CGC) for strains.  #@NEW_LINE#@#  We thank Christina DeCoste and the Molecular Biology Flow Cytometry Resource Facility.  #@NEW_LINE#@#  An early version of a portion of this work appeared in the doctoral thesis of A. Williams.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

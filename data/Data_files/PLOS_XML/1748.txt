@@ -1,0 +1,330 @@
+article id="http://dx.doi.org/10.1371/journal.pbio.2003790"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+The sea cucumber genome provides insights into morphological evolution and visceral regeneration  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Apart from sharing common ancestry with chordates, sea cucumbers exhibit a unique morphology and exceptional regenerative capacity.  #@NEW_LINE#@#  Here we present the complete genome sequence of an economically important sea cucumber, A. japonicus, generated using Illumina and PacBio platforms, to achieve an assembly of approximately 805 Mb (contig N50 of 190 Kb and scaffold N50 of 486 Kb), with 30,350 protein-coding genes and high continuity.  #@NEW_LINE#@#  We used this resource to explore key genetic mechanisms behind the unique biological characters of sea cucumbers.  #@NEW_LINE#@#  Phylogenetic and comparative genomic analyses revealed the presence of marker genes associated with notochord and gill slits, suggesting that these chordate features were present in ancestral echinoderms.  #@NEW_LINE#@#  The unique shape and weak mineralization of the sea cucumber adult body were also preliminarily explained by the contraction of biomineralization genes.  #@NEW_LINE#@#  Genome, transcriptome, and proteome analyses of organ regrowth after induced evisceration provided insight into the molecular underpinnings of visceral regeneration, including a specific tandem-duplicated prostatic secretory protein of 94 amino acids (PSP94)-like gene family and a significantly expanded fibrinogen-related protein (FREP) gene family.  #@NEW_LINE#@#  This high-quality genome resource will provide a useful framework for future research into biological processes and evolution in deuterostomes, including remarkable regenerative abilities that could have medical applications.  #@NEW_LINE#@#  Moreover, the multiomics data will be of prime value for commercial sea cucumber breeding programs.  #@NEW_LINE#@#  
+
+Author_summary  #@NEW_LINE#@#  
+Echinoderms, ubiquitous in the marine environment, are important from evolutionary, ecological, and socioeconomic perspectives.  #@NEW_LINE#@#  Together with chordates and hemichordates, they form the deuterostome clade, making them a crucial node in the study of chordate ancestry.  #@NEW_LINE#@#  Within echinoderms, class Holothuroidea is unique; its members (the sea cucumbers) display remarkable regenerative abilities and play key roles as sediment bioturbators and symbiotic hosts, and many are prized in the seafood and pharmaceutical industries.  #@NEW_LINE#@#  The sea cucumber genome therefore has the potential to significantly contribute to our understanding of important evolutionary and biological processes and help enhance aquaculture programs.  #@NEW_LINE#@#  Here we present a high-quality genome sequence for the economically important species Apostichopus japonicus.  #@NEW_LINE#@#  Through comparative analyses, we identified 763 echinoderm-specific gene families enriched in genes encoding membrane proteins, ion channels, and signal transduction proteins.  #@NEW_LINE#@#  Marker genes associated with the notochord and gill slits were also found, providing valuable insight into the origin of chordates.  #@NEW_LINE#@#  The reduced number and low expression levels of biomineralization genes reflect the skeletal degeneration seen in sea cucumbers.  #@NEW_LINE#@#  Importantly, 2 gene families appeared to be expanded in A. japonicus and may play crucial roles in its heightened regenerative potential.  #@NEW_LINE#@#  Together, findings from the sea cucumber genome provide important and novel insights into echinoderm and deuterostome biology.  #@NEW_LINE#@#  
+
+Citation: Zhang X, Sun L, Yuan J, Sun Y, Gao Y, Zhang L, et al.  #@NEW_LINE#@#  (2017) The sea cucumber genome provides insights into morphological evolution and visceral regeneration.  #@NEW_LINE#@#  PLoS Biol 15(10):  #@NEW_LINE#@#  
+           e2003790.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pbio.2003790  #@NEW_LINE#@#  
+Academic Editor: Chris Tyler-Smith, The Wellcome Trust Sanger Institute, United Kingdom of Great Britain and Northern Ireland  #@NEW_LINE#@#  
+Received: April 7, 2017; Accepted: September 11, 2017; Published:  October 12, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Zhang et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: The sea cucumber genome project has been deposited at NCBI under the accession number PRJNA354676.  #@NEW_LINE#@#  Raw sequencing data of transcriptomes have been deposited in NCBI under the accession number SRR5083072-SRR5083088.  #@NEW_LINE#@#  A genome database of the sea cucumber Apostichopus japonicus is available at http://www.genedatabase.cn/aja_genome_20161129.html.  #@NEW_LINE#@#  
+Funding: The National High-Technology Research and Development Program of China http://program.most.gov.cn/ (grant number 2012AA10A404, 2012AA092205).  #@NEW_LINE#@#  Received by JX and XZ.  #@NEW_LINE#@#  Strategic Priority Research Program of the Chinese Academy of Sciences http://www.cas.cn/xxgkml/zgkxyyb/kxyj/xdzx/ (grant number XDA11020703, XDA11020704).  #@NEW_LINE#@#  Received by LZ, CLin, and HY.  #@NEW_LINE#@#  National Natural Science Foundation of China http://www.nsfc.gov.cn/ (grant number U1406404, 31272397).  #@NEW_LINE#@#  Received by HY and SJ.  #@NEW_LINE#@#  The Scientific and Technological Innovation Project of Qingdao National Laboratory for Marine Science and Technology http://www.qnlm.ac/index (grant number 2015ASKJ02-03).  #@NEW_LINE#@#  Received by JX.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          CAI,  #@NEW_LINE#@#  
+            codon adaptive index; CARD,  #@NEW_LINE#@#  
+            caspase recruitment domain; CCHC,  #@NEW_LINE#@#  
+            CysCysHisCys; CEGMA,  #@NEW_LINE#@#  
+            Core Eukaryotic Genes Mapping Approach; CYP2,  #@NEW_LINE#@#  
+            cytochrome P450 family 2; DBG2OLC,  #@NEW_LINE#@#  
+            de Bruijn graph to Overlap-Layout-Consensus; dpe,  #@NEW_LINE#@#  
+            days post evisceration; ECM,  #@NEW_LINE#@#  
+            extracellular matrix; FALCON,  #@NEW_LINE#@#  
+            Fast Alignment and Consensus for Assembly; FGF,  #@NEW_LINE#@#  
+            fibroblast growth factor; FPKM,  #@NEW_LINE#@#  
+            fragments per kilobase of transcript per million mapped reads; FREP,  #@NEW_LINE#@#  
+            fibrinogen-related protein; GC content,  #@NEW_LINE#@#  
+            guanine-cytosine content; GO,  #@NEW_LINE#@#  
+            gene ontology; iPS,  #@NEW_LINE#@#  
+            induced pluripotent stem; ISH,  #@NEW_LINE#@#  
+            in-situ hybridization; iTRAQ,  #@NEW_LINE#@#  
+            isobaric tags for relative and absolute quantitation; KEGG,  #@NEW_LINE#@#  
+            Kyoto Encyclopedia of Genes and Genomes; KO,  #@NEW_LINE#@#  
+            KEGG Orthology; miRNA,  #@NEW_LINE#@#  
+            microRNA; NLR,  #@NEW_LINE#@#  
+            nucleotide-binding oligomerization domain-like receptors; PMC,  #@NEW_LINE#@#  
+            primary mesenchyme cell; PSP94,  #@NEW_LINE#@#  
+            prostatic secretory protein of 94 amino acids; qPCR,  #@NEW_LINE#@#  
+            quantitative PCR; SMRT,  #@NEW_LINE#@#  
+            Single Molecule Real Time; SOAPdenovo,  #@NEW_LINE#@#  
+            Short Oligonucleotide Analysis Package de novo assembly tool; snoRNA,  #@NEW_LINE#@#  
+            small nucleolar RNA; snRNA,  #@NEW_LINE#@#  
+            small nuclear RNA; TAI,  #@NEW_LINE#@#  
+            translocation and inversion  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Echinodermata, an ancient phylum of marine invertebrates, comprises 5 extant classes, including Echinoidea (sea urchins), Asteroidea (sea stars), Holothuroidea (sea cucumbers), Ophiuroidea (brittle stars), and Crinoidea (sea lilies).  #@NEW_LINE#@#  Together, the phyla Echinodermata, Hemichordata, and Chordata form the deuterostome clade, based on their closely shared developmental features.  #@NEW_LINE#@#  To date, 2 complete echinoderm genomes, that of the sea urchin Strongylocentrotus purpuratus and that of the sea star Acanthaster planci, have been successfully sequenced [1,2].  #@NEW_LINE#@#  However, because sea cucumbers are unique among echinoderms, possessing many distinctive biological characteristics, their genome holds invaluable insight that can extend the scope and depth of molecular research in Echinodermata and Deuterostomia.  #@NEW_LINE#@#  
+Sea cucumber adults exhibit an elongated shape that belies their pentaradial symmetry, combined with weak calcification in the form of microscopic ossicles that contrasts with the solid calcified test of sea urchins.  #@NEW_LINE#@#  Exploring these features can help in exploring the evolution of mineralization in echinoderms, which remains poorly understood.  #@NEW_LINE#@#  
+Of even greater interest is the fact that sea cucumbers display a capacity to regrow body parts and internal organs [3], which is much greater than that of sea stars and sea urchins, making them prime regeneration models.  #@NEW_LINE#@#  The use of A. japonicus in this field is facilitated by its natural ability to discard its internal organs, rapidly regenerate them, and restore normal functions within a few weeks, through a process that involves cell migration, proliferation, differentiation, and organ/tissue reconstruction [35].  #@NEW_LINE#@#  Finally, sea cucumbers, like many echinoderms, can be extremely long-lived and somewhat immune to senescence [6,7].  #@NEW_LINE#@#  Therefore, knowledge of the complete genome of a sea cucumber will provide a unique framework for studies that seek to understand cell and tissue regeneration, treat organ failure, and alleviate the symptoms of aging.  #@NEW_LINE#@#  
+Sea cucumbers are also widespread, occurring from the shore to the abyss, and can represent up to 80% of the whole biomass of benthic invertebrates in some areas.  #@NEW_LINE#@#  They are the target of important fisheries and represent the fastest-growing aquaculture sector worldwide [8].  #@NEW_LINE#@#  However, overfishing and poor management of these valuable resources are a growing concern [8,9].  #@NEW_LINE#@#  
+The sea cucumber A. japonicus is one of the most studied echinoderms; it is being cultivated commercially on a large scale in the western North Pacific Ocean and is one of the most valuable sea foods worldwide, due to its potent nutritional and medicinal properties [1012].  #@NEW_LINE#@#  In China alone, around 200,000 tons of sea cucumbers were produced in 2015, with an estimated value of about 4,000,000,000 United States dollars [13].  #@NEW_LINE#@#  Improving genomic knowledge of this sea cucumber may therefore benefit the seafood industry and concurrently yield pharmaceutical and biomedical breakthroughs.  #@NEW_LINE#@#  
+In early 2017, a draft genome of A. japonicus was published that represented only about 80.5% of the estimated genome size (0.82 Gb), with scaffolds N50 value of 10.5 Kb [14].  #@NEW_LINE#@#  These data provided an important resource for sea cucumber genomics, but their incompleteness and fragmentation limit applications for research.  #@NEW_LINE#@#  Here we present a high-quality reference genome of A. japonicus investigated through a multiomics approach, providing valuable insights into the molecular and genomic basis of crucial evolutionary traits in sea cucumbers and deuterostomes.  #@NEW_LINE#@#  Knowledge of the complete genome of a holothuroid offers a particularly useful framework for studies that seek to understand the mechanisms of cell and tissue/organ regeneration.  #@NEW_LINE#@#  
+
+Results_and_discussion  #@NEW_LINE#@#  
+The_sea_cucumber_reference_genome  #@NEW_LINE#@#  
+
+Genomic_analyses_shed_light_on_morphological_evolution_in_deuterostomes  #@NEW_LINE#@#  
+
+The_underpinnings_of_exceptional_regenerative_capacities_in_sea_cucumbers  #@NEW_LINE#@#  
+
+Conclusions_and_implications  #@NEW_LINE#@#  
+We present a high-quality sea cucumber reference genome from the commercially cultivated species A. japonicus, generated from Illumina and PacBio platforms.  #@NEW_LINE#@#  An integrated multiomics approach offered insight into the genome architecture of sea cucumbers and the genetic underpinnings of their unique biological traits.  #@NEW_LINE#@#  The sea cucumber constitutes a particularly promising model animal for regenerative medicine because of the convenient induction of organ regeneration and the newly available genomic data for A. japonicus.  #@NEW_LINE#@#  A genome resource of this completeness and quality also makes an important contribution to holothuroid and echinoderm research.  #@NEW_LINE#@#  The findings should facilitate our understanding of the requirements for sustainable utilization and effective breeding of echinoderms, in support of the high-value sea cucumber industry.  #@NEW_LINE#@#  
+
+
+Materials_and_methods  #@NEW_LINE#@#  
+Animal_materials_and_DNA_isolation  #@NEW_LINE#@#  
+The animal material for genome sequencing and assembly was from a male A. japonicus captured off the coast of Laoshan, Qingdao, China.  #@NEW_LINE#@#  The sea cucumber was acclimated in sea water at 15 ± 1°C before experiments.  #@NEW_LINE#@#  Muscle, gonad, and respiratory tree tissues were collected and immediately frozen in liquid nitrogen and stored at 80°C.  #@NEW_LINE#@#  Genomic DNA was extracted using a TIANamp Marine Animal DNA Kit (TIANGEN, Beijing, China) according to the manufacturers instructions.  #@NEW_LINE#@#  
+
+Genome_sequencing  #@NEW_LINE#@#  
+For Illumina sequencing, short-insert paired-end (PE) (180 bp and 500 bp) and long mate-paired (MP) (5 Kb, 10 Kb, and 20 Kb) DNA libraries were constructed according to the manufacturers instructions (Illumina, San Diego, California, US).  #@NEW_LINE#@#  Sequencing runs for the PE libraries were performed on the Illumina HiSeq2000 platform, and long MP libraries on the HiSeq2500 platform.  #@NEW_LINE#@#  To obtain long reads to promote genome assembly, Pacific Biosciences RS II (Pacific Biosciences, Menlo Park, California, US) was used as the sequencing platform.  #@NEW_LINE#@#  Five 10-Kb SMRTbell libraries were prepared and sequenced using the C4 sequencing chemistry and P6 polymerase.  #@NEW_LINE#@#  
+
+Genome_assembly  #@NEW_LINE#@#  
+In order to get the best assembly results, we tried Short Oligonucleotide Analysis Package de novo assembly tool (SOAPdenovo) [64], de Bruijn graph to Overlap-Layout-Consensus (DBG2OLC) (https://sourceforge.net/projects/dbg2olc/), FALCON (https://github.com/PacificBiosciences/FALCON), and SMARTdenovo (https://github.com/ruanjue/smartdenovo).  #@NEW_LINE#@#  The assembly result of SOAPdenovo was fragmented (1,165,887 contigs, N50 1,770 bp, and N90 230 bp).  #@NEW_LINE#@#  Compared with the SOAPdenovo assembly using only Illumina data, DBG2OLC, FALCON, and SMARTdenovo genome assemblies using PacBio data or a hybrid of PacBio and Illumina data gave more satisfactory results, all with contig N50 values above 110 Kb.  #@NEW_LINE#@#  This result confirmed the effectiveness of the approaches and the superiority of PacBio long reads for large genome assembly (S2 Table).  #@NEW_LINE#@#  After comparing the 3 approaches of DBG2OLC, FALCON, and SMARTdenovo, genome assembly by FALCON gave higher continuity (with a contig N50 of 190 Kb) than the other methods.  #@NEW_LINE#@#  
+To test the amount of PacBio data sufficient for A. japonicus genome assembly, we performed a set of assemblies by FALCON with coverage from 30× to 70× of PacBio data.  #@NEW_LINE#@#  For all assemblies, default parameters were used.  #@NEW_LINE#@#  Genome size and N50 of assembled contigs were calculated and used for performance evaluation (S1 Fig).  #@NEW_LINE#@#  On the basis of these assembly experiments, 70-fold coverage of PacBio data (64 Gb) was sufficient and used for the A. japonicus genome assembly.  #@NEW_LINE#@#  The assembled contigs were corrected 8 times with Illumina PE reads using Quiver (https://github.com/PacificBiosciences/GenomicConsensus).  #@NEW_LINE#@#  Finally, we generated scaffolds and performed gap filling with SSPACE 3.0 (https://www.baseclear.com/genomics/bioinformatics/basetools/SSPACE) using Illumina MP sequencing data.  #@NEW_LINE#@#  
+
+Genome_assessment  #@NEW_LINE#@#  
+The assembly result was evaluated by remapping high-quality PE reads (180-bp libraries, totaling 128,784,478 paired reads) to scaffolds using Bowtie with parameters of--rdg 3,1--rfg 3,1--gbar 2 [65].  #@NEW_LINE#@#  Assembly completeness was examined by mapping 81,639 unigenes from transcriptomes using BLAST (https://blast.ncbi.nlm.nih.gov/Blast.cgi), and the physical coverage of each gene was calculated with SOLAR [66].  #@NEW_LINE#@#  The assembled genome was also validated by checking the coverage of 248 conserved core eukaryotic genes using the CEGMA program (version v2.5) [67].  #@NEW_LINE#@#  
+To locate scaffolds on chromosomes, 2 parents and 130 offspring were genotyped, and a high-density linkage map was constructed with Genotyping by Sequencing (GBS) technology [68].  #@NEW_LINE#@#  Sequencing depth averaged 50-fold for parents and 10-fold for the 130 offspring.  #@NEW_LINE#@#  Clean reads were mapped to genome scaffolds by the Burrows-Wheeler Aligner [69].  #@NEW_LINE#@#  Variants including SNPs were identified using SAMtools [70].  #@NEW_LINE#@#  JoinMap 4.0 was applied for linkage analysis based on a maximum likelihood algorithm [71].  #@NEW_LINE#@#  Recombination values were converted to genetic distances in centiMorgans based on the Kosambi mapping function.  #@NEW_LINE#@#  A total of 71.2% of the genome scaffolds anchored in the linkage map, and Circos64 was used for visualization [72].  #@NEW_LINE#@#  
+To estimate the level of heterozygosity in the genome, we carried out k-mer (where k represents the chosen length of substrings) distribution approximation using simulated heterozygous genome sequences (S2 Fig).  #@NEW_LINE#@#  Jellyfish were used to calculate k-mer depth distribution [73].  #@NEW_LINE#@#  PE reads from short-insert libraries (180 bp) were used for analysis.  #@NEW_LINE#@#  Adaptor and low-quality reads were trimmed using the NGS QC Toolkit (v2.3.3) [74].  #@NEW_LINE#@#  Reads for 26.01 Gb of clean data were split into k-mers, and k-mer depth was computed to obtain depth distribution.  #@NEW_LINE#@#  Two peaks of k-mer depth 14 and 28 were observed in 17-mer analysis.  #@NEW_LINE#@#  We found that the k-mer distribution was fitted best by a simulated k-mer distribution with 2% heterozygosity (S3 Fig).  #@NEW_LINE#@#  To obtain an exact heterozygous rate, we used the software gce to analyze k-mer frequency data with parameters of -c unique_depth -H 1 (ftp://ftp.genomics.org.cn/pub/gce).  #@NEW_LINE#@#  We used gce to estimate the k-mer heterozygous ratio (KHR) based on the following formula: KHR = a1 / 2 / (2  a1 / 2).  #@NEW_LINE#@#  We used the formula base heterozygous ratio (BHR) = KHR / Kmer (assuming each SNP caused K new k-mers) for BHR.  #@NEW_LINE#@#  An exact heterozygous rate of 1.59% was estimated, which was close to the evaluation by simulated k-mer distribution.  #@NEW_LINE#@#  We also investigated the level of heterozygosity by mapping all reads back to the assembled genome using BWA with default parameters.  #@NEW_LINE#@#  For reads with multiple mapping positions, only the single best hit was retained.  #@NEW_LINE#@#  SNPs and INDELs were called based on alignment results with SAMtools [70].  #@NEW_LINE#@#  A number of SNPs (5,379,554) and INDELs (486,341) were detected on the assembly genome, suggesting heterozygosity of about 0.73%.  #@NEW_LINE#@#  Because the part of the genome with the lowest heterozygosity had the best assembly, 0.73% was considered an underestimation due to sampling bias.  #@NEW_LINE#@#  
+
+Repeat_sequence_analysis  #@NEW_LINE#@#  
+RepeatModeler (http://www.repeatmasker.org/RepeatModeler/) was used for repeat family identification in a de novo approach.  #@NEW_LINE#@#  RepeatMasker was used to identify transposable elements by aligning genome sequences against RepBase (RepBase21.04) and a local library generated by RepeatModeler with default parameters.  #@NEW_LINE#@#  Tandem repeats were analyzed with the Tandem Repeats Finder (TRF) program [75].  #@NEW_LINE#@#  Transposable elements (TEs) in the A. japonicus genome were discovered by a combination of de novo-based and homology-based approaches.  #@NEW_LINE#@#  
+A local repeat library of 1,507 sequences was produced by RepeatModeler and was used for the following prediction [76]: All major classes of TEs were summarized and compared with S. purpuratus (S7 Table).  #@NEW_LINE#@#  A total of 210.87 Mb (26.20%) of the assembled genome was predicted to be TEs, slightly less than S. purpuratus (32.67%).  #@NEW_LINE#@#  Of these, 18.93% were classified as unknown repeats.  #@NEW_LINE#@#  Among the 7.10% annotated repeat families, retrotransposable element Long Interspersed Nuclear Elements (LINEs) (2.31%) and DNA transposons (3.20%) were 2 major TEs discovered in the assembled genome that were similar to S. purpuratus.  #@NEW_LINE#@#  However, S. purpuratus has more DNA transposable elements (8.36%) than A. japonicus (S7 Table and S4 Fig).  #@NEW_LINE#@#  
+
+Noncoding_RNA_prediction  #@NEW_LINE#@#  
+Noncoding RNA genes were predicted for repeat-masked genome by sequence- and structure-based alignments with the Rfam noncoding RNA database (http://xfam.org/) with an E-value cutoff at 0.01, using Infernal [77].  #@NEW_LINE#@#  Specifically, for miRNA identification, small RNA sequencing data were downloaded from the SRA database of NCBI, including sRNAs from respiratory tree (SRX878425), tubefoot (SRX642039), and longitudinal muscle (SRX878452).  #@NEW_LINE#@#  Adaptor and primer sequences were trimmed, and low-quality sequences removed.  #@NEW_LINE#@#  Clean sRNA reads were compared with the Rfam database (http://xfam.org/) to exclude noncoding RNAs other than miRNAs.  #@NEW_LINE#@#  The remaining sRNA reads were subjected to miRNA identification by mapping to predicted pre-miRNA structures in the A. japonicus genome using miRDeep2 [78] and miReap (http://sourceforge.net/projects/mireap/).  #@NEW_LINE#@#  Finally, novel and conserved miRNAs were classified by searching against the miRBase (http://mirbase.org/).  #@NEW_LINE#@#  
+
+Gene_prediction_and_function_annotation  #@NEW_LINE#@#  
+Three approaches were used to predict protein-coding genes: homology-based predictions, de novo predictions, and transcriptome-based predictions.  #@NEW_LINE#@#  Homologous proteins from 8 known whole genome sequences Homo sapiens, Danio rerio, B. floridae, S. kowalevskii, S. purpuratus, Daphnia pulex, C. gigas, and Hydra vulgaris were used for alignment to the repeat-masked A. japonicus genome using Exonerate (version 2.2.0) [79].  #@NEW_LINE#@#  Genewise (version 2.2.0) was used to generate gene structures based on homology alignments of proteins to the genome [80,81].  #@NEW_LINE#@#  For ab initio gene prediction, we used Augustus (version 2.5.5), Genescan (version 1.0), GlimmerHMM (version 3.0.1), and SNAP15 to predict coding genes.  #@NEW_LINE#@#  RNA-Seq data were used to improve gene annotation and mapped to the genome using Tophat (version 2.0.8) [82].  #@NEW_LINE#@#  Cufflinks (version 2.1.1) (http://cole-trapnell-lab.github.io/cufflinks/) was used to identify spliced transcripts in gene models [83].  #@NEW_LINE#@#  All gene evidence predicted from the 3 approaches was combined by EVM into a weighted and nonredundant consensus of gene structures [84].  #@NEW_LINE#@#  Gene models generated by EVM were filtered according to the following criteria: coding region lengths less than 150 bp and values of reads per kilobase of exon model per million mapped reads (fragments per kilobase of transcript per million mapped reads [FPKM]) less_than 5 when a predicted gene supported by ab initio methods only hit with the uniref 90 database [85].  #@NEW_LINE#@#  For gene functional prediction, NCBI nr and the SwissProt database were used for gene blasts.  #@NEW_LINE#@#  All predicted genes were blasted against the 2 databases using BLASTP (E-value  1E-10).  #@NEW_LINE#@#  
+
+Gene_family_analysis  #@NEW_LINE#@#  
+To understand the evolutionary relationship of A. japonicus with other metazoans, we performed systematic gene comparisons.  #@NEW_LINE#@#  Full protein-coding genes of 17 genomes, including human (H. sapiens), lizard (Anolis carolinensis), turtle (Chrysemys picta), frog (Xenopus tropicalis), zebrafish (D. rerio), amphioxus (B. floridae), acorn worm (S. kowalevskii), sea urchin (S. purpuratus), sea star (A. planci), sea cucumber (A. japonicus), water flea (D. pulex), leech (Helobdella robusta), oyster (C. gigas), octopus (Octopus bimaculoides), sea anemone (Nematostella vectensis), trichoplax (Trichoplax adhaerens), and sponge (Amphimedon queenslandica), were used for comparisons.  #@NEW_LINE#@#  
+For greater insight into the evolutionary dynamics of the genes, we determined the expansion and contraction of the gene ortholog clusters among these 17 species.  #@NEW_LINE#@#  We used CAFE software for computational analysis of gene family evolution [86] and defined expansion and contraction by comparing cluster size differences between ancestors and each current species.  #@NEW_LINE#@#  Extinction and evolution of gene families were processed by CAFE, using a random birth and death process model to identify gene gain and loss along each lineage of the RAxML tree (Fig 2).  #@NEW_LINE#@#  For all species, expanded and contracted gene families (compared to ancestors) were compared with A. japonicus to identify gene families that expanded or contracted only in the sea cucumber.  #@NEW_LINE#@#  
+For genes exclusively present and gene families specifically expanded in A. japonicus, we conducted gene ontology (GO) enrichment analysis and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis using blast2go and KAAS [87,88].  #@NEW_LINE#@#  Using Omicshare CloudTools (http://www.omicshare.com/tools/?l=en-us), enriched GO terms and KEGG Orthology (KO) terms were calculated relative to the background of full protein-coding genes.  #@NEW_LINE#@#  Among the 30,350 protein-coding genes of A. japonicus, many-to-many orthologs (15.38%), patchy orthologs (36.44%), and species-specific genes (43.17%) were 3 major gene model groups (Fig 2C).  #@NEW_LINE#@#  Echinoderm-specific orthologs (1.94%) were also detected in the A. japonicus genome.  #@NEW_LINE#@#  GO enrichment analyses of the A. japonicus-specific genes and significantly expanded gene families suggested that most genes were associated with GO terms in cellular process, metabolic process, and binding and catalytic activity (S6 and S8 Figs).  #@NEW_LINE#@#  Based on the full protein-coding genes, A. japonicus-specific genes were predominately enriched in GO terms related to signal recognition and immunity (S12 Table and S8 Fig).  #@NEW_LINE#@#  Similar results were found for GO enrichment analysis of significantly expanded gene families relative to full genes (S13 Table, S8 Fig).  #@NEW_LINE#@#  KEGG pathway enrichment analyses indicated that A. japonicus-specific genes and gained genes were also enriched in pathways related to signal recognition and immunity (S14 and S15 Tables, S8 Fig).  #@NEW_LINE#@#  
+
+Phylogenetic_tree_construction  #@NEW_LINE#@#  
+Peptide sequences were clustered by the Markov clustering program orthoMCL [89].  #@NEW_LINE#@#  These sequences were also searched against the nr database by an all-versus-all BLASTP with threshold E  1E-05 and then clustered by MCL with an inflation value of 1.5.  #@NEW_LINE#@#  A total of 43 single-copy orthologous genes were clustered among 17 genomes.  #@NEW_LINE#@#  Ortholog alignments were produced using MUSCLE (v3.6) and concatenated into a single multiple-sequence alignment by an in-house Perl script.  #@NEW_LINE#@#  A neighbor-joining phylogeny was reconstructed using MEGA (v5) [90].  #@NEW_LINE#@#  
+To examine the phylogeny of sea cucumbers, we used a maximum likelihood (ML) method for genome-wide phylogenetic analysis based on single-copy genes from the 10 deuterostome and 7 nondeuterostome genomes.  #@NEW_LINE#@#  Based on the gene clustering results from orthoMCL, 49,351 gene families were collected from the 17 species.  #@NEW_LINE#@#  Among them, 43 single-copy genes were used for phylogenetic tree construction.  #@NEW_LINE#@#  To understand the relationship of A. japonicus to other echinoderms, we constructed another phylogenetic tree of 5 echinoderms based on orthologous genes.  #@NEW_LINE#@#  To extend the taxonomic sampling, gene families were surveyed in transcriptome datasets in F. serratissima, Patiria miniata, and A. filiformis (NCBI SRA database accession numbers SRR2454338, SRR573710, SRR573709, SRR573708, SRR573706, SRR573707, SRR573705, SRR573675, SRR1523743, SRR1533125, SRR794587, SRR794568, SRR789489, and SRR3097584).  #@NEW_LINE#@#  Transcriptome data for the 3 echinoderms were assembled into unigenes using Trinity and cap3 with default parameters [91,92].  #@NEW_LINE#@#  Single-copy gene families were extracted from the full genes of S. kowalevskii (outgroup), A. japonicus, and S. purpuratus.  #@NEW_LINE#@#  For each gene family, protein sequences from all represented sequenced genomes were searched using BLASTP (E-value cutoff 1.00E-10) against unigenes from each species.  #@NEW_LINE#@#  The unigene with the best score was translated as the longest open reading frame (ORF) in the frame detected by BLASTP.  #@NEW_LINE#@#  Gene clustering analysis was performed on the unigenes.  #@NEW_LINE#@#  Finally, 2,066 orthologous genes were obtained for constructing a phylogenetic tree using the ML method.  #@NEW_LINE#@#  For ML tree construction, sequence alignments were performed using MUSCLE 3.6 [93].  #@NEW_LINE#@#  The substitution models that best fit observed alignment data were estimated using the program jModelTest 2 [94].  #@NEW_LINE#@#  Using PhyML [95], we performed ML analysis with the substitution model WAG + gamma + Inv, and 1,000 bootstraps were conducted to produce the branch support values.  #@NEW_LINE#@#  
+
+Divergence_time_estimation  #@NEW_LINE#@#  
+Molecular clocks and divergence time were estimated by combining r8s and RAxML programs [96,97].  #@NEW_LINE#@#  Maximum likelihood phylogeny and branch lengths were obtained by RaxML with 1,000 bootstrap replicates.  #@NEW_LINE#@#  The birth-death model with fossil calibrations was used for Bayesian estimation of species divergence times [94,98105].  #@NEW_LINE#@#  Fossil-derived timescales and evolutionary history were obtained from TIMETREE [106].  #@NEW_LINE#@#  The divergence time of TEs was calculated using RepeatMasker (http://www.repeatmasker.org/).  #@NEW_LINE#@#  
+
+Morphological_evolution_analyses  #@NEW_LINE#@#  
+
+Visceral_regeneration  #@NEW_LINE#@#  
+In order to better understand the regeneration mechanism, we conducted a set of genomic and multiomic analyses of intestinal regeneration in A. japonicus.  #@NEW_LINE#@#  Adults of A. japonicus (100120 g) were collected from the coast of Qingdao, Shandong Province.  #@NEW_LINE#@#  They were held in a laboratory for 1 week in sea water at 1517°C and fed once a day.  #@NEW_LINE#@#  Evisceration was induced by injecting about 2 mL 0.35 molL-1 KCl into the coelom.  #@NEW_LINE#@#  Eleven individuals per stage were sampled at 0.5 hours, 2 hours, 6 hours, 3 dpe, 5 dpe, 7 dpe, 14 dpe, and 21 dpe, and intestinal tissues were collected for RNA isolation; noneviscerated sea cucumbers served as controls.  #@NEW_LINE#@#  Dissected intestines were frozen in liquid nitrogen and stored at 80°C until RNA extraction.  #@NEW_LINE#@#  
+Total RNA was extracted using the TRIzol extraction method (Thermo Fischer Scientific, Germany) according to the manufacturers protocol.  #@NEW_LINE#@#  Poly-A mRNA was isolated from 40 g total RNA per sample using oligo-dT-coupled beads and sheared.  #@NEW_LINE#@#  Isolated RNA samples were used for first-strand cDNA synthesis using random hexamers and Superscript II reverse transcriptase.  #@NEW_LINE#@#  After end repair and addition of a 3-dA overhang, cDNA was ligated to an Illumina paired-end adapter oligo mix and size-selected by gel purification to enrich for approximately 200 bp fragments.  #@NEW_LINE#@#  After 16 PCR cycles, transcriptomes of the entire intestinal regeneration process of 9 stages were sequenced using Illumina HiSeq-2000 and the PE end sequencing module.  #@NEW_LINE#@#  These stages corresponded to 6 key phases of intestinal regeneration: early response (0 to 6 hours post evisceration), wound healing (6 hours to 3 dpe), blastema formation (3 to 7 dpe), lumen formation (7 to 14 dpe), intestinal differentiation (14 to 21 dpe), and growth (21 dpe) [57,109].  #@NEW_LINE#@#  RNA expression analysis was based on the predicted genes of A. japonicus genome.  #@NEW_LINE#@#  Tophat was used to map mRNA reads to the genome, and Cufflinks was used to calculate expected FPKM as expression values for each transcript.  #@NEW_LINE#@#  
+Corresponding proteomic studies (3, 5, 7, 14, and 21 dpe) of intestinal regeneration were analyzed using isobaric tags for relative and absolute quantitation (iTRAQ) coupled with mass spectrometry (MS).  #@NEW_LINE#@#  Total protein was taken from sample solutions, and protein was digested with Trypsin Gold (Promega, Madison, Wisconsin, US) at a protein:trypsin ratio of 30:1 at 37°C for 16 hours.  #@NEW_LINE#@#  After digestion, peptides were dried by vacuum centrifugation, reconstituted in 0.5 mol/L TEAB, and processed according to the manufacturers protocol for 8-plex iTRAQ reagent (Applied Biosystems, Foster City, California, US).  #@NEW_LINE#@#  The LC-ESI-MS/MS analysis was based on Triple TOF 5600 (AB SCIEX, Ontario, Canada).  #@NEW_LINE#@#  Raw data files were acquired from Orbitrap and converted into MGF files by Proteome Discoverer 1.2 (PD 1.2, Thermo Fischer Scientific).  #@NEW_LINE#@#  Protein identification used the Mascot search engine (Matrix Science, London, United Kingdom).  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Data_Noncoding_RNAs_in_the_A_japonicus_genome  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s001  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Data_Some_genes_related_to_nervous_system_development  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s002  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Data_Supplementary_data_for_the_figures  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s003  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S1_Fig_Genome_size_and_N50_distribution_of_the_genome_assembled_with_different_coverage_of_PacBio_data  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s004  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S2_Fig_Sequencing_coverage_distribution_of_the_bases_and_genome_fragments  #@NEW_LINE#@#  
+(A) Sequencing depth distribution of the bases throughout the genome.  #@NEW_LINE#@#  (B) Plot of guanine-cytosine (GC) content against the average sequencing depths of 50 Kb fragments.  #@NEW_LINE#@#  The average sequencing depth was calculated on each 50 Kb nonoverlapping sliding window.  #@NEW_LINE#@#  The clustered scatter points indicate that no heterozygous sequences were found in the assembled genome.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s005  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S3_Fig_Distribution_profiles_of_unique_K-mer_counts_in_the_raw_sequencing_reads_of_A_japonicus_and_simulated_heterozygous_genome_sequences  #@NEW_LINE#@#  
+Target indicates the genome of A. japonicus; H0.01H0.06 indicate the simulated genome with heterozygosity of 1%6%, respectively.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s006  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S4_Fig_Age_distribution_of_repeats_in_the_A_japonicus_and_S_purpuratus_genomes  #@NEW_LINE#@#  
+The substitution rates were calculated between the genomic and the repeat consensus sequences.  #@NEW_LINE#@#  (A) The 3 transposable element expansion peaks were found in the A. japonicus genome, and (B) 2 expansion peaks were found in the S. purpuratus genome.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s007  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S5_Fig_Gene_structure_comparison_among_A_japonicus__S_purpuratus_and_A_planci  #@NEW_LINE#@#  
+(A) Exon length distribution.  #@NEW_LINE#@#  (B) Exon number distribution.  #@NEW_LINE#@#  (C) Intron length distribution.  #@NEW_LINE#@#  (D) Gene length distribution.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s008  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S6_Fig_Phylogenetic_relationship_of_5_species_of_echinoderms  #@NEW_LINE#@#  
+The maximum-likelihood tree was obtained with a supermatrix of 305,524 amino-acid residues gathered from 2,066 orthologous genes in 5 species of echinoderms and 1 outgroup species, S. kowalevskii.  #@NEW_LINE#@#  Image credits: Jerry Kirkhart; authors' own; public domain; Freshwater and Marine Image Bank; National Oceanic and Atmospheric Administration; Encyclopædia Britannica.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s009  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S7_Fig_Gene_family_distribution_of_cytochrome_P450_among_3_species_of_echinoderms  #@NEW_LINE#@#  
+The numbers in the heatmap are gene copies of each class of cytochrome P450.  #@NEW_LINE#@#  Genes encoding cytochrome P450 are expanded in A. japonicus and S. purpuratus, except cytochrome P450 class 3A24 and 4V2.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s010  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S8_Fig_Gene_ontology_(GO)_and_Kyoto_Encyclopedia_of_Genes_and_Genomes_(KEGG)_pathway_enrichment_analysis_of_the_genes_exclusively_present_or_expanded_in_the_A_japonicus_genome  #@NEW_LINE#@#  
+(A) Distribution of the specific genes in each GO term.  #@NEW_LINE#@#  (B) Distribution of the expanded genes in each GO term.  #@NEW_LINE#@#  Most genes are enriched in GO terms of cellular process, metabolic process, binding, and catalytic activity.  #@NEW_LINE#@#  (C) KEGG pathway enrichment analysis of the genes exclusively present in the A. japonicus genome.  #@NEW_LINE#@#  (D) KEGG pathway enrichment analysis of the expanded genes in the A. japonicus genome.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s011  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S9_Fig_Phylogenetic_tree_of_fibrinogen-related_proteins_(FREPs)_in_A_japonicus_and_other_species  #@NEW_LINE#@#  
+(A) The maximum-likelihood phylogenetic tree of FREPs in A. japonicus and other species.  #@NEW_LINE#@#  The genes of A. japonicus are shown in red, and the genes of other species are shown in different colors: Homo sapiens (green); Anolis carolinensis (purple); Chrysemys picta (khaki); Danio rerio (blue); Xenopus tropicalis (gray); Ciona intestinalis (black); Branchiostoma floridae (royal purple); Saccoglossus kowalevskii (dark green); Strongylocentrotus purpuratus (pink); Crassostrea gigas (cyan); Nematostella vectensis (yellow); Helobdella robusta (buff); Drosophila melanogaster (tan); and Octopus bimaculoides (orange).  #@NEW_LINE#@#  (B) Relative evolutionary time of different FREPs in A. japonicus.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s012  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S10_Fig_Linkage_and_order_of_the_six_gene_cluster_across_metazoans  #@NEW_LINE#@#  
+six6, six1, and six4 are 3 genes of the six gene cluster that showed consistent synteny across deuterostomes (green background), whereas they were incomplete and distributed in different scaffolds within nondeuterostomes (blue background).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s013  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S11_Fig_Expression_level_of_brachury_and_FGF9_at_different_development_stages  #@NEW_LINE#@#  
+brachury and FGF9 showed high expression levels at the stages of gastrula, doliolaria, and pentactula.  #@NEW_LINE#@#  Image credits: Robert Michniewicz; Kobie Mercury-Clarke; Narbonne P, Simpson D, Gurdon J; Vector Open Stock; Lars Simonsen; Freshwater and Marine Image Bank; Encyclopædia Britannica; public domain; Jerry Kirkhart; Authors' own; Martin Cooper; public domain; public domain; Cnidaria; Freshwater and Marine Image Bank; Maja Adamska; Johny Ha; Gewin V; Eitel M, Osigus H-J, DeSalle R, Schierwater B.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s014  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S12_Fig_In_situ_hybridization_of_brachury_at_different_development_stages_of_A_japonicus  #@NEW_LINE#@#  
+brachury was specifically expressed around the mouth, which was similar to the expression pattern of the gene from other echinoderms.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s015  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S13_Fig_Expressions_of_gill-slit_related_genes_at_different_development_stages_of_A_japonicus  #@NEW_LINE#@#  
+Nkx2.1, FoxA, and Pax1/9 were highly expressed at the gastrula and doliolaria stages.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s016  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S14_Fig_Validation_of_the_expression_level_of_5_prostatic_secretory_protein_of_94_amino_acids_(PSP94)-like_genes_by_quantitative_PCR_(qPCR)_during_the_intestine_regeneration_process_of_A_japonicus  #@NEW_LINE#@#  
+The data are expressed as mean ± SD after normalization.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s017  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S15_Fig_Details_of_the_gene_categories_related_to_intestine_regeneration_in_A_japonicus  #@NEW_LINE#@#  
+The information provided in the figure for each category is the expression profile in each regeneration stage.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s018  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S16_Fig_Codon_usage_analysis_of_the_protein-coding_genes_of_A_japonicus  #@NEW_LINE#@#  
+(A) Plot of the second important axis (Axis2) after correspondence analysis against the codon adaptive index (CAI).  #@NEW_LINE#@#  A strong positive correlation between Axis2 and CAI indicates that gene expression level is one of the major factors affecting codon usage.  #@NEW_LINE#@#  (B) Plot of CAI against the effective number of codons (Nc).  #@NEW_LINE#@#  Blue circles stand for the genes encoding ribosomal proteins, which are commonly considered as highly expressed proteins.  #@NEW_LINE#@#  Red circles stand for 11 prostatic secretory protein of 94 amino acids (PSP94)-like genes.  #@NEW_LINE#@#  Like ribosomal proteins, PSP94-like genes showed high CAI and Nc values, suggesting that PSP94-like genes are also highly expressed genes.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s019  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S17_Fig_Heatmap_showing_the_expression_profile_of_4_orthologs_of_key_pluripotency_factors_(Sox2__c-Myc__Oct4__and_Klf4)_during_intestinal_regeneration_in_A_japonicus  #@NEW_LINE#@#  
+The orthologs of the 4 key pluripotency factors in A. japonicus were SoxB1 (AJAP16673), Myc (AJAP11986), Oct1/2/11 (AJAP10188), and Klf1/2/4 (AJAP08993).  #@NEW_LINE#@#  Color illustrates the fold changes of gene expression level between adjacent regeneration stages.  #@NEW_LINE#@#  Red represents up-regulation, and green represents down-regulation.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s020  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S18_Fig_Analogy_with_the_known_pluripotency_pathways_from_mammalian_genomes  #@NEW_LINE#@#  
+Factors that had potential homologues in A. japonicus are shown in a green box, whereas a red box means the homologues could not be found in the A. japonicus genome.  #@NEW_LINE#@#  The image was modified from the signaling pathways regulating pluripotency of stem cell (ko04550) from the Kyoto Encyclopedia of Genes and Genomes (KEGG) and the pathway of embryonic stem cell pluripotency in mouse from Qiagen.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s021  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S1_Table_Summary_of_Illumina_and_PacBio_sequencing_data  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s022  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_Quality_statistics_of_PacBio_sequencing_data  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s023  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_Genome_assembly_of_A_japonicus_using_4_different_software_programs__Short_Oligonucleotide_Analysis_Package_de_novo_assembly_tool_(SOAPdenovo)__de_Bruijn_graph_to_Overlap-Layout-Consensus_(DBG2OLC)__Fast_Alignment_and_Consensus_for_Assembly_(FALCON)__and_SMARTdenovo  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s024  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S4_Table_Assembly_statistics_of_published_marine_invertebrate_genomes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s025  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S5_Table_Summary_of_the_final_genome_assembly  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s026  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S6_Table_Gene_region_coverage_assessed_based_on_transcriptome  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s027  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S7_Table_Gene_region_coverage_assessed_by_core_eukaryotic_genes_in_Core_Eukaryotic_Genes_Mapping_Approach_(CEGMA)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s028  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S8_Table_Summary_of_the_transposable_elements  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s029  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S9_Table_General_features_of_A_japonicus_and_S_purpuratus_protein-coding_genes  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s030  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S10_Table_Gene_ontology_(GO)_enrichment_analysis_of_echinoderm-specific_gene_families  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s031  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S11_Table_Gene_ontology_(GO)_enrichment_of_the_genes_exclusively_present_in_A_japonicus  #@NEW_LINE#@#  
+The gene ratios in each GO term are compared between the specific and full protein-coding genes of the genome.  #@NEW_LINE#@#  The GO terms with a light green background are associated with immunity, and those with a yellow background are associated with signal recognition.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s032  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S12_Table_Gene_ontology_(GO)_enrichment_of_the_expanded_gene_families_in_A_japonicus  #@NEW_LINE#@#  
+The gene ratios in each GO term are compared between the significantly expanded and full protein-coding genes of the genome.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s033  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S13_Table_Kyoto_Encyclopedia_of_Genes_and_Genomes_(KEGG)_pathway_enrichment_of_the_genes_exclusively_present_in_A_japonicus  #@NEW_LINE#@#  
+The gene ratios in each KEGG Orthology (KO) term are compared between the specific and full protein-coding genes of the genome.  #@NEW_LINE#@#  The KO terms with a light green background are associated with immunity, and those with a yellow or blue background are associated with signal recognition and regeneration, respectively.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s034  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S14_Table_Kyoto_Encyclopedia_of_Genes_and_Genomes_(KEGG)_pathway_enrichment_of_the_expanded_gene_families_in_A_japonicus  #@NEW_LINE#@#  
+The gene ratios in each KEGG Orthology (KO) term are compared between the significantly expanded and full protein-coding genes of the genome.  #@NEW_LINE#@#  The KO terms with a light green background are associated with immunity, and those with a yellow or blue background are associated with signal recognition and regeneration, respectively.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s035  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S15_Table_Top_8_significantly_expanded_gene_families_in_A_japonicus  #@NEW_LINE#@#  
+Acar, Anolis carolinensis; Cpic, Chrysemys picta; Hsap, Homo sapiens; Xtro, Xenopus tropicalis; Drer, Danio rerio; Bflo, Branchiostoma floridae; Skow, Saccoglossus kowalevskii; Spur, Strongylocentrotus purpuratus; Ajap, A. japonicus; Dpul, Daphnia pulex; Hrob, Helobdella robusta; Cgig, Crassostrea gigas; Obim, Octopus bimaculoides; Nvec, Nematostella vectensis; Tadh, Trichoplax adhaerens; and Aque, Amphimedon queenslandica.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s036  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S16_Table_Fox_genes_in_4_echinoderm_genomes  #@NEW_LINE#@#  
+The draft scaffolds of 4 echinoderm genomes were blasted against the Fox gene family, and the homologous regions were extracted to blast against the nr database.  #@NEW_LINE#@#  Gene names indicate the best hit gene from the nr database.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s037  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S17_Table_Homeobox_gene_family_of_A_japonicus  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s038  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S18_Table_Main_signal_pathway_and_genes_involved_in_regulation_of_skeletogenesis_in_sea_urchin_(S_purpuratus)_and_sea_cucumber_(A_japonicus)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s039  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S19_Table_Expression_level_of_prostatic_secretory_protein_of_94_amino_acids_(PSP94)-like_genes_at_different_development_stages_in_A_japonicus  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s040  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S20_Table_Detail_of_7_prostatic_secretory_protein_of_94_amino_acids_(PSP94)-like_proteins_found_in_the_proteome_result  #@NEW_LINE#@#  
+The up-regulated folds between 03 days post evisceration (dpe) are shown.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s041  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S21_Table_Top_10_up-regulated_proteins_between_7_and_14_days_after_intestine_regeneration_in_A_japonicus  #@NEW_LINE#@#  
+The fibrinogen-related proteins (FREPs) are shown in red.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s042  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S22_Table_Summary_of_proteomic_results_from_isobaric_tags_for_relative_and_absolute_quantitation_(iTRAQ)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s043  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S23_Table_Statistics_of_differential_protein_(fold_changes__12_and_P__005)_during_visceral_regeneration_in_A_japonicus  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s044  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S24_Table_The_significantly_up-regulated_regeneration-related_proteins_found_in_the_corresponding_proteomic_studies_(3__5__7__14__and_21_days_post_evisceration_[dpe])_during_the_intestinal_regeneration_process_in_A_japonicus  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2003790.s045  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We would like to express our gratitude to Robert A. Cameron, José E. García-Arrarás, Vladimir S. Mashanov, and Ximimg Guo for their support of the sea cucumber genome project and revisions of the manuscript.  #@NEW_LINE#@#  We acknowledge Yaqing Chang and Changgong Wu for their help with sea urchin material and proteome analyses.  #@NEW_LINE#@#  We appreciate Qiang Xu's help in providing sea cucumber image.  #@NEW_LINE#@#  We thank Jiankai Wei, Xiaoqing Sun, Jingwen Liu, Tianlong Qiu, Quanchao Wang, Jiangli Du, Xiaoxi Zhang, Chengsong Zhang, Yan Zhang, and Kuijie Yu for help with DNA, RNA, and protein extraction; data analysis; and sea cucumber culture.  #@NEW_LINE#@#  We are grateful to Li Sun, Baozhong Liu, and Li Li for discussions.  #@NEW_LINE#@#  We thank other faculty and staff at the Institute of Oceanology, Chinese Academy of Science, who contributed to the sea cucumber genome project.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

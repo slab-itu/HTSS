@@ -1,0 +1,258 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002543"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Comparative analysis of the association between 35 frailty scores and cardiovascular events, cancer, and total mortality in an elderly general population in England: An observational study  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Frail elderly people experience elevated mortality.  #@NEW_LINE#@#  However, no consensus exists on the definition of frailty, and many frailty scores have been developed.  #@NEW_LINE#@#  The main aim of this study was to compare the association between 35 frailty scores and incident cardiovascular disease (CVD), incident cancer, and all-cause mortality.  #@NEW_LINE#@#  Also, we aimed to assess whether frailty scores added predictive value to basic and adjusted models for these outcomes.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+Through a structured literature search, we identified 35 frailty scores that could be calculated at wave 2 of the English Longitudinal Study of Ageing (ELSA), an observational cohort study.  #@NEW_LINE#@#  We analysed data from 5,294 participants, 44.9% men, aged 60 years and over.  #@NEW_LINE#@#  We studied the association between each of the scores and the incidence of CVD, cancer, and all-cause mortality during a 7-year follow-up using Cox proportional hazard models at progressive levels of adjustment.  #@NEW_LINE#@#  We also examined the added predictive performance of each score on top of basic models using Harrells C statistic.  #@NEW_LINE#@#  Using age of the participant as a timescale, in sex-adjusted models, hazard ratios (HRs) (95% confidence intervals) for all-cause mortality ranged from 2.4 (95% CI: 1.73.3) to 26.2 (95% CI: 15.444.5).  #@NEW_LINE#@#  In further adjusted models including smoking status and alcohol consumption, HR ranged from 2.3 (95% CI: 1.63.1) to 20.2 (95% CI: 11.834.5).  #@NEW_LINE#@#  In fully adjusted models including lifestyle and comorbidity, HR ranged from 0.9 (95% CI: 0.51.7) to 8.4 (95% CI: 4.914.4).  #@NEW_LINE#@#  HRs for CVD and cancer incidence in sex-adjusted models ranged from 1.2 (95% CI: 0.53.2) to 16.5 (95% CI: 7.835.0) and from 0.7 (95% CI: 0.41.2) to 2.4 (95% CI: 1.05.7), respectively.  #@NEW_LINE#@#  In sex- and age-adjusted models, all frailty scores showed significant added predictive performance for all-cause mortality, increasing the C statistic by up to 3%.  #@NEW_LINE#@#  None of the scores significantly improved basic prediction models for CVD or cancer.  #@NEW_LINE#@#  A source of bias could be the differences in mortality follow-up time compared to CVD/cancer, because the existence of informative censoring cannot be excluded.  #@NEW_LINE#@#  
+
+Conclusion  #@NEW_LINE#@#  
+There is high variability in the strength of the association between frailty scores and 7-year all-cause mortality, incident CVD, and cancer.  #@NEW_LINE#@#  With regard to all-cause mortality, some scores give a modest improvement to the predictive ability.  #@NEW_LINE#@#  Our results show that certain scores clearly outperform others with regard to three important health outcomes in later life.  #@NEW_LINE#@#  Finally, we think that despite their limitations, the use of frailty scores to identify the elderly population at risk is still a useful measure, and the choice of a frailty score should balance feasibility with performance.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Aguayo GA, Vaillant MT, Donneau A-F, Schritz A, Stranges S, Malisoux L, et al.  #@NEW_LINE#@#  (2018) Comparative analysis of the association between 35 frailty scores and cardiovascular events, cancer, and total mortality in an elderly general population in England: An observational study.  #@NEW_LINE#@#  PLoS Med 15(3):  #@NEW_LINE#@#  
+           e1002543.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002543  #@NEW_LINE#@#  
+Academic Editor: Kazem Rahimi, University of Oxford, UNITED KINGDOM  #@NEW_LINE#@#  
+Received: October 2, 2017; Accepted: February 21, 2018; Published:  March 27, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Aguayo et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Data of the English Longitudinal Study of Ageing are freely available at the UK Data Service data catalogue website after applying for a share data project at https://discover.ukdataservice.ac.uk/catalogue/?sn=5050.  #@NEW_LINE#@#  
+Funding: This study was funded by the Ministry of Higher Education and Research, Luxembourg, through an internal project from the Luxembourg Institute of Health (funding GAA).  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          AUC,  #@NEW_LINE#@#  
+            area under the curve; BDE,  #@NEW_LINE#@#  
+            Beaver Dam Eye Study Index; BFI,  #@NEW_LINE#@#  
+            Brief Frailty Index; BMI,  #@NEW_LINE#@#  
+            body mass index; CASP-19,  #@NEW_LINE#@#  
+            19-item scale control, autonomy, pleasure, and self-realization; CGA,  #@NEW_LINE#@#  
+            Comprehensive Geriatric Assessment; CGAST,  #@NEW_LINE#@#  
+            Comprehensive Geriatric Assessment Screening Tests; COPD,  #@NEW_LINE#@#  
+            chronic obstructive pulmonary disease; CSBA,  #@NEW_LINE#@#  
+            Conselice Study of Brain Aging Score; CVD,  #@NEW_LINE#@#  
+            cardiovascular disease; EFIP,  #@NEW_LINE#@#  
+            Evaluative Frailty Index for Physical Activity; EFS,  #@NEW_LINE#@#  
+            Edmonton Frail Scale; ELSA,  #@NEW_LINE#@#  
+            English Longitudinal Study of Ageing; FI40,  #@NEW_LINE#@#  
+            40-item Frailty Index; FI70,  #@NEW_LINE#@#  
+            70-item Frailty Index (SHARE); FIBLSA,  #@NEW_LINE#@#  
+            Frailty Index Beijing Longitudinal Study of Ageing; FiND,  #@NEW_LINE#@#  
+            Frail Non-Disabled Questionnaire; FS,  #@NEW_LINE#@#  
+            Frail Scale; FSS,  #@NEW_LINE#@#  
+            Frailty Staging System; G8,  #@NEW_LINE#@#  
+            G-8 Geriatric Screening Tool; GFI,  #@NEW_LINE#@#  
+            Groningen Frailty Indicator; HR,  #@NEW_LINE#@#  
+            hazard ratio; HRCA,  #@NEW_LINE#@#  
+            Hebrew Rehabilitation Center for Aged Vulnerability Index; HSF,  #@NEW_LINE#@#  
+            Health Status Form; IFQ,  #@NEW_LINE#@#  
+            Inter-Frail Questionnaire; MFS,  #@NEW_LINE#@#  
+            Modified Frailty Score; MPHF,  #@NEW_LINE#@#  
+            Modified Phenotype of Frailty; NLTCS,  #@NEW_LINE#@#  
+            Long Term Care Survey Frailty Index; OR,  #@NEW_LINE#@#  
+            Odds ratio; PFI,  #@NEW_LINE#@#  
+            Physical Frailty Index; PHF,  #@NEW_LINE#@#  
+            Phenotype of Frailty; RR,  #@NEW_LINE#@#  
+            relative risk; SDFI,  #@NEW_LINE#@#  
+            Static/Dynamic Frailty Index; SHARE,  #@NEW_LINE#@#  
+            Survey of Health, Ageing and Retirement in Europe; SHCFS,  #@NEW_LINE#@#  
+            Canadian Study of Health and Aging Clinical Frailty Scale; SI,  #@NEW_LINE#@#  
+            Screening Instrument; SOF,  #@NEW_LINE#@#  
+            Study of Osteoporotic Fractures; SPPB,  #@NEW_LINE#@#  
+            Short Physical Performance Battery; SPQ,  #@NEW_LINE#@#  
+            Sherbrooke Postal Questionnaire; TFI,  #@NEW_LINE#@#  
+            Tilburg Frailty Indicator; VES13,  #@NEW_LINE#@#  
+            Vulnerable Elders Survey; WHOAFC,  #@NEW_LINE#@#  
+            World Health Organization Assessment of Functional Capacity; WHRH,  #@NEW_LINE#@#  
+            WHOAFC and self-reported health; ZED1,  #@NEW_LINE#@#  
+            ZutPhen Elderly Study (Physical Activity and Low Energy); ZED2,  #@NEW_LINE#@#  
+            ZutPhen Elderly Study (Physical Activity and Weight Loss); ZED3,  #@NEW_LINE#@#  
+            ZutPhen Elderly Study (Physical Activity and Low BMI)  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Although chronological age is the strongest determinant of disease occurrence and mortality, it is increasingly recognised that the process of ageing is heterogeneous [1] due to a combination of differences in lifetime cumulative exposure to determinants of chronic disease and differences in individual susceptibility.  #@NEW_LINE#@#  The concept of frailty was introduced as a way of identifying individuals who, at a given age, have a particularly fragile health balance and are therefore more vulnerable to rapid health deterioration and early mortality [2].  #@NEW_LINE#@#  However, the operationalization of the concept of frailty has been fraught with difficulties, as different groups of researchers and clinicians have expressed diverging views on which characteristics make up frailty and on how these should be assessed individually and in unison.  #@NEW_LINE#@#  
+Considering the type and composition of variables of frailty scores, four main approaches to frailty can be distinguished.  #@NEW_LINE#@#  First, the phenotype of frailty approach describes frailty as a physiological syndrome of diminished resistance to stressors associated with poor health outcomes [3].  #@NEW_LINE#@#  Second, the multidimensional approach defines frailty as a dynamic process of loss of function in one or more domains, making the individual vulnerable [4].  #@NEW_LINE#@#  Third, the accumulation of deficit approach counts the number of health problems or deficits to classify the individual as frail [5].  #@NEW_LINE#@#  Fourth, we propose a "disability" approach, as frailty scores were created primarily with variables representing a degree of disability.  #@NEW_LINE#@#  We have included this classification even without a theoretical basis/reference, as these scores are used as frailty scores, although disability is considered by many authors more as a result of frailty or an overlap condition than as an equivalent of frailty [6].  #@NEW_LINE#@#  
+There is no gold standard to measure frailty and many different frailty scores have been created, even within each of the four main approaches [7].  #@NEW_LINE#@#  We have previously shown that there is only limited agreement in which individuals will be classified as frail, according to different scores, and that, in consequence, it is impossible to compare the prevalence of frailty or associations with relevant outcomes between studies using different frailty scores directly [8].  #@NEW_LINE#@#  
+To fully assess and compare the performance of different frailty scores, it is also necessary to consider their prospective association and predictive ability for the main conditions that cause the loss of healthy life years and quality of life in an ageing population [9].  #@NEW_LINE#@#  Prospective associations were used in this study to investigate frailty scores as risk factors of important outcomes in the elderly population: death or cardiovascular or cancer events [10].  #@NEW_LINE#@#  Predictive value was used in this study to determine the ability of frailty scores to discriminate or separate participants who will from those who will not develop an event [11].  #@NEW_LINE#@#  
+Many scores have shown strong associations with all-cause mortality, risk of hospitalization, and disability [7], but the knowledge concerning their association with other major causes of ill-health and loss of quality of life, such as cardiovascular disease (CVD) events and cancer, is very limited.  #@NEW_LINE#@#  In a longitudinal study, Klein et al.  #@NEW_LINE#@#  found a significant association between frailty and CVD (odds ratio [OR] in men = 1.33 [1.061.67]; in women = 1.43 [1.131.82]) and a slightly high, although not significant, association between frailty and cancer (ORin men = 1.17 [0.891.55]; in women = 1.21 [0.951.54]) [12].  #@NEW_LINE#@#  Another study shows associations between variables that take part of some frailty instruments and cancer incidence [13], but no direct large-scale comparison studies are available.  #@NEW_LINE#@#  
+This comparative analysis is important beyond the fact that this has not been done.  #@NEW_LINE#@#  Researchers need more information on what frailty scores actually measure and how they can compare or pool results of studies using different frailty scores.  #@NEW_LINE#@#  Clinicians need more information on the performance of the scores and on the most appropriate instruments in clinical settings.  #@NEW_LINE#@#  Policy makers need more information on the usefulness of measuring frailty at a population level and how to achieve it with the best instruments.  #@NEW_LINE#@#  
+Therefore, the objective of this study was to carry out a comparative external validation of a comprehensive list of frailty scores with regard to three important health outcomes in later life: CVD, cancer, and all-cause mortality, by direct comparison of the strength of associations and of added predictive value, using prospective data from a population-based study in the elderly.  #@NEW_LINE#@#  Some of the scales included are composite scales for physical activity or function, grouped as frailty scores for this paper.  #@NEW_LINE#@#  
+Our hypothesis was that the marked heterogeneity in approach, type, and composition of frailty scores would translate into heterogeneity in associations and predictive ability, with important health outcomes.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Participants__inclusion_criteria__and_study_design  #@NEW_LINE#@#  
+
+Study_design  #@NEW_LINE#@#  
+This is a longitudinal secondary data analysis of ELSA and no formal written analysis plan exists.  #@NEW_LINE#@#  The analysis was planned in November 2015 during meetings with coauthors.  #@NEW_LINE#@#  We used the second wave (20042005) as baseline because this was the first wave with a clinical examination and laboratory samples.  #@NEW_LINE#@#  The exposure was the frailty state measured with 35 different frailty scores at baseline, and the follow-up time was from 20042005 to 2012.  #@NEW_LINE#@#  
+
+Frailty_scores  #@NEW_LINE#@#  
+A structured search was performed to identify all published original frailty scores.  #@NEW_LINE#@#  The search strategy has previously been described in detail [8].  #@NEW_LINE#@#  
+The original scores that could be calculated with the ELSA wave 2 data (i.e., those for which at least 80% of the necessary variables were measured) were selected.  #@NEW_LINE#@#  Multiple imputation was used to deal with missing data in the underlying measured study variables necessary to calculate the frailty scores.  #@NEW_LINE#@#  In order to obtain optimally plausible values for the scores, imputation was applied to the original underlying variables, and frailty scores were calculated a posteriori using imputed values.  #@NEW_LINE#@#  
+For preparing an analysis in one single continuous scale, frailty scores were rescaled from 0 (non-frail) to 1 (maximum frail) by dividing the output of each frailty score by the maximum possible value.  #@NEW_LINE#@#  If the frailty score was defined with a score that gave different weight to some variables, the output was accorded this weight and then rescaled.  #@NEW_LINE#@#  In addition, some frailty scores had to be inverted to convert the result, according the definition of 0 as non-frail and 1 as maximum frail.  #@NEW_LINE#@#  
+Scores were classified into 4 groups depending on their underlying frailty approach: phenotype of frailty (mainly physical functioning variables), multidimensional (at least 2 different dimensions and less than 30 variables), accumulation of deficits (at least 30 variables), and disability (mainly disability variables).  #@NEW_LINE#@#  
+A total of 67 original frailty scores were found in the literature search and 35 had at least 80% of variables possible to calculate with the data of ELSA wave 2, and in consequence, they were selected (Table 1).  #@NEW_LINE#@#  Out of them, 19 had binary cutoffs identifying frail and non-frail individuals, and 10 had categorical cutoffs, additionally identifying an intermediate pre-frail group [8].  #@NEW_LINE#@#  
+
+Missing_data  #@NEW_LINE#@#  
+Missing data of some needed variables to calculate frailty scores were observed in 1 (less_than1.0%) to 3,037 (57.4%) participants.  #@NEW_LINE#@#  The mechanism of missing data was assumed to be missing at random because the underlying values necessary to calculate frailty scores that were missing for some individuals are likely to depend on observed data in the ELSA data.  #@NEW_LINE#@#  In other words, missing data did not depend on any unobserved data, but only upon observed data.  #@NEW_LINE#@#  
+Each variable was defined as being of numerical, binary, or categorical type, which defined the appropriate method for imputation.  #@NEW_LINE#@#  The chained equations approach was chosen because it is a very effective, flexible, and straightforward method to impute data.  #@NEW_LINE#@#  This method is based on a set of models adapted to the type of missing value; the values are filled first with random sampling, based only on the observed data, and then also based on already imputed data [49,50].  #@NEW_LINE#@#  
+The imputation model was built by selecting the best missing data predictors among the available variables.  #@NEW_LINE#@#  The imputation model incorporated strong predictors of missing data (cognition, disability) and confounders (age, sex, education, physical activity).  #@NEW_LINE#@#  Moreover, outcomes were included in the imputation model (mortality, cancer, CVD), but they were not imputed.  #@NEW_LINE#@#  To optimise the imputed values, the data were ordered from lower to higher percentage of missing data before running the imputation, and a seed was set to allow reproducibility.  #@NEW_LINE#@#  
+We performed 30 imputations to create 30 different data sets.  #@NEW_LINE#@#  Then, we ran 20 iterations by each of these 30 imputations, sufficient to achieve convergence of the Gibbs sampler.  #@NEW_LINE#@#  The imputations were assessed by hand (plausible values for imputed data compared to completed data) and by using graphical methods.  #@NEW_LINE#@#  
+
+Outcomes  #@NEW_LINE#@#  
+We assessed 3 main outcomes: all-cause mortality, CVD, and cancer events.  #@NEW_LINE#@#  Mortality data linked to ELSA participants was provided by the National Health Services Central Registry, Southport, UK.  #@NEW_LINE#@#  For 68 participants, mortality was obtained from other sources (found during ELSA fieldwork or from participants relatives).  #@NEW_LINE#@#  Main causes of death were registered as CVD, cancer, diseases of the respiratory system, and other causes.  #@NEW_LINE#@#  CVD or cancer events were defined by self-report in waves 35.  #@NEW_LINE#@#  A CVD event could be myocardial infarction, heart failure, stroke, or CVD death.  #@NEW_LINE#@#  A cancer event could be cancer of any type, including cancer death.  #@NEW_LINE#@#  For each outcome separately, participants exposure time was calculated from the participants age at entry (wave 2 clinical examination: 20042005) to participants age at first event or final censoring (date of mortality assessment: February 2012).  #@NEW_LINE#@#  Participants lost to follow-up were right-censored at the midpoint between their last visit and the next one.  #@NEW_LINE#@#  For analysis of CVD and cancer incidence, respective prevalent cases at baseline were excluded.  #@NEW_LINE#@#  
+
+Definition_of_covariates_potential_confounders  #@NEW_LINE#@#  
+Smoker status was defined as never, previous, or current smoker.  #@NEW_LINE#@#  The maximum alcohol consumption per day was defined as 0, 1, 2, and  greater than 2 units/day.  #@NEW_LINE#@#  Body mass index (BMI) was defined as a continuous variable calculated as weight (kg)/height (m)2.  #@NEW_LINE#@#  Self-reported physical activity was defined as time spent in vigorous, moderate, low, and sedentary activity.  #@NEW_LINE#@#  Diabetes was defined through self-reported medical diagnosis or fasting glucose 7.0 mmol/L or glycated haemoglobin 6.5% [51].  #@NEW_LINE#@#  Hypertension was defined from systolic or diastolic blood pressure 140 or 90 mm Hg, respectively, or self-reported high blood pressure medication [52].  #@NEW_LINE#@#  Anaemia was defined as a measured haemoglobin level less_than13 g/dL (men) and less_than12 g/dL (women) [53].  #@NEW_LINE#@#  Arthritis was self-reported diagnosis.  #@NEW_LINE#@#  Neuropsychiatric problems were self-reported diagnoses of: Alzheimer or Parkinson disease, dementia, or psychiatric problems.  #@NEW_LINE#@#  Cognition was evaluated with a total continuous cognitive index (memory and executive functions) [54].  #@NEW_LINE#@#  Self-rated health was defined as excellent, very good, good, fair, or poor.  #@NEW_LINE#@#  Quality of life was evaluated with the 19-item scale control, autonomy, pleasure, and self-realization (CASP-19) questionnaire [55].  #@NEW_LINE#@#  Depression symptoms were assessed with the 8-item Centre for Epidemiologic Study Depression Scale, with cutoff 4 points [56].  #@NEW_LINE#@#  
+
+Statistical_analysis  #@NEW_LINE#@#  
+We performed two parallel statistical analyses.  #@NEW_LINE#@#  The first was a continuous analysis with frailty scores rescaled to the range 0 (no frailty) to 1 (frailty).  #@NEW_LINE#@#  The second was a categorical analysis of frailty scores using cutoffs when they were defined.  #@NEW_LINE#@#  
+All data analyses were carried out in R version 3.3.0 using packages Mice, lattice, Survival, mitml, and survC1.  #@NEW_LINE#@#  A p-value of less than 0.05 was considered statistically significant.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Table 2 shows the baseline characteristics of the participants included in the analysis.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002543.t002  #@NEW_LINE#@#  
+From 9,432 participants in wave 2 of ELSA, 5,294 (44.9% men) fulfilled the inclusion criteria.  #@NEW_LINE#@#  Mean age was 71.2 (SD: 8.0) years.  #@NEW_LINE#@#  The prevalence of CVD and cancer at baseline were 13.7% and 9.3%, respectively.  #@NEW_LINE#@#  Data from 4,554 participants free of CVD and 4,792 participants free of cancer at baseline were analysed in the respective incidence analyses.  #@NEW_LINE#@#  
+The median follow-up times (Interquartile range) for mortality, CVD, and cancer outcomes were 7.25 (7.007.42), 5.83 (5.336.08), and 5.83 (5.176.08) years, respectively.  #@NEW_LINE#@#  The numbers of events were 1,144 deaths, 373 incident CVD events, and 425 incident cancer events, translating into a crude mortality rate of 326/10,000 person-years and an incidence rate of 167/10,000 and 184/10,000 person-years for CVD and cancer incidence, respectively.  #@NEW_LINE#@#  Main causes of death were registered as cancer (32.5%), CVD (35.1%), respiratory (14.8%), and other (17.6%).  #@NEW_LINE#@#  
+For the majority of cases, the proportion hazard assumption was not proved.  #@NEW_LINE#@#  Therefore, all figures and tables show hazard ratios (HRs) at the median follow-up time (3.5 years for mortality and 2.5 years for CVD and cancer events).  #@NEW_LINE#@#  
+All-cause_mortality_events  #@NEW_LINE#@#  
+Fig 1A and Table 3 show all-cause mortality HRs for frailty scores calculated at median time follow-up (3.5 years) and analysed as continuous variables at different levels of adjustment.  #@NEW_LINE#@#  The strength of the association between frailty scores and mortality ranged from an HR of 2.4 (95% CI: 1.73.3) to 26.2 (95% CI: 15.444.5) for those with the highest possible frailty state (rescaled to 1) to the lowest possible frailty state (rescaled to 0), with adjustment for sex.  #@NEW_LINE#@#  Adjustments in model 2 slightly attenuated associations for all scores, while retaining statistical significance in all cases.  #@NEW_LINE#@#  HRs for model 2 ranged from 2.3 (95% CI: 1.63.1) to 20.2 (95% CI: 11.834.5).  #@NEW_LINE#@#  Adjustments in model 3 attenuated associations for all scores, retaining statistical significance in 27 out of 35 cases.  #@NEW_LINE#@#  HRs for model 3 ranged from 0.9 (95% CI: 0.51.7) to 8.4 (95% CI: 4.914.4).  #@NEW_LINE#@#  
+Fig 1B and Table 3 illustrate the same analysis using categorical variables (frailty status).  #@NEW_LINE#@#  In sex-adjusted models, HRs ranged from 1.2 (95% CI: 0.91.7) to 3.4 (95% CI: 1.48.0), with 30 out of 37 cases showing a statistically significant association.  #@NEW_LINE#@#  Adjustments in model 2 attenuated associations, while retaining statistical significance in 28 out of 37 cases.  #@NEW_LINE#@#  HRs for model 2 ranged from 1.2 (95% CI: 1.01.4) to 3.0 (95% CI: 1.56.2).  #@NEW_LINE#@#  Adjustments in model 3 attenuated associations for all scores, retaining statistical significance in 10 out of 37 cases.  #@NEW_LINE#@#  HRs for model 3 ranged from 0.9 (95% CI: 0.32.4) to 2.4 (95% CI: 1.24.7).  #@NEW_LINE#@#  S2 and S3 Tables show HRs for total mortality assessed in yearly intervals, with continuous and categorical analysis, respectively.  #@NEW_LINE#@#  
+
+Cardiovascular_events  #@NEW_LINE#@#  
+Fig 2A and S4 Table show HRs for incident CVD for frailty scores analysed as continuous variables.  #@NEW_LINE#@#  Twenty-three out of thirty-five scores showed a statistically significant association in sex-adjusted models (model 1), ranging from 1.2 (95% CI: 0.53.2) to 16.5 (95% CI: 7.835.0).  #@NEW_LINE#@#  Adjustments in model 2 attenuated associations for all scores, retaining statistical significance in 18 out of 35 cases.  #@NEW_LINE#@#  Further adjustment with model 3 further attenuated associations for all scores, retaining statistical significance in 5 out of 35 cases.  #@NEW_LINE#@#  The strongest and more stable associations after adjustment with CVD events were seen for scores from the accumulation of deficits approach group.  #@NEW_LINE#@#  
+Fig 2B and S4 Table show the analysis performed for incident CVD based on the categorical frailty definitions.  #@NEW_LINE#@#  Only 6 out of 37 HRs were statistically significant and ranged from 0.6 (95% CI: 0.41.0) to 2.7 (1.26.3) in sex-adjusted models.  #@NEW_LINE#@#  The effect of adjustment was a slight attenuation of the associations.  #@NEW_LINE#@#  S5 and S6 Tables show HR for cardiovascular events assessed in yearly intervals with continuous and categorical analysis, respectively.  #@NEW_LINE#@#  
+
+Cancer_events  #@NEW_LINE#@#  
+Fig 3 and S7 Table show HRs for incident cancer.  #@NEW_LINE#@#  Analyses based on continuous scores (Fig 3A) yielded HRs for cancer ranging between 0.7 (95% CI: 0.41.2) and 2.4 (95% CI: 1.05.7), while most associations (31 out of 35) did not reach statistical significance in sex-adjusted models.  #@NEW_LINE#@#  Further adjustment (models 2 and 3) attenuated associations for all scores, not retaining any statistical significance.  #@NEW_LINE#@#  Fig 3B and S7 Table show the results based on categorical frailty classifications, for which most associations did not reach statistical significance; also, with further adjustment (models 2 and 3), no score retained any statistical significance.  #@NEW_LINE#@#  S8 and S9 Tables show HRs for cancer events assessed in yearly intervals, with continuous and categorical analysis, respectively.  #@NEW_LINE#@#  
+
+Evaluation_of_discriminative_ability  #@NEW_LINE#@#  
+Table 4 shows the discriminative ability of frailty scores for all-cause mortality using Harrells C statistic.  #@NEW_LINE#@#  The improvement in prediction for each frailty score analysed as a continuous variable on top of a basic model consisting of age and sex ranged from 0.6% (95% CI: 0.20.9) to 3.1% (95% CI: 2.33.9) and was statistically significant for all scores.  #@NEW_LINE#@#  With model 2, improvement was significant in all cases and ranged from 0.4% (95% CI: 0.10.7) to 2.5% (95% CI: 1.73.2).  #@NEW_LINE#@#  With further adjusted model 3, improvement was significant in 33 out of 35 cases and ranged from 0.0 (95% CI: 0.40.3) to 0.9 (95% CI: 0.51.3).  #@NEW_LINE#@#  
+Analyses adding frailty categories to the age and sex basic model gave improvements ranging from 0.1% (95% CI: 0.00.2) to 2.1% (95% CI: 1.52.6), with all scores showing statistically significant improvement.  #@NEW_LINE#@#  In most cases, when the predictive value of the different scores was assessed over and above basic models 2, the improvement was attenuated; in most cases, it was also statistically significant.  #@NEW_LINE#@#  
+The C statistic of the basic model for CVD events based only on age and sex was 70.1 (95% CI: 65.774.4).  #@NEW_LINE#@#  None of the continuous scores added predictive performance to this model at a statistically significant level.  #@NEW_LINE#@#  In analyses of frailty categories, only the G-8 Geriatric Screening Tool (G8) score added statistically significant predictive value (delta C: 1.6 [95% CI: 0.42.8]) (S10 Table).  #@NEW_LINE#@#  
+For cancer events, the C statistic of all three basic models was below 60, and all deltas were nonsignificant both in continuous and categorical analyses (S11 Table).  #@NEW_LINE#@#  
+
+Sensitivity_analysis  #@NEW_LINE#@#  
+In sensitivity analyses excluding all events occurring the first year, we observed very similar results compared to those obtained with the total sample, although the strength of the associations was slightly diminished (S12 Table).  #@NEW_LINE#@#  
+In sex-stratified analyses for all-cause mortality, men had slightly higher HRs than women.  #@NEW_LINE#@#  The strongest associations in both sexes were obtained with the multidimensional approach (S13 and S14 Tables).  #@NEW_LINE#@#  
+In age-stratified analyses ( greater than 70/70 years), HRs for all-cause mortality were much higher in younger participants.  #@NEW_LINE#@#  However, the pattern of results was similar, with scores from the multidimensional approach showing the strongest associations with all-cause mortality in both age strata (S15 and S16 Tables).  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Our direct comparison of the association between 35 published frailty scores and three major health outcomes in later life demonstrates that there is great variability in the strength of the prospective association with CVD, cancer, and total mortality.  #@NEW_LINE#@#  Moreover, the strength of the association also differed between each of the three outcomes.  #@NEW_LINE#@#  While most scores added predictive ability to both simple and more complex underlying models for total mortality, this was not the case for CVD or cancer.  #@NEW_LINE#@#  
+Our finding of large heterogeneity in the magnitude of the association between different frailty scores and all-cause mortality may be due to the number and selection of variables that make up each score, along with the weight attached to each component variable in the score calculation.  #@NEW_LINE#@#  This is expected because these scores measure different dimensions of health, are underpinned by significantly different conceptualizations of frailty, and have different objectives of application.  #@NEW_LINE#@#  Therefore, the choice of a frailty score should also take into account these other aspects such as the target population (patients or general population) and the final objective of frailty assessment (clinical evaluation, research, or public health recommendations).  #@NEW_LINE#@#  
+Interestingly, we observed that for many frailty scores, the proportional hazard assumption was not proved and the association was significantly nonuniform during follow-up time.  #@NEW_LINE#@#  In most of these cases, HRs for all-cause mortality were lowest directly after baseline and increased subsequently, but in some cases (40-item Frailty Index [FI40]), the opposite pattern was seen, with HRs that decreased over time.  #@NEW_LINE#@#  While the former set may capture information regarding underlying determinants of longer-term poor health and thus be more interesting in prognostic settings, the latter set can be hypothesized to collect information about existing health problems.  #@NEW_LINE#@#  
+To avoid overadjustment, the most adjusted models were fitted excluding variables that were underlying variables of frailty scores.  #@NEW_LINE#@#  We specifically chose these models to investigate whether the score retained an association over and above a comprehensive set of clinical indicators.  #@NEW_LINE#@#  Our observation of heterogeneity, not only in the strength of associations but also in the degree of attenuation upon the same sets of adjustments, confirms our earlier observation that different frailty scores cannot be assumed to be interchangeable.  #@NEW_LINE#@#  
+Our finding of a difference between analyses based on continuous scores and categorical classifications of frailty and pre-frailty indicates that the analysis with cutoffs may lead to a loss of information.  #@NEW_LINE#@#  This observation reflects the well-known loss of information caused by categorization of continuous variables, which assumes that the risk level is uniformly low for all below the given threshold and high for all above the threshold.  #@NEW_LINE#@#  Although the wish to provide users with a score with clear categories is understandable from a clinical point of view, it should be considered with caution due to the disadvantages.  #@NEW_LINE#@#  We have previously shown that many individuals are categorised differently by different scores [8].  #@NEW_LINE#@#  Moreover, cutoff levels derived from one population may not be applicable in another.  #@NEW_LINE#@#  
+A recent meta-analysis of 24 prospective studies, including 25 different scores, assessed the performance of frailty scores on mortality prediction and found a pooled relative risk (RR) of 1.83 (95% 1.681.98) for all-cause mortality based on binary/categorical frailty classifications in elderly populations (65 years) [7].  #@NEW_LINE#@#  The result of the meta-analysis is similar to our results in the older subgroup and in our analyses based on categorical classifications.  #@NEW_LINE#@#  The authors found high heterogeneity OR(I2 statistics heterogeneity index = 95%, p less_than 0.001) and HR/RR (I2 statistics heterogeneity index = 98%, p less_than 0.001).  #@NEW_LINE#@#  They attribute this to the different populations, monitoring periods, and concepts of frailty that were included in the meta-analysis.  #@NEW_LINE#@#  Our study is likely to have less heterogeneous results because it is an analysis in a single data set.  #@NEW_LINE#@#  
+We also found an association between different frailty scores and incident CVD.  #@NEW_LINE#@#  This was not directly expected, as frailty scores have not been designed for CVD events prediction.  #@NEW_LINE#@#  Our finding may be explained by the fact that component variables included in the frailty scores are also CVD events.  #@NEW_LINE#@#  Also, some variables are CVD symptoms and risk factors that could capture pre-existing presentations of CVD.  #@NEW_LINE#@#  Another explanation is that physicians are possibly less likely to treat CVD risk factors as aggressively in frail patients.  #@NEW_LINE#@#  In addition, frailty and CVD may share etiological pathways such as chronic low-grade inflammation [59].  #@NEW_LINE#@#  
+There are few prospective studies of the association between frailty scores and incident CVD.  #@NEW_LINE#@#  Our results expand upon the evidence summarised in a review by Chen [60], which showed a significant cross-sectional association between a binary frailty classification and prevalent CVD in several previous studies [12,26,61].  #@NEW_LINE#@#  White et al.  #@NEW_LINE#@#  reported a statistically significant association (HR: 1.8 [95% CI: 1.42.3]) during 30 months of follow-up in a study analysing the Phenotype of Frailty (PHF) score only [62].  #@NEW_LINE#@#  Finally, Afilalo et al.  #@NEW_LINE#@#  demonstrated that to add frailty and disability improves the discrimination of prediction models of mortality in cardiovascular patients [63].  #@NEW_LINE#@#  
+Frailty scores were not associated with incident cancer.  #@NEW_LINE#@#  As with CVD, frailty scores were not designed for the prediction of cancer.  #@NEW_LINE#@#  A further possible explanation is that the triggering of a cancer is a process too slow or too heterogeneous to be captured by frailty scores.  #@NEW_LINE#@#  
+We found that almost all frailty scores improved the predictive ability of a simple age- and sex-adjusted base model for all-cause mortality.  #@NEW_LINE#@#  The scores that showed statistically significant added predictive value over and above the most complete base model collect information about weight loss and assess physical functioning, important prognostic determinants, and they are based on relatively few variables, which makes them easily applicable in clinical settings.  #@NEW_LINE#@#  However, the magnitude of the added predictive value was modest (up to 3%) and might not be clinically relevant.  #@NEW_LINE#@#  This could be explained in part because the basic model (age-sex) already had a good predictive ability.  #@NEW_LINE#@#  
+Our results showed that frailty scores add predictive ability to chronological age and sex only when the outcome is mortality and are not for the prediction of incident CVD or cancer events.  #@NEW_LINE#@#  Ensrud et al.  #@NEW_LINE#@#  compared the mortality predictive ability of 2 scores, the Study of Osteoporotic Fractures (SOF) score and the PHF score, and did not find important differences in the values of the area under the curve (AUC), which were somewhat similar to those obtained by this study [64].  #@NEW_LINE#@#  Also, Sourial et al.  #@NEW_LINE#@#  observed a modest improvement in the mortality predictive ability of age-sex models, adding models including several combinations of frailty scores [65].  #@NEW_LINE#@#  
+Our results also show that frailty scores from the accumulation of deficit and multidimensional families have stronger associations with mortality compared with the phenotype of frailty and disability families.  #@NEW_LINE#@#  In their meta-analysis, Vermeiren et al.  #@NEW_LINE#@#  did not report differences in the magnitude of the associations using different frailty approaches [7].  #@NEW_LINE#@#  Our study has the clear advantage of making a direct comparison of the predictive performance of the different scores in the same population.  #@NEW_LINE#@#  
+Strengths_and_limitations  #@NEW_LINE#@#  
+Our study has several strengths.  #@NEW_LINE#@#  The large set of scores included allows for the comparison between families of scores as well as between individual scores.  #@NEW_LINE#@#  
+We performed state-of-the-art multiple imputation to deal with missing data, thereby making optimal use of the available events and follow-up time.  #@NEW_LINE#@#  We decided to impute underlying variables into their more basic form, which means that we imputed binary, categorical, and continuous variables with different models.  #@NEW_LINE#@#  Continuous variables were not categorised.  #@NEW_LINE#@#  The goal was to obtain the most plausible values of frailty scores without losing information.  #@NEW_LINE#@#  We are convinced that frailty scores with underlying imputed variables give less biased results and increase statistical power and accuracy.  #@NEW_LINE#@#  With frailty scores that have missing values for some underlying variables, it is likely that a lot of information will be lost.  #@NEW_LINE#@#  In addition, when some variables have missing data, we cannot rule out a missing at random mechanism.  #@NEW_LINE#@#  For example, a missing physical examination may be observed more frequently in a frail participant, because he could reject the test for fear of falling.  #@NEW_LINE#@#  There is strong evidence of the need to impute missing data, especially when the missing mechanism is not totally at random [66].  #@NEW_LINE#@#  
+In addition, our results fill a gap especially concerning the scarce information about the relationship between frailty scores and incident CVD and cancer.  #@NEW_LINE#@#  The results of this study are directly applicable to the general elderly English population and are probably also generalizable to similar populations in other European countries.  #@NEW_LINE#@#  
+A limitation of our analysis was that we had to tailor some variables to calculate certain frailty scores.  #@NEW_LINE#@#  We based this adaptation on published studies when possible.  #@NEW_LINE#@#  Another important limitation was the different follow-up duration for total mortality compared to CVD and cancer.  #@NEW_LINE#@#  Almost 100% of ELSA participants were followed for all-cause mortality based on reliable and objective mortality registries.  #@NEW_LINE#@#  In contrast, more participants were lost to follow-up with regard to CVD and cancer end points.  #@NEW_LINE#@#  This could be a source of bias if loss to follow-up was associated both with frailty and with the two outcomes, because participants who were lost to follow-up could be precisely those who experienced a cardiovascular or cancer event.  #@NEW_LINE#@#  Also, the ascertainment of CVD and cancer was based on self-reports, possibly leading to misclassification due to differential recall.  #@NEW_LINE#@#  However, in both cases, the most likely impact of these sources of selection would be an underestimation of a true effect rather than identification of a spurious association.  #@NEW_LINE#@#  Finally, while the ELSA study is a rich source of data and well suited to the study of frailty, we performed a secondary data analysis, which meant that we had to adapt our data analysis to the existing data.  #@NEW_LINE#@#  
+The best performing scores for all-cause mortality using the continuous analysis were multidimensional and accumulation of deficit approach.  #@NEW_LINE#@#  The multidimensional scores can have few variables, and in consequence, they are easy to apply in a clinical setting.  #@NEW_LINE#@#  These scores are tailored to capture features related to ill-health in later life over and above the obvious things we can obtain from a simple clinical history, such as polymedication, weight loss, depression symptoms, cognition, and self-reported health.  #@NEW_LINE#@#  Based on our data, we think that the isolated presence of comorbidity and/or polypharmacy is not enough to evaluate the presence of frailty, which means it is also necessary to measure physical and/or cognitive function.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+It seems that while some scores can be regarded as a simple summary indicator for known risk factors, other scores capture other important information, such as self-reported health, medications, cognition, and disability.  #@NEW_LINE#@#  In our analysis of frailty categories, the best performing scores included physical functioning assessment.  #@NEW_LINE#@#  Overall, we found that multidimensional frailty scores have the strongest association and largest additional predictive performance for mortality outcomes.  #@NEW_LINE#@#  
+Frailty scores could have been considered clinically useful tools for identifying patients at higher risk of imminent death.  #@NEW_LINE#@#  However, the observed additional predictive ability for all-cause mortality is low, which reduces their clinical value for separating individuals who will experience from those who will not experience the outcome.  #@NEW_LINE#@#  
+There are marked differences between scores with regard to their complexity as well as strength and stability of association, with all-cause mortality probably due to a great heterogeneity in the conception of different scores.  #@NEW_LINE#@#  This means that users of frailty scores should carefully balance the feasibility of measurement with a scores performance.  #@NEW_LINE#@#  Our results provide evidence to guide clinicians, researchers, and public health practitioners in striking this balance.  #@NEW_LINE#@#  
+We think that future research should focus on the study of the trajectories of frailty scores.  #@NEW_LINE#@#  Frailty should be assessed with the most adapted instrument for this purpose.  #@NEW_LINE#@#  This approach could help identify individuals or characteristics of frailty early in time to establish useful interventions in patients and/or the general population.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Text_STROBE_checklist  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_Adjustment_covariates_for_model_3  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Mortality_hazard_ratios_of_frailty_scores_assessed_in_intervals_from_1_to_7_years__Age-adjusted_model_and_continuous_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Mortality_hazard_ratios_of_frailty_scores_assessed_in_intervals_from_1_to_7_years__Age-adjusted_model_and_categorical_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Cardiovascular_events_hazard_ratios_of_frailty_scores_(n_=_4_554)_calculated_at_median_time_follow-up_(25_years)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Cardiovascular_hazard_ratios_of_frailty_scores_assessed_in_intervals_from_1_to_7_years__Age-adjusted_model_and_continuous_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Table_Cardiovascular_hazard_ratios_of_frailty_scores_assessed_in_intervals_from_1_to_7_years__Age-adjusted_model_and_categorical_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Table_Cancer_hazard_ratios_of_frailty_scores_(n_=_4_792)_calculated_at_median_time_follow-up_(25_years)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S8_Table_Cancer_hazard_ratios_of_frailty_scores_assessed_in_intervals_from_1_to_7_years__Age-adjusted_model_and_continuous_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s009  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S9_Table_Cancer_hazard_ratios_of_frailty_scores_assessed_in_intervals_from_1_to_7_years__Age-adjusted_model_and_categorical_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s010  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S10_Table_Discriminative_assessment_of_cardiovascular_models_using_Harrell's_C_statistic_(n_=_4_554)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s011  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S11_Table_Discriminative_assessment_of_cancer_models_using_Harrell's_C_statistic_(n_=_4_792)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s012  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S12_Table_Sensitivity_analysis__Mortality_hazard_ratios_of_frailty_scores_(n_=_5_253)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s013  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S13_Table_Mortality_hazard_ratios_of_frailty_scores_in_men_(n_=_2_377)_calculated_at_median_time_follow-up_(35_years)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s014  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S14_Table_Mortality_hazard_ratios_of_frailty_scores_in_women_(n_=_2_917)_calculated_at_median_time_follow-up_(35_years)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s015  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S15_Table_Mortality_hazard_ratios_of_frailty_scores_in_participants_older_than_70_years_(n_=_2_536)_calculated_at_median_time_follow-up_(35_years)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s016  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S16_Table_Mortality_hazard_ratios_of_frailty_scores_in_participants_of_70_years_and_younger_(n_=_2_758)_calculated_at_median_time_follow-up_(35_years)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002543.s017  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We thank Professor Stephen Senn and François Fays for their contributions to this study.  #@NEW_LINE#@#  
+We gratefully acknowledge the UK Data Archive for supplying the ELSA data.  #@NEW_LINE#@#  ELSA was developed by a team of researchers based at University College London, the Institute of Fiscal Studies, and the National Centre for Social Research.  #@NEW_LINE#@#  
+The data creators or the funders of the data collections and the UK Data Archive do not bear any responsibility for the analyses or interpretations presented here.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

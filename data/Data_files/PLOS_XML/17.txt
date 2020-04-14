@@ -1,0 +1,15 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0138164"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Correction: Postnatal Environmental Tobacco Smoke Exposure Related to Behavioral Problems in Children  #@NEW_LINE#@#  
+
+The third and fifth authors names are incorrectly spelled.  #@NEW_LINE#@#  The correct names are: Jean Sébastien Cadwallader and John L Dywer.  #@NEW_LINE#@#  The correct citation is: Chastang J, Baïz N, Cadwallader JS, Robert S, Dywer JL, Charpin DA, et al.  #@NEW_LINE#@#  (2015) Postnatal Environmental Tobacco Smoke Exposure Related to Behavioral Problems in Children.  #@NEW_LINE#@#  PLoS ONE 10(8): e0133604.  #@NEW_LINE#@#  doi: 10.1371/journal.pone.0133604  #@NEW_LINE#@#  
+Reference  #@NEW_LINE#@#  
+
+Citation: Chastang J, Baïz N, Cadwallader JS, Robert S, Dywer JL, Charpin DA, et al.  #@NEW_LINE#@#  (2015) Correction: Postnatal Environmental Tobacco Smoke Exposure Related to Behavioral Problems in Children.  #@NEW_LINE#@#  PLoS ONE 10(9):  #@NEW_LINE#@#  
+           e0138164.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0138164  #@NEW_LINE#@#  
+Published:  September 9, 2015  #@NEW_LINE#@#  
+Copyright:  © 2015 Chastang et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited  #@NEW_LINE#@#  
+
+

@@ -1,0 +1,33 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002549"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Preprints: An underutilized mechanism to accelerate outbreak science  #@NEW_LINE#@#  
+
+Citation: Johansson MA, Reich NG, Meyers LA, Lipsitch M (2018) Preprints: An underutilized mechanism to accelerate outbreak science.  #@NEW_LINE#@#  PLoS Med 15(4):  #@NEW_LINE#@#  
+           e1002549.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002549  #@NEW_LINE#@#  
+Published:  April 3, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Johansson et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Funding: Outbreak Science is a 501(c)(3) nonprofit.  #@NEW_LINE#@#  The authors received no specific funding for this work.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Provenance: Not commissioned; externally peer-reviewed.  #@NEW_LINE#@#  
+Panels A (Zika) and B (Ebola) show the total number of newly posted preprints (arXiv, bioRxiv, F1000Research, PeerJ Preprints, or World Health Organization Zika Open) and journal articles (PubMed indexed) by month.  #@NEW_LINE#@#  Dates were the initial submission date for preprints and the journal publication date for PubMed (or the PubMed entry creation date if a specific journal publication date was not supplied).  #@NEW_LINE#@#  Panels C (Zika) and D (Ebola) show the number of preprints and publications by publisher for each of the publishers who were signatories to the data sharing statement ordered by the proportion of publications with a matched Zika preprint.  #@NEW_LINE#@#  Publisher abbreviations: BMJ, The British Medical Journal; F1000, Faculty of 1000; Fiocruz, Fundação Oswaldo Cruz; JAMA, The Journal of the American Medical Association Network; NEJM, The New England Journal of Medicine; PLOS, Public Library of Science; Science, Science Journals; Spr.  #@NEW_LINE#@#  Nat., Springer Nature; WHO, Bulletin of the World Health Organization.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002549.g001  #@NEW_LINE#@#  
+Supporting_information  #@NEW_LINE#@#  
+S1_Dataset_Data_on_preprints_included_in_the_analysis  #@NEW_LINE#@#  
+preprint_date is the initial preprint submission date from the respective repository.  #@NEW_LINE#@#  pmid is the PubMed identification number the preprint was matched to (if matched).  #@NEW_LINE#@#  journal and pub_type are from the PubMed entry.  #@NEW_LINE#@#  publisher indicates the publisher if the publisher signed the data sharing statement.  #@NEW_LINE#@#  new_data and new_analysis indicate whether the authors judged the manuscript to contain new data or analysis, respectively (1 = True).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002549.s001  #@NEW_LINE#@#  
+(CSV)  #@NEW_LINE#@#  
+
+S2_Dataset_Data_on_PubMed_journal_articles_included_in_the_analysis  #@NEW_LINE#@#  
+pub_date is the journal publication date as indicated by PubMed or the entry creation date if a specific journal publication date was not supplied.  #@NEW_LINE#@#  pmid and journal are the PubMed identification number and journal indicated by PubMed for the article.  #@NEW_LINE#@#  publisher indicates the publisher if the publisher signed the data sharing statement.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002549.s002  #@NEW_LINE#@#  
+(CSV)  #@NEW_LINE#@#  
+
+
+References  #@NEW_LINE#@#  
+
+
+

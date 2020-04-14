@@ -1,0 +1,214 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002615"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Neurodevelopmental disorders in children aged 29 years: Population-based burden estimates across five regions in India  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Neurodevelopmental disorders (NDDs) compromise the development and attainment of full social and economic potential at individual, family, community, and country levels.  #@NEW_LINE#@#  Paucity of data on NDDs slows down policy and programmatic action in most developing countries despite perceived high burden.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+We assessed 3,964 children (with almost equal number of boys and girls distributed in 2less_than6 and 69 year age categories) identified from five geographically diverse populations in India using cluster sampling technique (probability proportionate to population size).  #@NEW_LINE#@#  These were from the North-Central, i.e., Palwal (N = 998; all rural, 16.4% non-Hindu, 25.3% from scheduled caste/tribe [SC-ST] [these are considered underserved communities who are eligible for affirmative action]); North, i.e., Kangra (N = 997; 91.6% rural, 3.7% non-Hindu, 25.3% SC-ST); East, i.e., Dhenkanal (N = 981; 89.8% rural, 1.2% non-Hindu, 38.0% SC-ST); South, i.e., Hyderabad (N = 495; all urban, 25.7% non-Hindu, 27.3% SC-ST) and West, i.e., North Goa (N = 493; 68.0% rural, 11.4% non-Hindu, 18.5% SC-ST).  #@NEW_LINE#@#  All children were assessed for vision impairment (VI), epilepsy (Epi), neuromotor impairments including cerebral palsy (NMI-CP), hearing impairment (HI), speech and language disorders, autism spectrum disorders (ASDs), and intellectual disability (ID).  #@NEW_LINE#@#  Furthermore, 69-year-old children were also assessed for attention deficit hyperactivity disorder (ADHD) and learning disorders (LDs).  #@NEW_LINE#@#  We standardized sample characteristics as per Census of India 2011 to arrive at district level and all-sites-pooled estimates.  #@NEW_LINE#@#  Site-specific prevalence of any of seven NDDs in 2less_than6 year olds ranged from 2.9% (95% CI 1.65.5) to 18.7% (95% CI 14.723.6), and for any of nine NDDs in the 69-year-old children, from 6.5% (95% CI 4.69.1) to 18.5% (95% CI 15.322.3).  #@NEW_LINE#@#  Two or more NDDs were present in 0.4% (95% CI 0.11.7) to 4.3% (95% CI 2.28.2) in the younger age category and 0.7% (95% CI 0.22.0) to 5.3% (95% CI 3.38.2) in the older age category.  #@NEW_LINE#@#  All-site-pooled estimates for NDDs were 9.2% (95% CI 7.511.2) and 13.6% (95% CI 11.316.2) in children of 2less_than6 and 69 year age categories, respectively, without significant difference according to gender, rural/urban residence, or religion; almost one-fifth of these children had more than one NDD.  #@NEW_LINE#@#  The pooled estimates for prevalence increased by up to three percentage points when these were adjusted for national rates of stunting or low birth weight (LBW).  #@NEW_LINE#@#  HI, ID, speech and language disorders, Epi, and LDs were the common NDDs across sites.  #@NEW_LINE#@#  Upon risk modelling, noninstitutional delivery, history of perinatal asphyxia, neonatal illness, postnatal neurological/brain infections, stunting, LBW/prematurity, and older age category (69 year) were significantly associated with NDDs.  #@NEW_LINE#@#  The study sample was underrepresentative of stunting and LBW and had a 15.6% refusal.  #@NEW_LINE#@#  These factors could be contributing to underestimation of the true NDD burden in our population.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+The study identifies NDDs in children aged 29 years as a significant public health burden for India.  #@NEW_LINE#@#  HI was higher than and ASD prevalence comparable to the published global literature.  #@NEW_LINE#@#  Most risk factors of NDDs were modifiable and amenable to public health interventions.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Arora NK, Nair MKC, Gulati S, Deshmukh V, Mohapatra A, Mishra D, et al.  #@NEW_LINE#@#  (2018) Neurodevelopmental disorders in children aged 29 years: Population-based burden estimates across five regions in India.  #@NEW_LINE#@#  PLoS Med 15(7):  #@NEW_LINE#@#  
+           e1002615.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002615  #@NEW_LINE#@#  
+Academic Editor: Lars Åke Persson, London School of Hygiene and Tropical Medicine, UNITED KINGDOM  #@NEW_LINE#@#  
+Received: January 15, 2018; Accepted: June 15, 2018; Published:  July 24, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Arora et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  For need of any additional data, please contact the INCLEN Data Access Committee (IDAC).  #@NEW_LINE#@#  The IDAC is headed by Brigadier (Retd.)  #@NEW_LINE#@#  VK Panday, Chief Operations Officer (vk.panday@inclentrust.org); other members in the committee are: Dr Ramesh Poluru, Senior Program Officer  Biostatistics (ramesh.poluru@inclentrust.org), Dr Rupak Mukhopadhyay, Senior Program Officer- Demographic Surveillance (rupak@inclentrust.org) and Mr Neeraj K Kashyap, Program Officer- IT & Data Science (neeraj.kashyap@inclentrust.org).  #@NEW_LINE#@#  
+Funding: This work was supported by The National Institutes of Health, USA [NIH 1R21HD5305701A1] through Fogarty International Center (FIH), Autism Speaks (USA), and The National Trust, Ministry of Social Justice and Empowerment, Government of India.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          ADHD,  #@NEW_LINE#@#  
+            attention deficit hyperactivity disorder; AOR,  #@NEW_LINE#@#  
+            adjusted odds ratio; ASD,  #@NEW_LINE#@#  
+            autism spectrum disorder; CAB,  #@NEW_LINE#@#  
+            child assessment booklet; CDD,  #@NEW_LINE#@#  
+            childhood disintegrative disorder; CI,  #@NEW_LINE#@#  
+            confidence interval; CP,  #@NEW_LINE#@#  
+            celebral palsy; DSM-IV-TR,  #@NEW_LINE#@#  
+            Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision; Epi,  #@NEW_LINE#@#  
+            epilepsy; GLAD,  #@NEW_LINE#@#  
+            Grade Level Assessment Device; HI,  #@NEW_LINE#@#  
+            hearing impairment; ID,  #@NEW_LINE#@#  
+            intellectual disability; INDTASD,  #@NEW_LINE#@#  
+            INCLEN Diagnostic Tool for Autism Spectrum Disorders; INDTEPI,  #@NEW_LINE#@#  
+            INCLEN Diagnostic Tool for Epilepsy; INDTNMI,  #@NEW_LINE#@#  
+            INCLEN Diagnostic Tool for NeuroMotor Impairments; IQ,  #@NEW_LINE#@#  
+            intelligence quotient; LBW,  #@NEW_LINE#@#  
+            low birth weight; LD,  #@NEW_LINE#@#  
+            learning disorder; LMIC,  #@NEW_LINE#@#  
+            low- and middle-income country; LPT,  #@NEW_LINE#@#  
+            linguistic profile test; NDD,  #@NEW_LINE#@#  
+            neurodevelopmental disorder; NFHS-3,  #@NEW_LINE#@#  
+            National Family Health Survey-3; NMD,  #@NEW_LINE#@#  
+            neuromuscular disorder; NMI-CP,  #@NEW_LINE#@#  
+            neuromotor impairments including cerebral palsy; OAE,  #@NEW_LINE#@#  
+            oto-acoustic emission; PAF,  #@NEW_LINE#@#  
+            population attributable fraction; PDD-NOS,  #@NEW_LINE#@#  
+            pervasive developmental disorder not otherwise specified; PPS,  #@NEW_LINE#@#  
+            probability proportionate to population size; SC-ST,  #@NEW_LINE#@#  
+            scheduled caste/tribe; SLI,  #@NEW_LINE#@#  
+            Standard of Living Index; SQ,  #@NEW_LINE#@#  
+            social quotient; STROBE,  #@NEW_LINE#@#  
+            Strengthening the Reporting of Observational Studies in Epidemiology; TAG,  #@NEW_LINE#@#  
+            Technical Advisory Group; TQ,  #@NEW_LINE#@#  
+            Ten Questions; UHC,  #@NEW_LINE#@#  
+            Universal Health Care; VI,  #@NEW_LINE#@#  
+            vision impairment; VSMS,  #@NEW_LINE#@#  
+            Vineland Social Maturity Scale; WMA,  #@NEW_LINE#@#  
+            World Medical Association  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Neurodevelopment is a dynamic inter-relationship between genetic, brain, cognitive, emotional and behavioural processes across the developmental lifespan.  #@NEW_LINE#@#  Significant and persistent disruption to this dynamic process through environmental and genetic risk can lead to neurodevelopmental disorders and disability [1].  #@NEW_LINE#@#  Low-income communities and children living in poverty are disproportionately affected by NDDs [2].  #@NEW_LINE#@#  Communities most vulnerable to NDDs often lack disease burden estimates to formulate policy decisions and implement programs to address NDDs [3].  #@NEW_LINE#@#  To better understand the spectrum of childhood NDDs, there is a need to utilize valid and practical screening methodologies based on globally accepted disease definitions [4].  #@NEW_LINE#@#  To date, global health policy makers have relied on national census disability data, even though such an approach grossly underestimates disability prevalence in children [5].  #@NEW_LINE#@#  Censuses usually restrict themselves to the identification of gross and visible disabilities only and utilize nonspecialized assessors and diagnostic tools [5,6].  #@NEW_LINE#@#  Global and societal leaders have urged that nations promote awareness of children with disabilities and advocate for their healthcare services [3].  #@NEW_LINE#@#  The United Nations General Assembly [7] and Agenda for Sustainable Development [8] consider childhood disability an integral part of the global development agenda and promote the use of evidences that address national and regional contexts and are disaggregated by gender and age.  #@NEW_LINE#@#  
+India has the worlds largest birth cohort (about 26 million) and is experiencing dynamic improvements in both infant and child survival [9,10].  #@NEW_LINE#@#  The neonatal, infant and under-five mortality rates in India have shown significant decline during the last decade; improved survival of children and infants with high risk for NDDs is likely to result in higher community prevalence, lest interventions are instituted concomitantly [1113].  #@NEW_LINE#@#  To address the challenge of inadequate data, we convened a series of working groups to design and conduct a study of population-level prevalence of childhood NDDs in India through a transdisciplinary approach.  #@NEW_LINE#@#  Our aim was to determine the prevalence of NDDs among children aged 29 years in India and identify potential demographic and individual risk factors that could be applied at the national level.  #@NEW_LINE#@#  We decided to assess these children for nine common NDDs: vision impairment (VI), epilepsy (Epi), neuromotor impairments including cerebral palsy (NMI-CP), hearing impairment (HI), speech and language disorders, autism spectrum disorders (ASDs), intellectual disability (ID), attention deficit hyperactivity disorder (ADHD), and learning disorders (LDs).  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+We have reported this study as per the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines (S1 STROBE Checklist).  #@NEW_LINE#@#  
+Study_design  #@NEW_LINE#@#  
+We conducted a cross-sectional survey at five sites in India.Within each site, we used probability proportionate to population size (PPS) cluster sampling to select households for the survey.  #@NEW_LINE#@#  
+
+Investigator_group  #@NEW_LINE#@#  
+A Technical Advisory Group (TAG) comprising 55 transdisciplinary experts (51 from India and four from the United States of America) provided guidance and oversight throughout the project.  #@NEW_LINE#@#  The TAG included experts in paediatrics (paediatric neurology, developmental paediatrics, general paediatrics), epidemiology, public health, social science, biostatistics, child psychology, oto-rhino-laryngology, ophthalmology, and child psychiatry from 18 institutions.  #@NEW_LINE#@#  The central coordinating office for the study was located at the INCLEN Executive Office in New Delhi.  #@NEW_LINE#@#  
+
+Settings  #@NEW_LINE#@#  
+Considering the major geographic (North, South, East, West), demographic, sociocultural and topographic (hilly terrain, plains, coastal regions) population heterogeneity in India, we selected one district each from five states across the country with the following characteristics: Kangra in Himachal Pradesh (Northern India; Himalayan terrain; altitude ranges from 427 to 6,401 metres; population: 94.3% rural; literacy: 85.7%); Palwal in Haryana (North-Central India; plains; population: 77.3% rural; literacy: 69.3%); Dhenkanal in Odisha (Eastern India; plains; population: 14.0% tribal, 90.0% rural; literacy: 70.6%); Hyderabad in erstwhile Andhra Pradesh (now Telangana) (Southern India; plains; population: 100.0% urban; literacy: 83.3%); and North Goa (West India; coastal; population: 59.9% urban; literacy: 90.7%) (demographic details taken from Census of India, 2011) [14].  #@NEW_LINE#@#  The technical capacity of the potential collaborators and availability of infrastructural facilities and logistical support also contributed to decisions regarding site selection.  #@NEW_LINE#@#  Villages and municipal wards as listed in the Census register (Census of India, 2011) were the primary sampling units to select clusters of rural and urban areas, respectively.  #@NEW_LINE#@#  Fifty clusters were identified at three sites.  #@NEW_LINE#@#  At Hyderabad and North Goa sites, only 25 clusters were drawn due to limited finance availability.  #@NEW_LINE#@#  In total (five sites pooled), we surveyed 200 clusters (42 urban and 158 rural).  #@NEW_LINE#@#  The data was collected between 5 December 2011 and 27 September 2012.  #@NEW_LINE#@#  
+
+Participants_and_recruitment  #@NEW_LINE#@#  
+An eligible participant was defined as a child in the age range of 29 years (24119 months) in the household.  #@NEW_LINE#@#  We requested the parent(s)/legal guardian(s) to provide written informed consent for participation in the study and to visit the study clinic for the diagnostic work-up of the child.  #@NEW_LINE#@#  We recruited 20 participantsfive boys and five girls each from the age categories 2less_than6 years and 69 yearsin every cluster.  #@NEW_LINE#@#  A landmark located centrally in the cluster (e.g., temple, mosque, church, market place, panchayat office, central place) was identified with the help of local people.  #@NEW_LINE#@#  The clusters were virtually divided into two halves, for enrolling boys from one half and girls from the other.  #@NEW_LINE#@#  The direction for enumeration and choice of the first household of each half of the cluster was decided through a random number.  #@NEW_LINE#@#  For households with more than one eligible child, we recruited the eldest child in the even-numbered clusters and the youngest child in odd-numbered clusters.  #@NEW_LINE#@#  One of the parents of the child was the preferred respondent.  #@NEW_LINE#@#  Children who dropped out from diagnostic assessment after initial enrolment were replaced from the same cluster (matched for age category and gender) by continuing enumeration of consecutive households.  #@NEW_LINE#@#  
+Two research teams were engaged for data collection at each site: (a) the field team comprising one physician and two social scientists, and (b) the diagnostic team comprising one physician, one audiologist/speech therapist, and two psychologists.  #@NEW_LINE#@#  The field teams identified the eligible participants, obtained consent, collected information on demographic characteristics including socioeconomic variables and risk factor variables at the participants residence, and thereafter mobilized them to the partner institution (tertiary care hospital) study clinic for detailed NDD work-up.  #@NEW_LINE#@#  At the hospital, under the supervision of the site investigators, members of the diagnostic team conducted the following: (i) physician assessments for VI, Epi, and NMI-CP; (ii) audiologist/speech therapist assessment for HI and speech and language disorders; and (iii) psychologist assessment for ASD, ID, ADHD, and LD.  #@NEW_LINE#@#  
+
+Training_of_the_research_teams  #@NEW_LINE#@#  
+The TAG prepared standard operating procedures and training modules for the research teams.  #@NEW_LINE#@#  Three-day structured training programs were conducted by a team of four multidisciplinary TAG members at partner hospitals for both field and diagnostic teams; 50% training time was allocated for hands-on activities in the field.  #@NEW_LINE#@#  Thereafter, one quality assurance visit per site by the TAG members was organized (all within eight weeks of starting the field work) to ensure adherence to the assessment protocols.  #@NEW_LINE#@#  Additionally, the central coordinating site conducted teleconferences with the site teams each time they completed data collection from two clusters.  #@NEW_LINE#@#  
+
+Study_variables_and_measurement  #@NEW_LINE#@#  
+Personal details and information on sociodemographic variables, asset variables for Standard of Living Index (SLI), and biological and nutritional risk factor variables relevant for NDDs were obtained for study participants.  #@NEW_LINE#@#  At the study clinics, every participant was assessed for NDDs as per the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) guidelines.  #@NEW_LINE#@#  Prior validation, reported use among Indian participants, and feasibility of application in community settings were the criteria used by the TAG for zeroing in on the instruments used in the study (Table 1).  #@NEW_LINE#@#  As diagnostic tools for Epi, NMI-CP, ASD, and ADHD satisfying the above criteria were not available, the INCLEN investigator team developed culturally adapted and context-relevant diagnostic tools for these four conditions and validated them against globally established guidelines and tools [1518].  #@NEW_LINE#@#  The instruments and examination formats for the NDDs were compiled into a child assessment booklet (CAB) and applied consistently on all participants across the study sites.  #@NEW_LINE#@#  NDD evaluations followed a specific algorithm to determine the clinical diagnosis.  #@NEW_LINE#@#  Since ADHD and LD could be assessed only in older children (69-year-olds), the younger study participants (2less_than6-year-olds) were assessed for seven NDDs, and children aged 69 years were assessed for all nine NDDs.  #@NEW_LINE#@#  A subcommittee of the TAG reviewed the data for resolution of diagnostic ambiguity.  #@NEW_LINE#@#  
+
+Sample_size  #@NEW_LINE#@#  
+Based on previous NDD prevalence reports from South Asian countries [28], we assumed that about 10% of children aged 29 years could have at least one NDD.  #@NEW_LINE#@#  For an admissible absolute error of ±2% at 95% confidence level, we arrived at the sample size of 864 participants per site.  #@NEW_LINE#@#  Taking into account potential nonresponses and operational feasibility issues, 1,000 children were enrolled per site.  #@NEW_LINE#@#  Due to paucity of resources and personnel, we reduced the sample size to half at two sites (Hyderabad and North Goa); this increased the admissible absolute error to ±2.65% for these sites.  #@NEW_LINE#@#  
+
+Analysis  #@NEW_LINE#@#  
+For analysis, we used Microsoft Excel 2010 and STATA v12.0 [29].  #@NEW_LINE#@#  Our analysis was guided by a prospectively written statistical analysis plan at the time of preparation of this proposal for funding (S1 Text).  #@NEW_LINE#@#  Nutritional status of participants (somatic measurements) was adjusted for WHO Z-scores using WHO AnthroPlus software [30].We computed the SLI score for every participant household, assigning scores for assets and household characteristics as per National Family Health Survey-3 (NFHS-3) 20052006 (Demographic and Health Survey for India3rd Round) [31] and, using NFHS-3 state-specific cutoffs, assigned quintile status to each household.  #@NEW_LINE#@#  Thus, we generated both SLI scores and quintile statuses for the participants.  #@NEW_LINE#@#  The study population was stratified according to age category (2less_than6-year-old and 6-9-year-old), gender (boy/girl), place of residence (rural/urban), and religion (Hindu/non-Hindu) and standardized for these variables as per Census of India 2011 to arrive at respective district level estimates.  #@NEW_LINE#@#  The data from the five sites was pooled and weighed against Census 2011 population figures aggregated from respective districts for age, gender, place of residence (rural/urban), and religion (Hindu/non-Hindu).  #@NEW_LINE#@#  As Census counts were not available according to nutritional status of individuals, standardizing for stunting and low birth weight (LBW) could not be done.  #@NEW_LINE#@#  
+The complex survey module of STATA (SVYSET and SVY) was used for estimating the prevalence and risk factors.  #@NEW_LINE#@#  
+
+Data_cleaning_and_processing  #@NEW_LINE#@#  
+All CABs were scrutinized at two levels: by the research teams and the site investigators for consistency and completeness of diagnostic assignment and again at the central coordinating office.  #@NEW_LINE#@#  Discrepancies discovered at central coordinating office were resolved through communication with the site investigators (weekly teleconference) and TAG review (quality assurance site visits and reviewing of CAB by TAG subcommittee).  #@NEW_LINE#@#  TAG members rechecked the diagnostic assignment in 10% of CABs of participants (chosen randomly) with NDD and an equal number without NDD and did complete review of all participants labelled as indeterminate.  #@NEW_LINE#@#  
+
+Consent  #@NEW_LINE#@#  
+Informed written consent was solicited from parents/guardian of the children prior to inclusion in the study.  #@NEW_LINE#@#  
+
+Ethics_considerations  #@NEW_LINE#@#  
+Ethics approval was obtained from the institutional review boards of India-CLEN (Indian Network of INCLEN) and the participating sites.  #@NEW_LINE#@#  The study was conducted in compliance with the World Medical Association (WMA) Declaration of Helsinki [34].  #@NEW_LINE#@#  Children identified with any NDD and/ or other medical conditions during the course of the study were referred to the nearest appropriate tertiary care centre for management and followed up with due counselling.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Table 2 illustrates the study recruitment profile for each site.  #@NEW_LINE#@#  Overall, the field teams approached families of 4,739 children, of which 739 (15.6%) refused to participate.  #@NEW_LINE#@#  After enrolling the targeted 4,000 children, 181 (4.5%) refused to complete diagnostic assessment, of which 158 (4.0%) could be replaced with age category and gender-matched children from the same cluster.  #@NEW_LINE#@#  Post hoc analyses revealed that dropouts and their replacements also matched for anthropometric measurements and sociodemographic characteristics (S1 Table).  #@NEW_LINE#@#  The NDD assessment could be done in 3,977 children (83.9% of the total approached; 99.4% of those enrolled).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002615.t002  #@NEW_LINE#@#  
+During data review at the central coordinating office, errors in score computation done at field sites were corrected in 358 out of 3,977 records (9%); 179 (4.5%) CABs were returned to the primary site for completion, and all were obtained back.  #@NEW_LINE#@#  For quality assurance, the TAG reviewed 50 random CABs per site for cases labelled with or without NDD, respectively, and found no disagreements.  #@NEW_LINE#@#  The TAG reviewed an additional 174 CABs labelled as indeterminate; of these, a definitive diagnosis was made in 161, and the remaining 13 were excluded (due to incomplete information) from the study analysis, leaving a final number of 3,964 participants (2,006 boys and 1,958 girls) for analysis.The background characteristics of study participants are summarized in Table 3.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002615.t003  #@NEW_LINE#@#  
+Prevalence_of_NDDs  #@NEW_LINE#@#  
+Overall, we found 475 of 3,964 children (between the ages of 2 and 9 years) had at least one NDD (12.0% [95% CI 11.0%13.0%]).  #@NEW_LINE#@#  Among children with NDDs, 21.7% (95% CI 18.1%25.7%) had two or more NDDs; children with ASD (79.6%), NMI-CP (74.2%), ID (56.9%), and Epi (55.1%) most frequently had coexisting NDD(s) (S2 Table).  #@NEW_LINE#@#  The district level prevalence estimates for NDDs across the five sites, upon weighing for age category, gender, place of residence (rural/urban), and religion (Hindu/non-Hindu) as per Census 2011, is provided in Table 4.  #@NEW_LINE#@#  There was site-specific variation in the prevalence: Dhenkanal had the lowest and Palwal the highest prevalence of NDDs.  #@NEW_LINE#@#  HI, ID, speech and language disorders, Epi, and LDs were among the most common NDDs across the sites.  #@NEW_LINE#@#  
+There were no significant differences in the all-sites-pooled data for gender, place of residence, and religion weighed as per Census 2011: prevalence among boys 12.4% (95% CI 10.2%15.0%) versus 10.2% (95% CI 8.4%12.2%) in girls (p = 0.146); rural areas 12.6% (95% CI 11.4%13.9%) versus 10.1% (95% CI 7.9%12.8%) from urban areas (p = 0.085); and in non-Hindu families 11.7% (95% CI 8.5%15.9%) versus those from Hindu families 11.0% (95% CI 9.7%12.5%) (p = 0.727).  #@NEW_LINE#@#  
+
+Risk_factors_analysis  #@NEW_LINE#@#  
+S3 Table enlists risk factor information for the study participants with and without NDDs.  #@NEW_LINE#@#  Table 5 provides the independent risk factors in the multivariable regression model: noninstitutional delivery, history of perinatal asphyxia, history of neonatal illness, postnatal neurological (brain) infections, stunting, LBW (less_than2.5 kg)/prematurity (gestation less_than37 weeks), and older (69 years) age category were statistically significantly associated with any NDD.  #@NEW_LINE#@#  The PAF was 36.8% (95% CI 27.2%45.1%) for modifiable and statistically significant risk factors.  #@NEW_LINE#@#  We also undertook multivariable analysis for identifying risk factors for specific NDDs (S4 Table).  #@NEW_LINE#@#  The risk factors for any NDD were variably present with specific NDDs as well.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+The study reports the prevalence of NDDs in children aged 2 to 9 years obtained through a population-based, multisite survey across five regions in India.  #@NEW_LINE#@#  The prevalence of NDDs varied across the five study sites despite using the same diagnostic tools with application of consistent methodology and training for the assessors.  #@NEW_LINE#@#  NDD prevalence might truly vary across regions, particularly in a large country like India, due to heterogenous distribution of risk factors and biological factors, if any.  #@NEW_LINE#@#  Dhenkanal, situated in central Odisha, with a sizeable tribal population, has high under-five mortality rate (80 per 1,000 live births) [35] and is endemic for hemoglobinopathies [36] and cerebral malaria (cerebral malaria in Odisha has up to six times higher risk of mortality among children) [37,38].  #@NEW_LINE#@#  It has been reported that the risk of mortality in children with NDDs may be high in environments of poor economic development, weak health systems, and high child mortality [4,39].  #@NEW_LINE#@#  The higher prevalence of HI in Palwal contributed to a higher overall prevalence of NDD in this site over others.  #@NEW_LINE#@#  According to an earlier study, repeated respiratory infections and high rates of chronic suppurative otitis media were associated with a high rate of deafness in 515-year-old children in the area [40].  #@NEW_LINE#@#  
+Literature suggests that the prevalence of NDDs and their profiles vary considerably within and between geographies [4,4145]; this has commonly been attributed to methodological variability [4] but can also be seen in studies that used common diagnostic tools and criteria and common data collection methods across sites.  #@NEW_LINE#@#  For example, based on parent-reported diagnosis, Boyle and colleagues [46] reported the prevalence of ASD in the United States of America to be 0.7%, but when systematic community-based assessment was done at 11 sites by the Autism and Developmental Disabilities Monitoring Network, overall prevalence of ASD was almost twice that of the previous study (1.5%) [47].  #@NEW_LINE#@#  The Ten Questions (TQ) screen for disability was uniformly applied in a study of 18 low- and middle-income countries (LMICs); the prevalence of children aged 29 years at high risk for disability ranged between 3% (Uzbekistan) and 48% (Central African Republic), with a median prevalence of 23% [48].  #@NEW_LINE#@#  In the two-phased studies with TQ in the similar age group, the prevalence of moderate to severe forms of disability varied between 0.5% and 9.4% in several LMICs [4951].  #@NEW_LINE#@#  
+In the Indian census form, there are four questions for collecting information on eight severe and obviously visible disabilities, including NDDs.  #@NEW_LINE#@#  According to Census of India 2011 data, the prevalence of all disabilities in the age category 04 years was 1.1%, and in the age category 59 years, it was 1.5% [52].  #@NEW_LINE#@#  These figures were almost 10 times less than what we reported in the present study after a systematic, comprehensive, community-based assessment exclusively for NDDs; the study findings were likely to present a more factual picture of the population-based prevalence of NDDs in different parts of India.  #@NEW_LINE#@#  
+The cumulative prevalence of NDDs was higher in the older age category (69 years) as compared to the younger age category (2less_than6 years).  #@NEW_LINE#@#  According to published literature, observation of higher prevalence of NDDs with increasing age in childhood might be due to the following: (a) accumulation of childhood-onset causes and exposures, such as infections, injuries, and nutritional deficiencies; and (b) increased ability to recognize and diagnose conditions such as CP, ID, and behavioral disorders as age advanced [53].  #@NEW_LINE#@#  In the regression model in which we fitted age as a categorical variable (69-year-old versus 2less_than6-year-old, as a reference), it emerged as a statistically significant predictor of NDD (Table 5).  #@NEW_LINE#@#  We could have also possibly arrived at this observation because participants in the older age category were assessed for two additional NDDs (i.e., ADHD and LD).  #@NEW_LINE#@#  
+Almost one-fifth of the children with NDDs had another comorbid NDD.  #@NEW_LINE#@#  Similarly, there was clustering of risk factors in the same individuals.  #@NEW_LINE#@#  We looked for the various modifiable risk factors significantly associated with occurrence of any or a cluster of NDDs in the same individual.  #@NEW_LINE#@#  The odds of any NDD among children with two or more risk factors and three or more risk factors were 2.1 (95% CI 1.52.9) and 2.6 (95% CI 1.74.0), respectively.  #@NEW_LINE#@#  Walker and colleagues have suggested that cumulative exposure to risks starting from the prenatal period affects the developmental trajectories and lays the foundation for NDDs; these risk factors therefore require early identification and integrated interventions [54].  #@NEW_LINE#@#  The frequent coexistence of ASD, NMI-CP, ID and/or Epi in (S2 Table) could be suggestive of common precursor events [55].  #@NEW_LINE#@#  
+The results of the study have to be interpreted in the light of its limitations; 15.6% refusal to participate might be reflective of sociobehaviroal complexities associated with a child with NDD in the family (e.g., disability, fear, denial, guilt, blame, different dimensions of stigma and discrimination) that could in turn influence participation in such diagnostic evaluations [56,57].  #@NEW_LINE#@#  The study sample was not representative of India (S5 Table); particularly, the sample was underrepresentative of stunting and LBW, and that could be contributing to underestimation of the true NDD burden in the study population.  #@NEW_LINE#@#  The stunting and LBW status of the children were not available in the Census data and therefore could not be adjusted together with other variables like age, gender, place of residence, and religion.  #@NEW_LINE#@#  The national rates (NFHS-4, 20152016) of stunting (38.4%) and LBW (18.2%) were available, and when these were applied separately to all-site-pooled estimates, prevalence of NDD in the 2less_than6 year age category increased from 9.2% to 10.9% and 12.3%, respectively.  #@NEW_LINE#@#  Similarly, in the 69 year age group, weighing for these conditions led to increase in the estimates from 13.6% to 16.8% and 14.0%, respectively.  #@NEW_LINE#@#  The study was not designed to determine the social bias of gender-selective treatments on child survival, growth, and development [58].  #@NEW_LINE#@#  The group has now validated a revised version of the Epi instrument to ascertain the types of Epi, including some of the ones not detected with the present tool [59].  #@NEW_LINE#@#  
+Our study provided the first population-based multisite data on the burden of NDDs in 29-year-old children from India.  #@NEW_LINE#@#  We developed four new diagnostic tools that were culturally adapted and validated against international guidelines that use global normative data [1518]; the tools were applied in the field by trained professionals with stringent quality control frameworks.  #@NEW_LINE#@#  While measurement of clinical conditions such as lack of vision or Epi is fairly comparable to other international measures (and prevalence rates are thus directly comparable), the same does not apply to the assessment of cognitive, attention, and learning skills, in which disability estimates would likely be substantially different if high-income population norms would be applied instead of an Indian reference population.  #@NEW_LINE#@#  
+The study highlighted NDDs in children as an important public health challenge of considerable significance with substantial within-country variations.  #@NEW_LINE#@#  Most of the significant risk factors identified through the study were modifiable and could potentially be addressed by investments in public health to improve maternal/newborn care and child nutrition.  #@NEW_LINE#@#  Several emerging economies have been able to address these risk factors effectively [60].  #@NEW_LINE#@#  The findings were important in the context of the Universal Health Care (UHC) agenda of the Government of India and the recently launched national child health program (Rashtriya Bal Swasthya Karyakram) [61].  #@NEW_LINE#@#  These data will have relevance for Indias response to the needs of the children who are most vulnerable and their families and might also inform the policies of other countries that share similar socioeconomic milieu and healthcare situations, particularly in South Asia [54,62].  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_STROBE_Checklist_  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_Comparison_of_Drop-out_(N_=_181)_and_Replacement_(N_=_158)_participants_in_the_study_sites  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Coexisting_NDDs_(by_percentage)_in_study_participants_with_at_least_one_NDD  #@NEW_LINE#@#  
+NDD, neurodevelopmental disorder.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Distribution_of_the_risk_factors_among_children_with_and_without_NDDs  #@NEW_LINE#@#  
+NDD, neurodevelopmental disorder.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Multivariable_logistic_regression_analysis_for_risk_factors_for_specific_NDDs_in_children_aged_29_years  #@NEW_LINE#@#  
+NDD, neurodevelopmental disorder.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Comparison_of_demographic_features_of_the_participant_population_with_national_databases  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Table_Summary_description_of_four_diagnostic_tools_developed_and_validated_by_INCLEN_team_for_the_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Text_Prospectively_written_statistical_analysis_plan  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Data_Palwal  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s009  #@NEW_LINE#@#  
+(DTA)  #@NEW_LINE#@#  
+
+S2_Data_Kangra  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s010  #@NEW_LINE#@#  
+(DTA)  #@NEW_LINE#@#  
+
+S3_Data_Dhenkanal  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s011  #@NEW_LINE#@#  
+(DTA)  #@NEW_LINE#@#  
+
+S4_Data_Hyderabad  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s012  #@NEW_LINE#@#  
+(DTA)  #@NEW_LINE#@#  
+
+S5_Data_Goa  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s013  #@NEW_LINE#@#  
+(DTA)  #@NEW_LINE#@#  
+
+S6_Data_All  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s014  #@NEW_LINE#@#  
+(DTA)  #@NEW_LINE#@#  
+
+S7_Data_Analysis_file  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002615.s015  #@NEW_LINE#@#  
+(DO)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors acknowledge the partner institutions for participating in the study.  #@NEW_LINE#@#  We are deeply indebted to the communities and families who participated in the study.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

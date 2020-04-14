@@ -1,0 +1,108 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0198503"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+A novel mathematical method for disclosing oscillations in gene transcription: A comparative study  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Circadian rhythmicity, the 24-hour cycle responsive to light and dark, is determined by periodic oscillations in gene transcription.  #@NEW_LINE#@#  This phenomenon has broad ramifications in physiologic function.  #@NEW_LINE#@#  Recent work has disclosed more cycles in gene transcription, and to the uncovering of these we apply a novel signal processing methodology known as the pencil method and compare it to conventional parametric, nonparametric, and statistical methods.  #@NEW_LINE#@#  Methods: In order to assess periodicity of gene expression over time, we analyzed a database derived from livers of mice entrained to a 12-hour light/12-hour dark cycle.  #@NEW_LINE#@#  We also analyzed artificially generated signals to identify differences between the pencil decomposition and other alternative methods.  #@NEW_LINE#@#  Results: The pencil decomposition revealed hitherto-unsuspected oscillations in gene transcription with 12-hour periodicity.  #@NEW_LINE#@#  The pencil method was robust in detecting the 24-hour circadian cycle that was known to exist, as well as confirming the existence of shorter-period oscillations.  #@NEW_LINE#@#  A key consequence of this approach is that orthogonality of the different oscillatory components can be demonstrated.  #@NEW_LINE#@#  thus indicating a biological independence of these oscillations, that has been subsequently confirmed empirically by knocking out the gene responsible for the 24-hour clock.  #@NEW_LINE#@#  Conclusion: System identification techniques can be applied to biological systems and can uncover important characteristics that may elude visual inspection of the data.  #@NEW_LINE#@#  Significance: The pencil method provides new insights on the essence of gene expression and discloses a wide variety of oscillations in addition to the well-studied circadian pattern.  #@NEW_LINE#@#  This insight opens the door to the study of novel mechanisms by which oscillatory gene expression signals exert their regulatory effect on cells to influence human diseases.  #@NEW_LINE#@#  
+
+Citation: Antoulas AC, Zhu B, Zhang Q, York B, OMalley BW, Dacso CC (2018) A novel mathematical method for disclosing oscillations in gene transcription: A comparative study.  #@NEW_LINE#@#  PLoS ONE 13(9):  #@NEW_LINE#@#  
+           e0198503.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0198503  #@NEW_LINE#@#  
+Editor: Attila Csikász-Nagy,  #@NEW_LINE#@#  
+Kings College London, UNITED KINGDOM  #@NEW_LINE#@#  
+
+Received: July 4, 2017; Accepted: May 21, 2018; Published:  September 19, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Antoulas et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All data underlying the study are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: This work was supported by National Science Foundation, CCF-1320866 to Antoulas; German Science Foundation, AN-693/1-1 to Antoulas; Max-Planck Institut für Physik Komplexer Systeme, Antoulas; NIDDK U24 DK097748 to York; NIDDK, U24 DK097748 to OMalley; NIDDK HD07857 to OMalley; Center for the Advancement of Science in Space, GA-2014-136, to Dacso and York; Brockman Medical Research Foundation to Dacso, OMalley, York, Zhu; Phillip J. Carroll, Jr. Professorship to Dacso; Joyce Family Foundation to Dacso; Sonya and William Carpenter to Dacso, and National Science Foundation CISE-11703170.  #@NEW_LINE#@#  Bokai Zhu was supported by Junior Faculty Development award 1-18-JDF-025 from the American Diabetes Association.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Gene transcription is the process by which the genetic code residing in DNA is transferred to RNA in the nucleus as the inauguration of protein synthesis.  #@NEW_LINE#@#  The latter process is called translation and occurs in the cytoplasm of the cell.  #@NEW_LINE#@#  Circadian rhythm, the 24-hour cycle that governs many functions of the cell, is the result of a complex interaction of transcriptional and translational processes.  #@NEW_LINE#@#  The importance of circadian rhythm to physiologic processes has been underscored in 2017 by the awarding of the Nobel Prize in Physiology or Medicine to the investigators who described the molecular mechanisms controlling it.  #@NEW_LINE#@#  However, in addition to the circadian oscillation driven by light and dark, other so-called infradian and ultradian rhythms have clear biologic import.  #@NEW_LINE#@#  Blood pressure, some circulating hormones, and some physiological functions appear to have 12-hour periodicity whereas other processes such as the menstrual cycle more closely follow a lunar cycle.  #@NEW_LINE#@#  
+Accordingly, we sought to uncover novel 12-hour oscillations in gene expression.  #@NEW_LINE#@#  In many cases, the 12-hour gene oscillation is superimposed on the 24-hour cycle; thus it is hidden in conventional analysis.  #@NEW_LINE#@#  Additionally, experiments designed to elucidate the 24-hour circadian often do not have the granularity required to reveal an interval of less than 24 hours as they are constrained by the Shannon-Nyquist Sampling Theorem [1].  #@NEW_LINE#@#  
+To reveal periodicities in gene expression other than the 24-hour circadian cycle, we applied digital signal processing methodology to this biologic phenomenon.  #@NEW_LINE#@#  Although this approach is, to our knowledge, less commonly used in the biological field, it is justified because the transcription of DNA to RNA is indeed a signal, packed with information for making the enormous repertoire of proteins.  #@NEW_LINE#@#  
+To extract the fundamental oscillations (amplitude and period) present in the data, we utilized publicly available time-series microarray datasets on circadian gene expression in mouse liver (under constant darkness) [2] and analyzed over 18,000 genes spanning a variety of cellular process ranging from core clock control, metabolism, and cell cycle to the unfolded protein responses (UPR), a measure of cell stress.  #@NEW_LINE#@#  In addition, one set of measurements of RER (respiratory exchange ratio) from wild-type mice (generated by us) was also performed.  #@NEW_LINE#@#  We constructed linear, discrete-time, time-invariant models of low order, driven by initial conditions, which approximately fit the data and thus reveal the fundamental oscillations present in each data set.  #@NEW_LINE#@#  In addition to the 24-hour (circadian) cycle known to be present, other fundamental oscillations have been revealed using our approach.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+We searched for 12-hour oscillations in several biological systems.  #@NEW_LINE#@#  Systems were chosen that represented not only gene transcription but also phenotype; they represent the way in which these biological systems are expressed in the whole organism.  #@NEW_LINE#@#  The reasoning was that if the 12-hour oscillation in transcription was biologically significant, it would be represented in some measurable function of the cell.  #@NEW_LINE#@#  
+Initially, we analyzed a set of transcription data [2] that was collected in mouse liver obtained from animals in constant darkness after being entrained in a 12-hour light/12-hour dark environment.  #@NEW_LINE#@#  Mice were sacrificed at 1-hour intervals for 48 hours, thus providing enough data points to analyze the signal.  #@NEW_LINE#@#  The dataset thus obtained contains RNA values for all coding genes.  #@NEW_LINE#@#  The RNA data were generated using a standard microarray methodology.  #@NEW_LINE#@#  In addition, RER (respiratory exchange ratio) measurements in mice were also measured and analyzed.  #@NEW_LINE#@#  The novelty in our analysis consists in using the so-called matrix-pencil method [3].  #@NEW_LINE#@#  This is a data-driven system-identification method.  #@NEW_LINE#@#  It constructs dynamical systems based on time-series data and finds the dominant oscillations present in the ultradian or infradian rhythms.  #@NEW_LINE#@#  Our purpose here is to compare this method with other established strategies for spectral estimation, including both parametric spectrum estimation methods like MUSIC (MUltiple Signal Classification), ESPRIT (Estimation of Signal Parameters via Rotational Invariance Techniques), and Pronys (least squares) as well as classical nonparametric models like wavelet transforms and statistical methods like RAIN.  #@NEW_LINE#@#  These are compared with each other using both artificial and measured data.  #@NEW_LINE#@#  
+Basic_signal_processing_methods  #@NEW_LINE#@#  
+Goal.  #@NEW_LINE#@#  Discover the fundamental oscillations inherent in the gene data, using these models and reduced versions thereof.  #@NEW_LINE#@#  
+
+Other_methods  #@NEW_LINE#@#  
+To complete the picture, we briefly list other methods which can be used to analyze the gene data.  #@NEW_LINE#@#  
+
+Experimental_results__Artificial_data  #@NEW_LINE#@#  
+In this section we test the performance of different methods using artificially generated signals.  #@NEW_LINE#@#  For the continuous wavelet transform, we chose the complex morlet wavelet because it allows changes to the resolution in frequency and time domain.  #@NEW_LINE#@#  For simulation data, we assume the data has the form  #@NEW_LINE#@#  
+
+where w is white noise with zero mean and variance 2 and fi is the ith oscillation, where:  #@NEW_LINE#@#  
+(7)  #@NEW_LINE#@#  
+where Ai is the amplitude, i is the decay (growth) rate, i is the phase and Ti is the period.  #@NEW_LINE#@#  At first we assume that the samples are collected in unit time intervals.  #@NEW_LINE#@#  The parameters are defined in the table below; the first oscillation is almost constant with small decay; the other three oscillations have a period of approximately 24- 12- and 8-hours (see Table 1).  #@NEW_LINE#@#  
+The experiment has the following parts.  #@NEW_LINE#@#  First, the sensitivity to noise is investigated.  #@NEW_LINE#@#  Here, the variance of noise is changed and the performance of each of the different methods is examined.  #@NEW_LINE#@#  Second, the impact of the length of the data is investigated.  #@NEW_LINE#@#  Finally, the frequency of data collection (can be referred to as sampling frequency) will be examined.  #@NEW_LINE#@#  
+Recall that the Nyquist sampling theorem provides the lower bound for the sampling frequency in order to prevent aliasing.  #@NEW_LINE#@#  This can be used to determine appropriate sampling frequencies for continuous-time signals.  #@NEW_LINE#@#  
+
+Experimental_results__The_pencil_method_applied_to_gene_data  #@NEW_LINE#@#  
+In this section we analyze a small part of the measured data in order to validata some of the aspects of the pencil method and its comparison with the other methods.  #@NEW_LINE#@#  
+Batch consisting of 171 measurements every 40min The results in this case are summarized in Table 4 and Fig 5 (S1 File.  #@NEW_LINE#@#  DATA 171 is a 10 x 171 matrix; the first row contains time; the remaining rows contain the measurements taken from 9 mice.)  #@NEW_LINE#@#  
+Batch consisting of RER for restrictively fed mice (218 meas.  #@NEW_LINE#@#  every 40min) (see Table 5 and S2 File.  #@NEW_LINE#@#  DATA 218 is a 10 x 218 matrix; the first row contains time; the remaining rows the measurements taken from 9 mice.  #@NEW_LINE#@#  ).  #@NEW_LINE#@#  
+Fig 6 shows the approximation by 1, 2 and 3 oscillations (upper pane) and the first four fundamental oscillations (lower pane).  #@NEW_LINE#@#  Table 6 shows the error and the angles (S3 File.  #@NEW_LINE#@#  DATA 15 is a 15 x 48 matrix; each row corresponds to a different gene; time runs from 1 to 48 hours).  #@NEW_LINE#@#  
+We analyze the relationship among the decomposed oscillations, by calculating the angle among these oscillations for 10 different genes.  #@NEW_LINE#@#  We set r = 9, i.e.  #@NEW_LINE#@#  the gene signals contain four oscillations fi, i = 1, , 4.  #@NEW_LINE#@#  The approximant is thus .  #@NEW_LINE#@#  See also Table 7 (S4 File.  #@NEW_LINE#@#  DATA 10 is a 10 x 48 matrix; each row corresponds to a different gene; time runs from 1 to 48 hours.)  #@NEW_LINE#@#  
+From the above tables, we can see that the angle between oscillations is around 90° in most situations.  #@NEW_LINE#@#  So oscillations are nearly orthogonal:  #@NEW_LINE#@#  
+
+It has actually been shown in [13] that these oscillations are independent of each other.  #@NEW_LINE#@#  
+Batch consisting of various measurements using mice38 min intervals (see Table 8 (S4) and Table 9 as well as Fig 7 (S5 File.  #@NEW_LINE#@#  DATA 186 is a 6 x 186 matrix; the first row contains time; the rest represent: food intake, ambulatory activity, total activity, ZTOT and heat.)  #@NEW_LINE#@#  
+
+
+Discussion_and_comments  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0198503.t011  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0198503.t012  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0198503.t013  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0198503.g008  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0198503.t014  #@NEW_LINE#@#  
+Final_result  #@NEW_LINE#@#  
+We considered a dataset consisting of 18484 genes; transcription is analyzed using the pencil method [3], the ESPRIT method, Pronys method and the three statistical methods.  #@NEW_LINE#@#  The distribution of the poles follow; recall that the poles of ideal oscillations have magnitude equal to 1.  #@NEW_LINE#@#  
+Furthermore the DFT and wavelet methods are also not competitive.  #@NEW_LINE#@#  
+Fig 9 shows that the pencil method has uncovered real oscillations, since the mean of the magnitude of all poles is 1.0058 and the standard deviation is 0.0010.  #@NEW_LINE#@#  The ESPRIT method follows in terms of discovering oscillations, while the Prony or LS (least squares) method and the three statistical methods give weak results.  #@NEW_LINE#@#  As explained above the main drawback of the ESPRIT method is that it has nothing to say about the orthogonality of the oscillations, which proves to be a key outcome of the pencil method.  #@NEW_LINE#@#  
+
+
+Concluding_remarks_and_outlook  #@NEW_LINE#@#  
+The matrix pencil method allows the consistent determination of the dominant reduced-order models, thus revealing the fundamental oscillations present in the data.  #@NEW_LINE#@#  The essence of the matrix pencil method is that it provides a continuous-time tool for treating a discrete-time (sampled-data) problem.  #@NEW_LINE#@#  The DFT, in contrast, is only a discrete-time tool for treating a discrete-time problem; hence its failure in this setting.  #@NEW_LINE#@#  
+A key consequence of the matrix-pencil approach is the demonstration of orthogonality of the different oscillatory components, in particular the 24-hour and the 12-hour cycles.  #@NEW_LINE#@#  This points to an independence of these oscillations.  #@NEW_LINE#@#  This assertion has been subsequently confirmed in the laboratory experiments reported in [13].  #@NEW_LINE#@#  
+This analysis demonstrates the applicability of signal processing methodologies to biological systems and further shows the ability of the matrix pencil decomposition to demonstrate independence of biological rhythms.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_File_DATA_171_is_a_10_x_171_matrix;_the_first_row_contains_time;_the_remaining_rows_contain_the_measurements_taken_from_9_mice  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0198503.s001  #@NEW_LINE#@#  
+(MAT)  #@NEW_LINE#@#  
+
+S2_File_DATA_218_is_a_10_x_218_matrix;_the_first_row_contains_time;_the_remaining_rows_the_measurements_taken_from_9_mice  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0198503.s002  #@NEW_LINE#@#  
+(MAT)  #@NEW_LINE#@#  
+
+S3_File_DATA_15_is_a_15_x_48_matrix;_each_row_corresponds_to_a_different_gene;_time_runs_from_1_to_48_hours  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0198503.s003  #@NEW_LINE#@#  
+(MAT)  #@NEW_LINE#@#  
+
+S4_File_DATA_10_is_a_10_x_48_matrix;_each_row_corresponds_to_a_different_gene;_time_runs_from_1_to_48_hours  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0198503.s004  #@NEW_LINE#@#  
+(MAT)  #@NEW_LINE#@#  
+
+S5_File_DATA_186_is_a_6_x_186_matrix;_the_first_row_contains_time;_the_rest_represent__Food_intake__ambulatory_activity__total_activity__ZTOT_and_heat  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0198503.s005  #@NEW_LINE#@#  
+(MAT)  #@NEW_LINE#@#  
+
+
+References  #@NEW_LINE#@#  
+
+
+

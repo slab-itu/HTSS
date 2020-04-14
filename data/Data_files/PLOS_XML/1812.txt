@@ -1,0 +1,92 @@
+article id="http://dx.doi.org/10.1371/journal.pntd.0006019"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+The "F" in SAFE: Reliability of assessing clean faces for trachoma control in the field  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Although facial cleanliness is part of the SAFE strategy for trachoma there is controversy over the reliability of measuring a clean face.  #@NEW_LINE#@#  A childs face with no ocular and nasal discharge is clean and the endpoint of interest, regardless of the number of times it must be washed to achieve that endpoint.  #@NEW_LINE#@#  The issue of reliability rests on the reproducibility of graders to assess a clean face.  #@NEW_LINE#@#  We report the reproducibility of assessing a clean face in a field trial in Kongwa, Tanzania.  #@NEW_LINE#@#  
+
+Methods_Findings  #@NEW_LINE#@#  
+Seven graders were trained to assess the presence and absence of nasal and ocular discharge on childrens faces.  #@NEW_LINE#@#  Sixty children ages 17 years were recruited from a community and evaluated independently by seven graders, once and again about 50 minutes later.  #@NEW_LINE#@#  Intra-and inter-observer variation was calculated using unweighted kappa statistics.  #@NEW_LINE#@#  The average intra-observer agreement was kappa = 0.72, and the average inter-observer agreement was kappa = 0.78.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Intra-observer and inter-observer agreement was substantial for the assessment of clean faces using trained Tanzania staff who represent a variety of educational backgrounds.  #@NEW_LINE#@#  As long as training is provided, the estimate of clean faces in children should be reliable, and reflect the effort of families to keep ocular and nasal discharge off the faces.  #@NEW_LINE#@#  These data suggest assessment of clean faces could be added to trachoma surveys, which already measure environmental improvements, in districts.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+The repeated infection that causes trachoma is spread from person to person via infected ocular and nasal secretions.  #@NEW_LINE#@#  The World Health Organization (WHO) strategy for trachoma control includes keeping childrens faces clean of discharges, yet clean faces are not measured in most of the district surveys that evaluate the impact of programs.  #@NEW_LINE#@#  We studied the reliability of assessing clean faces in 60 children in a village in Tanzania, using trained Tanzania staff with a variety of educational backgrounds.  #@NEW_LINE#@#  When assessing the same child twice after 50 minutes, the staff showed substantial agreement with themselves.  #@NEW_LINE#@#  The agreement between a senior grader and each staff member was also excellent.  #@NEW_LINE#@#  The data suggest that clean faces in children can be reliably assessed, and should be added to district surveys that are measuring the impact of programs on control of trachoma.  #@NEW_LINE#@#  
+
+Citation: West SK, Ansah D, Munoz B, Funga N, Mkocha H (2017) The "F" in SAFE: Reliability of assessing clean faces for trachoma control in the field.  #@NEW_LINE#@#  PLoS Negl Trop Dis 11(11):  #@NEW_LINE#@#  
+           e0006019.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pntd.0006019  #@NEW_LINE#@#  
+Editor: Jeremiah M. Ngondi, RTI International, UNITED REPUBLIC OF TANZANIA  #@NEW_LINE#@#  
+Received: September 7, 2017; Accepted: October 6, 2017; Published:  November 30, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 West et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: Support provided by International Trachoma Initiative.  #@NEW_LINE#@#  The funders had no role in the study design, data collection and analysis, decision to publish or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Trachoma, the leading infectious cause of blindness world-wide, is caused by repeated episodes of ocular infection with C. trachomatis[1].  #@NEW_LINE#@#  There is no animal reservoir, nor required intermediate host or vector, for trachoma which is spread among persons from contact with infected ocular secretions.  #@NEW_LINE#@#  Although C. trachomatis is an obligate intracellular organism, there is no doubt that ocular secretions contain infectious particles as the elementary body stage of the life cycle is extracellular and swabs of eyes that contain no conjunctival cells still can contain chlamydia DNA[2,3].  #@NEW_LINE#@#  
+Ocular secretions can drain down the nasolacrimal duct and cause nasal secretions to also contain infected material [4,5].  #@NEW_LINE#@#  Nasal and ocular secretions which come from children with trachoma have been found to be especially attractive to secretion-seeking flies [6].  #@NEW_LINE#@#  Hands, clothes, flies, and any other material in contact with infected secretions are at risk of transmitting infection to others, but it is clear that infected secretions are the source of infections.  #@NEW_LINE#@#  
+These secretions are visible on a face that has not been wiped or washed.  #@NEW_LINE#@#  In the trachoma literature, an unclean face has been defined as a face that has presence of nasal secretions and/or ocular secretions; some investigators also add the presence of flies on the face [712].  #@NEW_LINE#@#  Numerous studies, cross sectional and prospective, have linked unclean faces to a greater risk of trachoma [810,1316].  #@NEW_LINE#@#  A clinical trial, in which villages were randomized to a community-based clean faces program, found that the risk of trachoma and severe trachoma over time was less in children with who were observed to have clean faces and especially clean faces observed over multiple observations[17].  #@NEW_LINE#@#  These studies provide support for the inclusion of Facial cleanliness as the F in the World Health Organization sanctioned, multifaceted SAFE program for trachoma control.  #@NEW_LINE#@#  
+However, there has been confusion around the value of measuring a clean face for trachoma control programs, primarily citing an article that claims measuring a clean face is unreliable[12].  #@NEW_LINE#@#  Since the kappa agreements were reasonable for the individual signs of a clean face in that study, the claimed lack of reliability was based on the observation that throughout the day, the children who were washed became increasingly unclean.  #@NEW_LINE#@#  The authors concluded that observing a clean face was not a good marker for the washing of a childs face.  #@NEW_LINE#@#  However, that conclusion is missing the point: in order to avoid transmission, a face should be kept clean of ocular and nasal secretions, regardless of the number of times it must be washed in order to achieve that endpoint.  #@NEW_LINE#@#  The observation that some children became increasingly unclean only points to the necessity of multiple washings that are needed.  #@NEW_LINE#@#  
+Thus, the key issue for questioning the reliability of grading a childs face for facial cleanliness is whether or not graders can demonstrate good agreement as to when a childs face is clean or not.  #@NEW_LINE#@#  We had the opportunity to assess the intra and inter reliability of seven graders of varying backgrounds to grade markers of a clean face, and clean face status in a study in children ages 7 years and younger in Kongwa, Tanzania.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Population  #@NEW_LINE#@#  
+A total of 60 children ages 17 years were recruited as a convenience sample in Manungu village in Kongwa, Tanzania.  #@NEW_LINE#@#  Children were recruited by the local health worker the day before the visit, and she obtained informal consent to have the child seen the following day.  #@NEW_LINE#@#  Parents signed written consent the day of the survey.  #@NEW_LINE#@#  
+
+Graders  #@NEW_LINE#@#  
+Seven different graders were involved in the study, all members of the Kongwa Trachoma project team who ranged in background from the Medical Assistant to driver.  #@NEW_LINE#@#  The Master trainer (MK) who has taught clean face assessment to all staff members, was selected as the standard by whom all other graders would be measured.  #@NEW_LINE#@#  A half hour training session on the assessment of a clean face was held, specifically defining the face area and reviewing the signs of ocular discharge, fly on the face, and nasal discharge.  #@NEW_LINE#@#  All signs must be observed on faces in the absence of crying, which can distort the assessment of all three signs.  #@NEW_LINE#@#  The child was to be examined in sunlight, but not so that the sun was directly on the face, as that can also elicit crying.  #@NEW_LINE#@#  The facial area was defined as the area on direct frontal examination from hairline to chin and ear to ear.  #@NEW_LINE#@#  The hair itself, under chin, and neck were excluded.  #@NEW_LINE#@#  The signs were defined as follows:  #@NEW_LINE#@#  
+An initial group of five children were evaluated with all graders in discussion together to discuss agreement.  #@NEW_LINE#@#  
+Examples of a fly on the face, the minimal amount of nasal discharge, and ocular discharge are shown in Figs 13.  #@NEW_LINE#@#  We did not capture an image of minimal ocular discharge.  #@NEW_LINE#@#  
+After the discussion, an unclean face was defined as the presence of either ocular discharge or nasal discharge.  #@NEW_LINE#@#  Before the trial began, we excluded the observation of flies on the face in the definition, because during discussion, we observed that flies landing on a face was a very unstable sign and fly landings were seemingly at random and not connected to seeking eyes.  #@NEW_LINE#@#  
+The graders were stationed at least 4 feet from one another and the 60 study children were brought to each station individually.  #@NEW_LINE#@#  The graders were masked to one anothers grades for both trials.  #@NEW_LINE#@#  
+Written informed consent was obtained prior to the survey, which began at 10:15 AM.  #@NEW_LINE#@#  The guardians and children came to a central location, and were assigned a number from 1 to 60 which was written with a marker on the childs hand.  #@NEW_LINE#@#  The graders were seated at separate stations, and each child in turn was taken to the station.  #@NEW_LINE#@#  After the first trial, a second trial was done 30 minutes later with the same study children.  #@NEW_LINE#@#  On average each grader saw the same child 50 minutes apart.  #@NEW_LINE#@#  
+No child was dropped from the study, even if a guardian was observed cleaning a childs face between observers, or between trials.  #@NEW_LINE#@#  One child did not go through the second trial, which was then based on 59 children.  #@NEW_LINE#@#  
+
+Data_analyses  #@NEW_LINE#@#  
+We calculated the prevalence of a clean face and the individual signs as determined by each grader for each trial, then determined the average prevalence as the sum of each individual prevalence divided by the number of graders.  #@NEW_LINE#@#  We report the range of prevalences as the lowest and highest prevalence calculated for the seven graders.  #@NEW_LINE#@#  We calculated the intra-observer agreement on measuring a clean face using the kappa statistic among the 7 graders who each graded the children twice after 50 minutes between trials 1 and 2.  #@NEW_LINE#@#  The average intra-observer agreement was calculated as the average of all the individual agreements.  #@NEW_LINE#@#  The inter-observer agreements were calculated comparing the senior grader (MK) against all other graders.  #@NEW_LINE#@#  For those grader agreements that were less than 0.7, we examined the agreement on the two individual signs to determine which one was more problematic.  #@NEW_LINE#@#  All data were analyzed using SAS (SAS Institute, Carey, NC).  #@NEW_LINE#@#  Please see S1 Dataset for all data related to this project.  #@NEW_LINE#@#  
+
+Ethics_statement  #@NEW_LINE#@#  
+This study was approved by the Johns Hopkins Ethical Review Committee and the Tanzania National Institute for Medical Research.  #@NEW_LINE#@#  We obtained written informed consent from the guardians of all participants, and the study was conducted according to the tenets of the Declaration of Helsinki.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+In trial 1, the prevalence of clean faces as assessed by all the graders averaged 53% and varied among graders from 45% to 67% with differences driven by differences in the assessment of nasal discharge.  #@NEW_LINE#@#  Nasal discharge was common, average prevalence of 44%.  #@NEW_LINE#@#  Ocular discharge was infrequent with a prevalence of 11%, ranging from 3% to 20%.  #@NEW_LINE#@#  In trial two the average prevalence of clean faces declined to 50%, and varied from 42% to 58%.  #@NEW_LINE#@#  
+The intra-observer agreement based on each grader grading the child twice in trial 1 and trial 2 was good, ranging from kappa = 0.52 to kappa = 0.90 (Fig 4).  #@NEW_LINE#@#  Overall, the intra-observer agreement averaged kappa = 0.72.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pntd.0006019.g004  #@NEW_LINE#@#  
+We compared the gradings from the senior grader (MK) to the others from Trial 1.  #@NEW_LINE#@#  The kappas ranged from 0.69 to 0.83 (Fig 5), again with differences driven by different assessments of presence of nasal discharge.  #@NEW_LINE#@#  The overall average kappa was good, 0.78.  #@NEW_LINE#@#  Table 1a and 1b show examples of the actual agreement tables for the graders with kappas of low, 0.69, and high, 0.83, scores.  #@NEW_LINE#@#  There was some evidence of bias in the largest disagreement, with more disagreements where the senior grader saw more unclean faces than the other grader.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pntd.0006019.g005  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pntd.0006019.t001  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+This study showed that the assessment of clean faces can be carried out reliably by graders with a variety of backgrounds.  #@NEW_LINE#@#  Regardless of whether the reliability assessment was done with a greater proportion of clean faces in the sample or a smaller proportion, only one grader had a kappa less_than0.7 against the senior grader.  #@NEW_LINE#@#  
+The faces became less clean from trial 1 to trial 2, so the intra-observer agreement, while averaging 0.7, was less than the inter-observer agreement because the childs clean face changed status over time.  #@NEW_LINE#@#  On average, it was 50 minutes between the time the first child started and the same child came back through.  #@NEW_LINE#@#  
+It was interesting to note that all graders did well, regardless if they were drivers, census workers, or Medical Assistants.  #@NEW_LINE#@#  This suggests that training is the most important aspect for assessment of this sign, not background level of education.  #@NEW_LINE#@#  
+One limitation of the study was the preponderance of nasal discharge driving the assessment of clean faces in this sample.  #@NEW_LINE#@#  The study was carried out during the season of highest prevalence of upper respiratory illness in the community, so the greater prevalence of nasal discharge was not unexpected.  #@NEW_LINE#@#  There was still ocular discharge as well, but the agreement on clean face in this study largely centered on the agreement in detecting nasal discharge.  #@NEW_LINE#@#  
+We have previously shown that children assessed in the home tend to have less clean faces than when the assessment is made at a central location, so the absolute prevalence of clean faces in this sample may be higher than if assessed at the home [8].  #@NEW_LINE#@#  However, that should not affect the reliability estimates.  #@NEW_LINE#@#  
+We compared the agreement of the graders to a senior grader, to demonstrate reliability.  #@NEW_LINE#@#  A senior grader is not a gold per say, but there is no external standard of clean face that can be used.  #@NEW_LINE#@#  The designation of senior grader was based on years of experience in training graders, high internal consistency, and face validity.  #@NEW_LINE#@#  This approach has been used in other surveys, for example, for trachoma mapping where a Master grader (the senior scientist) was the gold standard by which other graders were standardized [18].  #@NEW_LINE#@#  
+Our inter-observer reliability estimates were better than reported by King et al, who found assessment of nasal discharge to have an average kappa of 0.62 and ocular discharge of 0.46 [12].  #@NEW_LINE#@#  In that study, a kappa for assessment of clean face was not done and the reliability was based on assessment of images and not on actual field assessment.  #@NEW_LINE#@#  There was no training program described for the multiple examiners in that study either, and the examiners were either ophthalmic nurses or ophthalmologists.  #@NEW_LINE#@#  Interestingly, our current results are similar to inter-observer agreements we reported 25 years ago using interviewers and an eye nurse on a sample of children in Kongwa [19].  #@NEW_LINE#@#  
+In summary, our reliability trials found good to excellent intra-observer and inter-observer agreement for the assessment of clean faces by trained Tanzania staff who represent a variety of educational backgrounds.  #@NEW_LINE#@#  As long as training is provided, the estimate of clean faces in children should be reliable, and reflect the effort of families to keep ocular and nasal discharge off the faces.  #@NEW_LINE#@#  We recommend conducting more interobserver trials in various trachoma settings and that assessing clean faces be added to surveys for trachoma which already measure environmental improvements, in districts.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Dataset_  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0006019.s001  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+Figs 1 and 2 were images taken by Derick Ansah in the field.  #@NEW_LINE#@#  Fig 3 was taken by Harran Mkocha.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

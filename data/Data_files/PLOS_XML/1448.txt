@@ -1,0 +1,74 @@
+article id="http://dx.doi.org/10.1371/journal.pbio.2002477"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Wide-Open: Accelerating public data release by automating detection of overdue datasets  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Open data is a vital pillar of open science and a key enabler for reproducibility, data reuse, and novel discoveries.  #@NEW_LINE#@#  Enforcement of open-data policies, however, largely relies on manual efforts, which invariably lag behind the increasingly automated generation of biological data.  #@NEW_LINE#@#  To address this problem, we developed a general approach to automatically identify datasets overdue for public release by applying text mining to identify dataset references in published articles and parse query results from repositories to determine if the datasets remain private.  #@NEW_LINE#@#  We demonstrate the effectiveness of this approach on 2 popular National Center for Biotechnology Information (NCBI) repositories: Gene Expression Omnibus (GEO) and Sequence Read Archive (SRA).  #@NEW_LINE#@#  Our Wide-Open system identified a large number of overdue datasets, which spurred administrators to respond directly by releasing 400 datasets in one week.  #@NEW_LINE#@#  
+
+Citation: Grechkin M, Poon H, Howe B (2017) Wide-Open: Accelerating public data release by automating detection of overdue datasets.  #@NEW_LINE#@#  PLoS Biol 15(6):  #@NEW_LINE#@#  
+           e2002477.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pbio.2002477  #@NEW_LINE#@#  
+Published:  June 8, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Grechkin et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All processed data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  Full texts of processed papers are available through PubMedCentral OA (https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/).  #@NEW_LINE#@#  
+Funding: National Science Foundation BIGDATA https://www.nsf.gov/ (grant number 1247469).  #@NEW_LINE#@#  Received by BH and MG.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  Alfred P. Sloan Foundation https://sloan.org/ (grant number 3835).  #@NEW_LINE#@#  Through the Data Science Environments program.  #@NEW_LINE#@#  Received by BH and MG.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  University of Washington Information School https://ischool.uw.edu/.  #@NEW_LINE#@#  Received by BH.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  Gordon and Betty Moore Foundation https://www.moore.org/ (grant number 2013-10-29).  #@NEW_LINE#@#  Received by BH and MG.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          GEO,  #@NEW_LINE#@#  
+            Gene Expression Omnibus; NCBI,  #@NEW_LINE#@#  
+            National Center for Biotechnology Information; PMC,  #@NEW_LINE#@#  
+            PubMed Central; SRA,  #@NEW_LINE#@#  
+            Sequence Read Archive; UID,  #@NEW_LINE#@#  
+            unique identifier  #@NEW_LINE#@#  
+Provenance: Not commissioned; externally peer reviewed.  #@NEW_LINE#@#  
+Letter  #@NEW_LINE#@#  
+Advances in sequencing and other biotechnologies have led to an explosion of biological data.  #@NEW_LINE#@#  Fig 1 shows the remarkable growth in the number of gene expression samples in the National Center for Biotechnology Information (NCBI) Gene Expression Omnibus (GEO) repository [1].  #@NEW_LINE#@#  As of February 2017, GEO contains 80,985 public datasets and 2,097,543 samples, spanning hundreds of tissue types in thousands of organisms.  #@NEW_LINE#@#  Making such a wealth of data publicly available not only facilitates replication but also generates new opportunities for discovery by jointly analyzing multiple datasets [2].  #@NEW_LINE#@#  
+Data underlying the figure are available as S1 Data.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2002477.g001  #@NEW_LINE#@#  
+Consequently, journals and repositories have increasingly embraced open-data policies.  #@NEW_LINE#@#  PLOS journals require authors to "make all data underlying the findings described in their manuscript fully available without restriction" [3].  #@NEW_LINE#@#  GEO requests that authors should inform them "as soon as your manuscript is published so that we can release your records and link them with PubMed" (https://www.ncbi.nlm.nih.gov/geo/info/faq.html#holduntilpublished).  #@NEW_LINE#@#  Enforcing such policies, however, largely relies on manual efforts.  #@NEW_LINE#@#  Authors often forget to notify repositories when their papers get published.  #@NEW_LINE#@#  Repositories such as GEO resort to periodically checking private datasets to determine if they should be released and calling upon users to notify them of overdue ones.  #@NEW_LINE#@#  Still, the lag between the date the paper is published and the date the data are released is significant and appears to grow over time.  #@NEW_LINE#@#  
+To help address the opportunity cost of this "hidden data," and to reduce the burden of manually keeping track of the release process for authors and repository administrators, we developed Wide-Open, a general approach that applies text mining to automatically detect overdue datasets in a public repository.  #@NEW_LINE#@#  
+Wide-Open first scans PubMed articles for dataset unique identifiers (UIDs) by using regular expressions.  #@NEW_LINE#@#  It then determines the validity of each candidate UID, and whether the corresponding datasets have been released.  #@NEW_LINE#@#  To determine if the dataset has been released, Wide-Open calls the repository's web application programming interface (API) for accessing datasets and searches for signature textual patterns in the query result.  #@NEW_LINE#@#  When there exists a database that indexes many publicly released datasets, Wide-Open will first check the UIDs by using the database to minimize unnecessary web API calls.  #@NEW_LINE#@#  
+To evaluate the effectiveness of this approach, we applied it to two popular NCBI repositories: GEO and Sequence Read Archive (SRA).  #@NEW_LINE#@#  To scan PubMed text for accession numbers, Wide-Open uses the regular expression GSE[09]+ for GEO, and SRX[09]+ for SRA.  #@NEW_LINE#@#  For each candidate accession number, Wide-Open first checks GEOmetadb [4] for GEO, and SRAdb [5] for SRA.  #@NEW_LINE#@#  A hit means that the dataset has been released.  #@NEW_LINE#@#  If not, Wide-Open calls the web APIs for GEO (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=less_thanaccession) and SRA (https://www.ncbi.nlm.nih.gov/sra/?term=less_thanaccession).  #@NEW_LINE#@#  The resulting page will then be parsed to determine if the accession number is valid and, if so, whether the dataset is public or private.  #@NEW_LINE#@#  In the latter case, the dataset remains private after being cited in a published article, which means that it is most likely to be overdue.  #@NEW_LINE#@#  
+Specifically, for GEO, Wide-Open looks for strings such as "Could not find a public or private accession," which signifies an invalid accession number, as well as strings such as "is currently private," which signifies that the dataset is private.  #@NEW_LINE#@#  For SRA, the process is similar.  #@NEW_LINE#@#  The details can be found in our open-sourced code.  #@NEW_LINE#@#  
+Wide-Open identified a large number of overdue datasets in GEO and SRA.  #@NEW_LINE#@#  Fig 2 shows the number of overdue GEO datasets over time.  #@NEW_LINE#@#  For each time point, we show the number of datasets referenced in prior publications but not yet released at the time of publishing.  #@NEW_LINE#@#  Notwithstanding some fluctuation, the number has been steadily rising since the advent of next-generation sequencing.  #@NEW_LINE#@#  The oldest paper that references an overdue dataset was published in 2010.  #@NEW_LINE#@#  Prior to this submission, we notified GEO of the overdue datasets that Wide-Open had identified.  #@NEW_LINE#@#  We received a prompt acknowledegement and noticed a dramatic drop in the number shortly after our exchange (the magenta portion; approximately 400 datasets were released within the first week).  #@NEW_LINE#@#  We applaud the quick action by GEO and take this response as a promising sign that an automatic monitoring system like Wide-Open could help accelerate the release process.  #@NEW_LINE#@#  Out of the 473 datasets identified by Wide-Open in February 2017, 455 have been released by GEO since.  #@NEW_LINE#@#  Of the remaining 18 candidates, only one is a true precision error (the accession number candidate GSE17200 actually refers to a soil name).  #@NEW_LINE#@#  Among the other 17 cases, 14 were identified due to typos by the authors who cited a wrong accession number, while the remaining 3 were legitimate datasets that could not be released either due to incomplete submission or privacy issues.  #@NEW_LINE#@#  In other words, Wide-Open attained a precision of 97%, even with author errors considered.  #@NEW_LINE#@#  
+Prior to this submission, we notified GEO of the standing list, which led to the dramatic drop of overdue datasets (magenta portion), with 400 datasets released within the first week.  #@NEW_LINE#@#  Data underlying the figure are available as S2 Data.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2002477.g002  #@NEW_LINE#@#  
+As of March 2017, Wide-Open has identified 84 overdue SRA datasetsas.  #@NEW_LINE#@#  Next, we plan to contact SRA and work with them on verification and release of these datasets as well.  #@NEW_LINE#@#  
+The time lag between submission and release has also steadily risen (Fig 3).  #@NEW_LINE#@#  GEO datasets that became public in 2006 took an average of 87 days from submission to release, whereas in 2016, the average delay was over 8 months.  #@NEW_LINE#@#  GSE2436 was submitted to GEO in March 2005 and was not made public until November 2016, an 11-year wait.  #@NEW_LINE#@#  While longer reviewing cycles might explain part of this increase [6], it seems clear that the rapid growth in the number of datasets would tax the manual release process and ultimately make it unsustainable.  #@NEW_LINE#@#  
+Data underlying the figure are available as S3 Data.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2002477.g003  #@NEW_LINE#@#  
+While the initial progress is promising, much remains to be done.  #@NEW_LINE#@#  We need full-text access to identify published datasets, which limits our current monitoring to the open access subset of PubMed Central (PMC).  #@NEW_LINE#@#  As of February 2017, this subset contains about 1.5 million papers, which is a small subset of PMC (4.2 million) and a fraction of PubMed (26 million).  #@NEW_LINE#@#  There are various ways to substantially increase the number of full-text articles for monitoring thanks to the open-access movement championed by this journal and others.  #@NEW_LINE#@#  Publishers are increasingly open to granting text-mining licenses (e.g., http://text.soe.ucsc.edu/progress.html).  #@NEW_LINE#@#  Through our collaborators, we begin to have access to many more full-text articles on which we plan to run Wide-Open next.  #@NEW_LINE#@#  The number of private datasets is rather large.  #@NEW_LINE#@#  For example, GEO currently has over 10,000 datasets that remain private.  #@NEW_LINE#@#  We expect that many more overdue datasets could be identified with access to additional full-text articles.  #@NEW_LINE#@#  
+Wide-Open is available under an open source license at GitHub (https://github.com/wideopen/datawatch).  #@NEW_LINE#@#  We will host a service to keep monitoring publications and identifying overdue datasets (https://wideopen.github.io/datawatch/).  #@NEW_LINE#@#  We also plan to extend Wide-Open to cover more repositories and implement more fine-grained audits (e.g., making sure that the released dataset contains at least as many samples as reported in the article).  #@NEW_LINE#@#  Extending Wide-Open to a new repository consists of 3 simple tasks: creating regular expressions for dataset identifiers, identifying the web API for dataset access, and adapting the query-result parser to distinguish between invalid UIDs, datasets that have been released, and datasets that remain private.  #@NEW_LINE#@#  We envision Wide-Open as a collective project to engage the research community and help advance the open-data movement.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Data_Number_of_samples_in_GEO  #@NEW_LINE#@#  
+Obtained from https://www.ncbi.nlm.nih.gov/geo/summary/summary.cgi?type=history.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2002477.s001  #@NEW_LINE#@#  
+(CSV)  #@NEW_LINE#@#  
+
+S2_Data_Number_of_overdue_datasets_in_GEO  #@NEW_LINE#@#  
+Computed using Wide-Open extracted references, GEOmetadb and queries against GEO web interface as described in the paper.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2002477.s002  #@NEW_LINE#@#  
+(CSV)  #@NEW_LINE#@#  
+
+S3_Data_Average_lag_between_submission_to_GEO_and_release_of_the_dataset  #@NEW_LINE#@#  
+Computed using data from GEOmetadb.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2002477.s003  #@NEW_LINE#@#  
+(CSV)  #@NEW_LINE#@#  
+
+S4_Data_sqlite_data__WideOpen_database_of_extracted_references  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pbio.2002477.s004  #@NEW_LINE#@#  
+(XZ)  #@NEW_LINE#@#  
+
+
+References  #@NEW_LINE#@#  
+
+
+

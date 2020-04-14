@@ -1,0 +1,181 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0175029"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Bamboo-inspired optimal design for functionally graded hollow cylinders  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+The optimal distribution of the reinforcing fibers for stiffening hollow cylindrical composites is explored using the linear elasticity theory.  #@NEW_LINE#@#  The spatial distribution of the vascular bundles in wild bamboo, a nature-designed functionally graded material, is the basis for the design.  #@NEW_LINE#@#  Our results suggest that wild bamboos maximize their flexural rigidity by optimally regulating the radial gradation of their vascular bundle distribution.  #@NEW_LINE#@#  This fact provides us with a plant-mimetic design principle that enables the realization of high-stiffness and lightweight cylindrical composites.  #@NEW_LINE#@#  
+
+Citation: Sato M, Inoue A, Shima H (2017) Bamboo-inspired optimal design for functionally graded hollow cylinders.  #@NEW_LINE#@#  PLoS ONE 12(5):  #@NEW_LINE#@#  
+           e0175029.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0175029  #@NEW_LINE#@#  
+Editor: Warren Batchelor,  #@NEW_LINE#@#  
+Monash University, AUSTRALIA  #@NEW_LINE#@#  
+
+Received: July 20, 2016; Accepted: March 20, 2017; Published:  May 3, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Sato et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: This work was supported by Japan Society for the Promotion of Science (https://www.jsps.go.jp/english/index.html) KAKENHI Grant Numbers JP25390147 (HS), JP26292088 (AI), JP15H04207 (MS), JP16K12823 (MS) and JP16K14948 (AI).  #@NEW_LINE#@#  The first author (MS) expresses appreciation for the research grant from the Suhara memorial foundation.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Functionally graded materials (FGMs) are a class of advanced materials endowed with spatial variations in the physical properties and/or chemical compositions.  #@NEW_LINE#@#  The concept of the FGM was first proposed in 1984 [1] for aerospace applications in a spaceplane project.  #@NEW_LINE#@#  A spaceplane is required to pass repeatedly through the earths atmosphere; thus, its body is exposed to very high temperature environments.  #@NEW_LINE#@#  To endure tremendous heat conditions, researchers had devised a concept for fabricating a material by gradually changing the material composition, as a result of which both the thermal resistance and the mechanical stiffness are improved drastically.  #@NEW_LINE#@#  Further, the concept of the FGM has been extended to various functionalities beyond the thermal resistance [2, 3].  #@NEW_LINE#@#  Currently, various commercial products produced using FGMs can be found in diverse fields including medical devices [4] and energy applications [5].  #@NEW_LINE#@#  
+In addition to artificial FGMs, naturally designed FGMs can be found invariably in our daily life, ranging from bones and teeth in our body to seashells and plants observed outdoors.  #@NEW_LINE#@#  A possible reason for the frequent realization of FGMs in nature is that the biological cells tend to adapt to external stimuli; their self-adaptive property may have caused a naturally gradient structure during the evolutionary process for enhancing the stiffness-to-weight ratio.  #@NEW_LINE#@#  
+Amongst several candidates, bamboo is one of the most typical and intriguing FGMs that occurs in nature [69].  #@NEW_LINE#@#  Most bamboos are cylindrical hollow plants native to all continents except Antarctica and Europe [10].  #@NEW_LINE#@#  From a structural perspective, bamboo is a fiber-reinforced composite material made of two main types of tissues: vascular bundles as the reinforcing fibers and a matrix of parenchyma cells [1113].  #@NEW_LINE#@#  These fibers are sufficiently rigid; hence, their Youngs modulus is in the order of several gigapascals, comparable to that of steel [13, 14].  #@NEW_LINE#@#  The fibers are aligned in the longitudinal direction, being embedded in a continuous host matrix that does not contribute much to the rigidity of bamboo [12].  #@NEW_LINE#@#  Bamboo is a nature-designed FGM because the volume fraction of the fibers increases radially from the inner to the outer surface of the bamboo culm [11, 1523] (See Fig 1).  #@NEW_LINE#@#  The biased distribution of the fibers across the wall thickness is considered to enhance the flexural rigidity of the culm as a whole against crosswinds and bending because of gravity [15, 19].  #@NEW_LINE#@#  A closer look at the fiber distribution in the cross section, therefore, will lead us to an optimal design strategy for fiber-reinforced cylindrical composites inspired by the bamboo morphology [2426].  #@NEW_LINE#@#  
+A wild moso bamboo (Phyllostachys pubescens) was sampled and its cross section was observed with a microscope.  #@NEW_LINE#@#  The gradient distribution of the vascular bundles across the wall thickness is clearly observed.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0175029.g001  #@NEW_LINE#@#  
+In the present work, we have uncovered the strategy by which wild bamboo optimizes the radial distribution of the vascular bundles in the cross section.  #@NEW_LINE#@#  By imposing a few realistic assumptions, we have formulated the flexural rigidity of the fiber-reinforced cylindrical composites and identified the methodology of regulating the fiber distribution for maximizing the flexural rigidity.  #@NEW_LINE#@#  Surprisingly, the optimal fiber distribution that we have theoretical deduced is in quantitative agreement with the earlier experimental data of the vascular bundle distribution in wild moso bamboo.  #@NEW_LINE#@#  This agreement implies a self-optimizing property in the wild bamboos structure and provides us with an optimal design principle for the artificial cylindrical composites.  #@NEW_LINE#@#  
+
+Volume_fraction_of_the_fiber  #@NEW_LINE#@#  
+We model a bamboo culm as an elastic hollow cylinder with a radius, a, and a wall thickness, h. Refer Fig 2 for a diagram of the cylinders cross section.  #@NEW_LINE#@#  Over the section, the reinforcing fibers are scattered in a gradient from the inner hollow core to the outer surface in a radial direction.  #@NEW_LINE#@#  Our central hypothesis is that the volume fraction of the fibers, denoted by Vf(r), follows the expression below:  #@NEW_LINE#@#  
+(1)  #@NEW_LINE#@#  
+The assumption made in Eq (1) is based on a series of experimental measurements.  #@NEW_LINE#@#  An earlier work has suggested that the measured data, Vf(r), for the real bamboo can be well fitted by the curve of a gradually increasing function with respect to r. The precise form of the curve was found to be either linear [27], parabolic [6, 17], or other smooth curves [16, 23, 28], depending upon the bamboo species and the height of the culm section from the ground.  #@NEW_LINE#@#  Note that Eq (1) does not rule out the possibility that Vf(r) may be linear with respect to r, as the linearity is restored by setting, c2  0.  #@NEW_LINE#@#  
+The cross section of a hollow cylinder that mimics wild bamboo is depicted.  #@NEW_LINE#@#  The definitions of the geometric parameters, a and h, and the radial coordinates, r and , used in the analysis are presented.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0175029.g002  #@NEW_LINE#@#  
+In a real bamboos cross section, a limited (but large) number of vascular bundles are distributed optimally for maximizing the flexural rigidity of the entire culm.  #@NEW_LINE#@#  To explore the optimal distribution, we start from a virtual situation, wherein a given number of reinforcing fibers are uniformly scattered with equal density throughout the wall thickness; we then impose a spatial gradient to the fibers density, while maintaining the total number of fibers unchanged.  #@NEW_LINE#@#  In the initial virtual situation, Vf(r) is a constant, denoted by , at arbitrary positions in the cross section.  #@NEW_LINE#@#  After imposing a certain gradient, Vf(r) becomes r-dependent.  #@NEW_LINE#@#  The effect of the gradient distribution is thus evaluated by comparing the flexural rigidity obtained from the r-dependent Vf(r) with that from the constant .  #@NEW_LINE#@#  
+In tuning the degree of the spatial gradient imposed on the fiber density, we assume that the total number of vascular bundles is maintained at a constant.  #@NEW_LINE#@#  The hypothesis requires Vf(r) to follow the relationship:  #@NEW_LINE#@#  
+(2)  #@NEW_LINE#@#  
+The left side of Eq (2) represents the total number of vascular bundles that should be conserved.  #@NEW_LINE#@#  Substituting Eq (1) into the above, the conservation hypothesis is expressed in terms of the coefficients, cj, as:  #@NEW_LINE#@#  
+(3) Eq (3) indicates that one of the three coefficients, {cj} (j = 0, 1, 2), should be dependent on the remaining two.  #@NEW_LINE#@#  We choose c0 as the dependent variable and rewrite Eq (3) as:  #@NEW_LINE#@#  
+(4)  #@NEW_LINE#@#  
+We further impose the following assumptions:  #@NEW_LINE#@#  
+
+
+
+Vf(r) monotonically increases with respect to r; particularly, when c2  0, it is a downward convex.  #@NEW_LINE#@#  
+Vf(r) at the outer surface is suppressed by an upper limit denoted by .  #@NEW_LINE#@#  
+Vf(r) at the inner surface does not fall below a lower limit denoted by .  #@NEW_LINE#@#  
+
+The first of the three assumptions is based on experimental facts as mentioned earlier [6, 17, 27].  #@NEW_LINE#@#  Using mathematical expressions, it is represented as:  #@NEW_LINE#@#  
+(5)  #@NEW_LINE#@#  
+The latter two assumptions are represented as:  #@NEW_LINE#@#  
+(6)  #@NEW_LINE#@#  
+and  #@NEW_LINE#@#  
+(7)  #@NEW_LINE#@#  
+For the wild moso bamboo (Phyllostachys pubescens), for example,  and  were found to have values of ca.  #@NEW_LINE#@#  0.6 and 0.1, respectively [6, 1517, 23, 27].  #@NEW_LINE#@#  We will use these values in the subsequent discussion without loss of generality, because the conclusion obtained does not significantly depend on their numerical settings.  #@NEW_LINE#@#  
+It should be emphasized that the value of c0 cannot be set freely but is uniquely determined by those of c1 and c2, through Eq (4).  #@NEW_LINE#@#  As a consequence, the set of four inequalities Eqs (5)(7) specifies a closed polygonal domain in the c1-c2 coordinate space.  #@NEW_LINE#@#  From the domain, we will seek a pair of coefficients, (c1, c2), that maximize the flexural rigidity of the hollow cylinder.  #@NEW_LINE#@#  
+
+Flexural_rigidity  #@NEW_LINE#@#  
+We are in a position to derive the flexural rigidity, Dc, of the fiber-reinforced cylindrical composites under bending.  #@NEW_LINE#@#  It follows from the definition:  #@NEW_LINE#@#  
+(8)  #@NEW_LINE#@#  
+Here, Ec(r) represents the r-dependent local Youngs modulus of the cylindrical composite.  #@NEW_LINE#@#  In the present situation, it is a linear combination of the Youngs modulus of the reinforcing fiber, Ef and that of the host matrix, Em, expressed as:  #@NEW_LINE#@#  
+(9)  #@NEW_LINE#@#  
+Substituting Eqs (1) and (9) in Eq (8), we can express Dc as a quadratic form with respect to cj.  #@NEW_LINE#@#  Similarly, the counterpart for the virtual case of the constant fiber distribution, , is given by: .  #@NEW_LINE#@#  Thus, we have obtained the explicit forms of the flexural rigidity under two different conditions:  #@NEW_LINE#@#  
+(10) (11)  #@NEW_LINE#@#  
+with  #@NEW_LINE#@#  
+(12)  #@NEW_LINE#@#  
+It is to be noted again that c0 is not an independent variable but a linear combination of c1 and c2.  #@NEW_LINE#@#  As a consequence, both Dc and  are reduced to quadratic forms of c1 and c2.  #@NEW_LINE#@#  Our remaining task is, therefore, to find the optimal values of c1 and c2 that maximize Dc for a given set of parameters: , Ef, Em, a, and h. The effect of the functional gradient on the enhancement in Dc is quantified by,  #@NEW_LINE#@#  
+(13)  #@NEW_LINE#@#  
+Note that the last terms in the right sides of both the Eqs (10) and (11) do not contribute to , as they are identical to each other.  #@NEW_LINE#@#  
+
+Variable_transformation  #@NEW_LINE#@#  
+In the subsequent discussion, we normalize the radial coordinate, r, to  so that  at the innermost and  at the outermost surface.  #@NEW_LINE#@#  Using mathematical expressions, we transform r to :  #@NEW_LINE#@#  
+(14)  #@NEW_LINE#@#  
+that results in,  #@NEW_LINE#@#  
+(15)  #@NEW_LINE#@#  
+with the following coefficients:  #@NEW_LINE#@#  
+(16) (17) (18)  #@NEW_LINE#@#  
+Again, we assume that  is dependent on the remaining two; in addition, the four inequalities given by Eqs (5)(7) are rewritten in terms of  (j = 0, 1, 2), specifying a closed polygonal domain in the - space.  #@NEW_LINE#@#  
+
+Results_and_discussion  #@NEW_LINE#@#  
+Maximal_condition_for_the_flexural_rigidity  #@NEW_LINE#@#  
+
+Fig 3 shows the contour plots of the flexural rigidity, Dc, in the - space; the values of Dc are in the unit, Pa  m4.  #@NEW_LINE#@#  From panels (a) to (c),  is set to increase from 0.2 to 0.4 as indicated in the legend.  #@NEW_LINE#@#  For all the plots, we fixed the radius to be a = 10.0 cm and the wall thickness to be h = 1.5 cm, referring to the typical geometry of the real moso bamboos [29].  #@NEW_LINE#@#  In addition, we set Ef = 30 GPa and Em = 2 GPa also referring to moso bamboo [14, 16, 17, 21, 23, 27, 30].  #@NEW_LINE#@#  and  are fixed to be 0.6 and 0.1, respectively [6, 1517, 23, 27].  #@NEW_LINE#@#  
+In all the three panels, the magnitude of Dc increases monotonically from the bottom left to the upper right in the - space.  #@NEW_LINE#@#  The increase is however, truncated by one or a pair of boundary lines depicted by slanted dashed lines in the panels.  #@NEW_LINE#@#  The dashed line in red originates from the inequality of Eq (7), imposing the restriction that Vf at the inner surface (i.e., ) must be larger than .  #@NEW_LINE#@#  Similarly, the boundary line in blue is caused by the inequality of Eq (6), requiring that Vf at the outer surface (i.e., ) must not exceed .  #@NEW_LINE#@#  As a consequence, the two slanted lines set a closed domain (square or triangle) in the first quadrant of the - space.  #@NEW_LINE#@#  The area and shape of the domain depend upon the value of , as illustrated in Fig 3 because an increase in  causes the red (blue) slanted line to move upward (to the right side), while retaining its slope.  #@NEW_LINE#@#  
+An important observation in Fig 3 is that the relative configuration of the two slanted lines determines the position in the - space that maximizes Dc.  #@NEW_LINE#@#  In the case of Fig 3(a), for instance, the blue line is located at the far right from the origin, thus, it does not intersect with the red line in the first quadrant of the - space.  #@NEW_LINE#@#  As a result, Dc becomes maximum at the point, , namely, the intercept of the red line with respect to the  axis.  #@NEW_LINE#@#  A parallel argument holds for the case of Fig 3(c), in which the red line shifts far above; thus, Dc becomes maximum at the intercept of the blue line with respect to the  axis.  #@NEW_LINE#@#  An intermediate case is presented in Fig 3(b); the two slanted lines cross within the first quadrant of the space and the crossing point corresponds to the maximal point of Dc.  #@NEW_LINE#@#  Accordingly, the maximal point of Dc moves from the right bottom [see panel (a)] to the left top [see panel (c)] on increasing .  #@NEW_LINE#@#  
+The result mentioned above suggests a preferred strategy for the spatial gradient in the fiber density.  #@NEW_LINE#@#  If  is relatively small, a parabolic distribution (i.e., c1  0) is preferred for enhancing the Dc of the cylindrical composites.  #@NEW_LINE#@#  This is the case when the total number of reinforcing fibers is less and/or the fibers are considerably thin.  #@NEW_LINE#@#  Otherwise, if  is larger, a linear distribution (i.e., c2  0) is preferred for enhancing Dc.  #@NEW_LINE#@#  We also confirmed that a similar trend in the correlation between the preferred fiber distribution and the magnitude of  was observed in most of the various parameter conditions for  and , as well as, a and h, even though the degree of enhancement of Dc depends upon the choices of the parameter values.  #@NEW_LINE#@#  
+
+Variation_in_the_optimal_coefficients  #@NEW_LINE#@#  
+
+Fig 4 summarizes the systematic variation in the optimal coefficients,  (j = 0, 1, 2), associated with the change in .  #@NEW_LINE#@#  The material parameters,  and , as well as the geometric parameters, a and h, are all set to be identical to those used in Fig 3.  #@NEW_LINE#@#  The diagram shows that for , Dc is maximized by setting a parabolic distribution, , with specific values of  and .  #@NEW_LINE#@#  On the other hand, for , it is maximized by a linear distribution, , with specific values of  and .  #@NEW_LINE#@#  In-between , all the  (j = 0, 1, 2) take nonzero values.  #@NEW_LINE#@#  To depict an overall behavior, we introduced the concept of the three characteristic zones as shown in Fig 4.  #@NEW_LINE#@#  A parabolic (or linear) zone implies that for a given , the optimal radial distribution is given by a parabolic curve (linear straight line) of  characterized by  ().  #@NEW_LINE#@#  The two zones are separated by a transient zone in which both  and  provide certain contributions to the curve, .  #@NEW_LINE#@#  
+We have numerically checked that the conclusion holds for almost all the cylinder geometries (i.e., for all the selected values of a and h), while the precise locations of the zone boundaries and zone widths are dependent on the choices of the parameter values.  #@NEW_LINE#@#  For instance, if we set a = 10.0 cm and h = 10.0 cm, without changing the values of  and , the three line charts of , , and  shown in Fig 4 move collectively to the right.  #@NEW_LINE#@#  As a consequence, the parabolic-transient (p-t) zone boundary shifts to  and the transient-linear (t-l) zone boundary shifts to .  #@NEW_LINE#@#  In contrast, if we set a = 10.0 cm and h = 0.3 cm, the zone boundaries of p-t and t-l shift very slightly to the left to  and , respectively.  #@NEW_LINE#@#  Despite the translational shift of the zone boundaries, the overall profiles of the three line charts, (i.e., the combination of the two saw-tooth and the initially horizontal one, followed by a diagonal increase up to the right) are considerably robust against the variations in the value of h/a.  #@NEW_LINE#@#  
+It is to be further noted that the diagram shown in Fig 4 is completely invariant to the change in h and a, if the ratio h/a is maintained constant.  #@NEW_LINE#@#  This invariance facilitates the efficiency of our theoretical approach in describing the mechanics of the wild bamboo.  #@NEW_LINE#@#  It is widely accepted that in wild bamboo, the ratio of the two sectional areas, explained below as i) and ii), is constant throughout an individual bamboo culm [29]: i) the sectional area of the culms woody portion, i.e., 2ah deduced from Fig 1; ii) the sectional area of the circle enclosed by the outer surface, i.e., [a+(h/2)]2 from Fig 1.  #@NEW_LINE#@#  The constant ratio throughout the culm implies that the thickness-radius ratio (i.e., h/a) of the wild bamboo also has an identical value throughout an individual bamboo culm from the ground to the top [31].  #@NEW_LINE#@#  In the case of the moso bamboo, for example, it has a value, h/a  0.15, irrespective of the height above the ground level of the section, although the values of a and h are significantly dependent on the height.  #@NEW_LINE#@#  The quantitative uniqueness of h/a throughout a given bamboo culm and the robustness in the diagram shown in Fig 4 for a given value of h/a indicate that the diagram applies to culm sections at arbitrary heights from the ground.  #@NEW_LINE#@#  
+
+Optimal_fiber_distribution  #@NEW_LINE#@#  
+
+Fig 5(a) illustrates the evolution of the optimal fiber distribution curve on increasing .  #@NEW_LINE#@#  The same parameter values as those in Figs 3 and 4 are used.  #@NEW_LINE#@#  The remarkable fact is that the -driven change in the profile of the optimal  curve shown in Fig 5(a), is in quantitative agreement with the experimental data on the vascular bundle distribution within the wild moso bamboo.  #@NEW_LINE#@#  It was observed in Ref.  #@NEW_LINE#@#  [17] that in the wild moso bamboo, the best fitting curve for the radial distribution data of the vascular bundles varies gradually from parabolic to linear on changing the height of sampled culm sections.  #@NEW_LINE#@#  Namely, the section near the ground showed a relatively small  (ca.  #@NEW_LINE#@#  0.2), causing a parabolic distribution of the vascular bundles over the section.  #@NEW_LINE#@#  On the other hand, the section close to the top showed a larger  (ca.  #@NEW_LINE#@#  0.4), resulting in a linear distribution.  #@NEW_LINE#@#  These experimental observations are well reproduced by the theory that we have developed, as clearly proved in Fig 5(a); It is also reminiscent of the measurement reported in Ref.  #@NEW_LINE#@#  [17].  #@NEW_LINE#@#  The consistency between the theory and the experiment supports the validity of our hypothesis that wild bamboos regulate the spatial distribution of the vascular bundles within a section, thereby, maximizing their flexural rigidity.  #@NEW_LINE#@#  
+
+Fig 5(b) shows a monotonic growth in Dc with an increase in ; it also plots the  dependence of , the improvement ratio in the flexural rigidity induced by the gradient distribution of the fibers.  #@NEW_LINE#@#  The magnitude of  is maximized at  under the present condition, coinciding with the zone boundary that separates the parabolic and transient zones (see Fig 4).  #@NEW_LINE#@#  In this -maximal situation, the optimal distribution curve satisfies  at ,  at , and the degree of downward convexity in the curve of  is as large as possible.  #@NEW_LINE#@#  Beyond the -maximal situation, the degree of convexity is allowed to degrade on increasing  in order to maximize Dc, although  itself decreases, as observed in Fig 5(b).  #@NEW_LINE#@#  This causes a crossover from the parabolic zone to the linear zone, as shown in Figs 4 and 5(a).  #@NEW_LINE#@#  
+
+Comparison_with_experimental_data  #@NEW_LINE#@#  
+A direct comparison of our theoretical results for the optimal fiber distribution with the existing experimental data for wild bamboos assures the validity of the theory we have developed.  #@NEW_LINE#@#  Fig 6(a) depicts the experimentally measured values of the fibers volume fraction Vf in wild moso bamboos.  #@NEW_LINE#@#  The graph was originally demonstrated by Amada et al.  #@NEW_LINE#@#  in Ref.  #@NEW_LINE#@#  [17], and we have replicated it using image processing techniques.  #@NEW_LINE#@#  In Fig 6(a), the measured values of Vf are plotted as a function of the distance from the inner surface of the hollow culm.  #@NEW_LINE#@#  The index n in the legend represents the internode number from the ground; e.g., n = 1 at the bottommost internode for a given individual bamboo culm.  #@NEW_LINE#@#  The plot tells us that in wild moso bamboos, fibers embedded near the bottom of an entire culm distribute quadratically in the radial direction, while those near the top distribute almost linearly.  #@NEW_LINE#@#  
+The characteristic curves of Vf mentioned above are well reproduced using the theory we have developed, as shown in Fig 6(b).  #@NEW_LINE#@#  In the latter plot,  is fixed for all the curves; this definition follows from that  obtained from the experimental data fall within the range of 0.2 to 0.3 [See Fig 6(c)], for which the optimal value of  equals to 0.1 as was found in Fig 5(a).  #@NEW_LINE#@#  The set of parameters, (a[mm], h[mm]), is set to be (50.0, 9.2), (45.0, 8.0), (40.0, 6.7), and (12.5, 3.8) for n = 14, 15, 23 and 42, respectively.  #@NEW_LINE#@#  These values are all estimated from the experimental data shown in Fig 6(a).  #@NEW_LINE#@#  It is clearly observed that the distribution curves theoretically deduced are in good agreement with the curves obtained through the experiment by Amada et al.  #@NEW_LINE#@#  The agreement between the theory and experiment assures the optimality in the fiber distribution toward reinforcement of elastic hollow cylinders.  #@NEW_LINE#@#  
+
+
+Conclusion  #@NEW_LINE#@#  
+We have determined the optimal design principle for fiber-reinforced cylindrical composites, identical to that realized by wild bamboos.  #@NEW_LINE#@#  The theory that we have developed predicts that the most effective distribution of reinforcing fibers in the radial direction is to switch from a parabolic to a linear gradation with increasing the mean volume fraction of the fibers.  #@NEW_LINE#@#  This theoretical consequence matches quantitatively with the real vascular bundle distribution observed in sections of the wild bamboos.  #@NEW_LINE#@#  It is hoped that our results will open new avenues in the bio-inspired optimal design of cylindrical FGMs endowed with high-stiffness and lightweight properties.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Fig_Photo_of_bamboo_s_cross_section  #@NEW_LINE#@#  
+The original graphics data of the bamboos cross section presented in the left-hand panel of Fig 1.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s001  #@NEW_LINE#@#  
+(JPG)  #@NEW_LINE#@#  
+
+S2_Fig_Closed-up_photo  #@NEW_LINE#@#  
+The original photo data of the enhanced photo shown in the right-hand panel of Fig 1.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s002  #@NEW_LINE#@#  
+(JPG)  #@NEW_LINE#@#  
+
+S1_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 3a.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s003  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S2_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 3b.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s004  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S3_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 3c.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s005  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S4_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 4.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s006  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S5_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 5b.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s007  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S6_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 6a.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s008  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+S7_File_Numeric_data  #@NEW_LINE#@#  
+The original numeric data for producing Fig 6c.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0175029.s009  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+Technical assistance provided by Mr. Toshiyuki Tanigaki and Mr. Sho Miyakawa would be greatly acknowledged.  #@NEW_LINE#@#  We also thank Editage, a division of Cactus Communications, for their support activities for the 2016 Kumamoto Earthquake.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: MS AI HS.  #@NEW_LINE#@#  
+Data curation: HS.  #@NEW_LINE#@#  
+Formal analysis: MS HS.  #@NEW_LINE#@#  
+Funding acquisition: MS AI HS.  #@NEW_LINE#@#  
+Investigation: MS AI HS.  #@NEW_LINE#@#  
+Methodology: MS HS.  #@NEW_LINE#@#  
+Project administration: MS HS.  #@NEW_LINE#@#  
+Software: HS.  #@NEW_LINE#@#  
+Supervision: HS.  #@NEW_LINE#@#  
+Visualization: MS AI HS.  #@NEW_LINE#@#  
+Writing  original draft: HS.  #@NEW_LINE#@#  
+Writing  review & editing: MS AI HS.  #@NEW_LINE#@#  
+
+
+References  #@NEW_LINE#@#  
+
+
+

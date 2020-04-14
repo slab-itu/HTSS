@@ -1,0 +1,109 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0183175"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Did saber-tooth kittens grow up musclebound?  #@NEW_LINE#@#  A study of postnatal limb bone allometry in felids from the Pleistocene of Rancho La Brea  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Previous studies have demonstrated that the Pleistocene saber-toothed cat Smilodon fatalis had many forelimb adaptations for increased strength, presumably to grapple with and subdue prey.  #@NEW_LINE#@#  The Rancho La Brea tar pits yield large samples of juvenile limb bones forming a growth series that allow us to examine how Smilodon kittens grew up.  #@NEW_LINE#@#  Almost all available juvenile limb bones were measured, and reduced major axis fits were calculated to determine the allometric growth trends.  #@NEW_LINE#@#  Contrary to expectations based on their robust limbs, Smilodon kittens show the typical pattern of growth found in other large felids (such as the Ice Age lion, Panthera atrox, as well as living tigers, cougars, servals, and wildcats) where the limb grows longer and more slender faster than they grow thick.  #@NEW_LINE#@#  This adaptation is thought to give felids greater running speed.  #@NEW_LINE#@#  Smilodon kittens do not grow increasingly more robust with age.  #@NEW_LINE#@#  Instead, they start out robust and follow the ancestral felid growth pattern, while maintaining their robustness compared to other felids.  #@NEW_LINE#@#  Apparently, the growth of felid forelimbs is highly canalized and their ontogeny is tightly constrained.  #@NEW_LINE#@#  
+
+Citation: Long K, Prothero D, Madan M, Syverson VJP (2017) Did saber-tooth kittens grow up musclebound?  #@NEW_LINE#@#  A study of postnatal limb bone allometry in felids from the Pleistocene of Rancho La Brea.  #@NEW_LINE#@#  PLoS ONE 12(9):  #@NEW_LINE#@#  
+           e0183175.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0183175  #@NEW_LINE#@#  
+Editor: Thierry Smith, Royal Belgian Institute of Natural Sciences, BELGIUM  #@NEW_LINE#@#  
+Received: February 6, 2017; Accepted: July 31, 2017; Published:  September 27, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Long et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: The authors received no specific funding for this work.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+For decades, paleontologists have noted that saber-toothed cats, such as the North American Pleistocene Smilodon fatalis, are more robustly built (Fig 1) than most felids [110].  #@NEW_LINE#@#  Most recent authors have concluded that saber-toothed predators probably killed their prey with quick slashing bites to the throat, using powerful forelimbs to hold the prey down during attack [210].  #@NEW_LINE#@#  Meachen-Samuels and Van Valkenburgh [9] used X-radiographs to show that Smilodon forelimbs were more robust and had thicker cortical bone than comparable bones of most other similar-sized felids.  #@NEW_LINE#@#  
+The light-colored bone on the left end is the cougar, Puma concolor; the light-colored bone second from left is the tiger, Panthera tigris; the dark bone(s) in the middle are Smilodon fatalis; the light-colored bone second from right is the lion, Panthera leo; the dark bone on the right is the Ice Age lion, Panthera atrox;.  #@NEW_LINE#@#  Scale bar in cm.  #@NEW_LINE#@#  A. Humerus.  #@NEW_LINE#@#  B. Ulna.  #@NEW_LINE#@#  C. Radius.  #@NEW_LINE#@#  Photos by DRP.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.g001  #@NEW_LINE#@#  
+But how and when did Smilodon kittens acquire their robust forelimbs as they grew?  #@NEW_LINE#@#  Do they have a more robust growth pattern than other felids, or do they achieve this robustness by other means?  #@NEW_LINE#@#  Very few fossil mammals are known from enough juvenile limb bones to assess this question.  #@NEW_LINE#@#  However, the collections of late Pleistocene fossils from Rancho La Brea tar pits yield thousands of bones of Smilodon fatalis and the contemporary tiger-sized felid Panthera atrox, including hundreds of juvenile bones in various ontogenetic stages (Fig 2).  #@NEW_LINE#@#  These are among the few fossil collections in the world that allow research in postnatal ontogenetic allometry.  #@NEW_LINE#@#  
+A. Tibia.  #@NEW_LINE#@#  B. Femora.  #@NEW_LINE#@#  Photos by DRP.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.g002  #@NEW_LINE#@#  
+Until recently, there was very little published literature on postnatal ontogenetic allometry of living mammals to allow comparison with the fossil samples at Rancho La Brea.  #@NEW_LINE#@#  Kilbourne and Makovicky [11] provided the first published data on postnatal long-bone growth in several living felids, including the tiger (Panthera tigris), the cougar (Puma concolor), the Old World wildcat (Felis silvestris), and the serval (Leptailurus serval).  #@NEW_LINE#@#  Their data and analyses provide a standard to which we can compare juvenile bones of La Brea felids.  #@NEW_LINE#@#  
+Kilbourne and Makovicky [11] found that many living felids show evidence of more rapid growth of the length of their distal limb elements, relative to their cross-sectional area, so their limbs become more gracile as they grow.  #@NEW_LINE#@#  This is a common adaptation of many cursorial mammals, which have lengthened their distal limb elements (radius, ulna, tibia) relative to bone shaft thickness.  #@NEW_LINE#@#  Biomechanical studies have shown that this decreases the rotational inertia in longer-limbed animals [12, 13].  #@NEW_LINE#@#  In this study, we compare the tiger-sized Panthera atrox to determine whether it grew to its adult body proportions in the same way as do modern tiger kittens.  #@NEW_LINE#@#  We also wanted to see if Smilodon fatalis kittens grew up with the same changes in their limb proportions as other felids, or with a more robust ontogenetic limb growth pattern than other felids.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+We measured nearly every unbroken juvenile humerus, radius, femur, and tibia of S. fatalis and P. atrox in the collections of the La Brea Tar Pits Museum (formerly the George C. Page Museum) to get the largest sample size possible for this analysis.  #@NEW_LINE#@#  These specimens have a variety of different catalogue numbering systems, but all come from the main curated collection in the La Brea Tar Pits Museum.  #@NEW_LINE#@#  Catalogue numbers of all specimens are given in the original data tables (S1 Table, S2 Table).  #@NEW_LINE#@#  Sample sizes are given in Tables 18; original data are given in the Supplementary Tables.  #@NEW_LINE#@#  Measurements were made following the protocols of Kilbourne and Makovicky [11], focusing on measuring the length of the diaphysis of the shaft of each bone.  #@NEW_LINE#@#  In the case of adult or subadult bones, measurements of shaft length were made from the diaphyseal-epiphyseal sutures.  #@NEW_LINE#@#  Measurements shorter than 460 mm were made with metric digital calipers; those over 460 mm, and circumference measurements, were made with a flexible metric measuring tape.  #@NEW_LINE#@#  In addition to measuring diaphysis length, we measured midshaft circumference, and two linear measures of the midshaft: lateral width and antero-posterior depth.  #@NEW_LINE#@#  This allowed us to compare diaphysis lengths to both circumference, and also cross-sectional area.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t001  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t002  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t003  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t004  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t005  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t006  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t007  #@NEW_LINE#@#  
+Conventions as in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.t008  #@NEW_LINE#@#  
+Basic statistics and regressions were calculated and plotted using Microsoft Excel.  #@NEW_LINE#@#  Although they do not state it clearly, Kilbourne and Makovicky [11] plotted length on the ordinate and circumference on the abscissa, so that convention is followed here as well.  #@NEW_LINE#@#  Following the conventions of allometric studies, raw data were log-transformed using natural logs, and plotted in log-log space, so that the exponential slope of allometry would give a simple linear slope.  #@NEW_LINE#@#  We used Excel to calculate the simple least-squares regression of the data.  #@NEW_LINE#@#  Since there is no dependent or independent variable in this study, as the least-squares regression method assumes, we adopted the more commonly used Reduced Major Axis (RMA) method of correlation to determine the slope between the two variables (calculated using the smatr software routine for the R software package) (S3 Table).  #@NEW_LINE#@#  This software package also calculates the slope confidence interval (CI).  #@NEW_LINE#@#  However, we found there were slight differences between our RMA results and those published by Kilbourne and Makovicky [11], even when we analyzed their original data with the R software package.  #@NEW_LINE#@#  Consequently, in Tables 1, 3, 5 and 7, we calculated all our own results, rather than reprint the numbers given by Kilbourne and Makovicky [11].  #@NEW_LINE#@#  
+We followed the conventions of Kilbourne and Makovicky [11] in plotting length vs. circumference, which should give an isometric slope in log-log space of approximately 1.0 (linear dimension vs. linear dimension).  #@NEW_LINE#@#  This allowed us to compare our results to the data of living mammals examined by Kilbourne and Makovicky [11].  #@NEW_LINE#@#  We also calculated cross-sectional area and compared it to shaft length, to see if it scaled along the expected isometric slope of 2.0 (length vs. area), or if it was significantly allometric with a slope very different from 2.0.  #@NEW_LINE#@#  Supporting information is available elsewhere (S1 Table and S2 Table)  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Length_vs_circumference  #@NEW_LINE#@#  
+Our results are plotted in Figs 3 and 4, and reported in Tables 1, 3, 5 and 7.  #@NEW_LINE#@#  Using a least-squares regression analysis first, we found very high correlation coefficients (R2) ranging from 0.793 to 0.932 in S. fatalis, which had larger sample sizes, and from 0.733 to 0.906 for P. atrox, which had fewer specimens.  #@NEW_LINE#@#  Least-squares regression slopes ranged from 1.01.5 in S. fatalis, suggesting that all its limb bones became more robust as it grew, and from 0.7 to 1.2 in P. atrox, with the front limbs giving more robust slopes, and the hind limbs close to isometric growth.  #@NEW_LINE#@#  In every case, the least-squares regression slopes of the La Brea cats were in the same range of values as the slopes for living cats, suggesting that they have very similar growth trends.  #@NEW_LINE#@#  
+Since there is no independent or dependent variable in this analysis, we calculated a reduced major axis instead of using the least-squares slope.  #@NEW_LINE#@#  First, we examined P. atrox (Fig 3), whose limbs might be expected to grow more gracile like those of a tiger or any other very large cat.  #@NEW_LINE#@#  The RMA slope for the humerus (Fig 3B) is 1.32, almost identical to the 1.36 slope of the tiger and most other living cats, and statistically gracile.  #@NEW_LINE#@#  The hind limb RMA slopes are 1.63 for the femur (Fig 3F) and 1.08 for the tibia (Fig 3H), again suggesting gracile to isometric growth in these limbs, and very similar to the gracile slopes seen in the living felids.  #@NEW_LINE#@#  Interestingly, the radius gives a slope of 0.34 (Fig 3D), which would indicate robust proportions.  #@NEW_LINE#@#  However, this is based on only eight specimens, the smallest sample in the entire study, so it might be affected by small sample size and inadequate range of sizes from smallest juveniles to adults.  #@NEW_LINE#@#  Likewise, the confidence interval for the RMA of most of the P. atrox is relatively large because of the small sample sizes, so the slopes of most of the limbs are not significantly different from isometric growth.  #@NEW_LINE#@#  
+What about the slopes for Smilodon?  #@NEW_LINE#@#  Do they grow more robust, as predicted from previous research, or are they gracile like other cats?  #@NEW_LINE#@#  The humerus RMA slope (Fig 3A) is 1.65 and the radius RMA slope (Fig 3C) is 1.44, which are as gracile or more gracile than nearly all the other cats in the study, so they do not show a growth pattern of increasing robustness, contrary to expectations.  #@NEW_LINE#@#  There is no expectation that the hind limbs would be particularly robust, and indeed their RMA slopes are 1.65 for the femur (Fig 3E) and 1.71 for the tibia (Fig 3G), the most gracile of all the cats in this study.  #@NEW_LINE#@#  Due to the large sample sizes, nearly all the Smilodon slopes are statistically significant, and small confidence intervals show they are significantly different from the isometric slope, and even from other comparably sized cats like the tiger.  #@NEW_LINE#@#  
+
+Length_vs_cross-sectional_area  #@NEW_LINE#@#  
+The results of the comparisons of length vs. cross-sectional area are shown in Tables 2, 4, 6 and 8, and Figs 3 and 4.  #@NEW_LINE#@#  The RMA slopes for both S. fatalis and P. atrox on all four limbs range from 0.400.77, which are very close to the 0.5 slope for isometric growth expected for a linear dimension vs. a squared dimension.  #@NEW_LINE#@#  The least squares results also give slopes in 0.40.7 range, consistent with the RMA slopes.  #@NEW_LINE#@#  This is a bit different from the isometric to gracile slopes of length vs. circumference, but clearly by this measure, they do not appear to be noticeably robust, nor is S. fatalis much different from P. atrox.  #@NEW_LINE#@#  Unfortunately, there are no published data for the length vs. area of limb bones in living cats to compare to, so the meaning of this result cannot be assessed comparatively.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+As many paleontologists have long demonstrated, Smilodon forelimbs show many robust features of their shafts and articular surfaces (Fig 1), compared to other large cats of comparable size [110].  #@NEW_LINE#@#  For example, the forelimb bones of S. fatalis are roughly the same length as those of the tiger, P. tigris, but the shafts of the humerus, ulna and radius are noticeably thicker in S. fatalis than in P. tigris, and they have broad articular surfaces with much heavier bony ridges and processes.  #@NEW_LINE#@#  As Meacham-Samuels and Van Valkenburgh [9] demonstrated, S. fatalis also has thickened cortical bone as compared to other similar-sized cats.  #@NEW_LINE#@#  However, we have neither the expertise nor the access to the appropriate equipment to exam the change in cortical thickness through growth.  #@NEW_LINE#@#  Based on the results of this study, however, we predict that the cortical thickness of forelimb bones in Smilodon will be relatively thicker than that of any other felid, even in the youngest kittens.  #@NEW_LINE#@#  
+Thus, there is no question that based on adult bones, S. fatalis was much more robust in its forelimbs than other felids of comparable size.  #@NEW_LINE#@#  This is consistent with the idea that they were ambush predators rather than pursuit predators, and used their powerful forelimbs to quickly wrestle prey to the ground and pin it before slashing its vulnerable throat or belly with their saber-like canines.  #@NEW_LINE#@#  
+However, there is no relative increase in robustness during growth of the forelimbs of Smilodon kittens compared to other felids (Figs 3 and 4, Tables 18).  #@NEW_LINE#@#  Instead, the dimensions of these bones follow the same trends as in other large cats, and nearly all their limbs (including the forelimbs) scale with the same gracility as other large cats.  #@NEW_LINE#@#  
+If saber-tooth kittens grew with the same gracile trends as other large felids, how did they achieve their remarkably robust adult forelimbs?  #@NEW_LINE#@#  It is clear that the felid hallmark of increasing gracility of the limb bones during ontogeny was not changed by the need for robust limbs in adult Smilodon.  #@NEW_LINE#@#  Saber-tooth kitten growth does not override the canalized pattern of development of most felids to have long, gracile development of their limbs for running.  #@NEW_LINE#@#  
+Instead, saber-tooth kittens achieved their adult limb proportions by starting out with relatively robust limbs when they were young kittens (Fig 5).  #@NEW_LINE#@#  In Fig 5, the growth curve of saber-tooth kittens has the same slope as those of tiger or cougar kittens, but it is shifted toward the more robust direction in the axes.  #@NEW_LINE#@#  For the same length, the saber-tooth kitten forelimb element (humerus or radius) always has a larger circumference than a comparably sized tiger or cougar.  #@NEW_LINE#@#  This is also indicated by the Y-intercept of the regression line of the humerus and radius, which was always higher in Smilodon than in the tiger (Tables 1 and 3).  #@NEW_LINE#@#  Thus, the unique features of robustness in S. fatalis forelimbs are achieved by starting with robust juvenile limb proportions, and they did not reprogram or override the primitive growth pattern of gracility inherent in felid ontogeny.  #@NEW_LINE#@#  
+In each case, the slope of their growth trend is the same, showing that all large felids grow along a common pattern emphasizing gracile forelimbs and cursoriality.  #@NEW_LINE#@#  However, the robustness of adult Smilodon forelimbs is achieved not by shifting the slope of the growth curve toward more robust directions in the axes, but by starting with more robust limbs as a kitten and maintaining the same growth trends as found in other felids.  #@NEW_LINE#@#  A. Humerus.  #@NEW_LINE#@#  B. Radius.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0183175.g005  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Table_Original_data_for_Smilodon_fatalis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0183175.s001  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_Original_data_for_Panthera_atrox  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0183175.s002  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_Results_of_reduced_major_axis_analysis  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0183175.s003  #@NEW_LINE#@#  
+(TXT)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We thank A. Farrell and G. Takeuchi for access to the specimens, B. Kilbourne and P. Makovicky for providing their original data files, and F. Solé and A. Cuff for critical comments on the manuscript.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

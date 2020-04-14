@@ -1,0 +1,33 @@
+article id="http://dx.doi.org/10.1371/journal.pbio.2000933"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Languages Are Still a Major Barrier to Global Science  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+While it is recognized that language can pose a barrier to the transfer of scientific knowledge, the convergence on English as the global language of science may suggest that this problem has been resolved.  #@NEW_LINE#@#  However, our survey searching Google Scholar in 16 languages revealed that 35.6% of 75,513 scientific documents on biodiversity conservation published in 2014 were not in English.  #@NEW_LINE#@#  Ignoring such non-English knowledge can cause biases in our understanding of study systems.  #@NEW_LINE#@#  Furthermore, as publication in English has become prevalent, scientific knowledge is often unavailable in local languages.  #@NEW_LINE#@#  This hinders its use by field practitioners and policy makers for local environmental issues; 54% of protected area directors in Spain identified languages as a barrier.  #@NEW_LINE#@#  We urge scientific communities to make a more concerted effort to tackle this problem and propose potential approaches both for compiling non-English scientific knowledge effectively and for enhancing the multilingualization of new and existing knowledge available only in English for the users of such knowledge.  #@NEW_LINE#@#  
+
+Citation: Amano T, González-Varo JP, Sutherland WJ (2016) Languages Are Still a Major Barrier to Global Science.  #@NEW_LINE#@#  PLoS Biol 14(12):  #@NEW_LINE#@#  
+           e2000933.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pbio.2000933  #@NEW_LINE#@#  
+Published:  December 29, 2016  #@NEW_LINE#@#  
+Copyright:  © 2016 Amano et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Funding: European Commissions Marie Curie International Incoming Fellowship Programme (grant number PIIF-GA-2011-303221).  #@NEW_LINE#@#  Received by TA.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  European Commission's Marie Sklodowska-Curie Actions (grant number H2020-MSCA-IF-2014- 656572).  #@NEW_LINE#@#  Received by JPGV.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  Isaac Newton Trust (grant number 15.23(s)).  #@NEW_LINE#@#  Received by TA and WJS.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  Arcadia Fund.  #@NEW_LINE#@#  Received by WJS.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  Grantham Foundation for the Protection of the Environment.  #@NEW_LINE#@#  Received by TA.  #@NEW_LINE#@#  The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          IPBES,  #@NEW_LINE#@#  
+            Intergovernmental Platform on Biodiversity and Ecosystem Services  #@NEW_LINE#@#  
+Provenance: Not commissioned; externally peer reviewed.  #@NEW_LINE#@#  
+Each square represents 50 documents.  #@NEW_LINE#@#  The flags merely represent the language of each document, not where the work originated.  #@NEW_LINE#@#  See S1 Table for more detail.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2000933.g001  #@NEW_LINE#@#  
+Each square represents one document.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2000933.g002  #@NEW_LINE#@#  
+Each square represents one document.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2000933.g003  #@NEW_LINE#@#  
+
+

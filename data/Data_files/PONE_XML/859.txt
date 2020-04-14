@@ -1,0 +1,152 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0195592"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Does chlorhexidine reduce bacteremia following tooth extraction?  #@NEW_LINE#@#  A systematic review and meta-analysis  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background_and_aims  #@NEW_LINE#@#  
+Scientific evidence is not clear regarding the use of antimicrobial mouth rinse before dental extraction to reduce bacteremia.  #@NEW_LINE#@#  We tested the null hypothesis that there would be no difference in the incidence of bacteremia following dental extractions in patients treated with or without chlorhexidine.  #@NEW_LINE#@#  
+
+Material_and_methods  #@NEW_LINE#@#  
+We conducted a meta-analysis following the recommendations proposed by PRISMA Preferred Reporting Items for Systematic Reviews and Meta-Analyses.  #@NEW_LINE#@#  The data sources Pubmed, Cochrane, Web of Science, Science Direct, Scopus, and Ovid MD were searched until April 30, 2017.  #@NEW_LINE#@#  (chlorhexidine) AND (bacteremia OR bacteraemia) AND (extraction OR removal) were used as key words in a free-text search.  #@NEW_LINE#@#  Published meeting abstracts were searched.  #@NEW_LINE#@#  The references of each article were reviewed.  #@NEW_LINE#@#  We only included randomized controlled clinical trials.  #@NEW_LINE#@#  There were no restrictions regarding language or date of publication.  #@NEW_LINE#@#  The outcome measure was the incidence of the bacteremia measured within the first ten minutes post-extraction.  #@NEW_LINE#@#  Two reviewers independently undertook the risk of bias assessment and data extraction.  #@NEW_LINE#@#  A fixed-effects inverse variance weighted meta-analysis was conducted.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Out of 18 studies, eight eligible trials with 523 participants were selected, 267 in the experimental group and 256 in the control group: risk ratio = 0.882 (95% confidence interval 0.799 to 0.975; p = 0.014), heterogeneity I2 = 13.07%, and p = 0.33.  #@NEW_LINE#@#  The number needed to treat was 16 (95% CI 7-Infinity).  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Approximately 12% of bacteremia cases can be prevented if a population is exposed to chlorhexidine.  #@NEW_LINE#@#  CRD42016046586.  #@NEW_LINE#@#  
+
+
+Introduction  #@NEW_LINE#@#  
+Tooth extractions almost always cause bacteremia due to the large presence of bacteria in the oral cavity [1].  #@NEW_LINE#@#  The importance of this transient bacteremia in the pathogenesis of infectious endocarditis (IE) and prosthesis infection and whether it contributes to local infection after oral surgeries [2] are controversial.  #@NEW_LINE#@#  
+Studies have shown that chlorhexidine mouthwash has a strong antimicrobial effect on saliva microflora [3,4] and supragingival plaque [5].  #@NEW_LINE#@#  For these reasons, one should assume that antimicrobial mouthwashes used by the patient before a dental procedure should decrease the number of microorganisms introduced into the patients bloodstream.  #@NEW_LINE#@#  However, the scientific evidence is not clear.  #@NEW_LINE#@#  The American Heart Association (AHA) in 1997 [6] suggested that patients at risk for IE should use an antimicrobial mouthwash before dental treatment.  #@NEW_LINE#@#  In 2006, the British Society for Antimicrobial Chemotherapy (BSAC) [7] recommended a single mouthwash with 0.2% chlorhexidine (CHX) (10 ml for 1 minute) before dental procedures associated with bacteremia in patients at risk of IE.  #@NEW_LINE#@#  However, in 2007, the AHA [8] recommended against the use of any antiseptic prophylaxis protocol.  #@NEW_LINE#@#  The National Institute for Health and Care Excellence [9] (2008) recommended that chlorhexidine mouthwash should not be offered as prophylaxis against IE to people at risk of IE undergoing dental procedures.  #@NEW_LINE#@#  
+Chlorhexidine has been the most widely researched antiseptic for the prevention of bacteremia after dental manipulations, although contradictory results have been reported in the literature [10, 11].  #@NEW_LINE#@#  
+We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) to evaluate the efficacy of chlorhexidine administered pre-dental extraction to prevent bacteremia.  #@NEW_LINE#@#  We tested the null hypothesis that there was no difference in bacteremia following dental extractions in patients being treated with or without chlorhexidine.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+The research was conducted and reported in accordance with the recommendations in the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement [12].  #@NEW_LINE#@#  
+The terms searched were descriptors per the Patient, Intervention, Comparison and Outcome (PICO) component.  #@NEW_LINE#@#  
+Protocol_and_registration  #@NEW_LINE#@#  
+The review registration information is available in the PROSPERO international prospective register of systematic reviews.  #@NEW_LINE#@#  https://www.crd.york.ac.uk/prospero/register_new_review.asp  #@NEW_LINE#@#  
+The registration number is CRD42016046586.  #@NEW_LINE#@#  
+Public repository dx.doi.org/10.17504/protocols.io.m65c9g6  #@NEW_LINE#@#  
+
+Eligibility_criteria  #@NEW_LINE#@#  
+We selected studies that included patients who were adults over 18 years old and of any gender who underwent the extraction of any tooth.  #@NEW_LINE#@#  For intervention, we included trials that analyzed the efficacy of chlorhexidine mouthwash at any dose or regime.  #@NEW_LINE#@#  For comparisons, we exclusively included randomized controlled clinical trials (RCTs) without excluding those with split-mouth designs.  #@NEW_LINE#@#  The outcome was the incidence of bacteremia within the first ten minutes after extraction.  #@NEW_LINE#@#  For the results of interest, the search was not restricted by language.  #@NEW_LINE#@#  The bibliographic search began on March 2, 2015, and ended in all databases on April 30, 2017.  #@NEW_LINE#@#  
+
+Information_sources  #@NEW_LINE#@#  
+The electronic databases consulted were Medline/PubMed, Scopus, ScienceDirect, Web of Science, Evidence-Based Dentistry, ClinicalTrials.gov, the EU Clinical Trials Register, Cochrane Central Register of Controlled Trials, Spanish General University Board database of doctoral theses in Spain (TESEO) and Spanish National Research Council (CSIC) bibliographic databases.  #@NEW_LINE#@#  
+
+Search  #@NEW_LINE#@#  
+The search terms selected were descriptors of each PICO component: extraction; removal; tooth; chlorhexidine; and bacteremia.  #@NEW_LINE#@#  The following filters were applied: humans, clinical trials, meta-analysis, and randomized controlled trials.  #@NEW_LINE#@#  The electronic search in the Medline/PubMed database was done using MeSH strings and search algorithms connected with Boolean operators as keywords for titles and abstracts.  #@NEW_LINE#@#  Specifically, we used the following search strategy: (randomized controlled trials OR controlled clinical trial OR randomized controlled trials OR random allocation OR double blind method OR single blind method OR clinical trial OR clinical trials OR (clinical trial) OR ((singl* OR doubl* OR trebl* OR tripl*) AND (mask* OR blind*)) OR (latin square) OR placebos OR placebo* OR random* OR research design OR comparative study OR evaluation studies OR follow-up studies OR prospective studies OR cross-over studies OR control* OR prospectiv* OR volunteer*) NOT animal AND (chlorhexidine) AND (bacteremia OR bacteraemia) AND (extraction OR removal).  #@NEW_LINE#@#  
+We reviewed the references of all papers retrieved.  #@NEW_LINE#@#  We searched for conference abstracts, and when potentially unpublished work was identified, we contacted the corresponding authors to request a copy of the study report.  #@NEW_LINE#@#  
+
+Study_selection  #@NEW_LINE#@#  
+Two researchers performed the database searches separately using the aforementioned criteria.  #@NEW_LINE#@#  The titles and abstracts of all reports identified were read separately by the two authors.  #@NEW_LINE#@#  The full report was obtained for those studies that appeared to meet the inclusion criteria or for those in which there was insufficient information in the title or abstract to make a decision.  #@NEW_LINE#@#  A third researcher was consulted in the case of disagreements.  #@NEW_LINE#@#  A total of 102 records remained after duplicates were removed.  #@NEW_LINE#@#  Eighty-four were discarded as not relevant based on title and abstract.  #@NEW_LINE#@#  Eighteen full-text articles were assessed for eligibility.  #@NEW_LINE#@#  Ten were excluded for the following reasons: the article referenced another article, the incidence of bacteremia after extraction was not the outcome of interest, the study was carried out only in children, and the most frequent reason was that the study was not a randomized clinical trial.  #@NEW_LINE#@#  
+
+Data_collection  #@NEW_LINE#@#  
+The selected studies were examined separately by two researchers, both of whom extracted data from each paper.  #@NEW_LINE#@#  When explicit data on some variables were not stated in the text, they were calculated using data from tables when possible.  #@NEW_LINE#@#  
+
+Data_items  #@NEW_LINE#@#  
+The following data were extracted for each study included in the meta-analysis: primary author, year of publication, location, recruitment period, number of patients randomized to each study group, details of the surgical procedure and the randomization method, time of collection of blood samples for culture, antiseptic used (including the concentration and dosage form) and the regimen ((dose and guideline), of administration of the antiseptic in each study group, the most bacteria most often identified in the cultures, the incidence of bacteremia according to the time of assessment and the bacteremia data selected for our meta-analysis.  #@NEW_LINE#@#  Details about adverse reactions, exclusions, withdrawals and losses were also recorded.  #@NEW_LINE#@#  
+
+Risk_of_bias_in_individual_studies  #@NEW_LINE#@#  
+The quality of the clinical trials was assessed via the Oxford Quality Scale [13].  #@NEW_LINE#@#  
+
+Summary_measures  #@NEW_LINE#@#  
+The efficacy of the treatment was assessed using the relative risk (RR) and preventable fraction.  #@NEW_LINE#@#  The preventable fraction indicated the percentage of bacteremia cases that would be avoided by treating the control group with chlorhexidine.  #@NEW_LINE#@#  The effectiveness of the treatment with chlorhexidine was assessed via the number needed to treat (NNT) and number needed to harm (NNH).  #@NEW_LINE#@#  
+
+Synthesis_of_results  #@NEW_LINE#@#  
+All analyses were carried out with StataCorp 2011 Stata Statistical Software: Release 12 (College Station, TX, USA: StataCorp LP).  #@NEW_LINE#@#  We assessed the heterogeneity of the different studies using the I2 test.  #@NEW_LINE#@#  The overall RR resulting from combining different studies was calculated with a fixed-effects model with weights calculated using the inverse of variance method, and the Mantel-Haenszel method.  #@NEW_LINE#@#  
+
+Risk_of_bias_across_the_studies  #@NEW_LINE#@#  
+The publication bias was assessed graphically using a funnel plot and quantitatively using the methods described by Begg, Egger, Macaskill and Rosenthal.  #@NEW_LINE#@#  [12]  #@NEW_LINE#@#  
+
+Additional_analyses  #@NEW_LINE#@#  
+We also carried out a cumulative meta-analysis by publication date, an analysis of influence and an analysis of adverse reactions.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Study_selection  #@NEW_LINE#@#  
+The study selection process is summarized in Fig 1.  #@NEW_LINE#@#  Ten full text articles were excluded with reasons [1423].  #@NEW_LINE#@#  
+Flow diagram showing the study identification, screening and inclusion process.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0195592.g001  #@NEW_LINE#@#  
+
+Study_characteristics  #@NEW_LINE#@#  
+The detailed data of the 8 studies included in the meta-analysis [10, 11, 2429] are listed in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0195592.t001  #@NEW_LINE#@#  
+
+Risk_of_bias_within_studies  #@NEW_LINE#@#  
+Table 2 illustrates the estimated risk of bias in each of the studies.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0195592.t002  #@NEW_LINE#@#  
+Despite the identification of potential sources of bias, none of the studies were excluded for this reason.  #@NEW_LINE#@#  
+
+Results_of_individual_studies  #@NEW_LINE#@#  
+The forest plot Fig 2 is a graphical representation of the relative risks (RRs) and 95% confidence interval (Cl) estimates based on the samples in each of the studies, together with their relative weights.  #@NEW_LINE#@#  
+Relative risks (RR) for the effect of treatment with chlorhexidine on the incidence of bacteremia compared to control groups.  #@NEW_LINE#@#  Fixed-effect inverse variance weighted meta-analysis.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0195592.g002  #@NEW_LINE#@#  
+
+Synthesis_of_results  #@NEW_LINE#@#  
+Efficacy_analysis  #@NEW_LINE#@#  
+The quantitative analysis included 523 patients (267 in the experimental group, in which 145 cases of bacteremia were recorded, and 256 in the control group, in which 156 cases of bacteremia occurred).  #@NEW_LINE#@#  The overall RR was 0.882, with a 95% CI of 0.799 to 0.975; this was statistically significant (p = 0.014).  #@NEW_LINE#@#  The preventable faction was 0.118, indicating that the percentage of bacteremia cases that can be prevented if a population is exposed to chlorhexidine is 12%.  #@NEW_LINE#@#  
+Taking into account that Oxford Scores below 3 are considered to indicate poor quality clinical trials, we performed a meta-analysis without including the two studies with scores of below 3 to test whether evidence of the benefit of using oral chlorhexidine remained.  #@NEW_LINE#@#  We have also excluded those trials where blood collection prior to the procedure (baseline) was not record, in order to exclude potential patients who presented subclinical bacteremia.  #@NEW_LINE#@#  
+Five studies were included: Tomas 2007, Tuna 2012, Duval 2013, Uguwmba 2014 y Barbosa 2015.  #@NEW_LINE#@#  340 participants were selected, 173 in the experimental group and 167 in the control group.  #@NEW_LINE#@#  The overall RR, with a fixed effects model with weights calculated using theMantel-Haenszel method was 0.822 (95% confidence interval 0.693 to 0.975; p = 0.024), (heterogeneity I2 = 0,0%, and p = 0.503).  #@NEW_LINE#@#  Excluding these 3 studies we can conclude that the benefit of using oral chlorhexidine remained.  #@NEW_LINE#@#  
+
+Heterogeneity_analysis  #@NEW_LINE#@#  
+The Q statistic was 8.053, and I2 was 13.074% (p = 0.328), supporting the assumption of homogeneity among the studies.  #@NEW_LINE#@#  Furthermore, there were no signs of heterogeneity in the LAbbé plot Fig 3; all circles were grouped closely together, regardless of their size and baseline risk.  #@NEW_LINE#@#  
+The radial Galbraith plot Fig 4 permits the indirect assessment of heterogeneity.  #@NEW_LINE#@#  
+
+Effectiveness_analysis  #@NEW_LINE#@#  
+The overall NNT was estimated to be 16 (IC 95% 7-Infinity).  #@NEW_LINE#@#  The NNT of each study is shown in Table 3.  #@NEW_LINE#@#  
+
+
+Risk_of_bias_across_studies  #@NEW_LINE#@#  
+The funnel plot Fig 5 may suggest some publication bias because the dispersion pattern of the points was not symmetrical in relation to RR = 0.882.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0195592.g005  #@NEW_LINE#@#  
+To avoid a subjective interpretation, we performed a quantitative analysis.  #@NEW_LINE#@#  Begg´s method suggested the absence of publication bias (Kendall Tau equals 0.071; p = 0.902).  #@NEW_LINE#@#  The most sensitive method, Egger, also suggested the absence of publication bias (the value of the intercept was 0.384, which was not significant (p = 0.586)), and Macaskills procedure yielded a slope that was close to zero and non-significant p = 0.536, indicating a lack of publication bias.  #@NEW_LINE#@#  Finally, with Rosenthals method, we estimated that it would be necessary to add as many as 22 non-significant studies to cause the results of this metal-analysis to become non-significant.  #@NEW_LINE#@#  
+
+Additional_analysis  #@NEW_LINE#@#  
+Cumulative_analysis  #@NEW_LINE#@#  
+Fig 6 shows the evolution of the 95% CI of the weighted RR estimated in the cumulative meta-analysis by year of publication, i.e., as we added studies chronologically to the analysis.  #@NEW_LINE#@#  
+
+Analysis_of_influence  #@NEW_LINE#@#  
+The result of the analysis of influence Fig 7 shows that the estimated value of RR did not change significantly by eliminating a study each time.  #@NEW_LINE#@#  
+
+Adverse_reactions  #@NEW_LINE#@#  
+Adverse reactions were not recorded in any study (Table 1).  #@NEW_LINE#@#  
+
+
+
+Discussion  #@NEW_LINE#@#  
+Due to the existing controversy regarding the use of antiseptics in the prevention of post-dental extraction bacteremia, the exploration of the efficacy of chlorhexidine in the prevention was of interest.  #@NEW_LINE#@#  To our knowledge, this is the first systematic review and meta-analysis to assess the efficacy of antiseptics for preventing bacteremia associated with tooth extractions.  #@NEW_LINE#@#  
+In summary, we found that antiseptics could reduce the incidence of bacteremia.  #@NEW_LINE#@#  Our study, which included 523 patients from 8 RCTs, indicates that pre-extraction chlorhexidine treatment significantly reduces bacteremia cases by 12%.  #@NEW_LINE#@#  
+This meta-analysis combines data across studies to estimate antiseptic treatment effect with more precision than in a single study.  #@NEW_LINE#@#  The main limitation of this meta-analysis is the small number of included studies and their small patient population, which could influence the results.  #@NEW_LINE#@#  More randomized trials would be required to increase the accuracy of the results.  #@NEW_LINE#@#  We should also consider that only one of the primary studies [27] reported a statistically significant result and that the overall result can only be generalized to populations with the same characteristics as the populations included in the studies.  #@NEW_LINE#@#  The sample of patients in this single study had the greatest weight within the meta-analysis, approximately 40%.  #@NEW_LINE#@#  
+The quality of the included studies can also be a handicap in the results of our meta-analysis.  #@NEW_LINE#@#  The methodological quality of randomized controlled trials (RCTs) is commonly evaluated in order to assess the risk of biased estimates of treatment effects.  #@NEW_LINE#@#  A commonly used three-item, five-point quality scale was used to rate the quality of the trials [13].  #@NEW_LINE#@#  The minimum score possible for inclusion of a study in the review was 2 (one point each for randomization and double-blinding).  #@NEW_LINE#@#  The maximum score possible was 5 (2 points for descriptions of randomization, 2 points for descriptions of double-blinding, and 1 point for descriptions of withdrawals).  #@NEW_LINE#@#  Scale limitations should be taken into consideration, and the information provided by scales should be interpreted with caution.  #@NEW_LINE#@#  In this meta-analysis, two studies had an Oxford Quality Scale score of less than 3, indicating that the quality of these studies may have been low.  #@NEW_LINE#@#  The decision to include all studies regardless of the date of publication or score obtained in the Oxford Scale means that not all included RCTs have followed the recommendations of the CONSORT statement (Consolidated Standards of Reporting Trials).  #@NEW_LINE#@#  It is important that the information supplied in publications of clinical trials is sufficient and accurate.  #@NEW_LINE#@#  The exclusion of RCTs with a value lower than 3 in the Oxford scale [26, 29] and the exclusion of articles [26, 28] which do not clearly establish the level of basal bacteremia showed that the benefit of using oral chlorhexidine remained.  #@NEW_LINE#@#  
+The treatment guidelines used in the different trials included in the meta-analysis differ slightly, although the use of a 0.20% chlorhexidine mouthwash for 1 minute prior to extraction is the most common recommendation.  #@NEW_LINE#@#  However, the time of blood sample extraction was different in each study.  #@NEW_LINE#@#  In some cases, there was only one sample, while in others, serial blood sample extractions were done post-extraction.  #@NEW_LINE#@#  These discrepancies should be taken into account when analyzing the results and were considered when the response variable had to be defined in our study.  #@NEW_LINE#@#  Bacteremia follows an upward trend post-extraction, peaks at 15 minutes, and then drops for up to 15 minutes [30, 31], which indicates that the post-extraction time when the sample is taken is essential.  #@NEW_LINE#@#  Therefore, we decided to exclude the values of all measurements performed more than 10 minutes post-extraction.  #@NEW_LINE#@#  
+Although it was not our objective to analyze the bacteria involved in bacteremia, our meta-analysis confirmed that the bacteria most commonly isolated in the cultures was the viridans group streptococci, except for the trial performed by Ugwumba [25] in which the most common bacteria was Staphylococcus aureus.  #@NEW_LINE#@#  Over 700 types of bacteria have been identified in the oral cavity, and over 170 in post-extraction blood cultures; however, the bacteria directly related to IE pathogenesis is the viridans group streptococci [32].  #@NEW_LINE#@#  Therefore, any IE prevention protocol should be aimed at preventing infection by this streptococcus.  #@NEW_LINE#@#  
+It is remarkable that no adverse reactions were recorded in any of the studies.  #@NEW_LINE#@#  We propose that this variable be included in all trials.  #@NEW_LINE#@#  Perhaps this was not recorded since none occurred, and if this is case, then it must be explicitly included as a result in each study.  #@NEW_LINE#@#  
+It is well-known that tooth extraction is associated with peaks of bacteremia, although most of these peaks do not progress to a clinical infection.  #@NEW_LINE#@#  It would be important to demonstrate that a disinfectant, possibly chlorhexidine, reduces the risk of clinical infection after dental extractions, but no articles have been published on this subject.  #@NEW_LINE#@#  
+The ultimate purpose of this revision is to help the clinician make a decision in daily practice.  #@NEW_LINE#@#  With the results obtained from combining the few quality studies available, we can state there is evidence to support the efficacy of using chlorhexidine pre-extraction to reduce bacteremia.  #@NEW_LINE#@#  The use of chlorhexidine only reduces post-extraction bacteremia risk by 12%.  #@NEW_LINE#@#  The number necessary to treat to prevent just 1 case of bacteremia is 16.  #@NEW_LINE#@#  Nevertheless, bearing in mind that it is an economic and easy to use antiseptic with no evidence of adverse reactions, its use can be recommended despite its low efficacy.  #@NEW_LINE#@#  More studies on this topic are required to achieve accurate conclusive results to enable decision making based on a sufficient number of quality clinical trials.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Table_PRISMA_checklist  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0195592.s001  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+S1_File_Meta-analysis_data_set  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0195592.s002  #@NEW_LINE#@#  
+(ODT)  #@NEW_LINE#@#  
+
+
+References  #@NEW_LINE#@#  
+
+

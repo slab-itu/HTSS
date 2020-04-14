@@ -1,0 +1,194 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0147364"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+The Expenditures for Academic Inpatient Care of Inflammatory Bowel Disease Patients Are Almost Double Compared with Average Academic Gastroenterology and Hepatology Cases and Not Fully Recovered by Diagnosis-Related Group (DRG) Proceeds  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Crohns disease (CD) and ulcerative colitis (UC) challenge economies worldwide.  #@NEW_LINE#@#  Detailed health economic data of DRG based academic inpatient care for inflammatory bowel disease (IBD) patients in Europe is unavailable.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+IBD was identified through ICD-10 K50 and K51 code groups.  #@NEW_LINE#@#  We took an actual costing approach, compared expenditures to G-DRG and non-DRG proceeds and performed detailed cost center and type accounting to identify coverage determinants.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Of all 3093 hospitalized cases at our department, 164 were CD and 157 UC inpatients in 2012.  #@NEW_LINE#@#  On average, they were 44.1 (CD 44.9 UC 43.3 all 58) years old, stayed 10.1 (CD 11.8 UC 8.4 vs. all 8) days, carried 5.8 (CD 6.4 UC 5.2 vs. all 6.8) secondary diagnoses, received 7.4 (CD 7.7 UC 7 vs. all 6.2) procedures, had a higher cost weight (CD 2.8 UC 2.4 vs. all 1.6) and required more intense nursing.  #@NEW_LINE#@#  Their care was more costly (means: total cost IBD 8477 CD 9051 UC 7903 vs. all 5078).  #@NEW_LINE#@#  However, expenditures were not fully recovered by DRG proceeds (means: IBD 7413, CD 8441, UC 6384 vs all 4758).  #@NEW_LINE#@#  We discovered substantial disease specific mismatches in cost centers and types and identified the medical ward personnel and materials budgets to be most imbalanced.  #@NEW_LINE#@#  Non-DRG proceeds were almost double (IBD 16.1% vs. all 8.2%), but did not balance deficits at total coverage analysis, that found medications (antimicrobials, biologics and blood products), medical materials (mostly endoscopy items) to contribute most to the deficit.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+DRGs challenge sophisticated IBD care.  #@NEW_LINE#@#  
+
+
+Introduction  #@NEW_LINE#@#  
+Due to their increasing incidence and early age peaks in the 2nd and 3rd decade and commonly associated extraintestinal manifestations the systemic conditions Crohns disease[1] (CD) and ulcerative colitis[2] (UC) substantially impact on patients personal and professional lives and challenge economies and healthcare systems worldwide.  #@NEW_LINE#@#  The complete economic burden has been estimated at 8.1 to 14.9 for UC and 10.9 to 15.5 billion US$ for CD, respectively in the United States and 12.5 to 29.1 for UC and 2.1 to 16.7 billion  for CD annually in Europe[3, 4].  #@NEW_LINE#@#  
+Several countries in Europe[57], North America[8, 9] and Australia[10] have decided to introduce diagnosis related group (DRG) billing systems hoping to achieve better cost control.  #@NEW_LINE#@#  The origins of the DRG system date back to a collaborative project at the Yale University School of Management and School of Public Health[11].  #@NEW_LINE#@#  European DRG systems have implemented different design options, are generally more detailed than the Medicare DRG system aiming to better distinguish among patients with less and more complex conditions and include physician salaries and re-admission[12].  #@NEW_LINE#@#  DRG was introduced as a MeSH term in PubMed in 1991.  #@NEW_LINE#@#  
+DRG introduction, an overall very low investment ratio in hospitals and passing of European Union legislation[13] that dictates a strict separation of business (i.e.  #@NEW_LINE#@#  hospital) from non-business (i.e.  #@NEW_LINE#@#  academic) activities put most academic medical centers into financial turmoil[6, 14].  #@NEW_LINE#@#  This resulted in extreme scrutiny towards medical specialties caring for cost intensive patients.  #@NEW_LINE#@#  
+It is currently unknown, if and how actual expenses are distributed and balanced with DRG proceeds in inflammatory bowel disease (IBD) inpatients at academic medical centers.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+The aim of our study was to compare actual cost and revenue with respective DRG proceeds for IBD cases and relate them to all other gastroenterology and hepatology inpatient cases within the same period.  #@NEW_LINE#@#  Moreover, we wanted to identify and analyze factors contributing to either excess (DRG proceeds higher than actual costs) or deficit (DRG proceeds lower than actual costs) coverage in IBD cases.  #@NEW_LINE#@#  
+Data_source_and_identification_of_cases  #@NEW_LINE#@#  
+All data were extracted from our medical centers data warehouse running SAP NetWeaver Business Intelligence software[15] and other IT systems.  #@NEW_LINE#@#  In full conformity with all applicable federal privacy rules and regulations, no personally identifiable information was collected.  #@NEW_LINE#@#  From all inpatient service cases seen in 2012 at our department we identified inflammatory bowel disease patients using the German modification (ICD-10-GM)[16] of the WHO ICD-10[17] code groups for Crohns disease (K50) and ulcerative colitis (K51).  #@NEW_LINE#@#  Coding at out medical center is primarily done by specialized nurses and confirmed by physicians.  #@NEW_LINE#@#  No additional verification was performed for this research study.  #@NEW_LINE#@#  Data sets included age, gender, ICD-10-GM[16] coded main and secondary diagnoses, length of stay, procedures coded by the German modification (OPS)[18] of the International Classification of Health Interventions (ICHI)[19] and G-DRG, patient clinical complexity level (PCCL) [20]), cost weight (CW)[21], length of stay and discharge type.  #@NEW_LINE#@#  
+
+Calculation_basis_and_accounting  #@NEW_LINE#@#  
+All calculations were based on national coding rules[22] of the German Institute for the Hospital Remuneration System (InEK).  #@NEW_LINE#@#  The allocation of costs to a case followed a full-cost approach based on actual cost.  #@NEW_LINE#@#  Included were all cases, benefits and costs of the hospital under the remuneration framework of the G-DRG[23] system.  #@NEW_LINE#@#  The 2012 grouper (software to calculate diagnosis related groupsDRGs) and a base rate of  2,985 were applied.  #@NEW_LINE#@#  
+Cost_type_accounting  #@NEW_LINE#@#  
+Prior to cost type accounting data were adjusted to exclude non-DRG relevant positions (e.g.  #@NEW_LINE#@#  other periods, extraordinary expenses or investments).  #@NEW_LINE#@#  Furthermore, all accounts were delineated for services compensated outside of the DRG system and those serving primary scientific research and teaching of medical students to meet EU academic accounting rules that prohibit subsidizing medical care through academic activities[13].  #@NEW_LINE#@#  
+Cost center accountingCost centers were initially divided in direct (immediate patient care) and indirect (e.g.  #@NEW_LINE#@#  administration, facility management) cost centers.  #@NEW_LINE#@#  The settlement was based on the calculation set out in national coding guidelines[22] employing the equation method.  #@NEW_LINE#@#  
+
+Cost_unit_accounting  #@NEW_LINE#@#  
+Finally, the allocation of the costs of direct cost centers was carried out on an individual case basis and in the K50 and K51 case groups.  #@NEW_LINE#@#  Allocations were based on cost type- and center benchmarks.  #@NEW_LINE#@#  Direct costs were added to the cases based on information from the hospital information system (HIS) on used material costs, medications, medical imaging and operating room expenses.  #@NEW_LINE#@#  All other costs not fitting these categories (overheads) were distributed and added according to performance keys (e.g.  #@NEW_LINE#@#  operating room minutes, length of stay).  #@NEW_LINE#@#  
+
+
+
+Results  #@NEW_LINE#@#  
+Patient_population  #@NEW_LINE#@#  
+A total of 3093 individuals received full spectrum academic gastroenterology and hepatology inpatient care at our department in 2012.  #@NEW_LINE#@#  We identified 321 cases with inflammatory bowel disease.  #@NEW_LINE#@#  Table 1 summarizes their demographics and key economic Figures.  #@NEW_LINE#@#  At a glance, IBD patients were on average fifteen years younger, stayed two (UC) to three days (CD) longer on their admissions, were sicker (CD  UC), required more intense nursing (CD  UC), received one to two more procedures (CD  UC) and generated almost twice the total cost compared with the average inpatient.  #@NEW_LINE#@#  The care of CD patients was more costly compared with UC and the average of all inpatients, but overall resulted in an excess coverage when DRG and non-DRG proceeds were included.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0147364.t001  #@NEW_LINE#@#  
+
+Crohn_s_Diseasemain_and_secondary_diagnoses__procedures_and_DRGs  #@NEW_LINE#@#  
+All 164 Crohns disease patients were grouped into 9 main DRG categories (Fig 1) and 33 actual DRGs (S1 Table).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0147364.g001  #@NEW_LINE#@#  
+This grouper assignment was based on 29 main diagnoses (S2 Table), 388 distinct secondary diagnoses (S3 Table) of and 167 distinct procedures (S4 Table).  #@NEW_LINE#@#  
+In most patients (n = 129 78.66%) a Crohns disease ICD-10 code (K50.0 group) was selected as the main (i.e.  #@NEW_LINE#@#  discharge) diagnosis indicating admission for actual worsening of their illness.  #@NEW_LINE#@#  The list of secondary diagnoses shows that many patients were immunosuppressed, screened and treated for opportunistic infections or experienced other complications of their disease and treatment such as diarrhea induced hypokalemia, intestinal obstruction, fistulas, urinary tract infections, bleeding anemia, and required surgery, central line placement or isolation for contamination with multiresistant pathogens.  #@NEW_LINE#@#  The most commonly performed procedures were endoscopies with biopsies mostly in intravenous anesthesia, pelvic and abdominal MRIs or CTs with contrast, the administration of biologics and other immune therapies, surgical procedures including fistula seton placement, transfusions of various blood products as well as central line placement.  #@NEW_LINE#@#  The large number of almost 400 different secondary diagnoses along with 167 distinct procedures and interventions performed is consistent with the diverse nature and course of Crohns disease itself, its generally higher number of associated extraintestinal manifestations[24, 25] and the tertiary care type of setting in our center.  #@NEW_LINE#@#  The medical complexity of these cases is only partly reflected in the DRGs calculated by the grouper software, which defines cost weight largely by invasive procedures and critical care.  #@NEW_LINE#@#  The majority of cases fell into deficient DRGs.  #@NEW_LINE#@#  Fig 1 Our analysis demonstrates that only cases that required an endoscopy or were admitted to the ICU were profitable, while those assigned to native gastroenterology DRGs were not.  #@NEW_LINE#@#  The excess coverage of critical care and particularly mechanical ventilation plus non-DRG proceeds eventually generated an overall positive mean cover statement of +7%.  #@NEW_LINE#@#  Table 1  #@NEW_LINE#@#  
+
+Crohn_s_diseasecomprehensive_cost_and_revenue_analysis  #@NEW_LINE#@#  
+Actual_costs  #@NEW_LINE#@#  
+The analysis of the mean actual costs (9051) (S5 Table) shows that on average most expenditures were accrued in the medical ward, intensive care unit and laboratory cost centers and spent for personnel (3982), followed by materials (including medications) (2999) and for infrastructure (2070).  #@NEW_LINE#@#  
+Within personnel expenses for nursing care of Crohns patients exceeded compensation for physicians, while in the materials section medications and in the infrastructure section non-medical infrastructure costs (administrative overhead, utilities, short-term maintenance, software licenses etc.)  #@NEW_LINE#@#  dominated.  #@NEW_LINE#@#  
+
+DRG_Proceeds  #@NEW_LINE#@#  
+The mean actual costs of Crohns disease care (9051) were not balanced by mean DRG proceeds (8441) (S6 Table).  #@NEW_LINE#@#  There was a substantial mismatch between major cost centers and types.  #@NEW_LINE#@#  While the DRG overall personnel coverage of 4665 exceeded the actual expenses, the budget for personnel expenses on the medical ward fell fifty percent short and exceeded the actual expenses on the intensive care unit.  #@NEW_LINE#@#  There was also a major gap in materials coverage (including medications) (1610).  #@NEW_LINE#@#  Infrastructure costs (2176) appeared overall balanced, but a closer look revealed a mismatch here too.  #@NEW_LINE#@#  
+
+Non-DRG_Proceeds  #@NEW_LINE#@#  
+The detected mismatch, especially in the personnel budget of the ICU and medical ward and the non-medical infrastructure was not compensated with extra 34 and 8 respectively of non-DRG proceeds as these are mainly meant to cover novel medications, diagnostic tests and procedures (1200).  #@NEW_LINE#@#  S7 Table  #@NEW_LINE#@#  
+
+Total_Coverage  #@NEW_LINE#@#  
+In a comparison of actual costs with DRG proceeds plus non-DRG proceeds, the most deficient cost centers remain the medical ward, operating room, imaging and anesthesia, while the ICU generated the largest excess coverage.  #@NEW_LINE#@#  Fig 2  #@NEW_LINE#@#  
+At cost type level, the largest excess coverage was observed in the (ICU) nursing budget, whereas individual medication and material costs and non-medical infrastructure costs contributed the most to the deficit.  #@NEW_LINE#@#  Fig 3.  #@NEW_LINE#@#  
+
+
+Ulcerative_colitismain_and_secondary_diagnoses__procedures_and_DRGs  #@NEW_LINE#@#  
+All 157 ulcerative colitis patients were grouped into 13 main DRG categories (Fig 4) and 28 actual DRGs (S8 Table).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0147364.g004  #@NEW_LINE#@#  
+This grouper assignment was based on 31 main diagnoses (S9 Table), 295 distinct secondary diagnoses (S10 Table) and 225 distinct procedures (S11 Table).  #@NEW_LINE#@#  
+In half of the patients (n = 77 49.04%) an ulcerative colitis ICD-10 code (K51 group) was selected as the main (i.e.  #@NEW_LINE#@#  discharge) diagnosis, in more than a third (n = 53 33.75%) a (primary sclerosing) cholangitis ICD-10 code (K83 K81 groups) and in 7.64% of cases (n = 12) another liver (including transplant) problem related ICD-10 code (K74, K76, T86 groups).  #@NEW_LINE#@#  This indicates that 98.49% of patients were admitted for either their UC or a UC related liver problem.  #@NEW_LINE#@#  
+The list of secondary diagnoses shows that many patients were immunosuppressed and developed infections, came in for primary sclerosing cholangitis (PSC) related issues including evaluation for or status post liver transplantation, required screening and treatment for opportunistic infections or experienced other complications of their disease and treatment such as bleeding anemia, iron deficiency anemia, coagulation problems, surgery or isolation for contamination or infection with multiresistant pathogens.  #@NEW_LINE#@#  
+The most commonly performed procedures were upper and lower endoscopies as well as hepatobiliary interventions in mostly intravenous anesthesia (including papillotomy, biliary balloon dilation, biliary stenting, biopsies and cytology, and variceal banding), abdominal, pelvic MRI and CT or MRCP with contrast, the administration of biologics and other immune therapies, transfusion of blood products as well as central line placement.  #@NEW_LINE#@#  
+The large number of almost 300 different secondary diagnoses along with 225 distinct procedures and interventions performed is consistent with the tertiary care type of setting of our institution which is also the nations highest volume visceral transplant center.  #@NEW_LINE#@#  
+The medical complexity of these cases is better reflected in the DRGs calculated by the grouper software, which defines cost weight largely by invasive procedures such as ERCP and critical care than in Crohns disease.  #@NEW_LINE#@#  Most cases fell into fairly well covered DRGs.  #@NEW_LINE#@#  The DRG coverage distribution was more even than in Crohns disease with fewer extremes.  #@NEW_LINE#@#  Fig 5 demonstrates that cases requiring an endoscopy or affected the hepatobiliary system were profitable, while those assigned to digestive surgery DRGs or DRGs with malignancy were highly deficient.  #@NEW_LINE#@#  The excess coverage of hepatobiliary and complex endoscopy cases plus non-DRG proceeds eventually generated an overall positive mean cover statement of +2%.  #@NEW_LINE#@#  Table 1  #@NEW_LINE#@#  
+Bars denote mean excess or deficit.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0147364.g005  #@NEW_LINE#@#  
+
+Ulcerative_colitiscomprehensive_cost_and_revenue_analysis  #@NEW_LINE#@#  
+Actual_costs  #@NEW_LINE#@#  
+The analysis of the mean actual costs (7903) (S12 Table) shows that on average most expenses were accrued in the medical ward, intensive care unit and laboratory cost centers and were spent for personnel (3192), closely followed by materials (including medications) (3207) and infrastructure costs (1502).  #@NEW_LINE#@#  
+Within personnel, the expenditures for nursing care of ulcerative colitis patients exceeded those for physicians, whereas in the materials section medications and in the infrastructure section non-medical infrastructure costs (administrative overhead) dominated.  #@NEW_LINE#@#  Of note, like in Crohns disease more money was spent for non-medical infrastructure costs than for physicians.  #@NEW_LINE#@#  
+
+DRG-Proceeds  #@NEW_LINE#@#  
+The mean actual costs of ulcerative colitis were not balanced by mean DRG proceeds (6384) (S13 Table).  #@NEW_LINE#@#  The mismatch was largely caused by insufficient coverage of personnel costs on the medical ward and materials.  #@NEW_LINE#@#  This becomes even more obvious when comparing DRG proceeds (1307) and actual costs for materials which do not recover individual medications and medical materials expenditures.  #@NEW_LINE#@#  
+
+Non-DRG_Proceeds  #@NEW_LINE#@#  
+The detected mismatch, was partly compensated by non-DRG materials (1431) proceeds as these are mainly meant to cover novel medications, diagnostic tests and procedures.  #@NEW_LINE#@#  (S14 Table).  #@NEW_LINE#@#  
+
+Total_Coverage  #@NEW_LINE#@#  
+In a comparison of actual costs with DRG plus non-DRG proceeds, the most deficient cost centers remain the medical ward, dialysis, anesthesia and endoscopy, while the ICU generated a modest excess coverage.  #@NEW_LINE#@#  Fig 5 At cost type level, the largest excess coverage was generated through the medical infrastructure budget, whereas individual medication and medical material costs contributed the most to the deficit.  #@NEW_LINE#@#  Fig 6  #@NEW_LINE#@#  
+
+
+Relation_of_coverage_to_gender__patient_complexity_level_(PCCL)_and_length_of_stay  #@NEW_LINE#@#  
+Relating coverage to length of stay, PCCL and gender revealed that very sick patients (PCCL 4), extended stays and female gender in CD as opposed to mild to moderately sick (PCCL 2 and PCCL 3) patients, short stays and female gender in UC were associated with excess coverage.  #@NEW_LINE#@#  Fig 7  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0147364.g007  #@NEW_LINE#@#  
+
+Individual_medications_and_materials_analysis_at_single_cost_level  #@NEW_LINE#@#  
+Individual medication (CD vs. UC: 514 vs. 449 distinct medication formulations) and medical material (CD 324 vs. UC: 222 distinct medical materials) costs contribute second most to the expenditures of academic IBD inpatient care (S5 Table and S12 Table).  #@NEW_LINE#@#  The also make up most of the remaining deficit in total coverage (Fig 1 and Fig 2).  #@NEW_LINE#@#  Thus, we looked at them in Crohns disease (detailed data on file) and ulcerative colitis (detailed data on file) in more detail.  #@NEW_LINE#@#  
+Individual_medical_materials  #@NEW_LINE#@#  
+In Crohns disease, the most expensive medical materials were used for interventional endoscopy and radiology, critical care and dialysis as well as medical imaging (CT and MRI contrast agents) (detailed data on file).  #@NEW_LINE#@#  In ulcerative colitis, the expenditure distribution was comparable with additional spending for artificial extracorporeal liver support.  #@NEW_LINE#@#  
+
+Individual_medications  #@NEW_LINE#@#  
+In Crohns disease anti-TNF biologics, packed red blood cells and antifungals are the three most expensive medications, while in ulcerative colitis antifungals, platelets and anti-TNF biologics lead (detailed data on file).  #@NEW_LINE#@#  These lists once again illustrate the severity of the illness of academic IBD inpatients who are obviously admitted with severe and often opportunistic infections frequently requiring the use of reserve antimicrobials including potent anti-fungal drugs, transfusion of blood products, parenteral nutrition or enteral nutrition supplementation and biologics.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+This is the first and currently only comprehensive and highly detailed analysis of IBD inpatient care costs and revenues in a European DRG based healthcare system.  #@NEW_LINE#@#  
+We show that IBD inpatients are on average more severely ill than their fellow inpatients as indicated by admissions for mostly life threatening complications of their disease such as fulminant flares, infections with multiresistant and/or opportunistic pathogens, acute bleeding and coagulation disorders, longer stays, requirement of more intense nursing and critical care, dependence on expensive cross sectional imaging studies with contrast agents, interventional endoscopy, blood products, immune therapies including biologics and special medical materials.  #@NEW_LINE#@#  Thus, perhaps not surprisingly the expenditures for their care are almost double of those for the average academic gastroenterology inpatient.  #@NEW_LINE#@#  Moreover, our detailed analyses demonstrate that costs, revenues, and their mismatch for Crohns disease and ulcerative colitis patients are distinct in various cost type and cost center domains, reemphasizing that CD and UC are two different systemic inflammatory disease groups, with Crohns being the most heterogeneous one.  #@NEW_LINE#@#  
+We demonstrate that expenditures are not fully recovered by DRG proceeds.  #@NEW_LINE#@#  In extensive coverage analyses we show, that particularly in Crohns disease, but also in ulcerative many DRGs assigned by the grouper software result in coverage deficits.  #@NEW_LINE#@#  This is particularly true, when IBD specific, rather than interventional procedure oriented DRGs are assigned.  #@NEW_LINE#@#  Cost center and cost type analyses discovered particularly serious mismatches in in the personnel, laboratory, single medication and medical materials budgets.  #@NEW_LINE#@#  Blood products, antimicrobial and biologic drugs as well as interventional procedure and critical care related material costs contribute substantially to the deficit.  #@NEW_LINE#@#  Somewhat surprisingly, more money is spent for non-medical infrastructure costs than for physicians.  #@NEW_LINE#@#  This does not seem to be disease specific though, but rather relates to the size of the institution and a disproportional quota of controlling and business vs. medical staff.  #@NEW_LINE#@#  Non-DRG generated proceeds were almost double that of the average gastroenterology and hepatology inpatient (16.1% vs. 8.2%) and contribute to an overall positive cover statement for both UC and CD.  #@NEW_LINE#@#  A positive cover statement should not be confused with a balanced cost and revenue distribution though, as our total coverage analyses conclude.  #@NEW_LINE#@#  PCCL and length of stay have literally the opposite effects on total coverage in CD and UC, while female gender appears to independently associated with greater revenues.  #@NEW_LINE#@#  
+While several studies have theoretically modeled and estimated healthcare costs of IBD patients [3, 4] [26], very few have investigated actual DRG data.  #@NEW_LINE#@#  In 1990, new incentives regarding delivery of inpatient care by physicians and administrators have resulted from Medicare's DRG-based prospective reimbursement system in the US.  #@NEW_LINE#@#  A research study published that year investigated the hypothetical application of the IBD Medicare DRG on 507 IBD inpatient admissions (of which only 10.8% were actual Medicare cases) staying on average 9.71 days at a US large tertiary care hospital and concluded inadequate reimbursement with an average theoretical loss of 127.24 US$ which largely resulted from CD patients requiring surgery[27].  #@NEW_LINE#@#  
+A Canadian study compared direct patient care costs between 1994 and 1995 based on Canadas DRG system[9] for medical and surgical IBD admissions.  #@NEW_LINE#@#  Surgical admissions were more costly, especially when controlling for total parenteral nutrition.  #@NEW_LINE#@#  Interestingly, the non-digestive DRG coded admissions, were more costly, which is the opposite of what we found, probably because the G-DRG[23] grouper puts more weight on interventional procedures and ICU care.  #@NEW_LINE#@#  However, regarding cost centers and cost types, the Canadian data is strikingly in line with ours listing nursing, medications, labs, operating room, diagnostic imaging and endoscopy as the top categories[28].  #@NEW_LINE#@#  
+In their 2005 and 2006 data based case control study the same group compared also IBD with non-IBD age and gender matched costs[29].  #@NEW_LINE#@#  Our data can be partially related to the inpatient portion of their study that compared 1089 IBD cases with 5279 controls within one Canadian province.  #@NEW_LINE#@#  They reported a mean total cost (excluding administrative overheads, emergency room visits and physician salaries) for IBD 13495 CAN$, CD 12940 CAN$, UC 14183 CAN$ and non-IBD 12607 CAN$ respectively.  #@NEW_LINE#@#  Since their non-IBD inpatient population consisted of controls from an entire health system irrespective of diagnosis and specialty no conclusions can be drawn here.  #@NEW_LINE#@#  However, their report that medications and biologics again contributed largely to costs is in line with our results.  #@NEW_LINE#@#  These finding are apparently independent of any coding related issues as Canadian doctors are well aware of and properly use DRG coding in IBD[30].  #@NEW_LINE#@#  
+Our study has limitations.  #@NEW_LINE#@#  Due to its single center design and restriction to an academic adult gastroenterology and hepatology department it may not fully reflect the situation in other academic medical centers or patients cared for in other subspecialties, i.e.  #@NEW_LINE#@#  pediatric IBD patients or IBD patients exclusively cared for in the surgery department or the situation in community hospitals, which dont carry the extra effort and expenses of transplant patients.  #@NEW_LINE#@#  Although the German DRG system was derived and refined from the Australian DRG system, which was modeled after the US Medicare DRG system, national specifics in healthcare funding preclude the full extrapolation of numeric data and uncritical applicability of the results to all other countries, which applies to virtually all health economic analyses published to date.  #@NEW_LINE#@#  Owed to the data source and privacy legislation we were unable to phenotype patients according to the Montreal classification[31], report their disease onset or disease duration, individual medications, their medical and surgical history details or outpatient encounters (where no DRG billing is applied in Germany), which also impact on their overall all healthcare costs.  #@NEW_LINE#@#  
+Moreover, DRGs and their reimbursement are not static.  #@NEW_LINE#@#  In fact, many countries annually review and revise their DRGs to accommodate the continuous advance of the science, practice and economics of medicine[32] [33].  #@NEW_LINE#@#  Partial aspects of this process are reflected in our study.  #@NEW_LINE#@#  The non-DRG proceeds include adjustments to balance the higher medication costs not currently covered by DRGs.  #@NEW_LINE#@#  However, science and practice advance much faster than the administration and distribution of healthcare funds.  #@NEW_LINE#@#  
+Future research needs to investigate the development of academic inpatient care costs and revenues over time, study academic outpatient care costs and compare both to private and community in- and outpatient care data.  #@NEW_LINE#@#  A multicenter setting at national level is highly desirable, but currently not feasible as access to reliable primary data is very complicated due to privacy legislation and political partisanship of different providers and payors.  #@NEW_LINE#@#  
+DRGs were thought to improve efficiency because they provide incentives for hospitals to limit the services per patient and to treat more patients, but also in (un)intended consequences, such as reduced quality of care, preference for profitable cases (cherry picking), forced patient transfers (patient dumping), and frequent readmissions[33].  #@NEW_LINE#@#  Our data demonstrate, that all native, non-procedure or critical care oriented IBD DRGs are still deficient, despite their annual adjustment and creation of almost 40% new DRGs since their introduction in 2004.  #@NEW_LINE#@#  Academic medical centers like ours rightfully receiving and caring for these complex diseases are taking an economic downturn, because even one of the most sophisticated and refined DRG systems is still unable to address their trues needs and associated costs.  #@NEW_LINE#@#  Patient dumping from other providers that refer patients to academic medical centers (who cannot reject patients by law) when their DRGs are financially exhausted is an everyday reality and applies to IBD.  #@NEW_LINE#@#  Patient organizations representing these and other rare conditions need to encourage politicians, payors and hospital management organizations to act on this to avoid an increasingly negative impact on the quality and availability of their well- deserved care.  #@NEW_LINE#@#  
+
+
+Supporting_Information  #@NEW_LINE#@#  
+S1_Table_Crohn_s_DiseaseDRGs_and_key_economic_figures  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Crohn_s_diseaseall_coded_main_diagnoses  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Crohn_s_diseasetop_25_coded_secondary_diagnoses_(out_of_388)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Crohn_s_diseasetop_25_coded_procedures_at_case_and_procedure_level_(out_of_167)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Crohn_s_diseasecosts_analysis_showing_actual_costs_grouped_by_cost_types_and_cost_centers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Table_Crohn_s_diseasecosts_analysis_showing_mean_DRG-proceeds_grouped_by_cost_types_and_cost_centers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Table_Crohn_s_diseasecosts_analysis_showing_non-DRG_proceeds_grouped_by_cost_types_and_cost_centers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S8_Table_Ulcerative_colitisDRGs_and_key_economic_figures  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S9_Table_Ulcerative_colitisall_coded_main_diagnoses  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s009  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S10_Table_Ulcerative_Colitistop_25_coded_secondary_diagnoses_(out_of_295)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s010  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S11_Table_Ulcerative_colitistop_25_procedures_(out_of_225)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s011  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S12_Table_Ulcerative_colitiscosts_analysis_showing_actual_costs_grouped_by_cost_types_and_cost_centers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s012  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S13_Table_Ulcerative_colitiscosts_analysis_showing_mean_DRG-proceeds_grouped_by_cost_types_and_cost_centers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s013  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S14_Table_Ulcerative_colitiscosts_analysis_showing_non-DRG_proceeds_grouped_by_cost_types_and_cost_centers  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0147364.s014  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+
+Author_Contributions  #@NEW_LINE#@#  
+Conceived and designed the experiments: DCB MLC.  #@NEW_LINE#@#  Performed the experiments: DCB MLC.  #@NEW_LINE#@#  Analyzed the data: DCB MLC.  #@NEW_LINE#@#  Contributed reagents/materials/analysis tools: DCB MLC.  #@NEW_LINE#@#  Wrote the paper: DCB MLC.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+

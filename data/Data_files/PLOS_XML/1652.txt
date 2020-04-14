@@ -1,0 +1,296 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002389"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Self-monitoring of blood pressure in hypertension: A systematic review and individual patient data meta-analysis  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Self-monitoring of blood pressure (BP) appears to reduce BP in hypertension but important questions remain regarding effective implementation and which groups may benefit most.  #@NEW_LINE#@#  This individual patient data (IPD) meta-analysis was performed to better understand the effectiveness of BP self-monitoring to lower BP and control hypertension.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+Medline, Embase, and the Cochrane Library were searched for randomised trials comparing self-monitoring to no self-monitoring in hypertensive patients (June 2016).  #@NEW_LINE#@#  Two reviewers independently assessed articles for eligibility and the authors of eligible trials were approached requesting IPD.  #@NEW_LINE#@#  Of 2,846 articles in the initial search, 36 were eligible.  #@NEW_LINE#@#  IPD were provided from 25 trials, including 1 unpublished study.  #@NEW_LINE#@#  Data for the primary outcomeschange in mean clinic or ambulatory BP and proportion controlled below target at 12 monthswere available from 15/19 possible studies (7,138/8,292 [86%] of randomised participants).  #@NEW_LINE#@#  Overall, self-monitoring was associated with reduced clinic systolic blood pressure (sBP) compared to usual care at 12 months (3.2 mmHg, [95% CI 4.9, 1.6 mmHg]).  #@NEW_LINE#@#  However, this effect was strongly influenced by the intensity of co-intervention ranging from no effect with self-monitoring alone (1.0 mmHg [3.3, 1.2]), to a 6.1 mmHg (9.0, 3.2) reduction when monitoring was combined with intensive support.  #@NEW_LINE#@#  Self-monitoring was most effective in those with fewer antihypertensive medications and higher baseline sBP up to 170 mmHg.  #@NEW_LINE#@#  No differences in efficacy were seen by sex or by most comorbidities.  #@NEW_LINE#@#  Ambulatory BP data at 12 months were available from 4 trials (1,478 patients), which assessed self-monitoring with little or no co-intervention.  #@NEW_LINE#@#  There was no association between self-monitoring and either lower clinic or ambulatory sBP in this group (clinic 0.2 mmHg [2.2, 1.8]; ambulatory 1.1 mmHg [0.3, 2.5]).  #@NEW_LINE#@#  Results for diastolic blood pressure (dBP) were similar.  #@NEW_LINE#@#  The main limitation of this work was that significant heterogeneity remained.  #@NEW_LINE#@#  This was at least in part due to different inclusion criteria, self-monitoring regimes, and target BPs in included studies.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Self-monitoring alone is not associated with lower BP or better control, but in conjunction with co-interventions (including systematic medication titration by doctors, pharmacists, or patients; education; or lifestyle counselling) leads to clinically significant BP reduction which persists for at least 12 months.  #@NEW_LINE#@#  The implementation of self-monitoring in hypertension should be accompanied by such co-interventions.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Tucker KL, Sheppard JP, Stevens R, Bosworth HB, Bove A, Bray EP, et al.  #@NEW_LINE#@#  (2017) Self-monitoring of blood pressure in hypertension: A systematic review and individual patient data meta-analysis.  #@NEW_LINE#@#  PLoS Med 14(9):  #@NEW_LINE#@#  
+           e1002389.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002389  #@NEW_LINE#@#  
+Academic Editor: Kazem Rahimi, University of Oxford, UNITED KINGDOM  #@NEW_LINE#@#  
+Received: October 19, 2016; Accepted: August 10, 2017; Published:  September 19, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Tucker et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Data were obtained from third parties for this analysis.  #@NEW_LINE#@#  Several of the participating studies required specific data sharing agreements from their host institution.  #@NEW_LINE#@#  Current agreements are for the purposes of this analysis alone and as such new approval would be required.  #@NEW_LINE#@#  Requests for Data Sharing should be directed to information.guardian@phc.ox.ac.uk.  #@NEW_LINE#@#  Such requests will be considered by all data holders involved in this collaboration.  #@NEW_LINE#@#  
+Funding: This research was funded by the Institute for Health Research School for Primary Care Research (NIHR SPCR number 112) and via an NIHR Professorship for RM (NIHR-RP-02-12-015).  #@NEW_LINE#@#  JS holds a Medical Research Council (MRC) Strategic Skills Postdoctoral Fellowship (MR/K022032/1).  #@NEW_LINE#@#  FDRH is part funded as Director of the National Institute for Health Research (NIHR) School for Primary Care Research (SPCR), Theme Leader of the NIHR Oxford Biomedical Research Centre (BRC), and Director of the NIHR Collaboration for Leadership in Applied Health Research and Care (CLAHRC) Oxford.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  I have read the journal's policy and the authors of this manuscript have the following competing interests: RJM has received research funding in terms of blood pressure monitors from Omron and Lloyds Healthcare; has received expenses and an honorarium from the Japanese Society of Hypertension and American Society of Nephrology.  #@NEW_LINE#@#  WJV is now employed by Microlife but was not at the time that the data contributed were collected.  #@NEW_LINE#@#  FDRH has in the past received limited free or subsidised BP measuring devices from Microlife and Omron to support hypertension research where there was no input from the companies to the design, funding, delivery, analysis, or interpretation of that research.  #@NEW_LINE#@#  SO is a consultant of Biotechmed Ltd. (provider of blood pressure telemonitoring services).  #@NEW_LINE#@#  SK has received research funding in terms of blood pressure monitors from Omron.  #@NEW_LINE#@#  HBB has received grant funding to Duke University from Sanofi, Johnson and Johnson, Takeda, WestMeadVaco, and Improved patient Outcome; has received an honorarium from Walgreens, Genentech, Sanofi; and has received funds for consulting for Sanofi.  #@NEW_LINE#@#  JPS received an MRC Strategic Skills Postdoctoral Fellowship (2013-2016) and now receives funding from the NIHR Oxford Collaborations for Leadership in Applied Health Research and Care.  #@NEW_LINE#@#  AB owns stocks in Insight Telehealth Systems LLC.  #@NEW_LINE#@#  MG received a research grant from the Heart and Stroke Foundation of Ontario prior to this work to conduct a study on self-monitoring of blood pressure, data from which are included in this meta-analysis.  #@NEW_LINE#@#  JG has held unrestricted investigator initiated grants from Pfizer and Boehringer-Ingelheim (BI) for unrelated research; is a member of the Lung Foundation Australia's (LFA) COPD-X guidelines committee.  #@NEW_LINE#@#  Pfizer, BI, or LFA did not have any role in my decision to participate in the work submitted by Tucker et al.  #@NEW_LINE#@#  IK has received travel grants and honoraria for speaking or participation at meetings from Sanofi-Genzyme and Shire concerning Fabry disease; has participated in clinical studies concerning diabetic nephropathy and hyperlipidemia sponsored by Bayer, Boehringer-Ingelheim, Merck Sharp and Dome and Pfizer.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          ABPM,  #@NEW_LINE#@#  
+            ambulatory blood pressure monitoring; BMI,  #@NEW_LINE#@#  
+            body mass index; BP,  #@NEW_LINE#@#  
+            blood pressure; CKD,  #@NEW_LINE#@#  
+            chronic kidney disease; dBP,  #@NEW_LINE#@#  
+            diastolic blood pressure; DM,  #@NEW_LINE#@#  
+            diabetes mellitus; IPD,  #@NEW_LINE#@#  
+            individual patient data; MI,  #@NEW_LINE#@#  
+            myocardial infarction; RR,  #@NEW_LINE#@#  
+            relative risk; sBP,  #@NEW_LINE#@#  
+            systolic blood pressure  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Treatment of hypertension results in significant reductions in risk of subsequent cardiovascular disease [1,2].  #@NEW_LINE#@#  Despite strong evidence for such treatment, international epidemiological studies suggest that many people remain suboptimally controlled [3].  #@NEW_LINE#@#  Self-monitoring of blood pressure (BP), where individuals measure their own blood pressure, usually in a home environment, can improve BP control and is an increasingly common part of hypertension management.  #@NEW_LINE#@#  Such monitoring can be accompanied by additional support such as from a nurse or pharmacist [4].  #@NEW_LINE#@#  
+Self-monitoring is well tolerated by patients and has been shown to be a better predictor of end organ damage than clinic measurement [58].  #@NEW_LINE#@#  This is despite potential issues with quality control of self-measurement such as poor technique or withholding of results [9,10].  #@NEW_LINE#@#  The latter can be reduced to an extent by the use of telemonitoring [11].  #@NEW_LINE#@#  
+Previous meta-analyses have shown that self-monitoring reduces clinic BP by a small but significant amount compared to conventional care (around 4/1.5 mmHg) [4,1214].  #@NEW_LINE#@#  Analysis by Bray and colleagues suggested that when self-monitoring was accompanied by a co-intervention, participants were more likely to meet target BP, but it remains unclear which interventions are most effective and what specific populations (if any) should be targeted [14].  #@NEW_LINE#@#  
+The aim of this work was therefore to use individual patient data (IPD) from relevant trials to assess the effectiveness of BP self-monitoring on BP reduction and hypertension control, evaluating how best to utilise self-monitoring of BP and to determine which subpopulation is most likely to benefit.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+This study systematically reviewed the existing literature to identify randomised trials examining the efficacy of self-monitoring of BP compared to control.  #@NEW_LINE#@#  Authors of all eligible trials were approached for access to IPD.  #@NEW_LINE#@#  A protocol with detailed methods has been published previously [15].  #@NEW_LINE#@#  The methods used are summarised below.  #@NEW_LINE#@#  
+Data_sources_and_searches  #@NEW_LINE#@#  
+Medline, Embase, and the Cochrane Library were searched for trials using BP self-monitoring in hypertensive patients (S2 Fig; search date June 2016).  #@NEW_LINE#@#  
+
+Study_selection  #@NEW_LINE#@#  
+Two reviewers (RM and KT) independently assessed the articles for eligibility and inclusion; disagreements were resolved by discussion.  #@NEW_LINE#@#  Randomised trials were eligible that recruited patients with hypertension being managed as outpatients using an intervention that included self-measurement of BP.  #@NEW_LINE#@#  Self-monitoring had to be without medical professional input (i.e., by patient with or without carer support) and using a validated monitor, with or without other co-interventions, and where a comparator group had no organised self-measurement of BP.  #@NEW_LINE#@#  Included studies were required to have involved at least 100 patients, followed up for at least 24 weeks, and to have been published since 2000.  #@NEW_LINE#@#  This was to ensure that self-monitoring equipment was likely to be relevant to contemporary medical management (i.e., automated oscillometric monitors).  #@NEW_LINE#@#  Relevant outcomes were systolic blood pressure (sBP) and/or diastolic blood pressure (dBP) measured in clinic, by researcher or by ambulatory measurement, and achievement of BP control.  #@NEW_LINE#@#  
+
+Data_extraction_and_quality_assessment  #@NEW_LINE#@#  
+Authors whose trials met the inclusion criteria were approached for provision of IPD including demographic details, comorbidities, antihypertensive medications, lifestyle factors, and BP end points (clinic and/or ambulatory).  #@NEW_LINE#@#  Study-level data were extracted where available from published articles and checked by the original authors.  #@NEW_LINE#@#  In particular, any co-interventions were carefully documented and prospectively allocated to 1 of 4 levels of interventional support based on a previous classification [4] (S1 Table).  #@NEW_LINE#@#  
+Study quality was assessed in terms of potential bias from randomisation, blinding, outcome assessment, and method of analysis using an adaptation of the Cochrane tool [16].  #@NEW_LINE#@#  
+Original data were kept on a secure server and assembled in a consistent format for all trials.  #@NEW_LINE#@#  Three researchers (KT, RM, and JS) cross-checked trial details, summary measures, major outcomes, and definitions against published articles.  #@NEW_LINE#@#  Any apparent inconsistencies were checked with the original trial authors.  #@NEW_LINE#@#  Overall ethical approval was not required as this study does not include identifiable data; collaborating groups gained individual approval where required for data sharing.  #@NEW_LINE#@#  
+
+Data_synthesis_and_analysis  #@NEW_LINE#@#  
+A 2-stage IPD meta-analysis was conducted using linear regression for continuous outcomes and logistic regression for proportions, aggregated across studies by random-effects inverse variance methods.  #@NEW_LINE#@#  Intention-to-treat comparisons of outcomes between the self-monitoring and comparator arms were summarised with forest plots using the I-squared (I2) statistic for heterogeneity.  #@NEW_LINE#@#  Regression models were adjusted for age, sex, baseline clinic BP, and diabetic status (the latter due to the lower BP target generally used in a diabetic population).  #@NEW_LINE#@#  
+The primary outcomes were change in sBP and dBP at 12 months and likelihood of uncontrolled BP below target at 12 months (control as defined by each trial).  #@NEW_LINE#@#  Analyses are reported in subgroups, by pre-specified level of self-monitoring intervention as described in Table 1 and in the published protocol [15].  #@NEW_LINE#@#  
+Subgroup analyses examined the effect of self-monitoring on BP mean and control by age, sex, baseline sBP, the presence and number of antihypertensive medications prescribed, and comorbidities (myocardial infarction [MI], stroke, diabetes mellitus [DM], chronic kidney disease [CKD], and obesity [defined as a body mass index (BMI)  30 kg/m2]).  #@NEW_LINE#@#  All subgroup analyses were adjusted for age, sex, baseline clinic BP, level of intervention, and individual study (contributing to each analysis).  #@NEW_LINE#@#  
+Sensitivity analyses included incorporation of aggregate data from studies that did not contribute IPD [1723], exclusion of individual patients for whom a lower home BP target was not used (due to study design or the presence of comorbidities such as diabetes) [2427], influence of BP inclusion criteria (clinic or ambulatory) from ambulatory outcome studies, different assumptions regarding BP of patients lost to follow-up (controlled or uncontrolled), and influence of adjusting for medication changes (in those studies which recorded changes in medication).  #@NEW_LINE#@#  Finally, the influence of each study on the overall results was assessed using an influence analysis.  #@NEW_LINE#@#  Eggers test for funnel plot asymmetry was applied to consider possible publication bias (S21 Fig) [28].  #@NEW_LINE#@#  
+There were no deviations from the protocol [15].  #@NEW_LINE#@#  Five post-hoc analyses were undertaken: firstly, an additional subgroup analysis was carried out (resistant hypertension [defined as BP  greater than  140/90 mmHg and 3 medications at baseline or any BP level and 4 or more medications at baseline]); secondly, the distribution of baseline antihypertensive medications was compared in patients with and without a history of stroke using Pearsons chi-squared; thirdly, the effectiveness of self-monitoring in stroke was assessed controlling for the number of baseline medications; fourthly, the influence of blinding was assessed; and finally, sBP was plotted against medication changes.  #@NEW_LINE#@#  
+
+Statistical_software_and_presentation  #@NEW_LINE#@#  
+All analyses were conducted using STATA version 13.1 (MP parallel edition, StataCorp, College Station, Texas, USA), using the ipdmetan package [29].  #@NEW_LINE#@#  Data are presented as proportions of the total study population, means with standard deviation or relative risk (RR) with 95% confidence intervals unless otherwise stated.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Of 2,846 unique studies from the combined searches, 132 were assessed in full and 36 studies were deemed potentially eligible (S1 Fig).  #@NEW_LINE#@#  One study which would otherwise have been eligible was excluded because the comparator group used ambulatory monitoring to guide treatment, a control intervention that had not been anticipated in the protocol but which was not comparable to any other included studies [30].  #@NEW_LINE#@#  Of the 36 potentially eligible studies, 19 had published data at 12 months, the primary outcome.  #@NEW_LINE#@#  Authors from 24 of the potentially eligible studies provided IPD, with 1 group submitting additional data from an unpublished study.  #@NEW_LINE#@#  These 25 studies were published from 20052014, were conducted in North America and Europe (11 United States; 6 United Kingdom; 3 Italy; 1 each from the Netherlands, Australia, Spain, Finland, and Canada), and included a wide range of self-monitoring protocols, co-interventions, and populations (Table 1) [2327,3148].  #@NEW_LINE#@#  Authors from the remaining 12 studies were either unable to provide IPD (2 studies) or did not respond to the request for data (10 studies).  #@NEW_LINE#@#  Four studies which followed up patients for 12 months did not provide IPD, so that data for the primary outcome were available from 15/19 studies (7,138/8,292 [86%], of potential participants) (S2 Table) [17,18,22,49].  #@NEW_LINE#@#  A total of 838 patients (12%) were lost to follow-up across all included studies, and a further 227 patients from the potentially available studies were lost to follow-up, leaving 6,300/7,227 patients (87%) for inclusion in the final analysis of the primary outcome (12 months follow-up).  #@NEW_LINE#@#  
+Overall, the information from the included trials was judged to be at low risk of bias: most studies used computerised generation of randomisation sequences (23/25, 92%), appropriate allocation concealment (24/25, 96%), and all used an intention-to-treat approach with either multiple imputation for missing data or analysis of complete cases.  #@NEW_LINE#@#  Most studies (19/25, 76%) followed up more than 80% of participants, but only 12/25 (48%) used blinded assessment of outcome (S3 Table).  #@NEW_LINE#@#  An influence analysis assessed the impact of each individual study on the overall results.  #@NEW_LINE#@#  Included studies were predominantly publically funded (S4 Table).  #@NEW_LINE#@#  
+Clinic_BP  #@NEW_LINE#@#  
+Overall, self-monitoring was associated with reduced clinic sBP between baseline and 12-months follow-up compared to usual care (systolic 3.2 mmHg, 95% CI 4.9 to 1.6 mmHg) (Fig 1).  #@NEW_LINE#@#  Significant heterogeneity was present between studies: I2 = 76%, P less_than 0.001.  #@NEW_LINE#@#  Self-monitoring was also associated with reduced dBP at 12-months follow-up (diastolic 1.5 mmHg, 95% CI 2.2 to 0.8 mmHg) and significant heterogeneity remained (I2 = 62%, P less_than 0.001) (Fig 2).  #@NEW_LINE#@#  Similar reductions in BP were seen after 6-months follow-up, but the point estimates after 18-months follow-up were smaller, albeit from only 5 studies (S3, S4, S6 and S7 Figs).  #@NEW_LINE#@#  
+
+Clinic_BP_control  #@NEW_LINE#@#  
+Clinic BP control was improved at 12-months follow-up (RR of uncontrolled BP 0.7 [95% CI 0.56 to 0.86]) again with significant heterogeneity between groups (Fig 3).  #@NEW_LINE#@#  Similar results were seen at 6 and 18 months (S5 and S8 Figs, respectively).  #@NEW_LINE#@#  
+
+Intensity_of_co-intervention  #@NEW_LINE#@#  
+The reductions in clinic sBP varied with different levels of intervention: level 1 (with no co-intervention) 1.0 mmHg, [95% CI 3.3 to 1.2 mmHg]; level 4 (personal support throughout the trial) 6.1 mmHg, [95% CI 9.0 to 3.2 mmHg] (Fig 1) (heterogeneity in outcome between different levels of intervention P less_than 0.001).  #@NEW_LINE#@#  Within predefined categories of intensity of co-intervention, significant heterogeneity remained, apart from within level 2.  #@NEW_LINE#@#  
+A similar pattern of reductions was seen in dBP: level 1 (with no co-intervention) 1.1 mmHg, [95% CI 2.4 to 0.2 mmHg]; level 4 (personal support throughout the trial) 2.3 mmHg, [95% CI 4.0 to 0.6 mmHg] (Fig 2) (heterogeneity in outcome between different levels of intervention P less_than 0.001).  #@NEW_LINE#@#  Within predefined categories of intensity of co-intervention, significant heterogeneity remained in levels 1 and 4.  #@NEW_LINE#@#  
+BP control (defined according to individual study targets, Table 1) at 12 months also differed by level of intensity.  #@NEW_LINE#@#  The RR of having uncontrolled BP with a self-monitoring intervention at 12 months varied from level 1 (RR 1.0, 95% CI 0.7 to 1.4) to level 4 (RR 0.4, 95% CI 0.3 to 0.6) (Fig 3) (heterogeneity between levels of intervention P less_than 0.001).  #@NEW_LINE#@#  Heterogeneity within levels of intervention in this analysis was low for levels 2 and 4 of co-intervention, although the I2 remained above 50% for level 1.  #@NEW_LINE#@#  Similar results were seen at 6-months follow-up (21 studies) and at 18-months follow-up (5 studies) (S5 and S8 Figs, respectively).  #@NEW_LINE#@#  
+
+Ambulatory_BP  #@NEW_LINE#@#  
+Four studies had data at 12 months using ambulatory BP as the outcome (1,478 participants); these were studies with no co-intervention (level 1; n = 3) or automated feedback only (level 2; n = 1).  #@NEW_LINE#@#  No change was seen in ambulatory sBP associated with self-monitoring (1.1 mmHg [0.3, 2.5]) (Fig 4) or ambulatory dBP (0.8 mmHg [0.2, 1.9]), and there was no significant heterogeneity between studies in either case (Fig 5).  #@NEW_LINE#@#  At 6 months, data were available for 5 studies with no difference seen in ambulatory sBP (1.0 mmHg [2.8, 0.9]) or dBP (0.4 mmHg [1.6, 0.8]) (S9 and S10 Figs, respectively).  #@NEW_LINE#@#  The additional study, which used a level 3intensity intervention, increased heterogeneity as it had a significant outcome.  #@NEW_LINE#@#  
+No ambulatory data were available at 18 months.  #@NEW_LINE#@#  
+
+Subgroup_analysis  #@NEW_LINE#@#  
+Subgroup analyses using data from 12-months follow-up showed little difference in either reduction of systolic or diastolic clinic BP or likelihood of uncontrolled BP depending on history of MI or presence of CKD or diabetes (Figs 6, 7 and 8) (I2  20% for all subgroups).  #@NEW_LINE#@#  
+However, a history of stroke was associated with a reduced effectiveness of self-monitoring in terms of clinic sBP lowering (I2 = 77%, P = 0.04), though this difference was not observed for dBP or maintained in the likelihood of control analysis (RR I2 = 42%, P = 0.19).  #@NEW_LINE#@#  Post-hoc analyses showed that the distribution of number of medications between stroke and non-stroke patients was similar (S5 Table), and adjusting for baseline medication use did not explain the lack of effectiveness in patients with stroke.  #@NEW_LINE#@#  There was moderate heterogeneity between age groups for the effect of self-monitoring on systolic and diastolic clinic BP (I2 = 31%, P = 0.20 and I2 = 33, P = 0.19, respectively) but not in the likelihood of uncontrolled BP (I2 = 0.0%, P = 0.60).  #@NEW_LINE#@#  Considering the effect of obesity, there was no difference in the effect on systolic clinic BP reduction (I2 = 0, P = 0.72) but there was some evidence of heterogeneity of effect for dBP (I2 = 63, P = 0.10) and the risk of uncontrolled BP (I2 = 61%, P = 0.11).  #@NEW_LINE#@#  
+Fewer baseline antihypertensive medications were associated with larger reductions of BP and better control (Figs 68).  #@NEW_LINE#@#  Post-hoc analyses, comparing those with resistant hypertension to those without, suggested that self-monitoring was less effective at achieving BP control in the former (RR of uncontrolled BP = 0.62, 95% CI 0.540.71 [non-resistant hypertension] versus RR of uncontrolled BP = 0.94, 95% CI 0.651.36 [resistant hypertension], I2 = 76%, P = 0.04).  #@NEW_LINE#@#  Similarly, the post-hoc analysis plotting change in sBP against medication changes was consistent with the hypothesis that self-monitoring interventions resulted in BP decreases via increases in prescribed medication (S22 Fig).  #@NEW_LINE#@#  
+
+Sensitivity_analysis  #@NEW_LINE#@#  
+Inclusion of aggregate data for clinic BP at 12 months from the 4 eligible studies that did not contribute IPD (S2 Table) and exclusion of studies that did not use a lower home BP threshold did not materially change the results (S11 and S12 Figs).  #@NEW_LINE#@#  The exclusion of studies that randomised on the basis of ambulatory BP monitoring (ABPM) or studies that randomised on clinic BP did not change the impact of clinic or ambulatory measurement of sBP at 12 months (S13 and S14 Figs).  #@NEW_LINE#@#  Assuming patients lost to follow-up had uncontrolled BP attenuated the results, whereas assuming that they had controlled BP accentuated them (S15 and S16 Figs, respectively).  #@NEW_LINE#@#  Exclusion of patients with controlled BP at baseline also accentuated the results (S17 Fig).  #@NEW_LINE#@#  A post-hoc comparison of studies with blinded outcome (2,829 patients) versus unblinded (3,257 patients) showed that blinding was associated with a reduced point estimate for the change in sBP at 12 months in those studies examining higher-level interventions, albeit with overlapping confidence intervals (level 1 & 2 intervention studies: 1.51, 95% CI 4.06 to 1.04 [blinded] versus 0.83, 95% CI 2.38 to 0.73 [unblinded]; level 3 & 4 intervention studies: 4.67, 95% CI 7.51 to 1.84 [blinded] versus 6.16, 95% CI 9.36 to 2.95 [unblinded]).  #@NEW_LINE#@#  
+Where studies had measured changes in antihypertensive medication over time, there was evidence of attenuation of the change in sBP when the analysis was adjusted for change in medication (S18 and S19 Figs).  #@NEW_LINE#@#  The influence analysis did not suggest that any one study was materially influencing the results (S20 Fig and Eggers test found no evidence of asymmetry in the funnel plot (P = 0.9, S21 Fig).  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Main_findings  #@NEW_LINE#@#  
+Using IPD from 25 studies totalling 10,487 patients, this meta-analysis provides strong evidence that the degree of BP lowering is related to the intensity of the co-intervention (i.e., additional support) combined with self-monitoring, with little or no effect from self-monitoring alone.  #@NEW_LINE#@#  
+These results held whether systolic or diastolic clinic BP or clinic BP control were assessed and were consistent at both 6 and 12 months.  #@NEW_LINE#@#  No data were available from studies with intensive co-interventions which used ambulatory BP monitoring to measure outcomes at 12 months or longer, and those with little or no co-intervention showed similar effects to the clinic BP data (no effect in either case).  #@NEW_LINE#@#  There was a suspicion of attenuation of the effect of self-monitoring in the few studies to date that have followed up patients for longer than 1 year but data were sparse.  #@NEW_LINE#@#  Future research might be directed towards longer studies with ambulatory BP measurement (or other measurements to reduce the white coat effect) for outcomes.  #@NEW_LINE#@#  Self-monitoring appeared most effective at lowering BP in people on fewer BP medications at baseline, and there was a suggestion of a greater effect with higher BPprovided BP was not 170 mmHg or above.  #@NEW_LINE#@#  Analyses considering those with apparent resistant hypertension at baseline suggested that self-monitoring works less well in this group, but this analysis was not prespecified, could not take into account dose of antihypertensive medication, and should be interpreted with caution.  #@NEW_LINE#@#  In terms of comorbidities, the effects of self-monitoring were similar whether or not an individual had a history of MI, diabetes, or CKD.  #@NEW_LINE#@#  In people with previous stroke, there may be a reduced effect of self-monitoring but this did not reflect more intensive treatment prior to randomisation.  #@NEW_LINE#@#  
+
+Strengths_and_weaknesses  #@NEW_LINE#@#  
+To our knowledge, this is the first analysis of self-monitoring of BP to use IPD from a wide range of self-monitoring trials from North America, Australia, and Europe and including both specialist and primary care settings.  #@NEW_LINE#@#  IPD allowed for standardised adjustment of outcomes and sufficient power to detect differences between subgroups.  #@NEW_LINE#@#  
+An important issue in IPD analysis is selection of studies.  #@NEW_LINE#@#  The BPSMART collaboration has gained access to a large number of datasets; nevertheless, some studies were not available due to unavailability of data or lack of response.  #@NEW_LINE#@#  Despite this, only 4 studies eligible for the primary outcome (14% of available patient data) were unable to provide data, and sensitivity analyses suggested no material change in the results when the published aggregate data from these studies were included.  #@NEW_LINE#@#  
+Quality of included studies was adequate in terms of randomisation sequences, appropriate allocation concealment, and analyses.  #@NEW_LINE#@#  Follow-up was high for most studies but only half used blinded assessment of outcome.  #@NEW_LINE#@#  However, a post-hoc sensitivity analysis showed no difference in results from blinding, perhaps because in most studies BP was assessed using automated monitors reducing the chance of bias.  #@NEW_LINE#@#  
+Despite the use of IPD and the division of studies into subgroups, significant heterogeneity remained, which limited the ability to do meta-analysis.  #@NEW_LINE#@#  However, this does not negate the conclusion that the evidence for both BP reduction and control is stronger for higher-intensity interventions and weak for self-monitoring alone.  #@NEW_LINE#@#  The hypothesis that effect would vary with level of intervention was prespecified and the categorisation of studies into 4 levels of intervention was agreed to by all study investigators before results were available.  #@NEW_LINE#@#  
+Whilst all included studies compared self-monitoring of BP to control groups without self-monitoring, inevitably different investigators used different protocols and therefore studies differed in inclusion criteria, self-monitoring regime, and target BPs.  #@NEW_LINE#@#  These issues could at least in part explain the remaining heterogeneity between studies.  #@NEW_LINE#@#  The exclusion of studies which did not use lower BP targets for self-monitored BP did not change the results, but even IPD analysis is unable to take differences between studies entirely into account and this may be reflected in the heterogeneity which remained.  #@NEW_LINE#@#  Significance tests should be interpreted with caution when, as in Figs 6 and 7, multiple coequal exposures are under test; however, the 3 P values  5% for heterogeneity across these 18 tests are unlikely to be all due to chance alone and the tests were prespecified.  #@NEW_LINE#@#  
+Most outcome data were based on clinic measurement of BP, which is what was used by the majority of trials of outcome of hypertension treatment [1].  #@NEW_LINE#@#  Ambulatory monitoring might reduce any attenuation to the white coat effect from repeated habituation to measurement but, whilst 6 studies used ambulatory BP as an outcome [25,32,33,43,45] (including 1 unpublished study), all but 1 of these used less intensive or no co-interventions.  #@NEW_LINE#@#  The single intensive study with an ambulatory outcome had data to 6 months and a positive result, whereas the remaining 4 studies showed no impact on ambulatory BP in common with the pooled results for clinic BP.  #@NEW_LINE#@#  Other studies have used multiple automated BP measurements in the clinic to assess habituation and have found no evidence that the BP differences are removed when the white coat effect is reduced, though further studies examining the effects of self-monitoring with intensive co-interventions on outcomes which reduce white coat effects are arguably needed [36] [35].  #@NEW_LINE#@#  
+Even with IPD, issues such as loss to follow-up may be important.  #@NEW_LINE#@#  Included studies had rates of follow-up between 58% and 98% at 12 months with most studies following-up around 90%.  #@NEW_LINE#@#  In the main analysis, formal methods for handling missing data were not used since methods for imputation in IPD meta-analysis are in their infancy; however, the impact of each individual study on the overall results as assessed by the influence analysis suggests that factors such as differential follow-up between studies were unlikely to have affected the results [52].  #@NEW_LINE#@#  
+The outcomes included in this review are all related to BP.  #@NEW_LINE#@#  Whilst BP is directly related to stroke and coronary heart disease risk, it is nevertheless an intermediate outcome.  #@NEW_LINE#@#  Ideally, such hard outcomes would be directly measured in trials.  #@NEW_LINE#@#  However, because of relatively short follow-up and small numbers of participants, few included individual trials did so.  #@NEW_LINE#@#  
+
+Comparison_with_the_previous_literature  #@NEW_LINE#@#  
+There have been previous systematic reviews of trials of self-monitoring [4,13,14,53], including those focussing on specific outcomes such as adherence [54] or processes such as telemonitoring [55], but all previous analyses have relied on summary statistics rather than IPD.  #@NEW_LINE#@#  Compared to the most recent and comprehensive summary data review, the current study has provided pooled estimates of the effect of self-monitoring with different levels of co-intervention, suggests that self-monitoring alone has little impact on BP, and provides new evidence that the level of BP reduction is related to the intensity of the co-intervention [4].  #@NEW_LINE#@#  
+Self-monitoring in the absence of such a co-intervention had little effect on BP.  #@NEW_LINE#@#  This is not to say that self-monitoring alone should be discouraged, for it brings other advantages both theoretical (better estimation of the underlying BP, increased self-efficacy for the patient) [6] and practical (increased adherence, reduced need for monitoring within the clinic, and identification of white coat and masked hypertension) [24,54].  #@NEW_LINE#@#  These advantages are despite any potential inaccuracy caused by individuals not conforming to the recommended self-monitoring regime [9,10].  #@NEW_LINE#@#  
+Obese patients had similar BP reductions to non-obese individuals but greater chance of BP control, which does not reflect differences in mean BP.  #@NEW_LINE#@#  The findings concerning patients with previous stroke and resistant hypertension require some caution, particularly the latter which was a post-hoc analysis, but have not been previously described.  #@NEW_LINE#@#  In the case of stroke, the results do not appear to be due to baseline intensity of antihypertensive treatment and warrant further study as more data become available.  #@NEW_LINE#@#  
+
+Meaning_of_the_study  #@NEW_LINE#@#  
+Combining self-monitoring with increased collaboration between patient and either a nurse, physician, or pharmacist can result in important decreases in BP (6 mmHg systolic on average for the more intensive co-interventions) and improved control.  #@NEW_LINE#@#  The mechanisms for these reductions in BP could include lifestyle changes (no data available); increased adherence to medication (no data available) [54]; or increased prescription of medications, i.e., overcoming clinical inertia (data available from 11 studies).  #@NEW_LINE#@#  In order to assess the impact of enhanced medication prescription, number of medication changes was plotted against changes in BP and showed that increased numbers of medication changes were weakly correlated with reduced BP (S22 Fig).  #@NEW_LINE#@#  Whatever the mechanism, the literature suggests that a 6 mmHg reduction in sBP, as observed in higher-intensity interventions, would reduce subsequent stroke by more than 20% [56].  #@NEW_LINE#@#  Considering the content of such interventions is an important part of decision-making in the implementation of self-monitoring.  #@NEW_LINE#@#  Table 1 and S1 Table describe the key characteristics of effective interventions which depend on actively intervening in terms of medication titration and/or health behaviours.  #@NEW_LINE#@#  Much of the effect appears to be associated with one-to-one intervention combined with medication intensification.  #@NEW_LINE#@#  Self-monitoring can therefore facilitate significant improvements in BP level and control but should not necessarily be seen as reducing clinical input because clinical input within the co-interventions is often required for effective BP lowering.  #@NEW_LINE#@#  
+The recent SPRINT trial results suggest that more intensive BP interventions are likely to be important in terms of morbidity and mortality [57].  #@NEW_LINE#@#  Increasing the level or intensity of intervention also increases the cost of an intervention, both directly to the health provider and also in terms of patients time.  #@NEW_LINE#@#  Understanding the relative cost-effectiveness of the different co-interventions is likely to be important in deciding policy in this area and will require further work.  #@NEW_LINE#@#  
+The effects appear to be independent of age, sex, and a range of comorbidities (such as MI, CKD, diabetes, and obesity), but there was a suggestion that people receiving less intensive antihypertensive treatment, and those with the highest BPs (up to 170 mmHg systolic), may have the most to gain, presumably because they are not already receiving sufficient doses of medication.  #@NEW_LINE#@#  Conversely, with resistant hypertension there appeared to be little effect from self-monitoring.  #@NEW_LINE#@#  Similar results for stroke should be interpreted cautiously and warrant further study.  #@NEW_LINE#@#  
+The data presented appear to indicate a potential attenuation of the beneficial effects of self-monitoring over time (see S6, S7 and S8 Figs).  #@NEW_LINE#@#  We believe that the key issue is a need for longer studies (at least 2 years, and preferably 5 years or more) that are accompanied by investigation of how best to administer a self-monitoringbased intervention in the long term, including whether it should be perhaps topped up with additional training over time.  #@NEW_LINE#@#  
+Finally, we know from the individual trials that only a proportion of those with hypertension will be suitable for self-monitoring.  #@NEW_LINE#@#  Despite this, the numbers of people with hypertension and access to their own BP monitor are likely to be well into the tens of millions internationally and represent an important population to engage with [58,59].  #@NEW_LINE#@#  
+
+Future_research  #@NEW_LINE#@#  
+Several unanswered questions remain.  #@NEW_LINE#@#  Ultimately, trials including cardiovascular endpoints would provide the strongest evidence for self-monitoring in the management of hypertension but may not be appropriate given the strong evidence linking BP to outcome.  #@NEW_LINE#@#  Further consideration of self-monitoring in the presence of comorbidities seems warranted, particularly for stroke.  #@NEW_LINE#@#  Furthermore, this review has not included economic outcomes (available from 6 of the included studies) or quality of life measures (available in 8 of the included studies), and these outcomes form part of the next series of investigations for this collaboration.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Self-monitoring of BP combined with co-interventions involving individually tailored support lowers clinic BP but has little effect on its own.  #@NEW_LINE#@#  Self-monitoring supported by such co-interventions should be recommended as part of routine clinical practice in international guidelines and further research should determine the most cost-effective means of supporting implementation.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_PRISMA_Checklist_PRISMA_checklist  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s001  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+S1_Text_The_protocol_paper_published_by_the_BMJ_Open_(available_at_http___bmjopenbmjcom_content_bmjopen_5_9_e008532fullpdf)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s002  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Table_Levels_of_self-monitoring_intervention  #@NEW_LINE#@#  
+Levels used to describe the included self-monitoring interventions.  #@NEW_LINE#@#  * 1:1 contact or support in this context refers to contact over and above that in usual care.  #@NEW_LINE#@#  Abbreviation: BP, blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Studies_not_included_in_the_IPD_analysis  #@NEW_LINE#@#  
+*Data were available from trials including 7,138/8,292 (86%) of patients randomised.  #@NEW_LINE#@#  +Data at 6 months follow-up were available from 8,563/12,822 (67%) of patients randomised.  #@NEW_LINE#@#  Abbreviation: IPD, individual patient data.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Assessment_of_bias  #@NEW_LINE#@#  
+*Due to the nature of the intervention, the participants in all studies were aware that they were in the self-monitoring group.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Funding_provided_to_the_included_studies  #@NEW_LINE#@#  
+Table showing the funding of the included studies.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Distribution_of_baseline_medications_by_history_of_stroke  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Fig_Flow_diagram_of_the_systematic_search_and_selection_of_relevant_studies  #@NEW_LINE#@#  
+Flow diagram of the systematic review and selection of studies for the IPD.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Fig_Example_search_strategy  #@NEW_LINE#@#  
+An example search from Medline.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s009  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Fig_Impact_of_self-monitoring_of_BP_on_clinic_sBP_according_to_level_of_co-intervention_support_at_6_months_(21_studies)  #@NEW_LINE#@#  
+Change in sBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s010  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S4_Fig_Impact_of_self-monitoring_of_BP_on_clinic_dBP_according_to_level_of_co-intervention_support_at_6_months_(21_studies)  #@NEW_LINE#@#  
+Change in dBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; dBP, diastolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s011  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S5_Fig_Impact_of_self-monitoring_of_BP_on_the_RR_of_uncontrolled_BP_at_6_months_according_to_level_of_co-intervention_support_(21_studies)  #@NEW_LINE#@#  
+RR of uncontrolled BP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; RR, relative risk.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s012  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S6_Fig_Impact_of_self-monitoring_of_BP_on_clinic_sBP_according_to_level_of_co-intervention_support_at_18_months_(5_studies)  #@NEW_LINE#@#  
+Change in sBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s013  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S7_Fig_Impact_of_self-monitoring_of_BP_on_clinic_dBP_according_to_level_of_co-intervention_support_at_18_months_(5_studies)  #@NEW_LINE#@#  
+Change in dBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; dBP, diastolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s014  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S8_Fig_Impact_of_self-monitoring_of_BP_on_the_RR_of_uncontrolled_BP_at_18_months_according_to_level_of_co-intervention_support_(5_studies)  #@NEW_LINE#@#  
+RR of uncontrolled BP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; RR, relative risk.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s015  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S9_Fig_Impact_of_self-monitoring_of_BP_on_clinic_and_ambulatory_sBP_at_6_months  #@NEW_LINE#@#  
+Change in sBP adjusted for age, sex, baseline clinic BP, history of diabetes, and level of intervention.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s016  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S10_Fig_Impact_of_self-monitoring_of_BP_on_clinic_and_ambulatory_dBP_at_6_months  #@NEW_LINE#@#  
+Change in dBP adjusted for age, sex, baseline clinic BP, history of diabetes, and level of intervention.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; dBP, diastolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s017  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S11_Fig_Change_in_sBP_at_12_months_including_aggregate_data_from_studies_which_did_not_contribute_IPD_for_the_primary_analysis_(19_studies)  #@NEW_LINE#@#  
+*Four studies containing aggregate data only: Varis et al.  #@NEW_LINE#@#  [17], Rinfret et al.  #@NEW_LINE#@#  [22], Artinian et al.  #@NEW_LINE#@#  [18], and Kim et al.  #@NEW_LINE#@#  [49].  #@NEW_LINE#@#  Change in sBP from studies contributing IPD adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: IPD, individual patient data; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s018  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S12_Fig_Primary_analyses_excluding_all_studies*_which_did_not_use_a_home_BP_threshold_which_was_lower_than_clinic_BP  #@NEW_LINE#@#  
+Change in sBP at 12 months.  #@NEW_LINE#@#  *Patients from TASMINH1 (Verberk et al.  #@NEW_LINE#@#  [25] and McManus et al.  #@NEW_LINE#@#  [24]) and diabetics from HINTS (Bosworth et al.  #@NEW_LINE#@#  [26]) and TCYB (Bosworth et al.  #@NEW_LINE#@#  [27]) all excluded.  #@NEW_LINE#@#  Change in sBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s019  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S13_Fig_Primary_analyses_(ABPM)_excluding_all_studies_which_randomised_patients_on_the_basis_of_ABPM  #@NEW_LINE#@#  
+Change in sBP at 12 months.  #@NEW_LINE#@#  Change in sBP adjusted for age, sex, baseline clinic BP, history of diabetes, and level of intervention.  #@NEW_LINE#@#  Abbreviations: ABPM, ambulatory blood pressure monitoring; BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s020  #@NEW_LINE#@#  
+(TIFF)  #@NEW_LINE#@#  
+
+S14_Fig_Primary_analyses_(ABPM)_excluding_all_studies_which_randomised_patients_on_the_basis_of_clinic_BP  #@NEW_LINE#@#  
+Change in sBP at 12 months.  #@NEW_LINE#@#  Change in sBP adjusted for age, sex, baseline clinic BP, history of diabetes, and level of intervention.  #@NEW_LINE#@#  Abbreviations: ABPM, ambulatory blood pressure monitoring; BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s021  #@NEW_LINE#@#  
+(TIFF)  #@NEW_LINE#@#  
+
+S15_Fig_Impact_of_self-monitoring_of_BP_on_the_RR_of_uncontrolled_BP_at_12_months__with_patients_lost_to_follow-up_assumed_to_have_controlled_BP_(15_studies)  #@NEW_LINE#@#  
+RR of uncontrolled BP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; RR, relative risk.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s022  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S16_Fig_Impact_of_self-monitoring_of_BP_on_the_RR_of_uncontrolled_BP_at_12_months__with_patients_lost_to_follow-up_assumed_to_have_uncontrolled_BP_(15_studies)  #@NEW_LINE#@#  
+RR of uncontrolled BP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; RR, relative risk.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s023  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S17_Fig_Impact_of_self-monitoring_of_BP_on_clinic_sBP_at_12_months__with_patients_who_had_controlled_BP_at_baseline_excluded_(15_studies)  #@NEW_LINE#@#  
+Change in sBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s024  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S18_Fig_Studies_which_measured_change_in_medication_at_follow-up  #@NEW_LINE#@#  
+sBP change at 12 months analysed without adjusting for medication changes at follow-up (11 studies).  #@NEW_LINE#@#  Change in sBP adjusted for age, sex, baseline clinic BP, and history of diabetes.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s025  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S19_Fig_Studies_which_measured_change_in_medication_at_follow-up  #@NEW_LINE#@#  
+sBP change at 12 months analysed adjusting for medication changes at follow-up (11 studies).  #@NEW_LINE#@#  Change in sBP adjusted for age, sex, baseline clinic BP, history of diabetes, and medication changes at 12 months follow-up.  #@NEW_LINE#@#  Abbreviations: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s026  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S20_Fig_Influence_analysis_presenting_the_pooled_estimate_of_mean_change_in_sBP_at_12_months_with_each_individual_study_omitted_from_the_meta-analysis_in_turn  #@NEW_LINE#@#  
+Each line indicates pooled meta-analysis results with that study omitted from the results.  #@NEW_LINE#@#  Abbreviation: sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s027  #@NEW_LINE#@#  
+(TIFF)  #@NEW_LINE#@#  
+
+S21_Fig_Funnel_plot_showing_mean_change_in_sBP_at_12_months  #@NEW_LINE#@#  
+The standard error is plotted against the mean change in sBP at 12 months.  #@NEW_LINE#@#  An Eggers test of zero (P = 1.00) would indicate little influence of publication bias.  #@NEW_LINE#@#  Abbreviation: sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s028  #@NEW_LINE#@#  
+(TIFF)  #@NEW_LINE#@#  
+
+S22_Fig_sBP_change_plotted_against_medication_changes_at_12_months_follow-up__by_level_of_intervention_(11_studies)  #@NEW_LINE#@#  
+*Test for trend using a fixed-effects linear regression model adjusted for study.  #@NEW_LINE#@#  The HOMERUS and TCYB trials, and studies by Godwin et al.  #@NEW_LINE#@#  [43] and Leiva et al.  #@NEW_LINE#@#  [46], were excluded due to missing data on medication changes at follow-up.  #@NEW_LINE#@#  Results where a negative change in BP is associated with a positive change in number of medications suggest medication intensification may be related to improved BP at 12 months.  #@NEW_LINE#@#  Abbreviation: BP, blood pressure; sBP, systolic blood pressure.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s029  #@NEW_LINE#@#  
+(TIFF)  #@NEW_LINE#@#  
+
+S23_Fig_The_STATA_code_used_for_the_meta-analysis  #@NEW_LINE#@#  
+The STATA code used to perform the meta-analysis and figures.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002389.s030  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors would like to thank Felicia McCant, MSSW (Durham, NC VA Medical Center, Durham, USA); Steve Asche, MA (HealthPartners Institute for Education and Research, Minneapolis, USA); Leah Tuzzio, MPH (Group Health Research Institute, Seattle, USA); Mark Butler, MA (Center for Healthful Behavior Change, New York, USA); Melissa L. Anderson, MS (Group Health Research Institute, Seattle, USA); Nichole Wagner, MPH (Institute for Health Research, Colorado, USA); and Shadi Chamany (New York City Department of Health & Mental Hygiene, New York, USA) for helping with data formatting and data queries.  #@NEW_LINE#@#  
+The views expressed are those of the author(s) and not necessarily those of the NIHR, the NHS, or the Department of Health.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

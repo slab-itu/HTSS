@@ -1,0 +1,220 @@
+article id="http://dx.doi.org/10.1038/srep17442"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Was millennial scale climate change during the Last Glacial triggered by explosive  #@NEW_LINE#@#  
+            volcanism?  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+The mechanisms responsible for millennial scale climate change within glacial time  #@NEW_LINE#@#  
+                intervals are equivocal.  #@NEW_LINE#@#  Here we show that all eight known radiometrically-dated  #@NEW_LINE#@#  
+                Tambora-sized or larger NH eruptions over the interval 30 to 80ka BP  #@NEW_LINE#@#  
+                are associated with abrupt Greenland cooling (95% confidence).  #@NEW_LINE#@#  Additionally,  #@NEW_LINE#@#  
+                previous research reported a strong statistical correlation between the timing of  #@NEW_LINE#@#  
+                Southern Hemisphere volcanism and Dansgaard-Oeschger (DO) events (99%  #@NEW_LINE#@#  
+                confidence), but did not identify a causative mechanism.  #@NEW_LINE#@#  Volcanic aerosol-induced  #@NEW_LINE#@#  
+                asymmetrical hemispheric cooling over the last few hundred years restructured  #@NEW_LINE#@#  
+                atmospheric circulation in a similar fashion as that associated with Last Glacial  #@NEW_LINE#@#  
+                millennial-scale shifts (albeit on a smaller scale).  #@NEW_LINE#@#  We hypothesise that following  #@NEW_LINE#@#  
+                both recent and Last Glacial NH eruptions, volcanogenic sulphate injections into the  #@NEW_LINE#@#  
+                stratosphere cooled the NH preferentially, inducing a hemispheric temperature  #@NEW_LINE#@#  
+                asymmetry that shifted atmospheric circulation cells southward.  #@NEW_LINE#@#  This resulted in  #@NEW_LINE#@#  
+                Greenland cooling, Antarctic warming, and a southward shifted ITCZ.  #@NEW_LINE#@#  However, during  #@NEW_LINE#@#  
+                the Last Glacial, the initial eruption-induced climate response was prolonged by NH  #@NEW_LINE#@#  
+                glacier and sea ice expansion, increased NH albedo, AMOC weakening, more NH cooling,  #@NEW_LINE#@#  
+                and a consequent positive feedback.  #@NEW_LINE#@#  Conversely, preferential SH cooling following  #@NEW_LINE#@#  
+                large SH eruptions shifted atmospheric circulation to the north, resulting in the  #@NEW_LINE#@#  
+                characteristic features of DO events.  #@NEW_LINE#@#  
+
+Introduction  #@NEW_LINE#@#  
+Millennial scale climate change is one of the most characteristic and yet enigmatic  #@NEW_LINE#@#  
+            features of recent glacial intervals.  #@NEW_LINE#@#  From 30 to 80ka BP, glacial baseline  #@NEW_LINE#@#  
+            conditions were interrupted by 21 abrupt climate change events, termed  #@NEW_LINE#@#  
+            Dansgaard-Oeschger (DO) events, associated with warm interstadial conditions in  #@NEW_LINE#@#  
+            Greenland but colder conditions in Antarctica.  #@NEW_LINE#@#  The apparent temperature shifts were  #@NEW_LINE#@#  
+            locally dramatic; for example, DO Event 8 (DO-8) occurred 38.17ka BP, and  #@NEW_LINE#@#  
+            was characterised by 11.8°C Greenland warming1,  #@NEW_LINE#@#  
+            which is comparable to warming across a full glacial-interglacial transition.  #@NEW_LINE#@#  
+            Additionally, evidence from high resolution Greenland ice cores suggests that Greenland  #@NEW_LINE#@#  
+            warming can occur extremely rapidly, potentially within 1 to 3 years2.  #@NEW_LINE#@#  
+            Any explanation for DO events must therefore account for both the rapidity and magnitude  #@NEW_LINE#@#  
+            of the observed temperature change.  #@NEW_LINE#@#  Similarly, any cause must also explain the apparent  #@NEW_LINE#@#  
+            hemispheric asymmetry characteristic of DO events; Greenland warming was associated with  #@NEW_LINE#@#  
+            Antarctic cooling3, a phenomenon known as the bipolar  #@NEW_LINE#@#  
+                see-saw3.  #@NEW_LINE#@#  The hemispheric asymmetry is not restricted to  #@NEW_LINE#@#  
+            high latitudes.  #@NEW_LINE#@#  Increasing speleothem-based evidence indicates that DO events were  #@NEW_LINE#@#  
+            associated with substantial atmospheric reorganisation at low latitudes, with a  #@NEW_LINE#@#  
+            strengthening of the East Asian Summer Monsoon (EASM) system4,5 in the  #@NEW_LINE#@#  
+            Northern Hemisphere (NH) and a weakening of the South American Monsoon (SAM) and the  #@NEW_LINE#@#  
+            Australasian Monsoon (AM) in the Southern Hemisphere (SH)6,7.  #@NEW_LINE#@#  
+            Explanations for the asymmetric hemispheric response to DO events often invoke Atlantic  #@NEW_LINE#@#  
+            Meridional Overturning Circulation (AMOC) shifts possibly induced by meltwater  #@NEW_LINE#@#  
+                pulses7,8,9, but this interpretation is not universally accepted,  #@NEW_LINE#@#  
+            and other proposed explanations include solar forcing10, internal  #@NEW_LINE#@#  
+            ocean-atmosphere oscillations11, and volcanism12.  #@NEW_LINE#@#  Because  #@NEW_LINE#@#  
+            the substantial climate shifts associated with DO event initiation can seemingly occur  #@NEW_LINE#@#  
+            on human timescales, identifying the underlying cause of such abrupt climate change and  #@NEW_LINE#@#  
+            considering these forcings in a modern context is critical.  #@NEW_LINE#@#  
+Here we use published ice core (synchronised on the AICC2012 chronology13), volcanological, and speleothem-based evidence to argue that DO events were  #@NEW_LINE#@#  
+            triggered by asymmetrical hemispheric cooling caused by explosive SH volcanic eruptions.  #@NEW_LINE#@#  
+            Conversely, we argue that very large NH eruptions forced abrupt Greenland cooling events  #@NEW_LINE#@#  
+            and, under the right conditions, were associated with large ice rafting events (Heinrich  #@NEW_LINE#@#  
+            Stadials).  #@NEW_LINE#@#  This perspective is consistent with recent results suggesting that ice  #@NEW_LINE#@#  
+            rafting events were a consequence of, but did not trigger, NH cooling14.  #@NEW_LINE#@#  
+            Large explosive volcanic eruptions are conventionally thought to result in global  #@NEW_LINE#@#  
+            cooling for several years following the eruption, based on the concept that  #@NEW_LINE#@#  
+            stratospheric volcanogenic sulphate aerosols reflect solar radiation and cool the planet  #@NEW_LINE#@#  
+            essentially uniformly.  #@NEW_LINE#@#  Large low latitude eruptions are therefore often considered the  #@NEW_LINE#@#  
+            most climatologically significant because low latitudes receive a disproportionately  #@NEW_LINE#@#  
+            high amount of insolation15, although in-depth studies highlight  #@NEW_LINE#@#  
+            considerable complexities in the climate response to eruptions based on ejecta volume,  #@NEW_LINE#@#  
+            sulphate content, explosivity, and latitude16,17 (see Supplementary Information).  #@NEW_LINE#@#  However, global cooling  #@NEW_LINE#@#  
+            does not seem to have occurred following several large, well-documented Pleistocene  #@NEW_LINE#@#  
+            eruptions.  #@NEW_LINE#@#  For example, the Toba supereruption at ~74ka BP is  #@NEW_LINE#@#  
+            followed by lower NGRIP 18O (Greenland cooling) but higher  #@NEW_LINE#@#  
+            EDML 18O values (Antarctic warming), thereby providing no  #@NEW_LINE#@#  
+            support for homogeneous global cooling18.  #@NEW_LINE#@#  Similarly, evidence from Lake  #@NEW_LINE#@#  
+            Malawi in east Africa does not show any evidence for substantial cooling at low  #@NEW_LINE#@#  
+                latitudes19.  #@NEW_LINE#@#  The apparent absence of volcanic  #@NEW_LINE#@#  
+            winter in response to the largest eruption of the Quaternary is enigmatic  #@NEW_LINE#@#  
+            when considered from the conventional perspective.  #@NEW_LINE#@#  Similarly puzzling is the apparent  #@NEW_LINE#@#  
+            strengthening of the SAM and AM and concomitant weakening of the EASM coinciding with  #@NEW_LINE#@#  
+            the Toba eruption (Fig 1).  #@NEW_LINE#@#  
+However, very recent research focussing on the last 500 years has demonstrated the  #@NEW_LINE#@#  
+            importance of asymmetric hemispheric cooling induced by sulphate aerosol injections20,21 on atmospheric circulation.  #@NEW_LINE#@#  Observational, modelling, and proxy  #@NEW_LINE#@#  
+            studies now firmly implicate 20th Century anthropogenic sulphate aerosol  #@NEW_LINE#@#  
+            emissions with greater NH cooling compared to the SH, resulting in southward migration  #@NEW_LINE#@#  
+            of the Intertropical Convergence Zone (ITCZ), drying at NH low latitudes, and more  #@NEW_LINE#@#  
+            rainfall at SH low latitudes22,23.  #@NEW_LINE#@#  Recent research also demonstrates  #@NEW_LINE#@#  
+            that this same asymmetric cooling effect occurred following the injection of sulphate  #@NEW_LINE#@#  
+            aerosols into the stratosphere following large volcanic eruptions over the last 100  #@NEW_LINE#@#  
+            years (based on instrumental data)20 and 500 years (based on stalagmite  #@NEW_LINE#@#  
+            rainfall proxy data)21.  #@NEW_LINE#@#  These studies collectively demonstrate that over  #@NEW_LINE#@#  
+            the last few centuries NH aerosols (volcanogenic and anthropogenic) forced the ITCZ to  #@NEW_LINE#@#  
+            the south by cooling the NH relative to the SH, and that SH eruptions forced northward  #@NEW_LINE#@#  
+            ITCZ migration.  #@NEW_LINE#@#  The atmospheric and temperature response associated with the Toba  #@NEW_LINE#@#  
+            eruption is therefore consistent with the recently detected climate response to more  #@NEW_LINE#@#  
+            recent (but far smaller) NH eruptions.  #@NEW_LINE#@#  We suggest that the Toba eruption initiated  #@NEW_LINE#@#  
+            southward ITCZ migration by inducing a NH-SH temperature asymmetry, which resulted in  #@NEW_LINE#@#  
+            more SAM rainfall but reduced rainfall in the NH low latitudes (e.g., the EASM),  #@NEW_LINE#@#  
+            consistent with speleothem-based evidence (Fig 1), and identical  #@NEW_LINE#@#  
+            to the response to NH eruptions over the last 500 years.  #@NEW_LINE#@#  A southward displaced ITCZ  #@NEW_LINE#@#  
+            would have shifted Hadley circulation cells to the south, compressing the SH Polar Cell,  #@NEW_LINE#@#  
+            forcing the SH Polar Front southward, and resulting in locally warmer Antarctic  #@NEW_LINE#@#  
+            temperatures (Supplementary Information).  #@NEW_LINE#@#  
+            The opposite response would have occurred in the NH, where atmospheric reorganisation  #@NEW_LINE#@#  
+            would have resulted in extreme and sudden cooling in Greenland and extension of NH  #@NEW_LINE#@#  
+            glacial and sea ice, characteristics associated with the abrupt transition between DO-20  #@NEW_LINE#@#  
+            and Greenland Stadial (GS) 20 occurring at that time.  #@NEW_LINE#@#  We propose that the positive  #@NEW_LINE#@#  
+            feedbacks following NH eruptions (e.g., NH sea ice expansion, NH continental glacier  #@NEW_LINE#@#  
+            expansion, increased NH albedo, and AMOC weakening) prolonged the climatic response to  #@NEW_LINE#@#  
+            the Toba eruption by several hundred years, not dissimilar to recent results suggesting  #@NEW_LINE#@#  
+            that Little Ice Age cooling was initiated by NH volcanism in the 13th  #@NEW_LINE#@#  
+            Century but was sustained over hundreds of years by a positive feedback involving sea  #@NEW_LINE#@#  
+            ice and oceanic circulation24.  #@NEW_LINE#@#  The timing of the Toba supereruption is  #@NEW_LINE#@#  
+            consistent with the abrupt cooling into GS20, although this seems superimposed on a  #@NEW_LINE#@#  
+            cooling trend that began ~100 years earlier, potentially linked to  #@NEW_LINE#@#  
+            decreasing insolation.  #@NEW_LINE#@#  However, the Toba eruption is nearly indistinguishable from the  #@NEW_LINE#@#  
+            inception of Antarctic warming (Figs 1 and 2) (Supplementary Information).  #@NEW_LINE#@#  We  #@NEW_LINE#@#  
+            suggest that large NH eruptions that occurred during interstadials abruptly ended  #@NEW_LINE#@#  
+            Greenland interstadial conditions and promoted a rapid transition to stadial conditions,  #@NEW_LINE#@#  
+            which were favoured during much of the Last Glacial because of low atmospheric  #@NEW_LINE#@#  
+            greenhouse gas concentrations and insolation conditions.  #@NEW_LINE#@#  Conversely, large NH eruptions  #@NEW_LINE#@#  
+            that occurred during already cold conditions resulted in less Greenland cooling but led  #@NEW_LINE#@#  
+            to glacier extension and Heinrich Events.  #@NEW_LINE#@#  This is supported by the established  #@NEW_LINE#@#  
+            association of the 39.280±0.110ka BP  #@NEW_LINE#@#  
+            Campanian Ignimbrite supereruption of the Campi Flegrei supervolcano with GS9 and  #@NEW_LINE#@#  
+            Heinrich Event 4 (HE4)25.  #@NEW_LINE#@#  We also note that the inception of HE5a at  #@NEW_LINE#@#  
+            ~53ka BP is indistinguishable from the timing of the magnitude  #@NEW_LINE#@#  
+            (M) 7 Ischia eruption (53±3.3ka BP).  #@NEW_LINE#@#  
+            Additionally, all eight very large (M7;  #@NEW_LINE#@#  
+            Tambora-sized or larger) Pleistocene NH eruptions (see Supplementary Information for selection criteria used)  #@NEW_LINE#@#  
+            are within error of a NH cooling event (Fig 3), and Monte Carlo  #@NEW_LINE#@#  
+            simulations demonstrate that this relationship is significant at the 95% confidence  #@NEW_LINE#@#  
+            level (Supplementary Information) (Fig 4).  #@NEW_LINE#@#  
+The stratospheric sulphate loading associated with large SH eruptions could have had the  #@NEW_LINE#@#  
+            opposite effect, preferentially cooling the SH relative to the NH, shifting the ITCZ to  #@NEW_LINE#@#  
+            the north, compressing the NH Polar Cell, and shifting the NH Polar Front to the north  #@NEW_LINE#@#  
+                (Supplementary Information).  #@NEW_LINE#@#  We suggest  #@NEW_LINE#@#  
+            that this northward shift in the polar fronts in response to large SH eruptions resulted  #@NEW_LINE#@#  
+            in dramatic warming across the North Atlantic and NH glaciated regions, promoting sea  #@NEW_LINE#@#  
+            ice collapse and the partial retreat of continental ice sheets, all characteristic  #@NEW_LINE#@#  
+            features of DO events.  #@NEW_LINE#@#  The presence of large continental ice sheets would have provided  #@NEW_LINE#@#  
+            a strong positive feedback.  #@NEW_LINE#@#  The proposed northward NH Polar Front migration would have  #@NEW_LINE#@#  
+            caused continental ice sheet retreat, consequently reducing albedo, destabilising NH  #@NEW_LINE#@#  
+            permafrost, and resulting in subtle methane increases characteristic of DO events26.  #@NEW_LINE#@#  This is consistent with inferred minor perturbations to the carbon  #@NEW_LINE#@#  
+            cycle during DO events26, with the suggestion that atmosphere methane  #@NEW_LINE#@#  
+            that accumulated during DO events had a high latitude source27, and with  #@NEW_LINE#@#  
+            ice core evidence suggesting a substantial northward shift in methane source region  #@NEW_LINE#@#  
+            following DO event initiation28.  #@NEW_LINE#@#  The flux of radiocarbon-depleted carbon  #@NEW_LINE#@#  
+            into the atmosphere during DO events, often interpreted as AMOC strengthening and  #@NEW_LINE#@#  
+            increased outgassing of radiocarbon depleted-bottom waters, may also originate from  #@NEW_LINE#@#  
+            permafrost thaw, as previously suggested for the  #@NEW_LINE#@#  
+                Bølling/Allerød29.  #@NEW_LINE#@#  The lower albedo and  #@NEW_LINE#@#  
+            strengthened AMOC following NH ice sheet decay following SH eruptions could have  #@NEW_LINE#@#  
+            produced a positive feedback that prevented the short-term re-establishment of  #@NEW_LINE#@#  
+            continental ice sheets to their full glacial extent as favoured by still low atmospheric  #@NEW_LINE#@#  
+                CO2 concentrations.  #@NEW_LINE#@#  This caused a gradual return to pre-eruption  #@NEW_LINE#@#  
+            conditions hundreds or even thousands of years after the initial sulphate forcing,  #@NEW_LINE#@#  
+            unless the slow process was expedited by a large NH eruption (forcing an abrupt return  #@NEW_LINE#@#  
+            to stadial conditions, as was the case following the Toba eruption) or the cooling  #@NEW_LINE#@#  
+            process was interrupted by another SH eruption, as may have occurred after an unknown SH  #@NEW_LINE#@#  
+            eruption triggered DO-13 at 49.5ka BP (Fig 2).  #@NEW_LINE#@#  
+Very recent research using ice core data from a high snow accumulation rate site in  #@NEW_LINE#@#  
+            Antarctica suggests that that the temperature signal associated with DO events  #@NEW_LINE#@#  
+            originated in the NH and was then transmitted to the SH ~200 years later by  #@NEW_LINE#@#  
+            oceanic processes30.  #@NEW_LINE#@#  Interestingly, the authors of the study highlight  #@NEW_LINE#@#  
+            the fact that the North Atlantic processes thought to have initiated DO events could  #@NEW_LINE#@#  
+            themselves have resulted from a remote and elusive trigger.  #@NEW_LINE#@#  We  #@NEW_LINE#@#  
+            propose that this trigger was a SH eruption, which initially cooled the SH for just  #@NEW_LINE#@#  
+            15 years due to increased atmospheric aerosol loading.  #@NEW_LINE#@#  Existing proxy  #@NEW_LINE#@#  
+            records are too low resolution to detect this initial aerosol-induced cooling, but the  #@NEW_LINE#@#  
+            cooling was sufficient to shift atmospheric circulation to the north, warming NH high  #@NEW_LINE#@#  
+            latitudes, promoting NH ice sheet decay, strengthening AMOC, and initiating a positive  #@NEW_LINE#@#  
+            feedback mechanism.  #@NEW_LINE#@#  This NH warming could then have been propagated back to the SH  #@NEW_LINE#@#  
+            ~200 years later, well after the initial volcanic aerosol-induced cooling  #@NEW_LINE#@#  
+            effects had abated.  #@NEW_LINE#@#  NH warming (triggered by a SH eruption) would have resulted in ice  #@NEW_LINE#@#  
+            shelf collapse, increased freshwater outputs to the North Atlantic, or reduced sea ice  #@NEW_LINE#@#  
+            extent, all previously suggested mechanisms driving DO events30,31.  #@NEW_LINE#@#  
+            These other processes could have resulted from and amplified the initial volcanic  #@NEW_LINE#@#  
+            forcing, possibly by inducing AMOC shifts which were propagated to the south  #@NEW_LINE#@#  
+            ~200 years later30.  #@NEW_LINE#@#  
+We focus on the interval from 30 to 80ka BP because of the high density of  #@NEW_LINE#@#  
+            millennial-scale climate oscillations within that interval, and because the proposed  #@NEW_LINE#@#  
+            mechanism would be most effective during intervals of time characterised by intermediate  #@NEW_LINE#@#  
+            ice volume and 65°N insolation, such as most of this interval (see Supplementary Information) (Fig 5).  #@NEW_LINE#@#  Unfortunately, the volcanological catalogue of known eruptions  #@NEW_LINE#@#  
+            prior to 10ka BP is very incomplete because: (i) erosion removes  #@NEW_LINE#@#  
+            volcanic deposits from the geologic record and increases uncertainty associated with the  #@NEW_LINE#@#  
+            estimation of eruption magnitude, (ii) burial by younger deposits hides older  #@NEW_LINE#@#  
+            deposits from study, and (iii) many volcanoes still remain understudied or even  #@NEW_LINE#@#  
+            unknown.  #@NEW_LINE#@#  Even over only the last one thousand years, instances exist where evidence of  #@NEW_LINE#@#  
+            large eruptions is apparent in ice core volcanogenic sulphate records but the volcano  #@NEW_LINE#@#  
+            responsible has only recently been identified (e.g., Rinjani, 1257 A.D.) or is still  #@NEW_LINE#@#  
+            unknown (e.g., the 1809 A.D. eruption).  #@NEW_LINE#@#  Prior to the Holocene, large eruptions from SH  #@NEW_LINE#@#  
+            calderas are particularly underrepresented (see Supplementary Information).  #@NEW_LINE#@#  
+Despite the apparent undercount and chronological uncertainties, over the interval from  #@NEW_LINE#@#  
+            30 to 80ka BP all five radiometrically-dated large  #@NEW_LINE#@#  
+            (M6; Pinatubo-sized or larger) SH volcanic  #@NEW_LINE#@#  
+            eruptions are within chronological uncertainty of the initiation of a discrete DO event.  #@NEW_LINE#@#  
+            Too few radiometrically-dated SH eruptions exist to confidently assess the link with DO  #@NEW_LINE#@#  
+            events, but previous research linked direct evidence of SH eruptions derived from  #@NEW_LINE#@#  
+            optical dust logger data from Antarctic Siple Dome ice with DO events over the period 27  #@NEW_LINE#@#  
+            to 70ka12.  #@NEW_LINE#@#  The link between SH volcanism and DO events was  #@NEW_LINE#@#  
+            significant at the 99% confidence level, although a well-defined mechanistic link was  #@NEW_LINE#@#  
+            absent.  #@NEW_LINE#@#  We propose that this missing link is the now apparent  #@NEW_LINE#@#  
+            hemispheric temperature asymmetry induced by stratospheric volcanic aerosols, followed  #@NEW_LINE#@#  
+            by an ice/albedo and ocean circulation feedback.  #@NEW_LINE#@#  Future research should test the  #@NEW_LINE#@#  
+            hypothesis further by improve the dating of both climate and volcanological records, and  #@NEW_LINE#@#  
+            by using isotope-enabled GCM modelling.  #@NEW_LINE#@#  
+This hypothesis not only clarifies the mechanisms that forced abrupt millennial scale  #@NEW_LINE#@#  
+            climate change during glacial conditions, but also helps predict future change.  #@NEW_LINE#@#  Large,  #@NEW_LINE#@#  
+            explosive eruptions may indeed lead to low latitude drought in the hemisphere of the  #@NEW_LINE#@#  
+            eruption, but our model suggests additional consequences that merit further  #@NEW_LINE#@#  
+            consideration.  #@NEW_LINE#@#  For example, an extremely large NH eruption might cause nearly global  #@NEW_LINE#@#  
+            cooling, but may result in localised SH high latitude warming by forcing the SH Polar  #@NEW_LINE#@#  
+            Front to the south.  #@NEW_LINE#@#  A sufficiently large atmospheric disruption could initiate or  #@NEW_LINE#@#  
+            accelerate the destabilisation of the West Antarctic Ice Sheet.  #@NEW_LINE#@#  Paradoxically, very  #@NEW_LINE#@#  
+            large eruptions could therefore not only cause substantial mean global cooling, but also  #@NEW_LINE#@#  
+            high latitude warming (in the hemisphere opposite the eruption), ice sheet collapse, and  #@NEW_LINE#@#  
+            catastrophic sea level rise.  #@NEW_LINE#@#  
+
+
+

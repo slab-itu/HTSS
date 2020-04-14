@@ -1,0 +1,206 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0154641"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Population Dynamics of Early Human Migration in Britain  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Early human migration is largely determined by geography and human needs.  #@NEW_LINE#@#  These are both deterministic parameters when small populations move into unoccupied areas where conflicts and large group dynamics are not important.  #@NEW_LINE#@#  The early period of human migration into the British Isles provides such a laboratory which, because of its relative geographical isolation, may allow some insights into the complex dynamics of early human migration and interaction.  #@NEW_LINE#@#  
+
+Method_and_Results  #@NEW_LINE#@#  
+We developed a simulation code based on human affinity to habitable land, as defined by availability of water sources, altitude, and flatness of land, in choosing the path of migration.  #@NEW_LINE#@#  Movement of people on the British island over the prehistoric period from their initial entry points was simulated on the basis of data from the megalithic period.  #@NEW_LINE#@#  Topographical and hydro-shed data from satellite databases was used to define habitability, based on distance from water bodies, flatness of the terrain, and altitude above sea level.  #@NEW_LINE#@#  We simulated population movement based on assumptions of affinity for more habitable places, with the rate of movement tempered by existing populations.  #@NEW_LINE#@#  We compared results of our computer simulations with genetic data and show that our simulation can predict fairly accurately the points of contacts between different migratory paths.  #@NEW_LINE#@#  Such comparison also provides more detailed information about the path of peoples movement over ~2000 years before the present era.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+We demonstrate an accurate method to simulate prehistoric movements of people based upon current topographical satellite data.  #@NEW_LINE#@#  Our findings are validated by recently-available genetic data.  #@NEW_LINE#@#  Our method may prove useful in determining early human population dynamics even when no genetic information is available.  #@NEW_LINE#@#  
+
+
+Introduction  #@NEW_LINE#@#  
+Extracting comprehensive data relating to prehistoric human settlements is notoriously difficult as the available evidence is, more often than not, sparse, scattered, perishable, and prone to misinterpretation.  #@NEW_LINE#@#  It is, therefore, of obvious utility to develop new and independent methods of study that may not only provide insights into prehistoric population dynamics but also help predict potential locations of prehistoric settlement sites.  #@NEW_LINE#@#  
+Prehistoric human migrations may be effectively correlated to parameters that quantify availability of essential resources [1,2]; relatively few migrations are based upon risky explorations initiated for frivolous reasons like adventure.  #@NEW_LINE#@#  Although early human migrations may be presumed to be largely driven by available resources, later migrations into areas already occupied are far more complex as they involve aggressions and warfare brought about by struggles between emerging groups and classes.  #@NEW_LINE#@#  A generalized approach to human migration is, thus, complex and involves including both deterministic and stochastic processes [3,4].  #@NEW_LINE#@#  
+Simulations of human migration necessitate taking into account not only the availability of resources essential to survival, but a host of other complex factors: technologies for travel and transport, the nature of human social organisation, and the relative sizes of migrating populations and their interrelations [2].  #@NEW_LINE#@#  Models attempting to account for all, or most, of these parameters are complex and are likely to include subjective criteria.  #@NEW_LINE#@#  Rice and Papadopoulos [4] have incorporated both deterministic and stochastic aspects of human migration to derive an exact equation for directional evolution in an open population.  #@NEW_LINE#@#  They have shown that increasing variance in migration rates reduces the impact of migration relative to selection based on phenotypes.  #@NEW_LINE#@#  Hence, large-group migrations are fundamentally different from small-group migrations.  #@NEW_LINE#@#  Models that treat migration as a single parameter are expected to overestimate the impact of immigration on the resident population.  #@NEW_LINE#@#  
+Rice and Papadopoulos [4] have, further, shown that selection and migration interact in complex ways and that the role of migration in evolution is determined by the entire distribution of immigration and emigration rates, not just by their mean values.  #@NEW_LINE#@#  The interactions of stochastic migration with stochastic selection produce evolutionary processes that may become obvious in deterministic evolutionary theory.  #@NEW_LINE#@#  
+Early human migrations into hitherto unoccupied territory may be modeled more simply by identifying regions with superior resource availability.  #@NEW_LINE#@#  These populations tend to seek availability of water [5], food, shelter from predatory animals and avoidance of conflict with other human groups, as well as the physical comfort of relatively flat land.  #@NEW_LINE#@#  A moderate climate, and food provided by hunting game and foraging wild fruits and plants influences migration, at least until the establishment of an agrarian culture.  #@NEW_LINE#@#  Settlements would be spread over a fairly large area, with a moderate population density.  #@NEW_LINE#@#  Large habitations, such as cities, were unusual.  #@NEW_LINE#@#  Sometimes, availability of rock suitable for making tools may have become a determinant in the formation of such settlements.  #@NEW_LINE#@#  Petraglia and Allchin [6] have discussed these issues in detail in the context of South Asia.  #@NEW_LINE#@#  
+A way to model very early human migration into more or less virgin territory would treat geography (mostly flat land and accessible water resources) and the availability of game and foraging opportunities as the primary deterministic factors.  #@NEW_LINE#@#  Verifying the validity and accuracy of such a model would, of course, be difficult.  #@NEW_LINE#@#  However, with recent availability of large-scale genetic data from relatively isolated populations may open possibilities of evaluating such models.  #@NEW_LINE#@#  We have developed a simplified model of population diffusion based on availability of natural resources and a suitable environment, with emerging data being amenable to comparison with genetic data.  #@NEW_LINE#@#  Our results offer useful glimpses into how initial populations may diffuse into new territories.  #@NEW_LINE#@#  We use the example of the United Kingdom since its islanded landmass has had less population mixing in the course of prehistory, as may be gleaned from recent, large-scale genetic data [7].  #@NEW_LINE#@#  The results of our study pertaining to the United Kingdom have wider implications: they suggest that the combination of a deterministic simulation technique with genetic data may be of general utility in quantitatively determining population migrations pertaining, especially, to the prehistoric period.  #@NEW_LINE#@#  Our method is readily implementable as it uses satellite-based geographical information; it can provide insights into early human population dynamics even in the absence of genetic data.  #@NEW_LINE#@#  
+
+Method  #@NEW_LINE#@#  
+The_simulation_process  #@NEW_LINE#@#  
+An important prerequisite of prehistoric population dynamics studies is availability of ancient geographical data, particularly of water bodies.  #@NEW_LINE#@#  Contrastingly, for our study which spans ca.  #@NEW_LINE#@#  10,000 years before the present era, current geographical data appears to be sufficient as timescales for geological changes are considerably longer.  #@NEW_LINE#@#  In the present population dynamics study we utilize 1 km resolution satellite maps of the surface of the Earth (GLOBE 1 km Digital Elevation Model from NOAAthe National Oceanic and Atmospheric Administrationhttp://www.ngdc.noaa.gov/mgg/topo/globe.html) along with high accuracy hydro-shed data (http://hydrosheds.cr.usgs.gov/dataavail.php) for mapping water resources.  #@NEW_LINE#@#  Although higher resolution (30 m) satellite data were easily available, we found it far easier to use the 1 km-resolution data for our computations, without significant changes in overall accuracy.  #@NEW_LINE#@#  
+We divided the entire stretch of the main island of Britaincomprising England, Scotland and Walesinto 1 km x 1 km square segments.  #@NEW_LINE#@#  These were the primary units for our computations.  #@NEW_LINE#@#  We defined the habitability of each segment by four parameters: altitude, surface-kind (a parameter of relative flatness), proximity to a water source, and population density.  #@NEW_LINE#@#  We used an agent-based, finite-element diffusion model of population migration across the island.  #@NEW_LINE#@#  Details of our algorithm are presented in the Appendix.  #@NEW_LINE#@#  
+In agent-based models the fixed geography-dependent parameters, like altitude, surface-kind, and water-source proximity, are referred to as patches while population is denoted as an agent.  #@NEW_LINE#@#  Population density would be neither an agent nor a patch.  #@NEW_LINE#@#  Altitude, denoted as Dalt, can be related to the integrated population density which decreases faster than exponentially as the altitude increases from sea level to ~1000 m; thereafter, it rises again, albeit at a slower rate, to peak at ~2300 m before falling off again [8] with a cut-off at 4100 m. Surface-kind is different from altitude in that it considers the gradient of the land.  #@NEW_LINE#@#  In the context of the British Isles, it is assumed that, even if a location is not at a high altitude but is sloping, it is less desirable.  #@NEW_LINE#@#  Humans tend to adapt to sloping land by cutting into or flattening small portions.  #@NEW_LINE#@#  Surface-kind, Dsurf, therefore, has a relatively weak dependence on the diffusion process.  #@NEW_LINE#@#  The water-source parameter, Driv, is self-explanatory and is based on the work of Kummu et al.  #@NEW_LINE#@#  [5].  #@NEW_LINE#@#  The population density parameter has been initially given externally.  #@NEW_LINE#@#  A parameter called maximum population density is defined that gives the maximum population density a region can sustain; it is based on values of the first three parameters.  #@NEW_LINE#@#  
+Population movements into or out of any region are determined by the rates of emigration and immigration, which, in turn, are governed by the values of our four parameters.  #@NEW_LINE#@#  Together, they define the desirability of a piece of land.  #@NEW_LINE#@#  If the population exceeds even by a fraction of the maximum sustainable population, emigration rates increase significantly whereas immigration ceases until the population reduces significantly below the maximum sustainable population.  #@NEW_LINE#@#  Values of the population density parameter are taken to range from 0 to 1 for any land mass and are -1 for a water source.  #@NEW_LINE#@#  A linear combination of the four parameters is used to determine the absolute or population-independent rating of a given location, which we denote as Rin.  #@NEW_LINE#@#  Rating changes dynamically with the population of a place, and equals Rin whenever the population is 0.  #@NEW_LINE#@#  
+The suitability of a location is quantitatively described in terms of normalized parameters listed above, and is called desirability.  #@NEW_LINE#@#  Thus, there is desirability that is based on altitude, surface-flatness, and water-proximity (Fig 1).  #@NEW_LINE#@#  
+The altitude sensitivity is the strongest.  #@NEW_LINE#@#  However, since many ancient cites are known to be located well above sea level, we have kept the habitability at relatively high values up to an altitude of 2 km.  #@NEW_LINE#@#  Land unevenness also has significant impact on choice of habitation; it exhibits a steeper function vis-à-vis habitability.  #@NEW_LINE#@#  The dependence on water is also based on experiences from early cultures [5].  #@NEW_LINE#@#  We assume that up to 2 km distance, water can be directly accessed (carried) while, for distance beyond that, the permeability of land to create subterranean water sources assumes more importance.  #@NEW_LINE#@#  We, therefore, assume that access to water becomes difficult up to 10 km and falls with a power law between 2 and 10 km.  #@NEW_LINE#@#  Please see the text for more details.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g001  #@NEW_LINE#@#  
+Desirability_based_on_Surface_Kind__Dsurf  #@NEW_LINE#@#  
+The mean altitude of a place (Amean) was calculated by using the NASA database.  #@NEW_LINE#@#  Surfaces were designated flat, tolerable, or intolerable (too steep, for instance, or undulatory).  #@NEW_LINE#@#  Surface-kind depended on the deviation d of a location from the regions mean altitude.  #@NEW_LINE#@#  If d was less than a certain Lflat (nominally set at 0.25), the surface was designated flat and the value of Dsurf fell from 1 in a power-law.  #@NEW_LINE#@#  If d was greater than Lflat but less than Ltol, the surface was designated tolerable and Dsurf fell much more rapidly.  #@NEW_LINE#@#  Every other location was assumed to be uninhabitable and Dsurf was then assigned a value 0.  #@NEW_LINE#@#  
+
+Desirability_based_on_location__Dloc  #@NEW_LINE#@#  
+The parameter Dloc is a linear combination of Dalt and Dsurf with Dalt, with a weightage of Wflat.  #@NEW_LINE#@#  
+
+Desirability_based_on_water-source_proximity  #@NEW_LINE#@#  
+There are three possible approaches:  #@NEW_LINE#@#  
+
+Rating_of_each_site_Rin  #@NEW_LINE#@#  
+The population independent rating of each site (Rin) was calculated as a linear combination of Driv and Dloc.  #@NEW_LINE#@#  All flat land had Rin between 0.5 and 1.  #@NEW_LINE#@#  All tolerable land had Rin values of 0.251.  #@NEW_LINE#@#  
+
+Optimum_population_of_a_location  #@NEW_LINE#@#  
+The optimum population sustaniable in a location was the arithmetic mean of water-based optimum population and location-based optimum population.  #@NEW_LINE#@#  Both are a product of different parameters of desirability and Pmax i for any location i.  #@NEW_LINE#@#  
+
+Description_of_our_simulation-engine  #@NEW_LINE#@#  
+We further pre-computed values of Rin and optimum population (Pbest).  #@NEW_LINE#@#  The rating (Ri) of location i was calculated as:  #@NEW_LINE#@#  
+
+where C is a constant and Pi is the currently existing population.  #@NEW_LINE#@#  C is nominally taken as 1.  #@NEW_LINE#@#  
+In a given location, the rating-per-unit-population was calculated to be the parameter  (a linear combination of various desirability parameters).  #@NEW_LINE#@#  Migrating people tended to move along the direction with greater mean value of .  #@NEW_LINE#@#  If we take the fraction of people moving towards a positive x direction as fx and those moving towards positive y as fy, for a given direction and boundary, the difference of s is calculated to be .  #@NEW_LINE#@#  The polarization of migrating people towards opposite boundaries is defined as the function of two s and is called  which is equivalent to the pressure felt by a boundary.  #@NEW_LINE#@#  The population moving towards a given boundary, the fraction of people moving in (Fi) and out (Fo), is defined as  #@NEW_LINE#@#  
+
+
+Once these parameters are defined, the diffusion model is used with rating instead of pressure.  #@NEW_LINE#@#  We define an emigration rate Ei from a cell i as Ni*Ri.  #@NEW_LINE#@#  In a given boundary, N is the number of people moving towards the cell at the immigration rate (Ii).  #@NEW_LINE#@#  The number of people moving out is  #@NEW_LINE#@#  
+
+for j = 4 cells north, south, east and west  #@NEW_LINE#@#  
+Hence, for every boundary we have emigration and immigration calculated as Em, Im or Em1, Im1 (for rows and columns).  #@NEW_LINE#@#  The net flux at any given boundary is Em-Im.  #@NEW_LINE#@#  The change in a cell is the net flux across all the four boundaries.  #@NEW_LINE#@#  The change matrix is computed in order to monitor emerging patterns.  #@NEW_LINE#@#  Population increase due to net birth is defined as 0.1*Pi*Ri.  #@NEW_LINE#@#  
+
+
+
+Results  #@NEW_LINE#@#  
+Habitability  #@NEW_LINE#@#  
+We have used the parameters described above to derive the habitability map of England, Wales, and Scotland (Fig 2).  #@NEW_LINE#@#  Our simulation treats humans as resource consumers possessing an affinity for good resources and with the pressure to migrate from any point to another point which depends on the  #@NEW_LINE#@#  
+The population density is highest in the red regions and is sparsest in the blue regions.  #@NEW_LINE#@#  The map corresponds to habitability before the entry of humans.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g002  #@NEW_LINE#@#  
+
+Entry_points_and_diffusion_of_population  #@NEW_LINE#@#  
+In developing a desirability map we assume that people entered the main British island in five distinct groups at the following locations (Fig 3): Cornwall (50.1N, 5W), Wales (51.4 N, 3.43 W), Scotland (55.4 N, 2.0 W), North England (57.5 N, 2.0 W) and South England (51.1 N, 1.0 E) in the ratio of 103:101:101:101:105.  #@NEW_LINE#@#  The ratios serve the purpose of simulating delayed entry of population at different points.  #@NEW_LINE#@#  Since the first entry is in South East England (see, for example, Figure 3 in [7]) we place the largest population in South England.  #@NEW_LINE#@#  
+The markers show the four locations from which the simulation begins.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g003  #@NEW_LINE#@#  
+At each step our computer program checks the relative habitability of 4 squares (East, West, North, and South of the given location) surrounding a given square, and exchangesimports or exportspeople based on relative habitability (based on habitability and current population density).  #@NEW_LINE#@#  We then run the simulation for 500 steps at a time.  #@NEW_LINE#@#  In Fig 4 we present the results of our simulation after the first 2000 steps.  #@NEW_LINE#@#  Assuming that human drifts are at the rate of 1 km per year: each step amounts to about 1 year of diffusion.  #@NEW_LINE#@#  
+Each image corresponding to roughly 500 years.  #@NEW_LINE#@#  The population density is highest in the red regions and is sparsest in the blue regions.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g004  #@NEW_LINE#@#  
+Fig 4 shows the progressive evolution of population from the initial points of entry.  #@NEW_LINE#@#  Starting with isolated groups (Fig 4a), the population spreads at speeds that depend on local habitability (Fig 2).  #@NEW_LINE#@#  The rate of population increase that enforces movement is taken to be 0.1% of the population per cycle.  #@NEW_LINE#@#  During each simulation cycle, nine adjacent squares around each square are taken into consideration, and the population distributed on the basis of relative habitability.  #@NEW_LINE#@#  Fig 4c (1000 steps) shows the merger of the people of Wales with the population from South England and that of Scotland with North England.  #@NEW_LINE#@#  By the time 1500 years have elapsed, the populations are in contact with each other but it takes another 500 years to completely populate England.  #@NEW_LINE#@#  Since the simulation does not permit the population to cross a barrier of more than 25 km of sea, the population does not cross over into Ireland.  #@NEW_LINE#@#  
+
+Comparison_with_genetic_data  #@NEW_LINE#@#  
+Genetic profiling of human populations provides important information, including insights into demographics [9].  #@NEW_LINE#@#  These have been documented both as broad-scale studies of defined locations [10, 11] or as fine-scale studies [12, 13].  #@NEW_LINE#@#  In their recent study, Leslie et al.  #@NEW_LINE#@#  [7] have investigated the fine-scale genetic structure of a Caucasian population sample within the United Kingdom.  #@NEW_LINE#@#  Their results are schematically shown Fig 5b (figure 1 of [7]).  #@NEW_LINE#@#  They performed and analysed genome-wide autosomal single-nucleotide polymorphisms (SNPs) of 2039 sample subjects from rural UK, all of whom had all four grandparents born within an 80 km radius of each other.  #@NEW_LINE#@#  Since genetic differences could be related to migration and admixture of populations from outside the UK, they compared the information obtained with DNA samples of 6,209 Europeans.  #@NEW_LINE#@#  Their work confirmed, and in many cases shed further light on, known migration patterns.  #@NEW_LINE#@#  Using specific algorithms the samples could be grouped into hierarchical genetic clusters from coarser to finer levels, which were then mapped to geographical locations in the UK.  #@NEW_LINE#@#  Fig 5b reproduces the map for 17 such clusters [7].  #@NEW_LINE#@#  
+a) the current British population density b) the genetic map, c) the habitability of the landmass, and d) simulated distribution in population after 2000 steps.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g005  #@NEW_LINE#@#  
+A striking correlation was observed between genetic clusters and geography.  #@NEW_LINE#@#  Most clusters were localized and non-overlapping.  #@NEW_LINE#@#  At the coarsest level, the population in the Orkneys (islands to the north of Scotland) emerged as the most genetically distinct.  #@NEW_LINE#@#  At the next level, Wales formed a distinct genetic cluster, followed by a further division between north and south Wales.  #@NEW_LINE#@#  Northern England, Scotland, and Northern Ireland collectively appear separate from southern England, and Cornwall formed a separate cluster.  #@NEW_LINE#@#  Scotland and Northern Ireland were then differentiated from northern England.  #@NEW_LINE#@#  The largest single cluster comprising ~50% of the samples (red squares) covered central and southern England.  #@NEW_LINE#@#  The genetic differentiation appeared to follow geographical boundaries at times (Devon and Cornwall; Wales and England) and at times not (Northern Ireland and Scotland).  #@NEW_LINE#@#  This genetic profile was further correlated with major events in the peopling of the British Isles at different times (see figure 3 in [7]), based on archaeological, historical and linguistic evidence.  #@NEW_LINE#@#  
+The analyses suggested that there was substantial migration across the English Channel after the original post-ice-age settlers, but before Roman times.  #@NEW_LINE#@#  The Welsh appear to have more similarities to the earliest settlers of Britain after the last ice age than do the other people in the UK.  #@NEW_LINE#@#  The single large cluster in central and southern England had significant DNA contribution from Anglo-Saxon migrations originating from European regions corresponding to present-day Germany, after the departure of the Romans.  #@NEW_LINE#@#  
+Surprisingly, there was not a single, genetically distinct Celtic contribution in the non-Saxon part of the UK.  #@NEW_LINE#@#  In fact the Celtic parts of the UK (Scotland, Northern Ireland, Wales and Cornwall) were among the most genetically different from each other, as indicated in the hierarchical clustering tree in Fig 1 of Leslie et al.  #@NEW_LINE#@#  [7] (reproduced in Fig 4b).  #@NEW_LINE#@#  For example, the Cornish are genetically more similar to other English groups than to the Welsh or the Scots.  #@NEW_LINE#@#  No obvious genetic signature of Viking occupation was evident in spite of their control of large parts of England from the 9th century.  #@NEW_LINE#@#  A minor Norse contribution (~25%) was observed in the Orkney population.  #@NEW_LINE#@#  The study concluded that contribution of historical migration events on the genetic composition of the British Isles was less than would have been otherwise expected.  #@NEW_LINE#@#  One of the limitations of their study, as stated by the authors, was that although the genetic data enabled the inference of the relative order of migration events depending upon the extent of contribution to the clusters, it could not determine absolute times, nor distinguish between migrations of small numbers of people over longer periods or larger numbers over shorter periods.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+We have made use of a diffusive model to define the habitability of different regions in Great Britain and have simulated the diffusion pattern of the population based on four entry points, 10,000 years BCE.  #@NEW_LINE#@#  While our simulation is sensitive to relative population density and entry points, the broad points of interaction are well defined and are based on the desirability map (Fig 1).  #@NEW_LINE#@#  The simulation also agrees well with the very recent genetic map of Britain, including figures 1 and 2 of [7].  #@NEW_LINE#@#  
+In Fig 5 we compare the population density map of Great Britain (taken from Wikipedia) with genetic data [7] and our simulations.  #@NEW_LINE#@#  The population density map is well correlated with our map of land desirability, as would be expected.  #@NEW_LINE#@#  However, the comparison of genetic data with the simulation of the movement of people is more striking.  #@NEW_LINE#@#  While results of our simulations accurately reproduce the genetic groups, they also reveal an interesting pattern, that the people of North Central Britain travelled southward through a relatively inhospitable region while the population of southern Britain progressed through to the north far more consistently.  #@NEW_LINE#@#  This finding is in consonance with genetic data.  #@NEW_LINE#@#  In order to quantify the similarity that we qualitatively observe between genetic data and our results (Fig 5), we made use of the autosomal distance deduced by Leslie et al.  #@NEW_LINE#@#  [7].  #@NEW_LINE#@#  In order to make appropriate correlations between the two data sets, we map our simulation results onto different geographical zonesNorth, Central North, East, and South West.  #@NEW_LINE#@#  We quantify the genetic distance between these regions on the basis of the number of steps that need to be computed in our simulations before populations from one region meet populations from another region.  #@NEW_LINE#@#  We denote this the distance parameter and assign a numerical value of 0 to the same population group (that is, interactions between populations within a single region); a numerical value of 1 implies maximum distance (interactions between populations that are geographically very widely separated).  #@NEW_LINE#@#  Our distance parameter is correlated (Fig 6) with the fixation index, FST, used by Leslie et al.  #@NEW_LINE#@#  [7].  #@NEW_LINE#@#  FST is a measure of population differentiation due to genetic structure and, at a given locus, is based on the variance of allele frequencies between populations.  #@NEW_LINE#@#  
+The Pearson correlation coefficient is 0.8703, indicating a strong positive correlation.  #@NEW_LINE#@#  The solid line is a spline fit to the data points and has a 2 value of 0.7574.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g006  #@NEW_LINE#@#  
+Quantitative evaluation of correlations between two maps is accomplished by using Pearsons correlation coefficient.  #@NEW_LINE#@#  The comparison we have made between the results from our population dynamics simulations and the genetic map [7] yields a Pearson correlation coefficient of 0.8703, indicating strong positive correlation.  #@NEW_LINE#@#  This comparison ignores the population in Cornwall which has very distinct genetic properties.  #@NEW_LINE#@#  The value of FST that includes the Cornish population yields a value [7] that is not inconsistent with the distance parameter deduced from our simulations.  #@NEW_LINE#@#  
+This strong correlation has several important consequences.  #@NEW_LINE#@#  It shows that our relatively simple simulations, based on a particular combination of parameters, predict population dynamics which appear to be in good accord with a genetic map.  #@NEW_LINE#@#  Indeed, several detailed features agree very well, as enumerated in the following.  #@NEW_LINE#@#  
+It is pertinent to point out that the map that results from our computer simulations is also in consonance with the map of ancient habitation sites in Britain (see, for example, http://www.megalithic.co.uk/asb_mapsquare.php).  #@NEW_LINE#@#  It is noteworthy that appropriate choice of initial population also accurately reproduces the current population map.  #@NEW_LINE#@#  
+To place our findings in perspective, we note that the idea of using diffusive modelling to understand movement of ideas and people in different populations has been used by various researchers [3, 4, 14, 15] to probe the relation of transport to population [3], to generalised stochastic aspects of migration [4], as well as diffusion between two population groups [16] and the migration of ideas across Europe [15].  #@NEW_LINE#@#  Similar models specific to industrial growth have also been made to model industrialisation [17] which are of relevance from the perspective of economics [18].  #@NEW_LINE#@#  The stability and efficiency of such simulations have also been analysed [18].  #@NEW_LINE#@#  However, all such modelling is highly complex and incorporates far more parameters and complexity than the present problem requires.  #@NEW_LINE#@#  
+Our simulation is designed to study the migratory pattern of early humans.  #@NEW_LINE#@#  We, therefore, do not assume their knowledge of farming nor of any other high-level skills.  #@NEW_LINE#@#  Such limitations actively discourage forming a large community.  #@NEW_LINE#@#  Consequently, the nature of our simulation actively discourages the formation of villages by not including accumulation of resources which might enhance habitability.  #@NEW_LINE#@#  Creation of large surplus values of resources is not permitted within our model.  #@NEW_LINE#@#  In order to include villages in our simulation we would need to model the resource generating capability of people [3], their inherent tendency to conglomerate into groups and we would have to account for the necessary increase in resources in a given area.  #@NEW_LINE#@#  All these parameters have hitherto been very poorly studied and any model requiring them would, of necessity, be highly subjective.  #@NEW_LINE#@#  
+Our general purpose diffusive model of large scale human migration is sensitive to quantifiable and well understood parameters of water availability and flatness of land mass and altitude, as against more complex models of local area development [8] or the importance of waterways in Neolithic times [19].  #@NEW_LINE#@#  
+The parameters used in our simulations are well constrained.  #@NEW_LINE#@#  We reiterate that the only parameters in the simulation are the distance from water source where people can survive, the population increase rate, and the initial populations.  #@NEW_LINE#@#  The simulation has a weak dependence on these parameters and, hence, the simulation is more or less deterministic, based on habitability (Fig 2).  #@NEW_LINE#@#  In particular, our simulation does not take into account soil fertility (except in the sense of water availability) and large scale temperature gradients.  #@NEW_LINE#@#  
+In view of these considerations it not inappropriate for us to use a linear combination of parameters rather than a more complex (power law) dependence.  #@NEW_LINE#@#  While our results cannot define specific habitation centressince we do not include the feature of human capacity for organisationthey do provide data on the general path travelled by the prehistoric populations.  #@NEW_LINE#@#  In turn, the simulation can yield fairly detailed information on where a small group might have traversed and then spread, giving rise to higher genetic uniformity.  #@NEW_LINE#@#  We, therefore, conclude that in spite of the nearly deterministic nature of the simulation it can be used to map prehistoric human migrations in some significant detail.  #@NEW_LINE#@#  
+
+Appendix  #@NEW_LINE#@#  
+Deducing_parameters_used_in_the_simulation_algorithm  #@NEW_LINE#@#  
+We present here details of our simulation procedure and the choice of parameters we used.  #@NEW_LINE#@#  
+Our computations were carried out within boxes of dimension 1 km x 1 km.  #@NEW_LINE#@#  Within each box (Fig 7), we defined the following basic properties of a given box situated at a geographical location (i,j):  #@NEW_LINE#@#  
+Each block was taken as 1 km by 1 km.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0154641.g007  #@NEW_LINE#@#  
+These five properties were used to deduce the derived property, the desirability Rin(i,j) and, subsequently, the evaluated properties, relative desirability R(i,j).  #@NEW_LINE#@#  
+The following parameters were then calculated:  #@NEW_LINE#@#  
+From these, we evaluated the final value of the population, P(i,j).  #@NEW_LINE#@#  
+
+Description_of_basic_parameters  #@NEW_LINE#@#  
+Calculation_of_desirability_as_a_function_of_altitude_Dalt(i_j)  #@NEW_LINE#@#  
+Values of Dalt(i,j) were evaluated according to the following:  #@NEW_LINE#@#  
+
+
+
+
+
+The constants and parameters were so adjusted to ensure that the local variations are highlighted.  #@NEW_LINE#@#  
+
+Calculations_of_desirability_as_a_function_of_flatness_of_land_(Dsurf(I_j))  #@NEW_LINE#@#  
+We defined the quality of land in terms of a parameter value, Lflat.  #@NEW_LINE#@#  Land that was flatter than this value was considered excellent (while defining the rating of a location, see below) whereas land whose value of this parameter is 0.5 or lower was considered unliveable.  #@NEW_LINE#@#  We take A(i,j) as the altitude of the box at (i,j) as given by the original dataset.  #@NEW_LINE#@#  To estimate the flatness of a location, the mean altitude of all the 5 boxes is taken as Amean(I,j):  #@NEW_LINE#@#  
+
+We calculated an intermediate parameter, dsurf(I,j), which was calculated using  #@NEW_LINE#@#  
+
+
+
+If dsurf(i,j) was less than the flatness parameter (0.2), we defined  #@NEW_LINE#@#  
+
+
+
+The logic behind this differentiation was to magnify local geographical variations while ensuring that the transition from sea level to high altitudes was smooth.  #@NEW_LINE#@#  If Dsurf(i,j) was less than Lflat (taken as 0.2) the land was assumed to be good from the viewpoint of habilitability.  #@NEW_LINE#@#  If it was between 0.2 and 0.5 it was assumed to be tolerable, and if it was greater than 0.5 the land was assumed to be too difficult to live on.  #@NEW_LINE#@#  
+
+Calculation_of_desirability_as_a_function_of_water_availability_(Drive)  #@NEW_LINE#@#  
+We externally defined the radius (R) to which water from a water source would be easily potable.  #@NEW_LINE#@#  For each chosen site of an initial seed population this was an external parameter.  #@NEW_LINE#@#  For the present set of simulations, we used a uniform value of 10 pixels.  #@NEW_LINE#@#  We also defined Rm beyond which the water source was considered to be too far to be of practical utility.  #@NEW_LINE#@#  For the present simulation we took Rm = 50.  #@NEW_LINE#@#  For every water source we calculated the parameter S defined as  #@NEW_LINE#@#  
+
+We then calculated the parameter of water availability as:  #@NEW_LINE#@#  
+
+
+
+The final value of  where K and L are the total number of rows and columns in the simulation.  #@NEW_LINE#@#  
+All these parameters were designed so that the parameter values varied between 0 and 1; the better the condition, the higher the value.  #@NEW_LINE#@#  Based on these values the absolute rating (Rin(i,j)) of a location was established.  #@NEW_LINE#@#  
+
+
+Determination_of_absolute_rating  #@NEW_LINE#@#  
+If the land was located close to a water source, (Driv(i,j)  0.5), and was flat (Dalt(i,j) less_than Lflat), then the rating was given by  #@NEW_LINE#@#  
+
+If the land was sloping within acceptable limits, (Lflat less_than Dalt(i,j) less_than Ltot) then the rating was calculated as  #@NEW_LINE#@#  
+
+For land on higher planes it was calculated as  #@NEW_LINE#@#  
+
+The rating with poor water supply was calculated as  #@NEW_LINE#@#  
+
+
+Calculation_of_immigration_and_emigration_rates  #@NEW_LINE#@#  
+We defined Pmax which is the maximum population possible anywhere.  #@NEW_LINE#@#  In the present simulation this was taken as 107.  #@NEW_LINE#@#  We also defined a relative rating R(i,j) which took into account the independent rating Rin(i,j) and the current population in the cell.  #@NEW_LINE#@#  This process is iterative.  #@NEW_LINE#@#  At any given time the immigration rate Im(I,j) and emigration rate Em(I,j) were determined by comparing with relative rating of the neighbouring cells, R(i-1,j), R(i+1,j), R(i,j-1) and R(i,j+1).  #@NEW_LINE#@#  
+We defined the maximum local population Po(i,j) as  #@NEW_LINE#@#  
+
+Emigration rates (Em(i,j)) and Immigration rates (Im(i,j)) were based on the difference in rating and Pmax.  #@NEW_LINE#@#  For each box, the Rin is a comparison of rating of a cell (i,j) with its neighbouring cell (l,m) where l varies from i-1 to i+1 and m from j-1 to j+1.  #@NEW_LINE#@#  
+We calculated the emigration and immigration along the two dimensions separately.  #@NEW_LINE#@#  Consider a cell with population P0(i,j) which has a relative rating R(i,j), with the population-independent rating being Rin(i,j).  #@NEW_LINE#@#  
+The population that wants to migrate is as indicated below.  #@NEW_LINE#@#  In all the equations given below, in order to avoid making the equations long, we use the symbol ± to indicate two terms, one for x+y and the other for x-y and does not include the term (x,y).  #@NEW_LINE#@#  
+This sum has 4 terms in all.  #@NEW_LINE#@#  
+We defined  as the fraction of people who want to migrate in the horizontal direction.  #@NEW_LINE#@#  
+Given a direction in cell i, f(i) is the fraction of people wanting to emigrate through boundary i.  #@NEW_LINE#@#  So the fraction of population that tries to emigrate through boundary i is  #@NEW_LINE#@#  
+
+We then determined the flux Fin as the fraction of P that successfully migrates across the boundary.  #@NEW_LINE#@#  Fout is the fraction of P(I,j) that immigrates  #@NEW_LINE#@#  
+
+We normalized Fin + Fout = 1  #@NEW_LINE#@#  
+Therefore,  #@NEW_LINE#@#  
+
+and,  #@NEW_LINE#@#  
+
+For each box Em and Im from the four neighbouring boxes were added to determine the net migration into a region.  #@NEW_LINE#@#  This was then compared with the maximum population a location can handle.  #@NEW_LINE#@#  As the population increases, two quantities were calculated as follows:  #@NEW_LINE#@#  
+
+
+If the population in a region was less than the maximum population, the rating was changed as:  #@NEW_LINE#@#  
+
+Where P(i,j) is the current population in the cell (i,j)  #@NEW_LINE#@#  
+If the population exceeded, Pmax, but was less than twice the maximum, we calculated  #@NEW_LINE#@#  
+
+In case the population exceeded twice the maximum population, the emigration rate was increased to bring the population down by setting the rating to 0.  #@NEW_LINE#@#  
+This was then fed back into the calculation to calculate the total population in each cell and the relatice rating.  #@NEW_LINE#@#  This permited a certain amount of local spike in population to allow for stabilization.  #@NEW_LINE#@#  It also discouraged city formation by transferring larger populations away from cells that were already highly populated.  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors thank Sir Arnold Wolfendale, FRS for critically reading the manuscript and for useful discussions.  #@NEW_LINE#@#  Constructive suggestions made by Chistopher Small are appreciated.  #@NEW_LINE#@#  We acknowledge the preliminary work carried out by Dr. Kavita Gangal and the on-going technical help provided by Nisha Yadav.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+Conceived and designed the experiments: MNV.  #@NEW_LINE#@#  Performed the experiments: PM.  #@NEW_LINE#@#  Analyzed the data: DM UL MNV.  #@NEW_LINE#@#  Contributed reagents/materials/analysis tools: PM.  #@NEW_LINE#@#  Wrote the paper: DM UL MNV.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+

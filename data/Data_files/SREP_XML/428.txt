@@ -1,0 +1,722 @@
+article id="http://dx.doi.org/10.1038/srep34293"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Repurposing clinically approved cephalosporins for tuberculosis therapy  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+While modern cephalosporins developed for broad spectrum antibacterial activities  #@NEW_LINE#@#  
+                have never been pursued for tuberculosis (TB) therapy, we identified first  #@NEW_LINE#@#  
+                generation cephalosporins having clinically relevant inhibitory concentrations, both  #@NEW_LINE#@#  
+                alone and in synergistic drug combinations.  #@NEW_LINE#@#  Common chemical patterns required for  #@NEW_LINE#@#  
+                activity against Mycobacterium tuberculosis were identified using  #@NEW_LINE#@#  
+                structure-activity relationships (SAR) studies.  #@NEW_LINE#@#  Numerous cephalosporins were  #@NEW_LINE#@#  
+                synergistic with rifampicin, the cornerstone drug for TB therapy, and ethambutol, a  #@NEW_LINE#@#  
+                first-line anti-TB drug.  #@NEW_LINE#@#  Synergy was observed even under intracellular growth  #@NEW_LINE#@#  
+                conditions where beta-lactams typically have limited activities.  #@NEW_LINE#@#  Cephalosporins and  #@NEW_LINE#@#  
+                rifampicin were 4- to 64-fold more active in combination than either drug alone;  #@NEW_LINE#@#  
+                however, limited synergy was observed with rifapentine or rifabutin.  #@NEW_LINE#@#  Clavulanate was  #@NEW_LINE#@#  
+                a key synergistic partner in triple combinations.  #@NEW_LINE#@#  Cephalosporins (and other  #@NEW_LINE#@#  
+                beta-lactams) together with clavulanate rescued the activity of rifampicin against a  #@NEW_LINE#@#  
+                rifampicin resistant strain.  #@NEW_LINE#@#  Synergy was not due exclusively to increased rifampicin  #@NEW_LINE#@#  
+                accumulation within the mycobacterial cells.  #@NEW_LINE#@#  Cephalosporins were also synergistic  #@NEW_LINE#@#  
+                with new anti-TB drugs such as bedaquiline and delamanid.  #@NEW_LINE#@#  Studies will be needed to  #@NEW_LINE#@#  
+                validate their in vivo activities.  #@NEW_LINE#@#  However, the fact that cephalosporins are  #@NEW_LINE#@#  
+                orally bioavailable with good safety profiles, together with their  #@NEW_LINE#@#  
+                anti-mycobacterial activities reported here, suggest that they could be repurposed  #@NEW_LINE#@#  
+                within new combinatorial TB therapies.  #@NEW_LINE#@#  
+
+Introduction  #@NEW_LINE#@#  
+Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), is presently  #@NEW_LINE#@#  
+            the most deadly infectious disease worldwide.  #@NEW_LINE#@#  Standard TB therapy is lengthy (typically  #@NEW_LINE#@#  
+            6 months) and has very unpleasant side effects.  #@NEW_LINE#@#  Poor adherence to the therapy can result  #@NEW_LINE#@#  
+            in the development of drug resistant forms of the disease.  #@NEW_LINE#@#  Patients infected with  #@NEW_LINE#@#  
+            multi-drug resistant (MDR) or extensively drug resistant (XDR) strains must undergo  #@NEW_LINE#@#  
+            treatments that are even longer (up to 24 months) and associated with severe side  #@NEW_LINE#@#  
+            effects.  #@NEW_LINE#@#  Even after such prolonged and onerous therapies, only 3050% of  #@NEW_LINE#@#  
+            patients have positive treatment outcomes1.  #@NEW_LINE#@#  New treatments are urgently  #@NEW_LINE#@#  
+            needed to shorten the duration of the standard treatment and for MDR and XDR-TB  #@NEW_LINE#@#  
+            therapy.  #@NEW_LINE#@#  
+Traditionally, the discovery of new antibacterial therapies has focused on finding new  #@NEW_LINE#@#  
+            compounds having novel targets2.  #@NEW_LINE#@#  This extremely expensive and  #@NEW_LINE#@#  
+            time-consuming strategy is currently not a practical option for most large  #@NEW_LINE#@#  
+            pharmaceutical and biotech companies.  #@NEW_LINE#@#  The latest studies indicate that the cost of  #@NEW_LINE#@#  
+            developing a new drug has soared to $2.6 billion3.  #@NEW_LINE#@#  This problem is acute  #@NEW_LINE#@#  
+            in the field of TB therapy since the intrinsic resistance systems of Mtb make  #@NEW_LINE#@#  
+            most antibiotics ineffective4.  #@NEW_LINE#@#  In other therapeutic areas, pharmaceutical  #@NEW_LINE#@#  
+            companies are exploring new applications for existing drugs (repurposing) to reduce the  #@NEW_LINE#@#  
+            cost of drug development5.  #@NEW_LINE#@#  We have previously demonstrated that  #@NEW_LINE#@#  
+            combinatorial drug therapy, traditionally designed to avoid emergence of drug resistant  #@NEW_LINE#@#  
+                Mtb strains, might also be employed to increase the efficacies of available  #@NEW_LINE#@#  
+            antibiotics, allowing them to be repurposed for TB therapy within synergistic  #@NEW_LINE#@#  
+                combinations6.  #@NEW_LINE#@#  Following this approach we aimed to improve the  #@NEW_LINE#@#  
+            anti-TB activity of rifampicin, the cornerstone drug for TB therapy.  #@NEW_LINE#@#  
+Todays TB treatment guidelines, established in 1971, define a maximal dose  #@NEW_LINE#@#  
+            of rifampicin guided largely by cost and toxicity concerns rather than maximizing  #@NEW_LINE#@#  
+            antibacterial activity7.  #@NEW_LINE#@#  Recent clinical evidence demonstrating a direct  #@NEW_LINE#@#  
+            relation between increased dose and therapeutic efficacy strongly suggests rifampicin is  #@NEW_LINE#@#  
+            not currently administered at an optimal dose8,9.  #@NEW_LINE#@#  Furthermore,  #@NEW_LINE#@#  
+            laboratory studies of rifampicin at higher concentrations demonstrated dose-dependent  #@NEW_LINE#@#  
+            bactericidal and sterilizing activities of rifampicin against actively growing and  #@NEW_LINE#@#  
+            persister cells10.  #@NEW_LINE#@#  Mutations in the rpoB gene are the primary  #@NEW_LINE#@#  
+            cause of resistance to rifampicin in clinical isolates leading to treatment failure11.  #@NEW_LINE#@#  Studies by Louw et al.  #@NEW_LINE#@#  showed that efflux pump inhibitors could  #@NEW_LINE#@#  
+            potentiate the activity of rifampicin against MDR strains by increasing its  #@NEW_LINE#@#  
+            intracellular concentration12.  #@NEW_LINE#@#  Together, these reports suggest strongly  #@NEW_LINE#@#  
+            that if rifampicin activity could be increased by co-administration of a synergistic  #@NEW_LINE#@#  
+            partner, therapy of drug sensitive TB disease might be shortened and the prevalence of  #@NEW_LINE#@#  
+            drug resistant clinical strains reduced.  #@NEW_LINE#@#  Increased activity against rifampicin resistant  #@NEW_LINE#@#  
+            strains might also allow the re-introduction of rifampicin for therapy of MDR- and  #@NEW_LINE#@#  
+            XDR-TB.  #@NEW_LINE#@#  This would be a major advance in managing the rising numbers of TB cases that  #@NEW_LINE#@#  
+            are virtually untreatable.  #@NEW_LINE#@#  
+In pursuit of this vision, we screened an in-house library of ca.  #@NEW_LINE#@#  600 commercially  #@NEW_LINE#@#  
+            available antibiotics (the Sweet library13), and found that the  #@NEW_LINE#@#  
+            cephalosporins had strong synergies with rifampicin.  #@NEW_LINE#@#  While the activities of some  #@NEW_LINE#@#  
+            beta-lactams against Mtb have been reported in recent years14,15,16, cephalosporins have never been pursued for TB therapy17,18.  #@NEW_LINE#@#  Here we report a comprehensive study of the activities of  #@NEW_LINE#@#  
+            commercially available cephalosporins against Mtb alone and in combination with  #@NEW_LINE#@#  
+            synergistic partners.  #@NEW_LINE#@#  We compared these activities with faropenem, meropenem and  #@NEW_LINE#@#  
+            amoxicillin plus clavulanate (beta-lactams currently proposed for TB therapy) as a guide  #@NEW_LINE#@#  
+            for further pre-clinical development.  #@NEW_LINE#@#  
+
+Material_and_Methods  #@NEW_LINE#@#  
+Bacterial_strains__general_growth_conditions_and_reagents  #@NEW_LINE#@#  
+Compounds and Mycobacterium strains used in this study are listed in Table S1.  #@NEW_LINE#@#  Mycobacteria were routinely  #@NEW_LINE#@#  
+                    propagated at 37°C in Middlebrook 7H9 broth (Difco)  #@NEW_LINE#@#  
+                    supplemented with 10% Middlebrook albumin-dextrose-catalase (ADC)(Difco), 0.2%  #@NEW_LINE#@#  
+                    glycerol and 0.05% (vol/vol) tyloxapol or on Middlebrook 7H10 agar plates  #@NEW_LINE#@#  
+                    (Difco) supplemented with 10% (vol/vol) oleic acid-albumin-dextrose-catalase  #@NEW_LINE#@#  
+                    (OADC)(Difco).  #@NEW_LINE#@#  Hygromycin B was added to the medium  #@NEW_LINE#@#  
+                    (50g/mL) to ensure plasmid maintenance when  #@NEW_LINE#@#  
+                    propagating the Mtb H37Rv-Luc strain.  #@NEW_LINE#@#  This strain constitutively  #@NEW_LINE#@#  
+                    expresses the luciferase luc gene from Photinus pyralis (GenBank  #@NEW_LINE#@#  
+                    Accession Number M15077) cloned in a  #@NEW_LINE#@#  
+                    mycobacterial shuttle plasmid derived from pACE-119.  #@NEW_LINE#@#  
+
+Drug_susceptibility_assays  #@NEW_LINE#@#  
+Stock solutions of compounds used in this study were always prepared fresh on the  #@NEW_LINE#@#  
+                    same day of plate inoculation.  #@NEW_LINE#@#  For the 96-well plate format, stock solutions of  #@NEW_LINE#@#  
+                    compounds were prepared in their optimal solvent and manually added to  #@NEW_LINE#@#  
+                    polystyrene plates in two-fold serial dilutions.  #@NEW_LINE#@#  For 384-well plate format,  #@NEW_LINE#@#  
+                    compounds were dissolved in DMSO and dispensed using an HP D3000 Digital  #@NEW_LINE#@#  
+                    Dispenser and HP T8 Dispenserhead Cassettes (Ref No.  #@NEW_LINE#@#  CV081A).  #@NEW_LINE#@#  Susceptibility  #@NEW_LINE#@#  
+                    assays were performed in both extracellular and intracellular conditions.  #@NEW_LINE#@#  
+                        (i) Extracellular.  #@NEW_LINE#@#  Minimal Inhibitory Concentrations (MIC)  #@NEW_LINE#@#  
+                    were determined in 7H9-based broth medium.  #@NEW_LINE#@#  This was supplemented with 0.2%  #@NEW_LINE#@#  
+                    glycerol and 10% ADC without tyloxapol.  #@NEW_LINE#@#  When needed, other carbon sources were  #@NEW_LINE#@#  
+                    added to the 7H9-based broth medium.  #@NEW_LINE#@#  Compound efficacy on cholesterol as the  #@NEW_LINE#@#  
+                    sole carbon source was performed as follows: cholesterol was brought into  #@NEW_LINE#@#  
+                    solution (100mM) by frequent vortexing and heating at  #@NEW_LINE#@#  
+                    65°C in ethanol-tyloxapol (1:1v/v).  #@NEW_LINE#@#  A  #@NEW_LINE#@#  
+                    1/1,000 dilution was then added to 7H9-based broth medium to give a final  #@NEW_LINE#@#  
+                    concentration of 0.1mM cholesterol.  #@NEW_LINE#@#  Mycobacterial cells were grown  #@NEW_LINE#@#  
+                    to an OD600=0.50.8 and stocks  #@NEW_LINE#@#  
+                    were frozen at 80°C.  #@NEW_LINE#@#  Upon thawing, cells  #@NEW_LINE#@#  
+                    were briefly sonicated and diluted in assay medium to a final concentration of  #@NEW_LINE#@#  
+                        105 cells/mL  #@NEW_LINE#@#  
+                    (OD600=0.00125) for regular assays or  #@NEW_LINE#@#  
+                        106 cells/mL  #@NEW_LINE#@#  
+                    (OD600=0.0125) for cholesterol assays.  #@NEW_LINE#@#  MTT  #@NEW_LINE#@#  
+                    [3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide] was used as the  #@NEW_LINE#@#  
+                    bacterial growth indicator for M. bovis BCG and Mtb20.  #@NEW_LINE#@#  The Bright-Glo Luciferase Assay System (Promega, Madison, WI)  #@NEW_LINE#@#  
+                    was used as cell growth indicator for the Mtb H37Rv-Luc strain.  #@NEW_LINE#@#  
+                    Luminescence was measured in an Envision Multilabel Plate Reader (PerkinElmer)  #@NEW_LINE#@#  
+                    using the opaque 384-plate Ultra Sensitive luminescence mode, with a measurement  #@NEW_LINE#@#  
+                    time of 50ms per well.  #@NEW_LINE#@#  Plates were incubated for 5 and 7 days  #@NEW_LINE#@#  
+                    before measurement of ATP production or MTT to formazan conversion,  #@NEW_LINE#@#  
+                        respectively6.  #@NEW_LINE#@#  The lowest concentration of drug that  #@NEW_LINE#@#  
+                    inhibited 90% of MTT conversion or ATP production compared to internal control  #@NEW_LINE#@#  
+                    wells with no drug added was used to define MIC values (IC90).  #@NEW_LINE#@#  
+                        (ii) Intracellular.  #@NEW_LINE#@#  Our previously described ex-vivo  #@NEW_LINE#@#  
+                    checkerboard assay6 was optimized based on the protocol developed  #@NEW_LINE#@#  
+                    by Sorrentino et al.19.  #@NEW_LINE#@#  Briefly, frozen stocks of  #@NEW_LINE#@#  
+                    macrophage THP1 cells (ATCC TIB-202) were thawed in RPMI-1640 medium (Sigma)  #@NEW_LINE#@#  
+                    supplemented with 10% fetal bovine serum (Gibco), 2mM L-glutamine  #@NEW_LINE#@#  
+                    (Sigma) and 1mM sodium pyruvate (Sigma).  #@NEW_LINE#@#  THP1 cells were passaged  #@NEW_LINE#@#  
+                    only 5 times and maintained without antibiotics between  #@NEW_LINE#@#  
+                        210×105  #@NEW_LINE#@#  
+                    cells/mL at 37°C in a humidified, 5% CO2  #@NEW_LINE#@#  
+                    atmosphere.  #@NEW_LINE#@#  THP1 cells  #@NEW_LINE#@#  
+                        (3×108) were  #@NEW_LINE#@#  
+                    simultaneously differentiated with phorbol myristate acetate (PMA,  #@NEW_LINE#@#  
+                    40ng/mL, Sigma) and infected for 4hours at a  #@NEW_LINE#@#  
+                    multiplicity of infection (MOI) of 1:1 with a single cell suspension of  #@NEW_LINE#@#  
+                        Mtb H37Rv-Luc cells.  #@NEW_LINE#@#  After incubation, infected cells were washed  #@NEW_LINE#@#  
+                    four times to remove extracellular bacilli and resuspended in fresh RPMI medium.  #@NEW_LINE#@#  
+                    Infected cells were finally resuspended  #@NEW_LINE#@#  
+                        (2×105 cells/mL) in  #@NEW_LINE#@#  
+                    RPMI medium supplemented with 10% fetal bovine serum (Hyclone), 2mM  #@NEW_LINE#@#  
+                    L-glutamine and pyruvate and dispensed in white, flat bottom 384-well plates  #@NEW_LINE#@#  
+                    (Greiner) at a concentration of ca.  #@NEW_LINE#@#  10,000 cells per well in a final volume of  #@NEW_LINE#@#  
+                    50L (max.  #@NEW_LINE#@#  0.5% DMSO).  #@NEW_LINE#@#  Plates were incubated for 5 days  #@NEW_LINE#@#  
+                    under 5% CO2 atmosphere, 37°C, 80% relative  #@NEW_LINE#@#  
+                    humidity before growth assessment using the Bright-Glo Luciferase Assay System  #@NEW_LINE#@#  
+                    (Promega, Madison, WI) as above described.  #@NEW_LINE#@#  Internal wells containing drug-free  #@NEW_LINE#@#  
+                    medium with and without infected macrophages established maximum and minimal  #@NEW_LINE#@#  
+                    light production, respectively.  #@NEW_LINE#@#  A 90% reduction in light production was  #@NEW_LINE#@#  
+                    considered growth inhibition.  #@NEW_LINE#@#  The macrophage checkerboard data was processed as  #@NEW_LINE#@#  
+                    described below.  #@NEW_LINE#@#  Every drug or drug combination was assayed in at least three  #@NEW_LINE#@#  
+                    independent experiments.  #@NEW_LINE#@#  (iii) Macrophage toxicity assay.  #@NEW_LINE#@#  THP1  #@NEW_LINE#@#  
+                    cells were processed as described above, but not infected, and incubated in the  #@NEW_LINE#@#  
+                    presence of serial dilution of the compounds for 5 days.  #@NEW_LINE#@#  The CellTiter-Glo  #@NEW_LINE#@#  
+                    Luminescent Cell Viability Assay (Promega, Madison, WI) was used to determine  #@NEW_LINE#@#  
+                    the viability of the macrophages; the 50% inhibitory concentration  #@NEW_LINE#@#  
+                        (IC50) was calculated relative to that for untreated cells.  #@NEW_LINE#@#  The  #@NEW_LINE#@#  
+                    human biological samples were sourced ethically and used in this study according  #@NEW_LINE#@#  
+                    to the terms of the informed consent.  #@NEW_LINE#@#  
+
+Semi-High_Throughput_Synergy_Screen_(sHTSS)__Primary  #@NEW_LINE#@#  
+____________________assay greater than  #@NEW_LINE#@#  
+A liquid version of our previously described HTSS methodology in solid  #@NEW_LINE#@#  
+                        format6 was developed as the primary assay to identify  #@NEW_LINE#@#  
+                    compounds that enhanced the activity of rifampicin and ethambutol (primary  #@NEW_LINE#@#  
+                        compounds) against Mycobacterium.  #@NEW_LINE#@#  Primary compounds were screened  #@NEW_LINE#@#  
+                    for synergistic interactions against our in-house assembled compound  #@NEW_LINE#@#  
+                    library (Sweet library; secondary compounds) that included the majority  #@NEW_LINE#@#  
+                    of commercially available antibiotics targeting DNA, RNA, protein, cell envelope  #@NEW_LINE#@#  
+                    synthesis, or essential metabolic conversions, as well as other physiologically  #@NEW_LINE#@#  
+                    active compounds13.  #@NEW_LINE#@#  The Sweet library contains ca.  #@NEW_LINE#@#  600 compounds  #@NEW_LINE#@#  
+                    most with unknown antimicrobial activities against mycobacteria.  #@NEW_LINE#@#  In order to  #@NEW_LINE#@#  
+                    cover the wider concentration range possible in a single run, sets of secondary  #@NEW_LINE#@#  
+                    compounds from the Sweet library (5mM stock solution) were  #@NEW_LINE#@#  
+                    dispensed in three replicate 96-well plates [containing none, 1/8xMIC and  #@NEW_LINE#@#  
+                    1/4xMIC concentrations of the primary compound  #@NEW_LINE#@#  
+                    (MICRIF=0.03g/mL;  #@NEW_LINE#@#  
+                        MICEMB=2g/mL)]  #@NEW_LINE#@#  
+                    at a maximum final concentration of 100M.  #@NEW_LINE#@#  Four-fold  #@NEW_LINE#@#  
+                    serial dilutions were performed to a lowest concentration of  #@NEW_LINE#@#  
+                    0.006M.  #@NEW_LINE#@#  M. bovis BCG cells were resuspended in  #@NEW_LINE#@#  
+                    7H9 broth supplemented with 10% ADS [Composition per 1L:  #@NEW_LINE#@#  
+                    9.5g NaCl (Sigma), 50g Bovine Serum Albumin (Sigma),  #@NEW_LINE#@#  
+                    20g D-glucose (Bio Basic Inc.) and 2% glycerol], added to every  #@NEW_LINE#@#  
+                    plate and incubated until analyses were performed as described above (Figure S1A).  #@NEW_LINE#@#  
+
+____________________assay greater than  #@NEW_LINE#@#  
+Checkerboard_synergy_assay__Secondary_assay  #@NEW_LINE#@#  
+Drug interactions identified in our primary assay (sHTSS) against M. bovis  #@NEW_LINE#@#  
+                    BCG were directly validated against Mtb strains and clinical isolates.  #@NEW_LINE#@#  
+                    Synergistic interactions were analyzed both in extracellular (7H9 broth  #@NEW_LINE#@#  
+                    supplemented with different carbon sources) and intracellular (THP1 infected  #@NEW_LINE#@#  
+                    cells) conditions.  #@NEW_LINE#@#  Drug activity was determined in 96-well plate format using  #@NEW_LINE#@#  
+                    the MTT or ATP assay, as described above.  #@NEW_LINE#@#  The fractional inhibitory  #@NEW_LINE#@#  
+                    concentration (FIC) for each compound was calculated as follows:  #@NEW_LINE#@#  
+                    FICA=(MIC of compound A in the presence of  #@NEW_LINE#@#  
+                    compound B)/(MIC of compound A alone).  #@NEW_LINE#@#  Similarly, the FIC for compound B (and C  #@NEW_LINE#@#  
+                    in triple combinations) was calculated.  #@NEW_LINE#@#  The FIC Index (FICI) was calculated as:  #@NEW_LINE#@#  
+                        FICI=[FICA+FICB  #@NEW_LINE#@#  
+                        (+FICc)].  #@NEW_LINE#@#  Synergy was defined by FICI values 0.5,  #@NEW_LINE#@#  
+                    antagonism by FICI values greater than 4.0, and no  #@NEW_LINE#@#  
+                    interaction by FICI values from 0.5 to 4.06 (Figure S1B).  #@NEW_LINE#@#  
+
+Mtb_kill-kinetics__Tertiary_assay  #@NEW_LINE#@#  
+Frozen stocks of Mtb were inoculated in roller bottles containing 7H9  #@NEW_LINE#@#  
+                    broth supplemented with glycerol and ADC without tyloxapol to a cell density of  #@NEW_LINE#@#  
+                        105 cells/mL.  #@NEW_LINE#@#  Cultures were incubated at  #@NEW_LINE#@#  
+                    37°C for three days to allow for bacterial recovery and  #@NEW_LINE#@#  
+                    exponential growth.  #@NEW_LINE#@#  These were used to inoculate 10-mL cultures growing in  #@NEW_LINE#@#  
+                        25cm2 tissue culture flasks and drugs were added  #@NEW_LINE#@#  
+                    at the designated concentration and combinations.  #@NEW_LINE#@#  At every time point, cultures  #@NEW_LINE#@#  
+                    were thoroughly mixed and samples (100L) sonicated in  #@NEW_LINE#@#  
+                    a Sonics Vibra Cell, model VC 750, 750W, 2kHz, coupled  #@NEW_LINE#@#  
+                    to a horn cup, model CV334 set at 30seconds, Amp 1, 45%.  #@NEW_LINE#@#  Samples  #@NEW_LINE#@#  
+                    were then 10-fold serially dilute in 1x PBS buffer with 0.1% tyloxapol and  #@NEW_LINE#@#  
+                    100L plated on 7H10 agar plates supplemented with 10%  #@NEW_LINE#@#  
+                    OADC.  #@NEW_LINE#@#  Agar plates were incubated at 37°C for 14 days  #@NEW_LINE#@#  
+                    and CFUs visualized under 10x magnification.  #@NEW_LINE#@#  This technique allowed accurate  #@NEW_LINE#@#  
+                    counting of single colonies that would eventually grow into a bigger single  #@NEW_LINE#@#  
+                    colony.  #@NEW_LINE#@#  Plates were checked again after 3 and 4 weeks of incubation to count  #@NEW_LINE#@#  
+                    late growers.  #@NEW_LINE#@#  For kill-kinetic studies under non-replicating conditions, cells  #@NEW_LINE#@#  
+                    were grown in roller bottles at 37°C for 60 days before  #@NEW_LINE#@#  
+                    culture split, drug addition and processing as described above.  #@NEW_LINE#@#  
+
+Rifampicin_and_rifabutin_intracellular_accumulation_assay  #@NEW_LINE#@#  
+M. bovis BCG cultures were grown in roller bottles containing standard 7H9  #@NEW_LINE#@#  
+                    media without tyloxapol to an  #@NEW_LINE#@#  
+                    OD600=~1.0.  #@NEW_LINE#@#  Cells were then  #@NEW_LINE#@#  
+                    diluted to OD600=~0.25 and  #@NEW_LINE#@#  
+                    allowed to grow for 24hours.  #@NEW_LINE#@#  Pre-treatment with antibiotics was  #@NEW_LINE#@#  
+                    then started at their respective MIC concentrations.  #@NEW_LINE#@#  After overnight incubation,  #@NEW_LINE#@#  
+                    cells were concentrated to a final assay  #@NEW_LINE#@#  
+                    OD600=~15.0 in a final volume  #@NEW_LINE#@#  
+                    of 10mL.  #@NEW_LINE#@#  Cells were incubated at 37°C (or  #@NEW_LINE#@#  
+                    4°C) and the accumulation assay started by the addition  #@NEW_LINE#@#  
+                    of the rifamycin (pre-treatment antibiotic concentrations were maintained  #@NEW_LINE#@#  
+                    throughout the accumulation assay).  #@NEW_LINE#@#  At defined time points,  #@NEW_LINE#@#  
+                    500L aliquots were diluted in 1mL of cold  #@NEW_LINE#@#  
+                    PBS buffer supplemented with 0.05% tyloxapol.  #@NEW_LINE#@#  Cells were then washed three times  #@NEW_LINE#@#  
+                    to remove extracellular rifamycin and then disrupted in a FastPrep FP120  #@NEW_LINE#@#  
+                    beadbeater using 0.1mm silica beads with three 30sec  #@NEW_LINE#@#  
+                    cycles at maximum speed.  #@NEW_LINE#@#  Cell debris was pelleted and supernatant recovered for  #@NEW_LINE#@#  
+                    rifamycin analysis as below described.  #@NEW_LINE#@#  CFUs were also determined to correlate  #@NEW_LINE#@#  
+                    intracellular levels of rifamycins with actual cell numbers in the sample.  #@NEW_LINE#@#  
+
+Analytical_methods  #@NEW_LINE#@#  
+Ultra-Performance Liquid Chromatography-Mass Spectrometry/Mass Spectrometry  #@NEW_LINE#@#  
+                    Analysis (UPLC-MS/MS) was used to quantify the amount of rifampicin, rifabutin  #@NEW_LINE#@#  
+                    and cephradine.  #@NEW_LINE#@#  The UPLC-MS/MS system consisted of an Acquity UPLC series  #@NEW_LINE#@#  
+                    (Waters Corporation, Madison, USA) coupled with a Sciex API 4000 instrument (AB  #@NEW_LINE#@#  
+                    Sciex, Toronto, Canada).  #@NEW_LINE#@#  Twenty microliters of every sample were added to  #@NEW_LINE#@#  
+                    180L of protein precipitant buffer (acetonitrile  #@NEW_LINE#@#  
+                    /methanol 80:20v/v) and filtered through a  #@NEW_LINE#@#  
+                    0.45 pore size filter.  #@NEW_LINE#@#  Samples were then loaded into  #@NEW_LINE#@#  
+                    an Acquity UPLC HSS T3  #@NEW_LINE#@#  
+                    50×2.1mm,  #@NEW_LINE#@#  
+                    1.8m column (Waters Corporation, Madison, USA) and  #@NEW_LINE#@#  
+                    eluted at an average flow rate of 0.4mL/min.  #@NEW_LINE#@#  The MS/MS system was  #@NEW_LINE#@#  
+                    operated in MRM mode (823.5/791.3 transition for rifampicin, 847.5/815.5 for  #@NEW_LINE#@#  
+                    rifabutin and 350.1/158.0 for cephradine in positive ion mode).  #@NEW_LINE#@#  For the  #@NEW_LINE#@#  
+                    accumulation assay, rifampicin and rifabutin were co-eluted using an organic  #@NEW_LINE#@#  
+                    phase (A) of 100% acetonitrile and aqueous phase (B) of 10mM  #@NEW_LINE#@#  
+                    ammonium formate and 0.1% formic acid.  #@NEW_LINE#@#  For the stability assays in 7H9 medium,  #@NEW_LINE#@#  
+                    rifampicin and cephradine were co-eluted using an organic phase (A) of 100%  #@NEW_LINE#@#  
+                    acetonitrile and an aqueous phase (B) of 0.1% heptafluorobutyric acid.  #@NEW_LINE#@#  The  #@NEW_LINE#@#  
+                    following elution protocol was applied: first, an initial constant gradient to  #@NEW_LINE#@#  
+                    95% of B (5% of A) during 0.2min; then, a constant gradient to 5%  #@NEW_LINE#@#  
+                    of B (95% of A) during 1.0min that was held constant for a further  #@NEW_LINE#@#  
+                    1.5min.  #@NEW_LINE#@#  Finally, the concentration of B was gradually increased to  #@NEW_LINE#@#  
+                    95% (5% of A) during 2.0min.  #@NEW_LINE#@#  The actual concentration of the  #@NEW_LINE#@#  
+                    compounds was extrapolated from a calibration curve  #@NEW_LINE#@#  
+                    (150,000ng/mL range) of rifampicin, rifabutin and  #@NEW_LINE#@#  
+                    cephradine in culture media.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Synergy_screens_identified_cephalosporins_as_the_strongest_synergistic  #@NEW_LINE#@#  
+____________________partners_of_rifampicin greater than  #@NEW_LINE#@#  
+We devised a 96-well plate semi high-throughput synergy screen (sHTSS) using  #@NEW_LINE#@#  
+                    liquid cultures of M. bovis BCG to identify compounds that are  #@NEW_LINE#@#  
+                    synergistic with rifampicin.  #@NEW_LINE#@#  To maximize our hit rate, we used an  #@NEW_LINE#@#  
+                        in-house library (the Sweet library of ca.  #@NEW_LINE#@#  600 compounds)13 that included the majority of commercially available antibiotics  #@NEW_LINE#@#  
+                    (more than 500).  #@NEW_LINE#@#  Antimicrobial activities of each compound in the Sweet library  #@NEW_LINE#@#  
+                    were determined alone or in the presence of our primary compound, rifampicin  #@NEW_LINE#@#  
+                    (1/8xMIC or 1/4xMIC) (Figure S1).  #@NEW_LINE#@#  
+                    Fifty hits were identified, representing about 10% of the antibiotics in the  #@NEW_LINE#@#  
+                    Sweet library.  #@NEW_LINE#@#  A secondary assay validated synergy for nine out of eleven  #@NEW_LINE#@#  
+                    randomly selected hit compounds, including the first-line anti-TB drug  #@NEW_LINE#@#  
+                    ethambutol (Table S2).  #@NEW_LINE#@#  When the same  #@NEW_LINE#@#  
+                    screen of the Sweet library was performed using ethambutol instead of rifampicin  #@NEW_LINE#@#  
+                    as the primary antibiotic, the rifampicin/ethambutol synergy was again  #@NEW_LINE#@#  
+                    identified, thereby confirming sHTSS reproducibility.  #@NEW_LINE#@#  In addition, not only  #@NEW_LINE#@#  
+                    rifampicin but also two other antibiotics (ansamycins) having related structures  #@NEW_LINE#@#  
+                    and targeting the RNA polymerase (RNAP) were identified as having synergy with  #@NEW_LINE#@#  
+                    ethambutol (Table S2).  #@NEW_LINE#@#  However, the  #@NEW_LINE#@#  
+                    most striking finding of the sHTSS was the large proportion of cell wall  #@NEW_LINE#@#  
+                    inhibitors identified as hits with rifampicin (14 out of 50 hits; 28%) or  #@NEW_LINE#@#  
+                    ethambutol (13 out of 65 hits; 20%).  #@NEW_LINE#@#  These mainly included the beta-lactam  #@NEW_LINE#@#  
+                    family of drugs and more specifically the cephalosporins (Table S2).  #@NEW_LINE#@#  
+
+____________________partners_of_rifampicin greater than  #@NEW_LINE#@#  
+Cephalosporins__Structure-activity_relationship_(SAR)_studies_reveal  #@NEW_LINE#@#  
+________________________Mtb-specific_features greater than  #@NEW_LINE#@#  
+We assembled a library of first, second, third, and forth generation  #@NEW_LINE#@#  
+                    cephalosporins and determined their in vitro activities against a panel  #@NEW_LINE#@#  
+                    of three standard Mtb laboratory strains and eight clinical isolates  #@NEW_LINE#@#  
+                    (four drug susceptible and four drug resistant) from British Columbia21.  #@NEW_LINE#@#  Other clinically used cell wall targeting compounds were also  #@NEW_LINE#@#  
+                    included in this study (Table S3).  #@NEW_LINE#@#  
+                    The MICs for any given cephalosporin were consistent and fell within a 4-fold  #@NEW_LINE#@#  
+                    range for all laboratory strains; MICs were somewhat more dispersed for the  #@NEW_LINE#@#  
+                    clinical isolates (probably reflecting strain genetic heterogeneity) with an  #@NEW_LINE#@#  
+                    overall trend of slightly decreased activity against resistant isolates.  #@NEW_LINE#@#  
+                    Unexpectedly, older first generation cephalosporins were generally more potent  #@NEW_LINE#@#  
+                    against Mtb than later generations (Fig 1).  #@NEW_LINE#@#  
+From an historical perspective, generations of cephalosporins were sequentially  #@NEW_LINE#@#  
+                    designed to increase broad-spectrum activity and to counteract drug resistance  #@NEW_LINE#@#  
+                    in a variety of non-Mtb pathogens22.  #@NEW_LINE#@#  These structural  #@NEW_LINE#@#  
+                    changes apparently altered their anti-mycobacterial activities, probably  #@NEW_LINE#@#  
+                    reflecting unrelated, unique features of the mycobacterial cell wall.  #@NEW_LINE#@#  Early  #@NEW_LINE#@#  
+                    reports already identified a SAR for Mtb, i.e., pyridyl or phenyl  #@NEW_LINE#@#  
+                    moieties in a side chain at the C7 position of the cephalosporin were correlated  #@NEW_LINE#@#  
+                    with anti-tuberculosis activity18.  #@NEW_LINE#@#  We thus inferred a qualitative  #@NEW_LINE#@#  
+                    SAR based on current commercially available cephalosporins.  #@NEW_LINE#@#  For this analysis,  #@NEW_LINE#@#  
+                    we created groups based on their anti-mycobacterial activity.  #@NEW_LINE#@#  The first group  #@NEW_LINE#@#  
+                    included those compounds with an activity threshold of  #@NEW_LINE#@#  
+                    8g/mL; a second group with intermediate/moderate  #@NEW_LINE#@#  
+                    activity  #@NEW_LINE#@#  
+                    (MIC=1664g/mL);  #@NEW_LINE#@#  
+                    and a third group with no activity  #@NEW_LINE#@#  
+                    (MIC greater than 128g/mL) (Table S4).  #@NEW_LINE#@#  Common chemical features  #@NEW_LINE#@#  
+                    were identified among the active compounds, which could be further split into  #@NEW_LINE#@#  
+                    three representative series (Fig 2).  #@NEW_LINE#@#  Analyses of both the  #@NEW_LINE#@#  
+                    cephalexin and cefdinir series indicated that a  #@NEW_LINE#@#  
+                    smaller lipophilic group in the C3 position of the cephem ring was beneficial  #@NEW_LINE#@#  
+                    for anti-mycobacterial activity; although at this position the exchange of the  #@NEW_LINE#@#  
+                    methyl group of cephalexin to the chloro atom of cefaclor resulted in a complete  #@NEW_LINE#@#  
+                    loss of activity.  #@NEW_LINE#@#  In addition, the comparison of cefadroxil and cefapirin (in  #@NEW_LINE#@#  
+                    the cephalexin and cefapirin series, respectively) indicated that the presence  #@NEW_LINE#@#  
+                    of a hydrogen bond acceptor in the 4 position of the right hand side (RHS)  #@NEW_LINE#@#  
+                    aromatic ring (either as a hetero atom within the cycle or as an extracyclic  #@NEW_LINE#@#  
+                    group such as a hydroxyl) was also beneficial for activity.  #@NEW_LINE#@#  Similarly, cefdinir  #@NEW_LINE#@#  
+                    (and analogs in the cefdinir series) also contained a  #@NEW_LINE#@#  
+                    hydrogen bond acceptor (amine) in the RHS of the molecule.  #@NEW_LINE#@#  In this series,  #@NEW_LINE#@#  
+                    activity was also governed by modifications in the C3 position of the cephem  #@NEW_LINE#@#  
+                    ring.  #@NEW_LINE#@#  It is interesting to note that cephradine contains a cyclohexadiene in the  #@NEW_LINE#@#  
+                    RHS of the molecule and it was also active.  #@NEW_LINE#@#  These observations indicated common  #@NEW_LINE#@#  
+                    generation-independent chemical patterns for specific activity against  #@NEW_LINE#@#  
+                        Mtb.  #@NEW_LINE#@#  
+
+________________________Mtb-specific_features greater than  #@NEW_LINE#@#  
+Cephalosporin_synergy_with_rifampicin_is_conserved_in_different  #@NEW_LINE#@#  
+____________________media greater than  #@NEW_LINE#@#  
+Most of the cephalosporins tested (with the exception of ceftibuten, cefuroxime,  #@NEW_LINE#@#  
+                    and cefditoren pivoxil) displayed synergy with rifampicin; first-generation  #@NEW_LINE#@#  
+                    cephalosporins cephalexin, cephradine, and cefadroxil had the strongest  #@NEW_LINE#@#  
+                    synergisms.  #@NEW_LINE#@#  The third generation cephalosporin, cefdinir, was the most active  #@NEW_LINE#@#  
+                    alone, but had a weaker synergistic profile (Table S3).  #@NEW_LINE#@#  These studies were conducted using  #@NEW_LINE#@#  
+                    7H9 media supplemented with ADC and glycerol.  #@NEW_LINE#@#  Media conditions used by teams  #@NEW_LINE#@#  
+                    working on TB drug development are not standardized23.  #@NEW_LINE#@#  TB drug  #@NEW_LINE#@#  
+                    screening programs have found that the anti-mycobacterial activities of certain  #@NEW_LINE#@#  
+                    compounds are carbon source (glycerol) dependent24.  #@NEW_LINE#@#  Other  #@NEW_LINE#@#  
+                    supplements that alter cell envelope composition, such as oleic acid or  #@NEW_LINE#@#  
+                    detergents (Tween or Tyloxapol), also have effects on antibiotic activity25,26.  #@NEW_LINE#@#  In addition, the chemical nature of cephalosporins might  #@NEW_LINE#@#  
+                    affect their activity in a medium-dependent fashion27.  #@NEW_LINE#@#  To  #@NEW_LINE#@#  
+                    investigate possible medium-dependent activities of cephalosporins and their  #@NEW_LINE#@#  
+                    synergies with rifampicin, we performed synergy studies with cefadroxil and  #@NEW_LINE#@#  
+                    cefdinir in media containing various carbon sources or detergents.  #@NEW_LINE#@#  Faropenem (a  #@NEW_LINE#@#  
+                    penem) and meropenem (a carbapenem), two beta-lactams recently evaluated in a  #@NEW_LINE#@#  
+                    clinical trial28, were also included for comparison (Fig 3).  #@NEW_LINE#@#  Cefadroxil displayed the largest medium dependent  #@NEW_LINE#@#  
+                    variations in anti-microbial activity but it retained the strongest synergistic  #@NEW_LINE#@#  
+                    profile in all the different media tested.  #@NEW_LINE#@#  In contrast, meropenem displayed  #@NEW_LINE#@#  
+                    little synergy, and in some cases a lack of interaction with rifampicin.  #@NEW_LINE#@#  In  #@NEW_LINE#@#  
+                    general, the antimicrobial activities of the cephalosporins alone and their  #@NEW_LINE#@#  
+                    synergistic profiles in combination with rifampicin were maintained in media  #@NEW_LINE#@#  
+                    based on oleic acid, cholesterol, glycerol or dextrose.  #@NEW_LINE#@#  Interestingly, the  #@NEW_LINE#@#  
+                    addition of Tyloxapol had a major potentiating effect, correlating with previous  #@NEW_LINE#@#  
+                    observations where alteration of the mycobacterial cell wall mycolic acid layer  #@NEW_LINE#@#  
+                    might allow better access of the beta-lactams to their targets in the  #@NEW_LINE#@#  
+                    peptidoglycan sub-layer29,30; synergy in the presence of  #@NEW_LINE#@#  
+                    Tyloxapol, however, remained mostly unchanged.  #@NEW_LINE#@#  
+
+____________________media greater than  #@NEW_LINE#@#  
+The_intracellular_anti-mycobacterial_activities_of_cephalosporins_can_be  #@NEW_LINE#@#  
+____________________synergistically_enhanced_by_rifampicin greater than  #@NEW_LINE#@#  
+Although less efficient than against extracellular bacteria, cephalosporins (and  #@NEW_LINE#@#  
+                    beta-lactams in general) display measurable intracellular activities31.  #@NEW_LINE#@#  Similarly, we found that some cephalosporins such as  #@NEW_LINE#@#  
+                    cephradine, cefadroxil or cephalexin, were less active against Mtb inside  #@NEW_LINE#@#  
+                    THP1 macrophages than against extracellular bacteria (Table S3).  #@NEW_LINE#@#  In some cases, these limitations  #@NEW_LINE#@#  
+                    could be overcome using a synergistic combination.  #@NEW_LINE#@#  For example, the presence of  #@NEW_LINE#@#  
+                    rifampicin at sub-MIC concentrations made cefadroxil active against  #@NEW_LINE#@#  
+                    intracellular Mtb and the same trend was observed for cefdinir.  #@NEW_LINE#@#  
+                    Intracellular synergy was also observed for faropenem but not for meropenem  #@NEW_LINE#@#  
+                        (Fig 4A), which displayed the weakest synergistic  #@NEW_LINE#@#  
+                    profile with rifampicin against intracellular and extracellular bacteria (Table S3).  #@NEW_LINE#@#  Despite the fact that some  #@NEW_LINE#@#  
+                    beta-lactams might have poor intracellular activity, these analyses demonstrated  #@NEW_LINE#@#  
+                    that intracellular synergies with rifampicin could compensate for their reduced  #@NEW_LINE#@#  
+                    activities alone.  #@NEW_LINE#@#  
+
+____________________synergistically_enhanced_by_rifampicin greater than  #@NEW_LINE#@#  
+Synergy_with_cephalosporins_is_not_a_general_characteristic_of  #@NEW_LINE#@#  
+____________________rifamycins greater than  #@NEW_LINE#@#  
+We tested the abilities of different beta-lactams to act in synergy with other  #@NEW_LINE#@#  
+                    representative rifamycins32.  #@NEW_LINE#@#  The dose response curves of  #@NEW_LINE#@#  
+                    cefadroxil, cefdinir, faropenem, and meropenem were calculated alone and in  #@NEW_LINE#@#  
+                    combination with rifampicin and rifabutin.  #@NEW_LINE#@#  Surprisingly, synergies were observed  #@NEW_LINE#@#  
+                    with rifampicin but not with rifabutin (Fig 4B).  #@NEW_LINE#@#  We then  #@NEW_LINE#@#  
+                    determined the MICs of other cephalosporins, amoxicillin and cell-wall targeting  #@NEW_LINE#@#  
+                    compounds alone and in the presence of sub-inhibitory concentrations of the  #@NEW_LINE#@#  
+                    rifamycins (including rifapentine) (Table  #@NEW_LINE#@#  
+                        S5).  #@NEW_LINE#@#  While cephalosporins, ethambutol and the other beta-lactams  #@NEW_LINE#@#  
+                    tested interacted with rifampicin, synergy with rifapentine was consistently  #@NEW_LINE#@#  
+                    lower.  #@NEW_LINE#@#  In fact, only those drugs having an MIC reduction higher than 16-fold in  #@NEW_LINE#@#  
+                    the presence of rifampicin, such as cefadroxil and cephradine, displayed some  #@NEW_LINE#@#  
+                    interaction with rifapentine.  #@NEW_LINE#@#  Confirming our previous observations, no synergy  #@NEW_LINE#@#  
+                    was observed with rifabutin.  #@NEW_LINE#@#  
+
+____________________rifamycins greater than  #@NEW_LINE#@#  
+Increased_accumulation_of_rifampicin_in_mycobacterial_cells_does_not_fully  #@NEW_LINE#@#  
+____________________explain_its_synergy_with_beta-lactams greater than  #@NEW_LINE#@#  
+Beta-lactams that destabilize the peptidoglycan layer in the cell wall might  #@NEW_LINE#@#  
+                    cause increased permeability and intracellular accumulation of rifampicin, thus  #@NEW_LINE#@#  
+                    rationalizing synergy.  #@NEW_LINE#@#  To test this hypothesis, we performed rifampicin  #@NEW_LINE#@#  
+                    accumulation assays.  #@NEW_LINE#@#  Ethambutol increases rifampicin uptake25,  #@NEW_LINE#@#  
+                    presumably underlying the synergy between these two drugs (Table S3).  #@NEW_LINE#@#  Proof of concept experiments  #@NEW_LINE#@#  
+                    confirmed that rifampicin accumulation was an active process; residual  #@NEW_LINE#@#  
+                    accumulation was observed at low temperature (4°C),  #@NEW_LINE#@#  
+                    probably associated with unspecific binding to the bacterial cell wall or  #@NEW_LINE#@#  
+                    passive diffusion, while a saturable active rifampicin uptake was observed at  #@NEW_LINE#@#  
+                    37°C (Figure  #@NEW_LINE#@#  
+                        S2A).  #@NEW_LINE#@#  As expected25, there was a ca.  #@NEW_LINE#@#  2.5-fold increase  #@NEW_LINE#@#  
+                    in rifampicin accumulation when the cells were pre-treated with ethambutol but  #@NEW_LINE#@#  
+                    not when they were pre-treated with isoniazid (we found no synergy between  #@NEW_LINE#@#  
+                    isoniazid and rifampicin) (Fig 5).  #@NEW_LINE#@#  We therefore used  #@NEW_LINE#@#  
+                    these two drugs in our accumulation assay as internal positive and negative  #@NEW_LINE#@#  
+                    controls.  #@NEW_LINE#@#  Pre-treatment with either cefadroxil or amoxicillin (with and without  #@NEW_LINE#@#  
+                    clavulanate), faropenem or meropenem had a range of effects on rifampicin  #@NEW_LINE#@#  
+                    accumulation.  #@NEW_LINE#@#  The largest effect was elicited by the combination of amoxicillin  #@NEW_LINE#@#  
+                    and clavulanate.  #@NEW_LINE#@#  Cefadroxil had little or no effect, despite the fact that it  #@NEW_LINE#@#  
+                    was the strongest synergistic partner and while meropenem, the weakest  #@NEW_LINE#@#  
+                    synergistic partner, induced increases similar to those of ethambutol (Figure S2B).  #@NEW_LINE#@#  
+We then used rifabutin to further investigate the potential correlation between  #@NEW_LINE#@#  
+                    anti-mycobacterial activity and the intracellular accumulation of rifampicin.  #@NEW_LINE#@#  
+                    Rifabutin is more lipophilic than rifampicin; this characteristic may accelerate  #@NEW_LINE#@#  
+                    its penetration through the Mtb envelope, thus increasing its  #@NEW_LINE#@#  
+                        activity32.  #@NEW_LINE#@#  Indeed, rifabutin accumulated intracellularly to  #@NEW_LINE#@#  
+                    higher levels than rifampicin (Fig 5); rifabutin uptake  #@NEW_LINE#@#  
+                    was higher than that of rifampicin (even when rifampicin uptake was increased by  #@NEW_LINE#@#  
+                    ethambutol or beta-lactams) (Figure  #@NEW_LINE#@#  
+                        S2).  #@NEW_LINE#@#  Rifabutins lack of synergism (Fig  #@NEW_LINE#@#  
+                        4B, Table S5) with  #@NEW_LINE#@#  
+                    beta-lactams may reflect increased rates of cell penetration that cannot be  #@NEW_LINE#@#  
+                    further potentiated by beta-lactam treatment.  #@NEW_LINE#@#  On average, the level of synergism  #@NEW_LINE#@#  
+                    between rifampicin and the beta-lactams allowed up to 16-fold reduction in the  #@NEW_LINE#@#  
+                    MIC of rifampicin, a slightly higher reduction than the MIC ratio of  #@NEW_LINE#@#  
+                    rifabutin/rifampicin (rifabutins MIC is ca.  #@NEW_LINE#@#  8-fold lower than that  #@NEW_LINE#@#  
+                    of rifampicin).  #@NEW_LINE#@#  However, the observation that beta-lactams induced less than  #@NEW_LINE#@#  
+                    2.5-fold increases in rifampicin accumulation indicated that they do not mimic  #@NEW_LINE#@#  
+                    the more efficient rifabutin pathway of entry, which allows 6-10-fold increased  #@NEW_LINE#@#  
+                    levels of accumulation (Fig 5).  #@NEW_LINE#@#  In summary, the strong  #@NEW_LINE#@#  
+                    synergistic interactions between cephalosporins (and other beta-lactams) and  #@NEW_LINE#@#  
+                    rifampicin cannot exclusively be explained by the slight increase in the  #@NEW_LINE#@#  
+                    intracellular accumulation of rifampicin in the presence of some cell-wall  #@NEW_LINE#@#  
+                    targeting compounds since there was no correlation between the strength of the  #@NEW_LINE#@#  
+                    synergistic interactions and the levels of rifampicin accumulation.  #@NEW_LINE#@#  
+
+____________________explain_its_synergy_with_beta-lactams greater than  #@NEW_LINE#@#  
+The_synergistic_combination_of_rifampicin_with_cephalosporins_is  #@NEW_LINE#@#  
+____________________bactericidal_and_sterilizing greater than  #@NEW_LINE#@#  
+Kill kinetic assays against replicating bacteria exposed to antibiotics at  #@NEW_LINE#@#  
+                    sub-MIC concentrations were performed to study the bactericidal and sterilizing  #@NEW_LINE#@#  
+                    activities of the synergistic combinations (Fig 6).  #@NEW_LINE#@#  
+                    Combinations of cephradine with either rifampicin or ethambutol were able to  #@NEW_LINE#@#  
+                    reduce CFUs up to 3-logs within seven days.  #@NEW_LINE#@#  Interestingly, addition of  #@NEW_LINE#@#  
+                    cephradine to rifampicin and ethambutol in a triple combination at sub-MIC  #@NEW_LINE#@#  
+                    concentrations made these combinations sterilizing (Fig  #@NEW_LINE#@#  
+                        6A).  #@NEW_LINE#@#  We then increased drug concentrations to levels above MIC to  #@NEW_LINE#@#  
+                    determine minimal concentrations needed for sterilizing activity.  #@NEW_LINE#@#  Cephradine and  #@NEW_LINE#@#  
+                    rifampicin alone displayed dose-dependent bactericidal activity and sterilizing  #@NEW_LINE#@#  
+                    activity in combination (Fig 6B).  #@NEW_LINE#@#  The pharmacodynamic  #@NEW_LINE#@#  
+                    parameters that best predict the anti-bacterial activity of the beta-lactams and  #@NEW_LINE#@#  
+                    rifampicin are time over MIC and the AUC over MIC33,34.  #@NEW_LINE#@#  We  #@NEW_LINE#@#  
+                    employed a static model where cultures were maintained in the same medium and  #@NEW_LINE#@#  
+                    drugs were only added at the beginning of the experiment.  #@NEW_LINE#@#  In the absence of  #@NEW_LINE#@#  
+                    bacteria, the half-life stability of cephradine and rifampicin in the 7H9 medium  #@NEW_LINE#@#  
+                    was approximately six and seven days, respectively, similar to described  #@NEW_LINE#@#  
+                        elsewhere35,36.  #@NEW_LINE#@#  Their stabilities were independent of the  #@NEW_LINE#@#  
+                    presence of the partner, indicating absence of direct drug-drug interactions.  #@NEW_LINE#@#  
+                    Degradation kinetics and remaining drug concentrations due to thermal  #@NEW_LINE#@#  
+                    instability matched kill kinetics and might explain the observed growth rebound  #@NEW_LINE#@#  
+                        (Fig 6C).  #@NEW_LINE#@#  The extended killing observed with the  #@NEW_LINE#@#  
+                    combination in the absence of effective drug concentrations confirmed their  #@NEW_LINE#@#  
+                    synergistic profile (Fig 6B).  #@NEW_LINE#@#  Under non-replicative  #@NEW_LINE#@#  
+                    conditions, cephradine lost its anti-bacterial activity together with its  #@NEW_LINE#@#  
+                    synergistic interaction with rifampicin (Figure S3), consistent with the specificity of some cephalosporins  #@NEW_LINE#@#  
+                    for actively replicating bacteria.  #@NEW_LINE#@#  
+
+____________________bactericidal_and_sterilizing greater than  #@NEW_LINE#@#  
+Clavulanate__a_key_partner_in_triple_synergistic_combinations_effective  #@NEW_LINE#@#  
+____________________against_rifampicin_resistant_M_tuberculosis_strains greater than  #@NEW_LINE#@#  
+While clavulanate had a high MIC against Mtb  #@NEW_LINE#@#  
+                    ( greater than 64g/mL), it was synergistic with rifampicin  #@NEW_LINE#@#  
+                        (Table S3).  #@NEW_LINE#@#  Pairwise synergies  #@NEW_LINE#@#  
+                    among rifampicin, beta-lactams and clavulanate suggested that the addition of  #@NEW_LINE#@#  
+                    clavulanate could further enhance the anti-tuberculosis activities of  #@NEW_LINE#@#  
+                    rifampicin/beta-lactam combinations.  #@NEW_LINE#@#  Therefore, we tested rifampicin in  #@NEW_LINE#@#  
+                    combination with beta-lactams, in the presence and absence of sub-inhibitory  #@NEW_LINE#@#  
+                    concentrations of clavulanate.  #@NEW_LINE#@#  We used the laboratory strain H37Rv and a  #@NEW_LINE#@#  
+                    rifampicin-resistant derivative  #@NEW_LINE#@#  
+                    (MIC greater than 64g/mL)  #@NEW_LINE#@#  
+                    resulting from a single point mutation (H526D) in the beta subunit of the RNA  #@NEW_LINE#@#  
+                    polymerase to limit genetic background heterogeneity.  #@NEW_LINE#@#  Rifampicin dose response  #@NEW_LINE#@#  
+                    analyses using H37Rv H526D demonstrated that the addition of a beta-lactam plus  #@NEW_LINE#@#  
+                    clavulanate had activities similar to rifabutin (used against MDR and XDR  #@NEW_LINE#@#  
+                        strains37).  #@NEW_LINE#@#  Among the four beta-lactams tested, amoxicillin  #@NEW_LINE#@#  
+                    had the strongest effect, followed by cefadroxil, meropenem and finally  #@NEW_LINE#@#  
+                    faropenem (whose synergistic activity was marginal).  #@NEW_LINE#@#  These combinations were  #@NEW_LINE#@#  
+                    even more effective than rifabutin against the parental drug susceptible H37Rv  #@NEW_LINE#@#  
+                        (Fig 7).  #@NEW_LINE#@#  These studies not only demonstrated that  #@NEW_LINE#@#  
+                    beta-lactams increased rifampicin activity but also confirmed our MIC studies  #@NEW_LINE#@#  
+                    showing that rifampicin greatly enhanced the activities of its beta-lactam  #@NEW_LINE#@#  
+                    partners.  #@NEW_LINE#@#  Clavulanate played a critical role in these triple drug interactions,  #@NEW_LINE#@#  
+                    especially for beta-lactams whose activities were clavulanate-dependent such as  #@NEW_LINE#@#  
+                    amoxicillin and cefadroxil.  #@NEW_LINE#@#  Reinforcing this concept, faropenem, whose activity  #@NEW_LINE#@#  
+                    was not strongly affected by clavulanate, had weak effects in the triple  #@NEW_LINE#@#  
+                    combination (Figure S4).  #@NEW_LINE#@#  
+
+____________________against_rifampicin_resistant_M_tuberculosis_strains greater than  #@NEW_LINE#@#  
+Beta-lactam_inclusion_in_de_novo_therapies__synergy_with_newly  #@NEW_LINE#@#  
+____________________developed_anti-TB_drugs greater than  #@NEW_LINE#@#  
+In vitro synergy assays with cephradine and faropenem in combination with  #@NEW_LINE#@#  
+                    a panel of sixteen first-line, second-line and newly developed drugs for TB  #@NEW_LINE#@#  
+                    therapy were performed to further explore the repurposing potential of  #@NEW_LINE#@#  
+                    beta-lactams (Fig 8).  #@NEW_LINE#@#  As expected, synergy was observed  #@NEW_LINE#@#  
+                    with both rifampicin and ethambutol but not with the first-line drug isoniazid.  #@NEW_LINE#@#  
+                    Aminoglycosides and fluoroquinolones, well-established second-line drugs, and  #@NEW_LINE#@#  
+                    other drugs typically used as last resort treatment for MDR- and XDR-TB, such as  #@NEW_LINE#@#  
+                    PAS, ethionamide or linezolid, displayed no interaction patterns.  #@NEW_LINE#@#  In contrast,  #@NEW_LINE#@#  
+                    there were strong synergistic interactions of the beta-lactams with the newly  #@NEW_LINE#@#  
+                    developed anti-TB drugs bedaquiline, delamanid and PA-824 (pretomanid).  #@NEW_LINE#@#  
+                    Synergism was not observed with SQ-109, an ethambutol analog with an  #@NEW_LINE#@#  
+                    anti-bacterial mode of action that is more related to isoniazid38.  #@NEW_LINE#@#  
+
+____________________developed_anti-TB_drugs greater than  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+Drug repurposing is a strategy gathering momentum throughout the pharmaceutical  #@NEW_LINE#@#  
+                industry, driven by the high costs of traditional drug development3,5,39.  #@NEW_LINE#@#  Drug development for neglected diseases such as TB, mainly  #@NEW_LINE#@#  
+                affecting developing countries, is especially complicated due to the perception by  #@NEW_LINE#@#  
+                big pharmaceutical companies that there is insufficient return on capital  #@NEW_LINE#@#  
+                investment.  #@NEW_LINE#@#  In addition, promising pre-clinical development of new chemical entities  #@NEW_LINE#@#  
+                driven by not-for-profit partnerships40 are faced with unexpected  #@NEW_LINE#@#  
+                clinical roadblocks due to toxicities not predicted by pre-clinical models41.  #@NEW_LINE#@#  To overcome these limitations, new partnership models42,43 and drug repurposing strategies are currently being  #@NEW_LINE#@#  
+                    explored6.  #@NEW_LINE#@#  We previously demonstrated that clinically approved  #@NEW_LINE#@#  
+                antibiotics considered to be inactive against Mtb might be introduced for TB  #@NEW_LINE#@#  
+                therapy if administered within synergistic combinations6.  #@NEW_LINE#@#  Here we  #@NEW_LINE#@#  
+                demonstrated that this approach could be similarly applied to well-established  #@NEW_LINE#@#  
+                anti-TB drugs in order to increase their efficacy or reduce their toxicity.  #@NEW_LINE#@#  For  #@NEW_LINE#@#  
+                this, we focused on rifampicin, one of the cornerstone drugs for TB therapy.  #@NEW_LINE#@#  We  #@NEW_LINE#@#  
+                screened an in-house library of clinically used antibiotics and were able to  #@NEW_LINE#@#  
+                find synergistic partners of rifampicin.  #@NEW_LINE#@#  While a wide variety of compounds were  #@NEW_LINE#@#  
+                identified, including a front line TB drug (ethambutol), we focused our studies on  #@NEW_LINE#@#  
+                the large pool of cephalosporin antibiotics that were strong enhancers of rifampicin  #@NEW_LINE#@#  
+                activity (Table S2).  #@NEW_LINE#@#  Cephalosporin  #@NEW_LINE#@#  
+                activities, alone and in synergistic combinations with other beta lactams, were  #@NEW_LINE#@#  
+                compared to beta-lactam combinations already proposed for TB therapy (clavulanate  #@NEW_LINE#@#  
+                with faropenem, meropenem, or amoxicillin), to assess their potential for TB  #@NEW_LINE#@#  
+                therapy.  #@NEW_LINE#@#  
+Beta-lactams, one of the largest groups of antibiotics available today, have a long  #@NEW_LINE#@#  
+                track record of safe clinical use to treat infections caused by Gram-positive and  #@NEW_LINE#@#  
+                Gram-negative bacteria22.  #@NEW_LINE#@#  Their use as anti-tuberculosis drugs has  #@NEW_LINE#@#  
+                been limited by the lack of interest of pharmaceutical companies, the availability  #@NEW_LINE#@#  
+                of reliable animal models44 and the intrinsic resistance of  #@NEW_LINE#@#  
+                    Mtb to beta-lactams.  #@NEW_LINE#@#  Indeed, the presence of a beta-lactamase (BlaC) able  #@NEW_LINE#@#  
+                to degrade these antibiotics and the impermeability of the cell envelope led to the  #@NEW_LINE#@#  
+                belief that beta-lactams were ineffective for TB therapy.  #@NEW_LINE#@#  As early as in the 1980s  #@NEW_LINE#@#  
+                it was recognized that the combination of amoxicillin and clavulanate was active  #@NEW_LINE#@#  
+                against Mtb in vitro45; however clinical efficacy in early  #@NEW_LINE#@#  
+                bactericidal activity (EBA) studies was not consistently shown46,47.  #@NEW_LINE#@#  
+                A renewed interest in the beta-lactams as new anti-TB drugs arose after a report  #@NEW_LINE#@#  
+                demonstrated the in vitro activity of meropenem combined with clavulanate  #@NEW_LINE#@#  
+                against XDR strains14.  #@NEW_LINE#@#  A recent study also reported synergy of  #@NEW_LINE#@#  
+                carbapenems with rifampicin against Mtb48.  #@NEW_LINE#@#  However, although  #@NEW_LINE#@#  
+                carbapenems have anecdotally been used successfully as part of salvage therapies for  #@NEW_LINE#@#  
+                XDR patients, they have to be administered intravenously16,49.  #@NEW_LINE#@#  This  #@NEW_LINE#@#  
+                would not be a practical approach in under-resourced countries, where orally  #@NEW_LINE#@#  
+                delivered drugs are preferred.  #@NEW_LINE#@#  Recently, an EBA Phase II clinical trial has  #@NEW_LINE#@#  
+                validated the promising potential of a carbapenem combined with amoxicillin and  #@NEW_LINE#@#  
+                clavulanic acid for TB therapy28.  #@NEW_LINE#@#  This EBA study was able to detect  #@NEW_LINE#@#  
+                activity of intravenous meropenem but not an orally available alternative,  #@NEW_LINE#@#  
+                faropenem.  #@NEW_LINE#@#  Although faropenem has shown efficacy in combination with amoxicillin,  #@NEW_LINE#@#  
+                clavulanate, and probenicid using a murine model of tuberculosis50,  #@NEW_LINE#@#  
+                the lack of response in the EBA study could be due to the low levels of exposure and  #@NEW_LINE#@#  
+                limited time above the MIC concentration.  #@NEW_LINE#@#  This reflects its lower bioavailability  #@NEW_LINE#@#  
+                when administered as its sodium salt, the one readily available in the market.  #@NEW_LINE#@#  Other  #@NEW_LINE#@#  
+                beta-lactams should thus be explored for TB therapy.  #@NEW_LINE#@#  
+Among the beta-lactams, we identified the cephalosporins as the most promising group  #@NEW_LINE#@#  
+                of drugs synergistic with rifampicin (Table  #@NEW_LINE#@#  
+                    S2).  #@NEW_LINE#@#  The cephalosporins have traditionally received little attention for  #@NEW_LINE#@#  
+                TB treatment although they are orally available with good safety profiles, and very  #@NEW_LINE#@#  
+                few drug-drug interactions (none reported with rifampicin or ethambutol).  #@NEW_LINE#@#  
+                Interestingly, we found that while first-generation cephalosporins were highly  #@NEW_LINE#@#  
+                potent, later generations generally had less activity (Fig  #@NEW_LINE#@#  
+                1).  #@NEW_LINE#@#  This is contrary to previous studies with other bacteria where  #@NEW_LINE#@#  
+                third-generation cephalosporins were more active against Gram-negative bacilli  #@NEW_LINE#@#  
+                compared to first- or second-generation cephalosporins51.  #@NEW_LINE#@#  We thus  #@NEW_LINE#@#  
+                assembled a qualitative SAR defining specific rules for increased activity against  #@NEW_LINE#@#  
+                    Mtb (Fig 2); this information might allow design  #@NEW_LINE#@#  
+                of a Mtb-specific cephalosporin.  #@NEW_LINE#@#  Such a compound would limit the enrichment  #@NEW_LINE#@#  
+                of beta-lactam resistance genes in the gut microbiome.  #@NEW_LINE#@#  Increased specificity for  #@NEW_LINE#@#  
+                    Mtb would also serve to minimize gastro-intestinal side effects caused by  #@NEW_LINE#@#  
+                broad-spectrum beta-lactam antibiotics.  #@NEW_LINE#@#  This approach, although promising and worth  #@NEW_LINE#@#  
+                pursuing, would be independent of our fast-track repurposing vision of bringing new  #@NEW_LINE#@#  
+                drugs for TB treatment in the shortest period possible.  #@NEW_LINE#@#  
+The long treatment required to cure TB is, in part, rationalized by the need to  #@NEW_LINE#@#  
+                eradicate drug tolerant forms of Mtb that reside within host cells, thus  #@NEW_LINE#@#  
+                limiting antibiotic efficacy.  #@NEW_LINE#@#  Beta-lactams are known to be less effective against  #@NEW_LINE#@#  
+                intracellular pathogens due to their inability to penetrate host membranes52.  #@NEW_LINE#@#  Here we demonstrated that the intracellular activity of the  #@NEW_LINE#@#  
+                cephalosporins and faropenem could be enhanced in the presence of rifampicin, a  #@NEW_LINE#@#  
+                synergistic partner that makes the bacteria sensitive to lower levels of  #@NEW_LINE#@#  
+                intracellular beta-lactams (Fig 4A).  #@NEW_LINE#@#  
+The general concept that increases in Mtb permeability can determine  #@NEW_LINE#@#  
+                sensitivity to both beta-lactams and rifampicin25 led us to explore  #@NEW_LINE#@#  
+                the idea that synergy is mediated by shared effects on the cell envelope.  #@NEW_LINE#@#  In fact,  #@NEW_LINE#@#  
+                the presence of Tyloxapol in the media, a detergent routinely added to prevent cell  #@NEW_LINE#@#  
+                clumping by altering the outer envelope structure of mycobacteria, had major effects  #@NEW_LINE#@#  
+                on the activities of beta-lactams or rifampicin alone, while it had very little  #@NEW_LINE#@#  
+                effect on their levels of synergy (Fig 3).  #@NEW_LINE#@#  This suggested  #@NEW_LINE#@#  
+                that the drug permeability barriers affected by Tyloxapol are not those that  #@NEW_LINE#@#  
+                determine synergy.  #@NEW_LINE#@#  Consistent with this notion, the levels of intracellular  #@NEW_LINE#@#  
+                accumulation of rifampicin in cells pre-treated with a synergistic beta-lactam did  #@NEW_LINE#@#  
+                not fully explain the strong synergism of the combination; rates of rifampicin  #@NEW_LINE#@#  
+                uptake in the presence of beta-lactams were far lower than those of rifabutin, a  #@NEW_LINE#@#  
+                comparable antibiotic that is more lipophilic and more active against Mtb  #@NEW_LINE#@#  
+                    (Fig 5).  #@NEW_LINE#@#  The observation that synergy of rifabutin with  #@NEW_LINE#@#  
+                the beta-lactams was negligible compared to rifampicin supports the hypothesis that  #@NEW_LINE#@#  
+                rifabutin is able to enter the cell more rapidly, thereby bypassing the synergistic  #@NEW_LINE#@#  
+                toxicities that can be elicited by various beta-lactams.  #@NEW_LINE#@#  In the parental strain  #@NEW_LINE#@#  
+                H37Rv, rifampicins MIC was 8-fold higher than the MIC of rifabutin,  #@NEW_LINE#@#  
+                whereas in the rifampicin resistant mutant (Mtb H37Rv H526D)  #@NEW_LINE#@#  
+                rifampicins MIC was at least 64-fold higher than rifabutin (Fig 7).  #@NEW_LINE#@#  The higher efficacy of rifabutin relative to rifampicin  #@NEW_LINE#@#  
+                may reflect its increased accumulation (Fig 5); this might be  #@NEW_LINE#@#  
+                due to permeability or to the specificity of efflux systems for different  #@NEW_LINE#@#  
+                    rifamycins12.  #@NEW_LINE#@#  
+In addition to permeability changes mediating synergy, there are likely to be other  #@NEW_LINE#@#  
+                synergistic interactions for specific beta-lactams or rifamycins.  #@NEW_LINE#@#  For example, while  #@NEW_LINE#@#  
+                rifampicin and rifabutin bind within the same region of the RNAP, these two  #@NEW_LINE#@#  
+                rifamycins may have different effects on RNAP activity and gene expression.  #@NEW_LINE#@#  
+                Rifabutin binding to RNAP differs slightly from that of rifampicin53  #@NEW_LINE#@#  
+                and may elicit a different transcriptional response.  #@NEW_LINE#@#  Indeed minor changes within  #@NEW_LINE#@#  
+                this region of RNAP generated by rifampicin resistance mutations can induce  #@NEW_LINE#@#  
+                different metabolic responses54.  #@NEW_LINE#@#  These different effects elicited by  #@NEW_LINE#@#  
+                rifampicin or rifabutin are also reflected in their different synergies with  #@NEW_LINE#@#  
+                beta-lactams.  #@NEW_LINE#@#  Complex transcriptional perturbations and cell wall defects,  #@NEW_LINE#@#  
+                independently induced by these drugs, act together to inhibit essential bacterial  #@NEW_LINE#@#  
+                functions.  #@NEW_LINE#@#  Importantly, cephradine and faropenem also displayed synergy with a  #@NEW_LINE#@#  
+                variety of antibiotics including ethambutol, bedaquiline, delamanid, clofazimine,  #@NEW_LINE#@#  
+                thioridazine, and PA824 but not with isoniazid, ethionamide, SQ109, PAS,  #@NEW_LINE#@#  
+                aminoglycosides or fluoroquinolones (Fig 8).  #@NEW_LINE#@#  Although  #@NEW_LINE#@#  
+                elucidating the precise mode of action of these synergistic combinations is beyond  #@NEW_LINE#@#  
+                the scope of this work, understanding the molecular mechanisms behind them would  #@NEW_LINE#@#  
+                facilitate a rational design for combination therapies that include  #@NEW_LINE#@#  
+                beta-lactams.  #@NEW_LINE#@#  
+Dose response studies of rifampicin alone and in combination with beta-lactams under  #@NEW_LINE#@#  
+                both extracellular (7H9 broth) and intracellular (Mtb-infected THP1 cells)  #@NEW_LINE#@#  
+                growth conditions allowed us to identify the cephalosporins with the best potential  #@NEW_LINE#@#  
+                    (Fig 1, Table  #@NEW_LINE#@#  
+                    S3).  #@NEW_LINE#@#  We concluded that cephradine and cefadroxil were the most potent  #@NEW_LINE#@#  
+                cephalosporins, having strong synergistic activities with rifampicin.  #@NEW_LINE#@#  In addition,  #@NEW_LINE#@#  
+                they have the best pharmacological properties, including oral bioavailability.  #@NEW_LINE#@#  For  #@NEW_LINE#@#  
+                example, cefadroxil is commercialized under the brand name Duricef.  #@NEW_LINE#@#  A single  #@NEW_LINE#@#  
+                500mg oral dose of cefadroxil would reach plasma concentrations of ca.  #@NEW_LINE#@#  
+                16g/mL (Table  #@NEW_LINE#@#  
+                    S6), well above the synergistic MIC (Table S5).  #@NEW_LINE#@#  One concern about the clinical use of beta-lactams is their  #@NEW_LINE#@#  
+                limited exposure time due to their short pharmacokinetic half-life.  #@NEW_LINE#@#  Cefadroxil could  #@NEW_LINE#@#  
+                be clinically effective as a single drug and its efficacy could be further increased  #@NEW_LINE#@#  
+                in a synergistic combination.  #@NEW_LINE#@#  
+Beta-lactams (including cephalosporins) are generally more active against replicating  #@NEW_LINE#@#  
+                extracellular bacteria, the main bacterial pool found in TB patients that seek  #@NEW_LINE#@#  
+                initial clinical assistance55.  #@NEW_LINE#@#  The combination of cephalosporins with  #@NEW_LINE#@#  
+                rifampicin (and also ethambutol) was bactericidal and sterilizing against  #@NEW_LINE#@#  
+                extracellular bacteria growing in liquid cultures (Fig 6).  #@NEW_LINE#@#  
+                Clavulanate was also found to be a key synergistic partner for both rifampicin and  #@NEW_LINE#@#  
+                beta-lactams; this could potentially lead to re-introduction of rifampicin for MDR-  #@NEW_LINE#@#  
+                and XDR-TB therapy (Fig 7).  #@NEW_LINE#@#  For clinical use, clavulanate is  #@NEW_LINE#@#  
+                only available in combination with amoxicillin (Augmentin).  #@NEW_LINE#@#  Interestingly,  #@NEW_LINE#@#  
+                amoxicillin also displays synergy with some beta-lactams (Table S7), which could further potentiate their  #@NEW_LINE#@#  
+                activities.  #@NEW_LINE#@#  However, the length of cephalosporin/beta-lactam treatment should be  #@NEW_LINE#@#  
+                limited to the first weeks of therapy to avoid complications due to long exposure  #@NEW_LINE#@#  
+                and unspecific targeting of the patients microbiota.  #@NEW_LINE#@#  
+Our studies suggest that selected cephalosporins alone and in combination with  #@NEW_LINE#@#  
+                rifampicin (or ethambutol) should be pursued as potential TB therapies.  #@NEW_LINE#@#  We assembled  #@NEW_LINE#@#  
+                    in vitro data that lays the foundations for future development.  #@NEW_LINE#@#  Our  #@NEW_LINE#@#  
+                studies of cephalosporin activities using a small set of clinical isolates (4 drug  #@NEW_LINE#@#  
+                susceptible and 4 MDR) suggested a trend of slightly reduced susceptibility in the  #@NEW_LINE#@#  
+                MDR strains (Fig 1).  #@NEW_LINE#@#  Analyzing a larger set of clinical  #@NEW_LINE#@#  
+                    Mtb isolates from different geographical regions would be needed to  #@NEW_LINE#@#  
+                define actual MIC90 ranges of selected cephalosporins.  #@NEW_LINE#@#  The mouse model is  #@NEW_LINE#@#  
+                the standard in vivo system used for testing new potential anti-TB therapies.  #@NEW_LINE#@#  
+                However, this approach is of limited value for beta-lactams since their  #@NEW_LINE#@#  
+                pharmacokinetics and efficacy in mice do not predict those in humans.  #@NEW_LINE#@#  This reflects  #@NEW_LINE#@#  
+                the fact that mice express an enzyme that degrades beta lactams (renal  #@NEW_LINE#@#  
+                dehydropeptidase I, DPH-I) at levels that are several orders of magnitude higher  #@NEW_LINE#@#  
+                than in humans44,56.  #@NEW_LINE#@#  However, because beta-lactams are previously  #@NEW_LINE#@#  
+                approved drugs with established dosages and known safety profiles, these  #@NEW_LINE#@#  
+                combinations could be readily tested in the clinic.  #@NEW_LINE#@#  In fact, other beta-lactams  #@NEW_LINE#@#  
+                (meropenem and faropenem in combination with amoxicillin-clavulanate) are currently  #@NEW_LINE#@#  
+                being pursued as potential TB therapies28.  #@NEW_LINE#@#  We report that rifampicin  #@NEW_LINE#@#  
+                activity can be also increased in combination with single cephalosporins or multiple  #@NEW_LINE#@#  
+                beta-lactams, including clavulanate.  #@NEW_LINE#@#  Such triple synergies should be explored as  #@NEW_LINE#@#  
+                ways to optimize the activity of rifampicin, the cornerstone drug in TB therapy, for  #@NEW_LINE#@#  
+                treating drug sensitive and perhaps MDR and XDR-TB infections.  #@NEW_LINE#@#  TB drug development  #@NEW_LINE#@#  
+                is evolving towards completely new therapeutic combinations able to treat all forms  #@NEW_LINE#@#  
+                of the disease that would not depend on the resistance profile of the strain57.  #@NEW_LINE#@#  The activities of cephalosporins (as well as other beta-lactams)  #@NEW_LINE#@#  
+                alone and in synergy with other new anti-TB drugs such as bedaquiline, pretomanid  #@NEW_LINE#@#  
+                (PA-824), and delamanid, suggest additional combinations that might reduce treatment  #@NEW_LINE#@#  
+                time for standard and MDR therapies.  #@NEW_LINE#@#  
+
+
+

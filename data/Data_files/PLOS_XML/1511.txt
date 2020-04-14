@@ -1,0 +1,234 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002331"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Years of life lost due to traumatic brain injury in Europe: A cross-sectional analysis of 16 countries  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Traumatic brain injuries (TBIs) are a major public health, medical, and societal challenge globally.  #@NEW_LINE#@#  They present a substantial burden to victims, their families, and the society as a whole.  #@NEW_LINE#@#  Although indicators such as incidence or death rates provide insight into the occurrence and outcome of TBIs in various populations, they fail to quantify the full extent of their public health and societal impact.  #@NEW_LINE#@#  Measures such as years of life lost (YLLs), which quantifies the number of years of life lost because the person dies prematurely due to a disease or injury, should be employed to better quantify the population impact.  #@NEW_LINE#@#  The aim of this study was to provide an in-depth analysis of the burden of deaths due to TBI by calculating TBI-specific YLLs in 16 European countries, analyzing their main causes and demographic patterns, using data extracted from death certificates under unified guidelines and collected in a standardized manner.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+A population-wide, cross-sectional epidemiological study was conducted in 16 European countries to estimate TBI YLLs for the year 2013.  #@NEW_LINE#@#  The data used for all analyses in this study were acquired from the statistical office of the European Union (Eurostat).  #@NEW_LINE#@#  A specifically tailored dataset of micro-level data was provided that listed the external cause of death (International Classification of Diseases10th Revision [ICD-10] codes V01Y98), the specific nature of injury (ICD-10 codes S00T98), the age at death, and sex for each death.  #@NEW_LINE#@#  Overall number of TBI YLLs, crude and age-standardized TBI YLL rates, and TBI YLLs per case were calculated stratified for country, sex, and age.  #@NEW_LINE#@#  Pooled analyses were performed in order to estimate summary age-standardized rates of TBI YLLs.  #@NEW_LINE#@#  In order to evaluate the relative importance of TBI in the context of all injuries, proportions of TBI YLLs out of overall injury YLLs were calculated.  #@NEW_LINE#@#  The total number of TBI YLLs was estimated by extrapolating the pooled crude rate of TBI YLLs in the 16 analyzed countries to the total population of the 28 member states of the EU (EU-28).  #@NEW_LINE#@#  We found that a total of 17,049 TBI deaths occurred in 2013 in the 16 analyzed countries.  #@NEW_LINE#@#  These translated into a total of 374,636 YLLs.  #@NEW_LINE#@#  The pooled age-standardized rate of YLLs per 100,000 people per year was 259.1 (95% CI: 205.8 to 312.3) overall, 427.5 (95% CI: 290.0 to 564.9) in males, and 105.4 (95% CI: 89.1 to 121.6) in females.  #@NEW_LINE#@#  Males contributed substantially more to TBI YLLs than females (282,870 YLLs, 76% of all TBI YLLs), which translated into a rate ratio of 3.24 (95% CI: 3.22 to 3.27).  #@NEW_LINE#@#  Each TBI death was on average associated with 24.3 (95% CI: 22.0 to 26.6) YLLs overall, 25.6 (95% CI: 23.4 to 27.8) in males and 20.9 (17.9 to 24.0) in females.  #@NEW_LINE#@#  Falls and traffic crashes were the most common external causes of TBI YLLs.  #@NEW_LINE#@#  TBI contributed on average 41% (44% in males and 34% in females) to overall injury YLLs.  #@NEW_LINE#@#  Extrapolating our findings, about 1.3 million YLLs were attributable to TBI in the EU-28 in 2013 overall, 1.1 million in males and 271,000 in females.  #@NEW_LINE#@#  This study is based on administratively collected data from 16 countries, and despite the efforts to harmonize them to the greatest possible extent, there may be differences in coding practices or reporting between countries.  #@NEW_LINE#@#  If present, these would be inherited into our findings without our ability to control for them.  #@NEW_LINE#@#  The extrapolation of the pooled rates from the 16 countries to the EU-28 should be interpreted with caution.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Our study showed that TBI-related deaths and YLLs have a substantial impact at the individual and population level in Europe and present an important societal and economic burden that must not be overlooked.  #@NEW_LINE#@#  We provide information valuable for policy-makers, enabling them to evaluate and plan preventive activities and resource allocation, and to formulate and implement strategic decisions.  #@NEW_LINE#@#  In addition, our results can serve as a basis for analyzing the overall burden of TBI in the population.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Majdan M, Plancikova D, Maas A, Polinder S, Feigin V, Theadom A, et al.  #@NEW_LINE#@#  (2017) Years of life lost due to traumatic brain injury in Europe: A cross-sectional analysis of 16 countries.  #@NEW_LINE#@#  PLoS Med 14(7):  #@NEW_LINE#@#  
+           e1002331.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002331  #@NEW_LINE#@#  
+Academic Editor: Martin Schreiber, Oregon Health and Science University, UNITED STATES  #@NEW_LINE#@#  
+Received: January 27, 2017; Accepted: May 19, 2017; Published:  July 11, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Majdan et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Researchers can apply for data access by contacting Eurostat at ESTAT-USER-SUPPORT@ec.europa.eu.  #@NEW_LINE#@#  
+Funding: This study was conducted within the project Collaborative European Neurotrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) supported by the European Union Seventh Framework Programme (FP7/20072013) under grant agreement number 602150.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  MM, AM, MR and AB received funding during the writing of this Article within the project Collaborative European Neurotrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI) supported by the European Union Seventh Framework Programme (FP7/20072013) under grant agreement number 602150.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          DALY,  #@NEW_LINE#@#  
+            disability-adjusted life year; EU-28,  #@NEW_LINE#@#  
+            28 member states of the European Union; ICD-10,  #@NEW_LINE#@#  
+            International Classification of Diseases10th Revision; TBI,  #@NEW_LINE#@#  
+            traumatic brain injury; YLD,  #@NEW_LINE#@#  
+            year lived with disability; YLL,  #@NEW_LINE#@#  
+            year of life lost  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Traumatic brain injuries (TBIs) are a major public health, medical, and societal challenge globally [14].  #@NEW_LINE#@#  In the European Union alone, an estimated 57,000 deaths and 1.5 million hospital admissions annually have been attributed to TBI.  #@NEW_LINE#@#  This translates to a pooled population mortality rate of 11.7 (95% CI: 9.9 to 13.6) and hospital admission rate of 287.2 (95% CI: 232.9 to 341.5) per 100,000 persons per year [5].  #@NEW_LINE#@#  The overall mortality in persons following TBI has been shown to be substantially higher than mortality in the general populationa pooled standardized mortality ratio of 2.18 (95% CI: 1.882.52) [6].  #@NEW_LINE#@#  Life expectancy after TBI has been estimated to range from less than 40% to over 85% of that of the general populationdepending on the severity of the injury and the level of impairment [7].  #@NEW_LINE#@#  Due to the long-term character of the disabilities after TBI and their unstable nature (e.g., deterioration of previously achieved levels of outcome occurs in about 1 of 3 patients within 10 years post-injury), TBI has been considered a chronic condition [8].  #@NEW_LINE#@#  Thus, the general burden of TBI to victims, their families, and the society as a whole is substantial and has been well documented.  #@NEW_LINE#@#  
+Recent epidemiological research suggests that the patterns of TBI are dynamic, that they are changing over time, and that they are dependent on the demographic structure of the population and the level of economic development [9].  #@NEW_LINE#@#  In emerging economies, intensive motorization that is not accompanied by adequate and enforced preventive measures has led to a substantial increase in TBIs related to traffic crashes [2,9].  #@NEW_LINE#@#  As life expectancy has increased in high-income countries, TBI from falls has become more prevalent [911].  #@NEW_LINE#@#  In order to cope with such variation, and to achieve any improvements in the levels of occurrence and outcomes of TBI, standardized, reproducible, regularly updated, and comparable epidemiological data are needed [5,12,13].  #@NEW_LINE#@#  Most published epidemiological studies on TBI have focused on using case fatality rates, population mortality, or incidence to describe the epidemiology of TBI [1416].  #@NEW_LINE#@#  
+Although these indicators provide insight into the occurrence and outcome of TBIs in various populations, they fail to quantify the full extent of their public health and societal impact.  #@NEW_LINE#@#  Summary measures of population health used in the Global Burden of Disease Study have been designed to capture mortality and morbidity impact, and to allow subsequent comparison of disease impact on public health across a range of illnesses and populations.  #@NEW_LINE#@#  Among these measures are years of life lost (YLLs), which quantifies the number of years of life lost because the person dies prematurely due to a disease or injury; years lived with disability (YLDs), which quantifies the healthy time lost by a person living with a disability caused by a disease or injury; and disability-adjusted life years (DALYs), a summary measure that is the sum of YLLs and YLDs [17].  #@NEW_LINE#@#  These indicators have recently been used to estimate the global burden of diseases and the overall burden of injuries [6]; howeverowing especially to the nonavailability of datastudies using them to describe TBI are scarce [12,18].  #@NEW_LINE#@#  
+The aim of this study was to provide an in-depth analysis of the burden of deaths due to TBI by calculating TBI-induced YLLs in 16 European countries in 2013, analyzing their main causes and demographic patterns, using data extracted from death certificates under unified guidelines and collected in a standardized manner.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Study_design_and_setting  #@NEW_LINE#@#  
+A population-wide, cross-sectional epidemiological study was conducted in 16 European countries (Austria, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Hungary, Ireland, Italy, Lithuania, Luxembourg, Romania, Serbia, Slovakia, Slovenia, and United Kingdom) in order to estimate TBI YLLs for the year 2013.  #@NEW_LINE#@#  The selection of countries was based on the availability of data.  #@NEW_LINE#@#  The year 2013 was chosen because it was the most recent year for which data were available.  #@NEW_LINE#@#  The availability of the data in other EU countries for this year was limited because, at the time of this study, not all European countries were submitting data on causes of injury-related deaths in the necessary format (e.g., giving both the external cause and nature of injury) and detail (e.g., giving data in sufficiently small age groups).  #@NEW_LINE#@#  Thus, the choice was made to use the 16 countries for which data were available, and to extrapolate the findings to the 28 member states of the European Union (EU-28), and this seemed justified under the circumstances.  #@NEW_LINE#@#  
+
+Data_sources  #@NEW_LINE#@#  
+The data used for all analyses in this study were acquired from the statistical office of the European Union (Eurostat).  #@NEW_LINE#@#  Eurostat routinely collects data from death certificates from the 28 EU member states, the former Yugoslav Republic of Macedonia, Albania, Iceland, Norway, Liechtenstein, and Switzerland and regularly publishes annual overviews of causes of deaths [19].  #@NEW_LINE#@#  For our study, a specifically tailored dataset of micro-level data was provided that, in detail of information, went beyond the regularly published reports.  #@NEW_LINE#@#  This dataset contained a record for each injury-related death that occurred in the included countries in 2013, where the external cause of death (International Classification of Diseases10th Revision [ICD-10] codes V01Y98), the specific nature of injury (ICD-10 codes S00T98, only 1 diagnosis provided for each record), the age at death, and sex were given.  #@NEW_LINE#@#  All data used in our analyses were collected at the country level and thenfollowing specific and unified guidelinessubmitted to Eurostat, which in turn provided them to us.  #@NEW_LINE#@#  The study used administratively collected secondary data, and no ethics committee approval was required.  #@NEW_LINE#@#  No ethics approval was required in order to obtain data from Eurostat.  #@NEW_LINE#@#  
+For the purpose of this study, a TBI-related death was defined as a death where the cause of death was a TBI or a TBI sequela, i.e., from the provided database, records in which the nature of injury was coded as ICD-10 S00S09 (injuries to the head) or T90 (sequelae of injuries to the head).  #@NEW_LINE#@#  
+
+Variable_definitions  #@NEW_LINE#@#  
+The European Union life table published by Eurostat was used to determine the life expectancy at death for each recorded death [20].  #@NEW_LINE#@#  The number of YLLs for each death was calculated by subtracting the age at death from the life expectancy at the age of death, and summarized using this formula:  #@NEW_LINE#@#  
+(1)  #@NEW_LINE#@#  
+where d1 is the number of fatal cases due to health outcome l in a certain period and el is the expected individual life span at the age of death due to health outcome l.  #@NEW_LINE#@#  
+YLLs were summarized into 6 age groups (04, 514, 1534, 3564, 6584, and 85 years) by summing the YLLs in persons in each age group.  #@NEW_LINE#@#  Crude rates of YLLs were calculated per 100,000 people per year using mid-year populations for each country in total and for the 6 age groups.  #@NEW_LINE#@#  For comparison purposes (in response to the suggestions of a peer reviewer), number of YLLs and crude TBI YLL rates per 100,000 persons per year are also presented broken down into 5-year age groups (S1 Appendix).  #@NEW_LINE#@#  In addition, age-standardized rates with 95% CIs were calculated in order to adjust for differences in the age structures of the compared populations (i.e., differences between the analyzed countries).  #@NEW_LINE#@#  To calculate age-standardized rates, the European standard population was used, which is a theoretical population with its age distribution based on actual age distributions in the populations of the European countries [21].  #@NEW_LINE#@#  A pooled estimate was calculated based on age-standardized rates.  #@NEW_LINE#@#  Further, average YLLs due to TBI per case were calculated with 95% CIs for each country and overall (mean YLLs per case calculated by dividing the sum of YLLs by the number of cases in the respective group or subgroup).  #@NEW_LINE#@#  
+In addition, both numbers of YLLs and YLL rates were stratified by sex, and external cause of injury.  #@NEW_LINE#@#  Differences between rates (by age group and sex) are presented as rate ratios with 95% CIs.  #@NEW_LINE#@#  
+In order to evaluate the relative importance of TBI in the context of all injuries, proportions of TBI YLLs out of overall injury YLLs were calculated.  #@NEW_LINE#@#  For this calculation, cases with unspecific codes (e.g., other and unspecified effects of external causes); deaths caused by exposure to heat, frost, or intoxication (T15T65); and cases with other generalized causes (T66T78; T80T88) were excluded.  #@NEW_LINE#@#  Deaths with these causes are either not directly comparable to deaths due to TBIbecause the circumstances or mechanisms leading to death are substantially different (e.g., traffic injury versus frostbite)or the true cause of death is actually unknown and inclusion could bias the calculated proportions by increasing the denominator.  #@NEW_LINE#@#  Thus, only the following codes were used in the denominator: injuries to the head (S00S09); injuries involving multiple body regions (T00T07); injuries to unspecified trunk, limb, or body region (T08T14); certain early complications of trauma (T79); and sequelae of injuries, of poisoning, and of other consequences of external causes (T90T98).  #@NEW_LINE#@#  In order to allow for comparisons, S1S3 Tables present these analyses with all injury-related deaths (no exclusions) used as the denominator.  #@NEW_LINE#@#  
+The total number of TBI YLLs in the EU was estimated by extrapolating the pooled crude rate of YLLs in the 16 analyzed countries to the EU-28 population count published by Eurostat [22].  #@NEW_LINE#@#  
+
+Statistical_methods  #@NEW_LINE#@#  
+Pooled analyses were performed in order to estimate summary age-standardized rates of YLLs.  #@NEW_LINE#@#  In order to model possible heterogeneity of rates in the different countries, the random effects model was applied [23] by the DerSimonian and Laird method, in line with previous studies [5,24].  #@NEW_LINE#@#  To assess the heterogeneity of the pooled estimations, I2 values with 95% confidence intervals were calculated.  #@NEW_LINE#@#  To make our findings as comparable as possible, in S4 Table we provide pooled rates calculated by applying the fixed effects model (in response to the suggestions of a peer reviewer).  #@NEW_LINE#@#  The original analysis plan for the study is reported in S1 Text.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Based on the data we obtained and the case ascertainment defined in this study, 17,049 TBI deaths were identified in the 16 analyzed countries in 2013, which translates to an age-standardized pooled rate of 11.3 (95% CI: 9.513.1) TBI deaths per 100,000 persons per year (Fig 1).  #@NEW_LINE#@#  Of these deaths, 11,944 (70%) were males.  #@NEW_LINE#@#  In males, the majority of deaths (8,595, 72%) occurred in persons 3584 years old, whereas in females most deaths occurred in persons 65 years old and older (3,703, 73%).  #@NEW_LINE#@#  Fig 2 shows a map with levels of TBI death rates in the analyzed countries.  #@NEW_LINE#@#  The highest TBI death rates overall and for males were observed in Lithuania, and for females in Austria (consult S5 and S6 Tables for details).  #@NEW_LINE#@#  The largest sex differences in age-standardized TBI death rates were in Estonia (male to female ratio of 5.8) and Bulgaria (ratio of 4.5), whereas the smallest such differences were in the United Kingdom (ratio of 1.7) and Italy (ratio of 2.1)consult S7 Table for details.  #@NEW_LINE#@#  
+St, standardized; CI, confidence interval; Cr, crude; TBI, traumatic brain injury.  #@NEW_LINE#@#  Meta-analysis heterogeneity: I2 = 100% (95% CI: 100% to 100%).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.g001  #@NEW_LINE#@#  
+TBI, traumatic brain injury.  #@NEW_LINE#@#  Grey areas were not included in this study.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.g002  #@NEW_LINE#@#  
+In order to present the overall magnitude of the problem in the analyzed countries, in Table 1 we present the overall numbers of TBI YLLs by country, age, and sex, along with the size of the population in each country.  #@NEW_LINE#@#  A total of 374,636 YLLs were attributed to TBI in the 16 analyzed countries in 2013.  #@NEW_LINE#@#  Of these, 282,870 (76%) were YLLs in the male population.  #@NEW_LINE#@#  The highest number of TBI YLLs for both sexes was observed in Italy (67,809 in males and 24,481 in females).  #@NEW_LINE#@#  For males, the lowest number of YLLs was in Luxembourg (1,031), and for females in Cyprus (212).  #@NEW_LINE#@#  Deaths occurring in the age group 1564 years old were the largest contributors to TBI YLLsthey caused 73% (274,409) of all TBI YLLs (this pattern was present in both sexes).  #@NEW_LINE#@#  The sums of the TBI YLLs in the countries are proportional to the population and are higher in more populated countries, where populations at risk are larger.  #@NEW_LINE#@#  In order to put the numbers of YLLs in context with the population and to compare them more validly, we present crude and age-standardized rates in Table 2.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.t001  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.t002  #@NEW_LINE#@#  
+Crude rates of TBI YLLs are presented for each age group, along with the overall crude rate and the age-standardized rate per 100,000 persons per yearby country and sex.  #@NEW_LINE#@#  The highest age-standardized rates overall and in males were found for Estonia (518.2 [95% CI: 506.1 to 530.6] and 917.0 [95% CI: 893.1 to 941.7], respectively), and in females for Lithuania (181.3 [95% CI: 174.8 to 188.0]).  #@NEW_LINE#@#  The geographical distribution of TBI YLLs is presented in Fig 3.  #@NEW_LINE#@#  In S8 Table, age differences in TBI YLLs are presented as rate ratios with 95% CIs.  #@NEW_LINE#@#  In both sexes, and overall, compared to the reference category (3564 years), the highest rates are in the age group 1534 years (rate ratios of 1.18 overall, 1.13 in males and 1.29 in females).  #@NEW_LINE#@#  While in males the rates in the age groups 6584 and 85 years are similar to that of the reference category (rate ratios of 1.0 and 0.93), in females the rates in the older groups are substantially higher (rate ratio of 1.92 for the age group 6584 years and 2.34 for the age group 85 years), confirming the shift of TBI to higher ages in the female population.  #@NEW_LINE#@#  
+TBI, traumatic brain injury; YLL, year of life lost.  #@NEW_LINE#@#  Grey areas were not included in this study.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.g003  #@NEW_LINE#@#  
+In the same manner, sex differences are presented as rate ratios by country in S9 Table.  #@NEW_LINE#@#  Overall, the male to female rate ratio was 3.24 (95% CI: 3.22 to 3.27), ranging from 2.29 (95% CI: 2.26 to 2.33) in the United Kingdom to 9.01 (95% CI: 7.83 to 10.41) in Cyprus.  #@NEW_LINE#@#  The pooled age-standardized TBI YLL rates for the 16 countries were 259.1 (95% CI: 205.8 to 312.3) per 100,000 persons per year overall, 427.5 (95% CI: 290.0 to 564.9) in males, and 105.4 (95% CI: 89.1 to 121.6) in females.  #@NEW_LINE#@#  
+Mean YLLs per TBI death was calculated in order to describe the burden presented by each death.  #@NEW_LINE#@#  Table 3 presents the findings for this measure in detail by country, age, and sex.  #@NEW_LINE#@#  On average, 1 TBI-related death translated into 24.3 (95% CI: 22.0 to 26.6) YLLs overall, 25.6 (95% CI: 23.4 to 27.8) YLLs in males, and 20.9 (95% CI: 17.9 to 24.0) YLLs in females.  #@NEW_LINE#@#  In general, per-case YLLs decreased with increasing age: from 79.3 YLLs/case in the age group 04 years to 3.4 in the age group 85 years and older, with corresponding values of 76.3 and 3.3 in males and 82.3 and 3.8 in females, respectively.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.t003  #@NEW_LINE#@#  
+Falls and traffic injuries were the most common causes of TBI YLLs across the 16 countriesas presented in Fig 4followed by suicide, violence, and other causes.  #@NEW_LINE#@#  After excluding deaths caused by natural forces, intoxication, and other generalized or unknown causes (see Methods), a total of 991,420 injury YLLs were identified overall, of which 714,757 (72%) were in males (S10 Table).  #@NEW_LINE#@#  These translated into pooled age-standardized rates of 627.9 (95% CI: 522.9 to 733.0) YLLs per 100,000 persons per year overall, 956.6 (95% CI: 782.6 to 1,130.6) in males and 318.9 (95% CI: 271.1 to 366.6) in females (S11 Table).  #@NEW_LINE#@#  
+The scaling of the sub-figures has been specifically adapted for each group of causes to better show the variation between the countries.  #@NEW_LINE#@#  AT, Austria; BG, Bulgaria; CY, Cyprus; DK, Denmark; EE, Estonia; HR, Croatia; HU, Hungary; IE, Ireland; IT, Italy; LT, Lithuania; LU, Luxembourg; RO, Romania; RS, Serbia; SI, Slovenia; SK, Slovakia; TBI, traumatic brain injury; UK, United Kingdom; YLL, year of life lost.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.g004  #@NEW_LINE#@#  
+TBI YLLs as a proportion of overall injury YLLs are presented in Fig 5 in order to indicate their relative importance (see S1 Fig for sex-specific data).  #@NEW_LINE#@#  After excluding deaths caused by natural forces, intoxication, and other generalized or unknown causes, TBIs contributed on average 41% (44% in males and 34% in females) of all injury YLLswith the highest contributions of TBI YLLs in both sexes in the age group 04 years (56% in males and 69% in females) (see S12 Table).  #@NEW_LINE#@#  For comparison purposes, TBI-related YLLs as a proportion of all injury YLLs are also presented without excluding deaths caused by natural forces, intoxication, and other generalized or unknown causes (see S13S15 Tables).  #@NEW_LINE#@#  
+Selected Injuries includes the following causes of death: injuries to the head (S00S09); injuries involving multiple body regions (T00T07); injuries to unspecified trunk, limb, or body region (T08T14); certain early complications of trauma (T79); and sequelae of injuries, of poisoning, and of other consequences of external causes (T90T98).  #@NEW_LINE#@#  For sex-specific data see S1 Fig AT, Austria; BG, Bulgaria; CY, Cyprus; DK, Denmark; EE, Estonia; HR, Croatia; HU, Hungary; IE, Ireland; IT, Italy; LT, Lithuania; LU, Luxembourg; RO, Romania; RS, Serbia; SI, Slovenia; SK, Slovakia; TBI, traumatic brain injury; UK, United Kingdom; YLL, year of life lost.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.g005  #@NEW_LINE#@#  
+In order to provide an estimation of TBI-related YLLs for the EU, the pooled crude rates from our study were extrapolated to the population of the 28 EU member states.  #@NEW_LINE#@#  These findings are presented in Table 4: based on our pooled rates, 1,319,496 (95% CI: 1,043,675 to 1,595,317) YLLs were attributable to TBI in the EU-28 in 2013 overall, with 1,058,962 (95% CI: 698,748 to 1,419,177) in males and 271,203 (95% CI: 227,211 to 315,196) in the female population.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002331.t004  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+Main_findings  #@NEW_LINE#@#  
+We conducted a large-scale, cross-sectional, population-based analysis of YLLs due to TBI in 16 European countries for the year 2013.  #@NEW_LINE#@#  We found that in the selected countries a total of 17,049 TBI-related deaths occurred in 2013.  #@NEW_LINE#@#  These translated into a total of 374,636 YLLs.  #@NEW_LINE#@#  The pooled age-standardized rates of YLLs per 100,000 were 259.1 (95% CI: 205.8 to 312.3) overall, 427.5 (95% CI: 290.0 to 564.9) in males, and 105.4 (95% CI: 89.1 to 121.6) in females.  #@NEW_LINE#@#  Males contributed more substantially to the overall numbers of YLLs than females (282,870 YLLs, 76% of all TBI YLLs), which translated into a rate ratio of 3.24 (95% CI: 3.22 to 3.27).  #@NEW_LINE#@#  Each TBI death was on average associated with 24.3 (95% CI: 22.0 to 26.6) YLLs overall, 25.6 (95% CI: 23.4 to 27.8) in males and 20.9 (17.9 to 24.0) in females.  #@NEW_LINE#@#  Falls and traffic injuries were the most common external causes of TBI.  #@NEW_LINE#@#  TBI contributed on average 41% (44% in males and 34% in females) to overall injury YLLs in the 16 countries.  #@NEW_LINE#@#  Extrapolating our findings, about 1.3 million YLLs were attributable to TBI in the EU-28 in 2013 overall, 1.1 million in males, and 270,000 in females.  #@NEW_LINE#@#  To our knowledge, this is the largest and most comprehensive analysis of TBI YLLs in Europe to date.  #@NEW_LINE#@#  
+
+Interpretation_and_generalizability  #@NEW_LINE#@#  
+For all our analyses, microdata on causes of death obtained from Eurostat were used.  #@NEW_LINE#@#  Eurostat collects data on causes of death from countries, which extract them from death certificates in accordance with EU Commission Regulation No 328/2011 on community statistics on public health and health and safety at work [25].  #@NEW_LINE#@#  This regulation defines the scope, provides definitions of variables and characteristics of the data, and aims to achieve the highest possible degree of harmonization and comparability of the information obtained from various countries [26].  #@NEW_LINE#@#  Thus, to the best of our knowledge, for our study we have used the most valid and comparable data that were availableas such, we believe that the information and comparisons presented in this paper are valid.  #@NEW_LINE#@#  However, the relatively large between-country differences in YLLs suggest that there still may be factors beyond true country variability affecting the size of this variation.  #@NEW_LINE#@#  In general, countries follow ICD-10 standards, making the data collection procedures on causes of death relatively homogenous; however, factors such as differences in interpretation and use of ICD-10 rules at the national level, nonapplication of WHO updates, and differences in reporting of deaths of residents abroad and deaths of nonresidents in the reporting country may hinder the general comparability of the data on causes of death [26], and thus the generalizability of our findings.  #@NEW_LINE#@#  
+Besides these systematic factors, country characteristics, such as age distribution and general economy level, may influence the numbers of reported TBI deaths.  #@NEW_LINE#@#  A recent study that evaluated TBI-related mortality in 25 European countries found that countries with higher gross domestic product tended to have higher TBI death rates.  #@NEW_LINE#@#  Furthermore, this study reports that the substantial between-country differences in TBI death rates could be driven by varying degrees of attributing death to multiple injuriescountries that reported relatively low numbers of TBI-related deaths at the same time reported relatively high numbers of death due to multiple injuries.  #@NEW_LINE#@#  Thus, a substantial number of TBI deaths may be in some countries hidden under multiple injury deaths [5].  #@NEW_LINE#@#  These factors may also have influenced the findings of this study, as both studies used data from the same source.  #@NEW_LINE#@#  In a similar manner, variations in use of garbage codes for cause of death (e.g., general causes such as unknown or other) may have an influence on the between-country variation observed in this study.  #@NEW_LINE#@#  
+Despite all these issues, by using data routinely collected by an official European authority, based on a specific EU regulation, for the same year, and using the same coding system for case ascertainment, our study overcame many limitations of other types of investigations (such as the heterogeneity of time, case ascertainment, and geographical coverage of studies included in systematic reviews of TBI epidemiology [1416])which supports the validity and generalizability of our findings.  #@NEW_LINE#@#  
+
+Comparison_to_other_studies  #@NEW_LINE#@#  
+To our knowledge, only 2 previous studies have specifically analyzed and reported TBI-related YLLs.  #@NEW_LINE#@#  A study from the Netherlands [18] reported 118,207 TBI-related YLLs annually for the period of 20102012.  #@NEW_LINE#@#  As data for the Netherlands was not made available by Eurostat for our study, we are not able to directly compare these findings to ours.  #@NEW_LINE#@#  However, by dividing the number of YLLs reported in the Dutch study by the mean total population of the Netherlands for 20102012 according to Eurostat (16,653,712) [22], we were able to obtain a crude YLL rate of 710 per 100,000 persons per year.  #@NEW_LINE#@#  This rate is higher than that of the highest ranking country in our comparison (Estonia, with a crude TBI-related YLL rate of 525.6).  #@NEW_LINE#@#  However, it is important to note that the number of deaths in the Dutch study was estimated using average case fatality rates, which further limits the comparability with our findings.  #@NEW_LINE#@#  
+Another study analyzed TBI-related YLLs in New Zealand [12] and reported a total of 14,386 TBI-related YLLs in 2010.  #@NEW_LINE#@#  Using this value and New Zealands 2010 population estimate of 4,353,000 [27] yields a crude rate of TBI-related YLLs of 330.5 per 100,000 persons per year.  #@NEW_LINE#@#  Such a rate is within the range of crude rates reported for the analyzed countries in our study and is similar to rates we found for Slovakia (319.4), Serbia (319.7), and Croatia (293.3).  #@NEW_LINE#@#  However, we note that this study used different methods for YLL estimation (e.g., different life table) and a different definition for TBI death, which hinders the general comparability of its findings to ours.  #@NEW_LINE#@#  
+An earlier study assessed the overall burden of injuries in 6 European countries [28].  #@NEW_LINE#@#  In both this study and ours, rates of overall injury-related YLLs are reported for Austria, Denmark, and Ireland, and thus can be compared.  #@NEW_LINE#@#  For Austria the previous study reported 1,710 YLLs per 100,000 persons per year; in our study, the crude rate was 1,078.  #@NEW_LINE#@#  For Denmark the rates were 1,550 versus 766, and for Ireland the rates were 1,530 versus 1,035.  #@NEW_LINE#@#  Thus, the rates found in our study are consistently lower, which may be caused by the relatively large time lag between the 2 studies (e.g., 1999 versus 2013).  #@NEW_LINE#@#  
+The pooled age-standardized all injury YLL rate in our study is lower than the global age-standardized YLL rate reported by the Global Burden of Disease Study 2013 [6]1,355.5 (95% CI: 1,083.8 to 1,627.1) in our study and 2,945 (95% uncertainty interval: 2,796 to 3,129) in the Global Burden of Disease Study 2013 injury study.  #@NEW_LINE#@#  This might be explained by the fact that the latter study reports a global estimate, and the observed difference may well reflect the patterns of injury deaths globally.  #@NEW_LINE#@#  On the other hand, the reported global rate falls within the range of age-standardized all injury YLL rates reported in the 16 analyzed countries in our study and is comparable to the rates found in Lithuania (3,554.2 [95% CI: 3,533.0 to 3,575.5]) and Estonia (2,339.1 [95% CI: 2,313.2 to 2,365.1]).  #@NEW_LINE#@#  
+
+Implications_for_policy-making_and_research  #@NEW_LINE#@#  
+In this study we performed to our knowledge the largest and most comprehensive analysis of TBI-related YLLs in Europe to date.  #@NEW_LINE#@#  Previous studies relied on analyzing and presenting death rates or case fatality rates in order to describe the magnitude of the burden of fatal TBI for the populations of countries [1416].  #@NEW_LINE#@#  Although important, such analyses do not put the problem of TBI deaths into the broader context of social and economic affairs of the respective countries.  #@NEW_LINE#@#  Our findings emphasize that with each death, large numbers of years of life are lost in the age groups of economically active people, which underlines the significant burden TBI imposes on the economy of countries and the serious impact on the life of families.  #@NEW_LINE#@#  We quantified the average number of YLLs due to TBI deaths per 100,000 persons and the average number of YLLs per TBI death in 16 countries, and provided these findings stratified by sex, age, and external cause of injury.  #@NEW_LINE#@#  We believe that this information could facilitate policy-makers in tailoring preventive action so that actions are targeted to the high-risk populations.  #@NEW_LINE#@#  Communicating the implications of TBI deaths using YLLs as a measure (rather than numbers of deaths) may help the general public to better grasp the magnitude of the problem, and could help to raise awareness about TBI as a major public health problem in general.  #@NEW_LINE#@#  
+Although YLLs provide a more comprehensive measure of the burden of TBI deaths on a population, they do not capture the burden imposed by nonfatal TBI.  #@NEW_LINE#@#  Our findings can serve as a basis for analysis of the overall burden of TBI using metrics such as DALYs.  #@NEW_LINE#@#  
+
+Limitations  #@NEW_LINE#@#  
+There are some limitations to this study that we would like to acknowledge.  #@NEW_LINE#@#  The differences in the calculated YLLs and all related variables inherit all possible bias and errors that were present in the raw data provided for us by Eurostat.  #@NEW_LINE#@#  We were not able to control these, or mitigate them in any way.  #@NEW_LINE#@#  All interpretations of our findings should be made with this in mind.  #@NEW_LINE#@#  The extrapolations to the population of the EU-28 are based on 16 countries, and it is possible that they are biasedthey should be considered an estimation only.  #@NEW_LINE#@#  The reason for analyzing data from 16 countries and extrapolating the results to the whole EU-28 instead of using data from all countries was that the data for the rest of the EU countries were not available in the necessary format or with sufficient detail (e.g., countries did not provide the ICD-10 codes for nature of injury along with the ICD-10 codes for external causes, or they provided data grouped into larger age groups).  #@NEW_LINE#@#  Although this limits the validity of our extrapolations, the approach seemed justified under the circumstances.  #@NEW_LINE#@#  In order to analyze the full population burden of TBI, nonfatal cases must also be taken into consideration using metrics such as YLDs or DALYs.  #@NEW_LINE#@#  In this paper we were not able to estimate these, due to the nonavailability of data.  #@NEW_LINE#@#  Future research should be oriented towards these analyses.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Our study showed that TBI-related deaths have a substantial impact at the individual and population level in Europe and present an important societal and economic burden that must not be overlooked.  #@NEW_LINE#@#  We provide information valuable for policy-makers, enabling them to evaluate and plan preventive activities and resource allocation, and to formulate and implement strategic decisions.  #@NEW_LINE#@#  In addition, our results can serve as a basis for analyzing the overall burden of TBI in the population.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Appendix_Numbers_of_TBI_YLLs_and_crude_TBI_YLL_rates_by_age_group_and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s001  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Fig_Age-standardized_injury_YLL_rates_in_16_European_countries_by_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s002  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_GATHER_Checklist_GATHER_checklist  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s003  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Table_Total_numbers_of_injury_YLLs_in_16_European_countries_in_2013_by_age_group_and_sex_(all_causes_of_death_included)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s004  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S2_Table_Crude_and_age-adjusted_injury_YLL_rates_in_16_European_countries_in_2013_by_age_group_and_sex_(all_causes_of_death_included)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s005  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S3_Table_Contribution_of_TBI_YLLs_to_injury_YLLs_in_16_European_countries_in_2013_by_age_group_and_sex_(all_causes_of_death_included)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s006  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S4_Table_Comparison_of_pooled_age-standardized_rates_of_TBI_YLLs_per_100_000_persons_in_16_European_countries_in_2013_calculated_using_the_random_effects_model_and_the_fixed_effects_model  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s007  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S5_Table_Numbers_of_TBI_deaths_in_16_European_countries_in_2013_by_age_group__country__and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s008  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S6_Table_Crude_and_age-standardized_TBI_death_rates_in_16_European_countries_in_2013_by_age_and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s009  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S7_Table_Male_to_female_rate_ratios_of_TBI_death_rates_in_16_European_countries_in_2013  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s010  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S8_Table_Rate_ratios_of_TBI_YLL_rates_per_100_000_persons_in_16_European_countries_in_2013_by_age_and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s011  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S9_Table_Male_to_female_rate_ratios_of_TBI_YLL_rates_in_2013_by_country  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s012  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S10_Table_Total_numbers_of_injury_YLLs_in_16_European_countries_in_2013_by_age_group_and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s013  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S11_Table_Crude_and_age-adjusted_injury_YLL_rates_in_16_European_countries_by_age_group_and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s014  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S12_Table_Contribution_of_TBI_YLLs_to_injury_YLLs_by_country__age_group__and_sex  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s015  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S13_Table_Total_numbers_of_injury_YLLs_in_16_European_countries_in_2013_by_age_group_and_sex_(all_causes_of_death_included)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s016  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S14_Table_Crude_and_age-adjusted_injury_YLL_rates_in_16_European_countries_in_2013_by_age_group_and_sex_(all_causes_of_death_included)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s017  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S15_Table_Contribution_of_TBI_YLLs_to_injury_YLLs_in_16_European_countries_in_2013_by_age_group_and_sex_(all_causes_of_death_included)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s018  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Text_Original_analysis_plan_of_the_study  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002331.s019  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: MM JH.  #@NEW_LINE#@#  
+Data curation: MM DP.  #@NEW_LINE#@#  
+Formal analysis: MM DP.  #@NEW_LINE#@#  
+Funding acquisition: AM AB.  #@NEW_LINE#@#  
+Investigation: MM DP.  #@NEW_LINE#@#  
+Methodology: MM JH SP AM MR AB VF AT.  #@NEW_LINE#@#  
+Project administration: AB AM.  #@NEW_LINE#@#  
+Visualization: MM DP.  #@NEW_LINE#@#  
+Writing  original draft: MM.  #@NEW_LINE#@#  
+Writing  review & editing: MM DP JH SP AM MR AB VF AT.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

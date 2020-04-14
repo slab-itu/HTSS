@@ -1,0 +1,65 @@
+article id="http://dx.doi.org/10.1371/journal.pntd.0006536"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Rapid, inexpensive, fingerstick, whole-blood, sensitive, specific, point-of-care test for anti-Toxoplasma antibodies  #@NEW_LINE#@#  
+
+Citation: Lykins J, Li X, Levigne P, Zhou Y, El Bissati K, Clouser F, et al.  #@NEW_LINE#@#  (2018) Rapid, inexpensive, fingerstick, whole-blood, sensitive, specific, point-of-care test for anti-Toxoplasma antibodies.  #@NEW_LINE#@#  PLoS Negl Trop Dis 12(8):  #@NEW_LINE#@#  
+           e0006536.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pntd.0006536  #@NEW_LINE#@#  
+Editor: Christine A. Petersen, University of Iowa, UNITED STATES  #@NEW_LINE#@#  
+Published:  August 16, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Lykins et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Funding: We gratefully acknowledge support of this work by the Thrasher Foundation (Award #- 13796) [RM, YM, JGM, DCI], NIH NIAID DMID R01 AI027530[RM] and The Mann Cornwell, Van Dusen, Morel, Goldberg, Rooney, Taub, Drago, Orlinsky families.  #@NEW_LINE#@#  The work in Morocco was also funded, in part, by the Fulbright US Scholar Program [KEB].  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  I have read the journals policy and the authors of this manuscript have the following competing interests: Dr. Rima McLeod worked on a literature review for Sanofi Pasteur.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Toxoplasmosis causes substantial morbidity and mortality on a global scale [1].  #@NEW_LINE#@#  This disease can be severe.  #@NEW_LINE#@#  Vertical transmission from mother to fetus occurs from primary acute infection during gestation.  #@NEW_LINE#@#  Congenital infection may result in chorioretinitis, hydrocephalus, epilepsy, and death [2].  #@NEW_LINE#@#  Serologic screening during gestation allows early antenatal detection and rapid treatment initiation, with economic and patient outcome benefits [35].  #@NEW_LINE#@#  However, conventional serologic screening can be cost prohibitive.  #@NEW_LINE#@#  Infrastructure, including electricity and equipment for sample processing, may be unavailable.  #@NEW_LINE#@#  Point-of-care (POC) tests detecting Toxoplasma gondii infection offer solutions, potentially addressing cost concerns and leading to better clinical outcomes through improved access to screening.  #@NEW_LINE#@#  Testing performance of a lateral flow immunochromatography-based Toxoplasma ICT IgGIgM test for combined detection of Toxoplasma-specific IgG and IgM has been previously described using serum samples from the National Collaborative Chicago-Based Congenital Toxoplasmosis Study (NCCCTS) and other cohorts [68].  #@NEW_LINE#@#  Herein, we test whether a comparably performing whole-bloodvariant test (designated BK) could perform with high sensitivity and specificity, obviating the need for venipuncture and sample processing infrastructure and making an efficient, low-cost POC test.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Volunteer_recruitment_and_obtaining_samples  #@NEW_LINE#@#  
+Samples were obtained from consenting United States individuals, including seropositive individuals affiliated with the NCCCTS [4,6] and obstetrical patients in Chicago, and obstetrical patients in Morocco (Table 1).  #@NEW_LINE#@#  Further details of participant characteristics and recruitment can be found in S1 Methods.  #@NEW_LINE#@#  No incentives were provided for participation.  #@NEW_LINE#@#  Each person of unknown serologic status underwent venipuncture, and status was confirmed either with ARCHITECT Toxo-IgG and IgM system in the Lyon, France Reference Laboratory (n = 95 persons), or for Moroccan patients with Platelia Toxo IgG and IgM system (n = 39).  #@NEW_LINE#@#  
+
+Fingerstick_protocol__whole_blood-POC_serum-variant_test_kit__and_comparison_to_serum-variant_test_kit  #@NEW_LINE#@#  
+Participants provided whole blood via fingerstick (S1 Movie).  #@NEW_LINE#@#  Participants fingers were compressed, suffusing the tip, and cleaned with an alcohol wipe.  #@NEW_LINE#@#  A standard lancet was used for fingerstick.  #@NEW_LINE#@#  Capillary tubes allowed collection of 30 L of blood, which was directly applied to the Toxoplasma ICT IgGIgMBK (LDBIO) test, followed by application of four drops of buffer, provided in the kit.  #@NEW_LINE#@#  Tests were interpreted at 2030 minutes by individuals performing tests and photographed for later interpretation by two individuals unaware of the subjects identity and serologic status.  #@NEW_LINE#@#  
+Earlier, we described 100% sensitivity and specificity of a pink-line, serum-variant of this POC test [6].  #@NEW_LINE#@#  Given its high performance, we compared the results of whole-blood black-line POC tests and serum-variant testing performed concurrently for 78 persons.  #@NEW_LINE#@#  
+
+Ethics  #@NEW_LINE#@#  
+All participants provided written, informed consent.  #@NEW_LINE#@#  This study was performed in accordance with the rules and regulations of the University of Chicago Institutional Review Board (protocol #8793) and/or IRB approval in Morocco.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Obtaining_samples  #@NEW_LINE#@#  
+A total of 205 persons (Fig 1A, Table 2) (244 samples) had their serologic status for T. gondii assessed using the whole blood-variant test and confirmed using their NCCCTS records (n = 71), or concurrent standard laboratory testing (n = 134).  #@NEW_LINE#@#  Nineteen seronegative pregnant women had fingerstick and venipuncture performed each month for the first three months and three more for the first month (two with pregnancy loss) in an ongoing pilot gestational screening program, adding 41 samples to make 244 total samples.  #@NEW_LINE#@#  Overall, 101 samples proved seropositive, including five from acutely infected individuals who had IgM/IgG antibodies against T. gondii, while 143 were seronegative.  #@NEW_LINE#@#  Seropositive is defined here as having detectable anti-Toxoplasma IgG and/or IgM.  #@NEW_LINE#@#  For a small subset of pediatric patients (n = 7, ages three weeks to seven years) who were undergoing venipuncture as part of routine clinical care, whole blood was obtained from the needle tip to avoid a second, potentially distressing fingerstick.  #@NEW_LINE#@#  
+
+Sensitivity_and_specificity_of_whole_blood_serum_variant_and_comparability_to_serum-variant_Toxoplasma_ICT_IgGIgM_POC_test  #@NEW_LINE#@#  
+The whole-blood test proved highly sensitive and specific, with a sensitivity of 100% (95% confidence interval [CI]: 96.41%100%) and specificity of 100% (95% CI: 97.45%100%) (Table 3).  #@NEW_LINE#@#  Whole-blood, serum-variant, and reference testing demonstrated 100% concordance.  #@NEW_LINE#@#  Of note, individuals with lower levels of anti-Toxoplasma antibodies infected at remote times and with lower titers were positive in the POC test in the range detected by gold-standard tests (S1 Table).  #@NEW_LINE#@#  
+
+Feasibility_of_fingerstick_as_testing_modality  #@NEW_LINE#@#  
+No participant refused a second fingerstick, although they were informed they could.  #@NEW_LINE#@#  Participants did not report significant discomfort associated with fingerstick.  #@NEW_LINE#@#  Patients and providers enthusiastically accepted the monthly gestational screening program.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Point-of-care testing for Toxoplasma infection has the potential to markedly change clinical approach to this infection by detecting seroconversion using small volumes of whole bloodobviating venipuncture and expensive equipment for serum separationand performing with high sensitivity and specificity.  #@NEW_LINE#@#  Advantages and disadvantages are discussed in Box 1.  #@NEW_LINE#@#  
+While the cost effectiveness of gestational screening and antenatal treatment in the US is demonstrated for a wide range of parameters [3], it was suggested that screening could not be financially viable in the US [9].  #@NEW_LINE#@#  Nevertheless, there is robust evidence demonstrating cost effectiveness in other countries [10].  #@NEW_LINE#@#  Adoption of this POC test would substantially reduce costs further and require significantly less infrastructure than conventional testing.  #@NEW_LINE#@#  Value also arises from bringing pregnant women into care, ensuring screening for other preventable and treatable conditions, particularly in developing countries [6].  #@NEW_LINE#@#  This POC test cannot distinguish seropositivity for IgG and IgM and, therefore, cannot distinguish acute from chronic infection.  #@NEW_LINE#@#  A positive POC test prior to 12 weeks of gestation requires further confirmatory testing.  #@NEW_LINE#@#  Confirmatory testing and guidance concerning additional testing and treatment will benefit patients and their physicians.  #@NEW_LINE#@#  In countries with high seroprevalence, this benefit would be particularly important.  #@NEW_LINE#@#  This POC test demonstrated superb diagnostic performance in countries in the developed and developing world, with genetically distinct patients and parasites.  #@NEW_LINE#@#  The serum-variant test also has exceptional ability to identify samples in which both Toxoplasma-specific IgG and IgM, or IgG or IgM alone, are present.  #@NEW_LINE#@#  It does not identify natural IgM antibodies, which are false positives [8].  #@NEW_LINE#@#  For initial testing before 12 weeks gestation, optimal testing would accurately test for IgM and IgG separately, allowing rapid distinction between recently acquired and chronic infection.  #@NEW_LINE#@#  Initial, inexpensive tests multiplexed for multiple congenital infections could further improve prenatal screening.  #@NEW_LINE#@#  Ultimately, it is accurate, well-validated POC testing, rather than a specific companys test, that can reduce morbidity and mortality from congenital toxoplasmosis and most benefit patients and their families.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Methods_Detailed_description_of_participant_characteristics_and_recruitment  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0006536.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Table_  #@NEW_LINE#@#  
+Serologic results for all included participants in the United States (A) and Morocco (B).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0006536.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Movie_Fingerstick_protocol_with_details_of_test_performance  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pntd.0006536.s003  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We gratefully acknowledge help in initiation of this work by the Mann Cornwell, Van Dusen, Morel, Tirado, Samuel, Musillami, Lozano, Hinojosa, Montano-Huerta, Banner-Goldberg, Goldberg, Uscarga, Hughes, Prickett, Nissim-Sabat, Fisher, Azaizeh, Quinn, Rooney, Taub, Drago, Orlinsky, and Ajanaku families and medical, graduate, and undergraduate students at the University of Chicago and many others who donated their time and cooperation in this study.  #@NEW_LINE#@#  We also express sincere gratitude to the pregnant women who participate in our ongoing pilot study of gestational screening at the University of Chicago.  #@NEW_LINE#@#  We thank I. Romero, M.D., M.S., for her assistance.  #@NEW_LINE#@#  We gratefully acknowledge the National Institute of Health in Morocco.  #@NEW_LINE#@#  We also gratefully acknowledge the NCCCTS physicians, coordinators and nurse case manager's assistance, especially Kenneth Boyer M.D., Shawn Withers RN, Mari Sautter, A.G. Noble M.D., PhD, Charles N. Swisher MD, Peter Rabiah M.D., and Peter Heydemann M.D.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

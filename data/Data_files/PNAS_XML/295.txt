@@ -1,0 +1,25 @@
+article id="http://dx.doi.org/10.1073/pnas.1604908113"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Effect of physician disclosure of specialty bias on patient trust and treatment choice  #@NEW_LINE#@#  
+
+Significance  #@NEW_LINE#@#  
+Disclosure policies, intended to protect consumers, are a popular solution across a range of industries such as health care, financial investments, mortgages, and other services in which professional advisors may suffer from potential bias from misaligned incentives.  #@NEW_LINE#@#  Using field data (recorded transcripts of surgeonpatient consultations) and a randomized controlled laboratory experiment, we examine and find that disclosures of specialty bias increase patients trust and their likelihood of choosing a treatment in accordance with the physicians specialty.  #@NEW_LINE#@#  Professionals and policy makers should be aware of the implications on advisee trust and choice when advocating for the disclosure of advisor bias.  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+This paper explores the impact of disclosures of bias on advisees.  #@NEW_LINE#@#  Disclosureinforming advisees of a potential biasis a popular solution for managing conflicts of interest.  #@NEW_LINE#@#  Prior research has focused almost exclusively on disclosures of financial conflicts of interest but little is known about how disclosures of other types of biases could impact advisees.  #@NEW_LINE#@#  In medicine, for example, physicians often recommend the treatment they specialize in; e.g., surgeons are more likely to recommend surgery than nonsurgeons.  #@NEW_LINE#@#  In recognition of this bias, some physicians inform patients about their specialty bias when other similarly effective treatment options exist.  #@NEW_LINE#@#  Using field data (recorded transcripts of surgeonpatient consultations) from Veteran Affairs hospitals and a randomized controlled laboratory experiment, we examine and find that disclosures of specialty bias increase patients trust and their likelihood of choosing a treatment in accordance with the physicians specialty.  #@NEW_LINE#@#  Physicians in the field also increased the strength of their recommendation to have the specialty treatment when they disclosed their bias or discussed the opportunity for the patient to seek a consultation with a physician from another specialty.  #@NEW_LINE#@#  These findings have important implications for handling advisor bias, shared advisoradvisee decision-making, and disclosure policies.  #@NEW_LINE#@#  
+
+Percentage of men choosing surgery in the observational setting (Upper) and randomized experiment (Lower).  #@NEW_LINE#@#  
+Regression results of the likelihood to have surgery, observational study  #@NEW_LINE#@#  
+Mediation model of trust in expertise.  #@NEW_LINE#@#  Nonstandardized regression coefficients are shown: a refers to effect of the independent variable (IV; disclosure of bias) on the mediator (trust in expertise), b refers to the effect of the mediator on the dependent variable (DV; choosing surgery) when controlling for IV, c refers to the effect of the IV on the DV, and c refers to the effect of the IV on the DV when controlling for the mediator.  #@NEW_LINE#@#  Using Hayes PROCESS Model 4 for mediation with 5,000 bootstrap samples (29, 30), the 95% bias-corrected CIs for the size of the indirect effect for trust in the surgeons expertise (0.10) excluded zero [0.01, 0.22], providing evidence that the patients trust in the surgeons expertise explained (mediated) the relationship between the surgeons self-disclosure of a specialty bias and the patients decision to choose surgery.  #@NEW_LINE#@#  
+Materials_and_Methods  #@NEW_LINE#@#  
+Observational_Study  #@NEW_LINE#@#  
+
+Randomized_Experiment  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The observational study was funded by an Investigator-Initiated Research (IIR) Award Merit Award from the US Department of Veterans Affairs (IIR 05-283) (to A.F.).  #@NEW_LINE#@#  The experiment was funded by Georgetown University departmental funds (to S.S.).  #@NEW_LINE#@#  
+
+Footnotes  #@NEW_LINE#@#  
+
+

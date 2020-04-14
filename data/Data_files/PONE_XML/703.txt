@@ -1,0 +1,248 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0187798"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Aerodynamics of a highly irregular body at transonic speedsAnalysis of STRATOS flight data  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+In this paper, we analyze the trajectory and body attitude data of Felix Baumgartners supersonic free fall through the atmosphere on October 14, 2012.  #@NEW_LINE#@#  As one of us (UW) was scientific advisor to the Red Bull Stratos team, the analysis is based on true body data (body mass, wetted pressure suit surface area) and actual atmospheric data from weather balloon measurements.  #@NEW_LINE#@#  We also present a fully developed theoretical analysis and solution of atmospheric free fall.  #@NEW_LINE#@#  By matching the flight data against this solution, we are able to derive and track the drag coefficient CD from the subsonic to the transonic and supersonic regime, and back again.  #@NEW_LINE#@#  Although the subsonic drag coefficient is the expected CD = 0.60 ± 0.05, surprisingly the transonic compressibility drag coefficient is only 19% of the expected value.  #@NEW_LINE#@#  We provide a plausible explanation for this unexpected result.  #@NEW_LINE#@#  
+
+I_Introduction  #@NEW_LINE#@#  
+On October 14, 2012, and as part of the Red Bull Stratos Mission [1], Felix Baumgartner performed a record-breaking supersonic free fall from the stratosphere.  #@NEW_LINE#@#  Other than from earlier jumps, namely by Joe Kittinger in 1960 [2] and a supersonic jump by Alan Eustace on October 24, 2014 [3], only for Felix extensive flight data are available.  #@NEW_LINE#@#  It is the objective of this paper to understand the physics of the free fall, in particular the aerodynamic behavior in the transonic regime.  #@NEW_LINE#@#  
+The first analysis of a high-altitude free fall dates back to 1996, when Mohazzabi and Shea [4] were able to analytically solve the equation of motion for v(h) by power series including the atmospheric friction term and a standard barometric law.  #@NEW_LINE#@#  From a linear approximation of an implicit solution they were able to roughly analyze Kittingers jump confirming his key achievements.  #@NEW_LINE#@#  However, owing to the linear approximations made, the result becomes less reliable for jumps with extensive free fall segments as with Felix Baumgartners and Alan Eustaces jumps.  #@NEW_LINE#@#  In addition, the power series approximation works only with a strict barometric law and a constant aerodynamic friction term.  #@NEW_LINE#@#  
+In 2010 Benacka [5] revised Mohazzabis high-altitude free fall analysis by taking into account a linear temperature gradient as about actual in the troposphere.  #@NEW_LINE#@#  For a drag coefficient that does not depend on the Mach number he was able to solve the equation of motion analytically by power series, again for v(h).  #@NEW_LINE#@#  Later in 2011 Vadim et al.  #@NEW_LINE#@#  [6] and 2014 Rygalov [7] published two papers.  #@NEW_LINE#@#  The earlier deals with the theoretical analysis of the maximal drag deceleration in free fall and the corresponding altitude, whereas the latter shows that an emergency egress at an altitude around 100 km can be survived and it provides a relation between the initial altitude and the altitude of the transonic transition.  #@NEW_LINE#@#  His analysis is based on a drag coefficient independent on the Mach number and on a temperature-independent barometric law.  #@NEW_LINE#@#  
+J. M Colino and A. J Barbero in 2013 [8] published a course quantitative data analysis based on a spreadsheet and intended as an introductory physics course of Felix free fall.  #@NEW_LINE#@#  Although they use a similar approach as described in our paper, they do not have precise data and use only a standard atmosphere model to derive v(h) and v(t).  #@NEW_LINE#@#  Therefore they were not able to extract the key aerodynamic parameter, the drag coefficient CD, from the computed product CDA, with A being the wetted surface area.  #@NEW_LINE#@#  
+Since the insight into the physics of the supersonic jump is gained only through a well-defined drag coefficient CD, a full-fledged numerical investigation with exact data is needed, which is the objective of this paper.  #@NEW_LINE#@#  
+
+II_Theoretical_analysis  #@NEW_LINE#@#  
+Let h be the altitude of the skydiver above ground.  #@NEW_LINE#@#  We define the downwards velocity v to be positive, i.e.  #@NEW_LINE#@#  dh = vdt.  #@NEW_LINE#@#  Then the equation of motion of a body with mass m subject to gravitational and aerodynamic forces is known to be  #@NEW_LINE#@#  
+(1)  #@NEW_LINE#@#  
+where CD is the aerodynamic drag coefficient, including the pressure drag, skin friction drag and interference drag.  #@NEW_LINE#@#  The coefficient quite generally depends on the type of flow (laminar or turbulent) and hence on the Mach number Ma and Reynolds number Re.  #@NEW_LINE#@#  We can safely neglect a Knudsen number dependency because at stratospheric altitudes we are in the continuum flow regime.  #@NEW_LINE#@#  The quantity  is the atmospheric density depending on altitude and temperature T. A is the aerodynamically wetted pressure suit area depending on the angle of attack  as defined later.  #@NEW_LINE#@#  We assume g to be the gravity of Earth and not Earths gravitational acceleration.  #@NEW_LINE#@#  This is because Earths gravity results jointly from Earths gravitational force plus the centrifugal force due to the rotation of the Earth and therefore is dependent on the altitude h and geographical latitude .  #@NEW_LINE#@#  Because of Earths atmosphere up to roughly 100 km altitude on average co-rotates with Earths surface, we have to take centrifugal forces into account.  #@NEW_LINE#@#  
+We first define the instantaneous terminal velocity  #@NEW_LINE#@#  
+(2)  #@NEW_LINE#@#  
+With this the acceleration from Eq (1) can be written as  #@NEW_LINE#@#  
+(3)  #@NEW_LINE#@#  
+If vt would be independent of altitude and velocity, the acceleration would cease at v = vt.  #@NEW_LINE#@#  So, vt is the terminal velocity at instantaneous flight conditions.  #@NEW_LINE#@#  
+Analytical_solutions_for_vt_=_const  #@NEW_LINE#@#  
+Let v0 = v(t0 = 0) and h0 = h(t0 = 0).  #@NEW_LINE#@#  If vt is considered constant, then Eq (3) can be integrated directly  #@NEW_LINE#@#  
+
+We finally get  #@NEW_LINE#@#  
+
+or equivalently  #@NEW_LINE#@#  
+(4)  #@NEW_LINE#@#  
+We rewrite this equation as  #@NEW_LINE#@#  
+
+By taking v = dh/dt into account this equation can directly be integrated to deliver under the initial precondition  #@NEW_LINE#@#  
+(5)  #@NEW_LINE#@#  
+For a small initial time interval, gt  vt, we derive after some lengthy approximation  #@NEW_LINE#@#  
+
+This simplifies for an initial zero speed v0 = 0 to the convenient expression  #@NEW_LINE#@#  
+
+and  #@NEW_LINE#@#  
+
+By the same token we now derive v(h).  #@NEW_LINE#@#  We first substitute  #@NEW_LINE#@#  
+
+In the equation of motion (3).  #@NEW_LINE#@#  We hence get  #@NEW_LINE#@#  
+
+and  #@NEW_LINE#@#  
+
+and finally  #@NEW_LINE#@#  
+(6)  #@NEW_LINE#@#  
+Eq (6) is a result of Mohazzabi and Shea [4] with generalized initial conditions.  #@NEW_LINE#@#  
+
+Analytical_solution_for_vt__const  #@NEW_LINE#@#  
+Yet, in reality vt is not constant.  #@NEW_LINE#@#  In particular, and according to the barometric formula  #@NEW_LINE#@#  
+
+the atmospheric density decreases drastically with altitude and also somewhat with air temperature via the scale height  #@NEW_LINE#@#  
+
+where Rs = 286.91 J kg1K1 is the specific gas constant of standard atmosphere and g0 = 9.798 m s2.  #@NEW_LINE#@#  With this we rewrite the equation of motion Eq (3) as  #@NEW_LINE#@#  
+(7)  #@NEW_LINE#@#  
+where  #@NEW_LINE#@#  
+(8)  #@NEW_LINE#@#  
+We note for later purposes that in free fall air drag always counteracts gravitational force and hence  #@NEW_LINE#@#  
+(9)  #@NEW_LINE#@#  
+Eq (7) can no longer be integrated fully analytically.  #@NEW_LINE#@#  However, for flight data analysis we only need to consider the change in velocity v for small time intervals t. In this case the analytical solution is given by the Taylor series  #@NEW_LINE#@#  
+
+By Eq (7) we have not only , but with the approximation h = h0  v0t we derive additionally  #@NEW_LINE#@#  
+
+So, with definitions t0 = 0, v(t0) = v0 we obtain  and , which inserted into the Taylor series delivers  #@NEW_LINE#@#  
+(10)  #@NEW_LINE#@#  
+
+Extraction_of_aerodynamic_parameters_from_flight_data  #@NEW_LINE#@#  
+To derive aerodynamic parameters from flight data, we have to define a small-time interval t, then read from the fight data the measured change in velocity v in that interval, and with this finally solve Eq (10) for  to derive CDA from  via Eq (8).  #@NEW_LINE#@#  Because the t2-term is much smaller than the t-term, the Banach fixed-point theorem applies and we can solve Eq (10) for  iteratively by contraction mapping.  #@NEW_LINE#@#  So, in a first step we set the t2-term to zero and find as a first approximation  #@NEW_LINE#@#  
+
+The latter follows from Eq (9).  #@NEW_LINE#@#  This is the trivial finding that attributes any deviation of constant acceleration from g to atmospheric drag.  #@NEW_LINE#@#  For a second-order approximation, we insert this result into the t2-term of Eq (10), which yields  #@NEW_LINE#@#  
+
+Again, solving for  delivers  #@NEW_LINE#@#  
+(11)  #@NEW_LINE#@#  
+This is the second order solution of Eq (9) for a given t and a measured v. Analysis of the above derivation reveals that the v/v0-term in square brackets accounts any variation of acceleration to an adjustment of the aerodynamic parameter vt0 from its trivial determination as given in the round brackets, and the v0t/(2H)-term, which accounts for air density increase in the interval, makes an exception from this.  #@NEW_LINE#@#  We insert this advanced solution into Eq (8), and with the notation that the index 0 indicates values at the beginning of a time interval, we finally derive CDA for any small time interval  #@NEW_LINE#@#  
+(12)  #@NEW_LINE#@#  
+with  #@NEW_LINE#@#  
+
+
+Transonic_regime  #@NEW_LINE#@#  
+The objective of our work is to understand the aerodynamic behavior of a human body with pressure suit in the transonic regime by deriving the drag coefficient CD with Stratos flight data from Eq (12).  #@NEW_LINE#@#  The transonic regime is the velocity range around the speed of sound a or Mach number Ma = 1 with  #@NEW_LINE#@#  
+(13)  #@NEW_LINE#@#  
+Here air = 1.403 is the adiabatic index and Rs = 286.91 J K1kg1 is the specific gas constant of the standard atmosphere.  #@NEW_LINE#@#  Since Ma is temperature dependent (but not density-dependent as one might assume intuitively) an atmospheric temperature profile T(h) is essential to determine the correct Mach number.  #@NEW_LINE#@#  
+
+
+III_Data_analysis_procedure  #@NEW_LINE#@#  
+For deriving the drag coefficient CD from Eq (12) we need to have the following data  #@NEW_LINE#@#  
+Flight_trajectory_data  #@NEW_LINE#@#  
+Felix jumped from the capsule at an altitude of 38969.4 m. At 50.0 s into flight and at an altitude of 28833 m he obtained his maximum vertical velocity of 377.1 ms1 equaling Mach 1.25.  #@NEW_LINE#@#  His free fall lasted down to an altitude of 2566.8 m where he pulled the drag chute.  #@NEW_LINE#@#  The detailed flight trajectory data v(t) and h(t) were extracted from the graphical plots as given in the Summary Report of the Red Bull Stratos Team [9] by digitalization (see Fig 1).  #@NEW_LINE#@#  Velocity and time were measured by an on-body GPS system.  #@NEW_LINE#@#  
+The gray area on the left indicates that for t less_than 17 s, owing to insignificant drag, no drag coefficient can be derived.  #@NEW_LINE#@#  The gray area on the right indicates times when Felix experienced a dangerous flat spin at a reduced AOA.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g001  #@NEW_LINE#@#  
+Atmospheric_data  #@NEW_LINE#@#  
+On October 12, at 4h 51min GMT, a radiosonde was launched from the airfield measuring the profile data p(h), T(h), wind direction, and wind speed.  #@NEW_LINE#@#  Based on this measurement a FIM forecast for flight day October 14 was generated.  #@NEW_LINE#@#  From this and with the ideal gas law, the atmospheric density profile was derived as  #@NEW_LINE#@#  
+(14)  #@NEW_LINE#@#  
+with Rs = 286.91 J K1kg1.  #@NEW_LINE#@#  Both profiles, (h) and T(h), are depictured in Fig 1 with errors of about 0.1%.  #@NEW_LINE#@#  
+
+
+Flight_attitude_data_and_wetted_area  #@NEW_LINE#@#  
+The angle of attack (AOA), (t), is defined (see Fig 2) such that  = 0 is a regular belly down attitude for skydivers.  #@NEW_LINE#@#  We derived (t) (depicted in Fig 1) from the full story video published by GoPro [1].  #@NEW_LINE#@#  The error of the AOA such determined is estimated to be 1520%.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g002  #@NEW_LINE#@#  
+The wetted pressure suit surface area is determined from the AOA and roll angle  (angle around the body z-axis) quite generally as  #@NEW_LINE#@#  
+
+Because Felix attitude after 17 seconds of free fall did not show any significant roll, i.e.  #@NEW_LINE#@#  = 0, we have  #@NEW_LINE#@#  
+(15)  #@NEW_LINE#@#  
+This confirms the expected result that for a belly-down attitude A( = 0) = Ax.  #@NEW_LINE#@#  
+
+Pressure_suit_data  #@NEW_LINE#@#  
+In order to determine the pressure suit data, on September 17, 2012, during a test run, pictures of the pressurized suit were taken (see Fig 3) along the three body frame axes as defined in Fig 2, always together with a sheet of paper of size 17 × 11 = 0.1206 m2 for area reference.  #@NEW_LINE#@#  From these the following effective suit cross sections were derived  #@NEW_LINE#@#  
+(16)  #@NEW_LINE#@#  
+The ledge is of size 17x11 to determine its cross-section.  #@NEW_LINE#@#  (Credit: Art Thompson / Stratos team).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g003  #@NEW_LINE#@#  
+The total mass of Felix and the fully dress-up suit was determined to be  #@NEW_LINE#@#  
+(17)  #@NEW_LINE#@#  
+
+Gravity_of_earth  #@NEW_LINE#@#  
+For the gravity of Earth, we apply the WGS 84 ellipsoidal gravity formula in combination with a FAC altitude correction factor  #@NEW_LINE#@#  
+
+with altitude h and geographical latitude .  #@NEW_LINE#@#  For  = 33.39° at the jump site this reduces to  #@NEW_LINE#@#  
+(18)  #@NEW_LINE#@#  
+Hence, the altitude-dependent gravity introduces a relative g error of only 0.01%.  #@NEW_LINE#@#  
+
+Initial_interval_considerations  #@NEW_LINE#@#  
+Eq (12) is applicable to flight data only if in the equation  #@NEW_LINE#@#  
+
+the aerodynamic term is significantly larger than the velocity data error v, i.e.  #@NEW_LINE#@#  
+For our digitalization technique v  0.05  v and hence  #@NEW_LINE#@#  
+
+This is particularly important for the initial free fall segment, where v  t is extremely small.  #@NEW_LINE#@#  In this regime where t = t and v  g  t we get as the condition of the beginning t0 of the first relevant time interval  #@NEW_LINE#@#  
+
+With the given pressure suit data and assuming an initial CD = 0.65 and belly-down flight attitude, i.e.  #@NEW_LINE#@#  A = Ax, we get  #@NEW_LINE#@#  
+
+Assuming  and from the atmospheric density profile (h), we finally get for the first data analysis interval  #@NEW_LINE#@#  
+
+
+Sampling_interval_estimator  #@NEW_LINE#@#  
+Because the contribution of the drag term to the velocity is strongly varying over altitude and hence time, we need to adapt the sampling interval width.  #@NEW_LINE#@#  It needs to be chosen such that the drag deceleration v shall be minimum 3 times as much as the data imprecision equaling 1 m/s  #@NEW_LINE#@#  
+(19)  #@NEW_LINE#@#  
+We chose Eq (10) for interval estimation.  #@NEW_LINE#@#  For that we assume  as given and specify v = v. With this, and h  v0  t, and discarding at high drag the gravitational term we obtain  #@NEW_LINE#@#  
+
+In first-order approximation this yields  #@NEW_LINE#@#  
+
+In second-order approximation we have  #@NEW_LINE#@#  
+
+And hence for time interval estimation  #@NEW_LINE#@#  
+(20)  #@NEW_LINE#@#  
+with  given by Eq (8).  #@NEW_LINE#@#  If the time interval becomes so short that h less_than 200 m we set h = 200 m.  #@NEW_LINE#@#  
+
+
+IV_Results  #@NEW_LINE#@#  
+Analysis_methods  #@NEW_LINE#@#  
+To extract the aerodynamic parameter CDA from the data, we applied three different methods.  #@NEW_LINE#@#  
+Method A is straightforward in that starting with a measured initial vertical speed it solves the equation of motion (1) and CDA is adjusted such that the vertical speed at the end of each time interval fits the measured value.  #@NEW_LINE#@#  
+Method B makes use of the equation preceding Eq (6)  #@NEW_LINE#@#  
+
+For a given set of measured interval data h0,v0;h,v this equation is solved for vt by the trust-region method with dogleg step strategy.  #@NEW_LINE#@#  We recall that this method B assumes that vt and hence the atmospheric density  is constant over each interval.  #@NEW_LINE#@#  
+Method C makes use of Eq (12), which is explicit in CDA and in addition takes into account also linear variations of air density and scale height variations over each interval.  #@NEW_LINE#@#  
+Overall, the results of all three methods did not show any grave qualitative differences.  #@NEW_LINE#@#  However, because method A and method B featured some numerical instabilities in particular at high altitudes while method C was not only stable throughout the data range, but is also physically more elaborated, we discuss here only the results derived by method C. For a detailed comparison of the three methods see section Sensitivity AnalysisDifferent Methods below.  #@NEW_LINE#@#  
+Method C is based on the approximation vt = h  2H  14 km.  #@NEW_LINE#@#  A lower h-limit arises from increasing relative velocity gain errors with decreasing h. We hence settled at an interval width of h = 200 m. According to the above section Initial Interval Considerations, the first interval started at t0 = 17 s into flight corresponding to an altitude of h0 = 37 640 m. Thereafter we used for the time interval estimator, Eq (20), with v = 10 m/s down to hend = 13040 m.  #@NEW_LINE#@#  
+Fig 4 displays the resulting aerodynamic drag coefficient as a function of Mach number.  #@NEW_LINE#@#  We note that the absolute inaccuracy of the data is mainly driven by the inaccuracy of the area A(AOA).  #@NEW_LINE#@#  Therefore, we performed a sensitivity analysis described in Section V.  #@NEW_LINE#@#  
+Red circles for increasing and blue crosses for decreasing velocities.  #@NEW_LINE#@#  The dashed line is the final result as given by Eq (26) and the gray region the total uncertainty as given by Eq (25).  #@NEW_LINE#@#  The green line is the theoretical transonic drag coefficient for a rotating cube according to Hoerner [11] and as given by Eq (21).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g004  #@NEW_LINE#@#  
+There are two distinct phases (cf.  #@NEW_LINE#@#  full line in Fig 1): A velocity increase phase for 17s less_than t less_than 50s (red circles) and a velocity decrease phase 50 s less_than t less_than 120 s (blue crosses).  #@NEW_LINE#@#  In addition, a green line is shown, which according to Hoerner [11] is the transonic drag coefficient for a rotating cube, namely  #@NEW_LINE#@#  
+(21)  #@NEW_LINE#@#  
+This empirical dependency was used by the Red Bull team to predict the maximum velocity at a given exit altitude, or the required altitude to ensure that his maximum speed would achieve Mach 1.15 vice versa and hence achieve supersonic speed of a free falling human body for the first time.  #@NEW_LINE#@#  
+The scatter of data point and equivalently the data error obviously is much bigger for the increasing velocity data points than for the decreasing velocity data points.  #@NEW_LINE#@#  This is because the drag D  v2 affects the measured speed with decreasing altitude and increasing speed.  #@NEW_LINE#@#  Nevertheless, the Mach dependency of the up-velocity and down-velocity data points coincide.  #@NEW_LINE#@#  We therefore now focus on the more accurate down-velocity data (blue crosses).  #@NEW_LINE#@#  
+To derive an empirical drag coefficient dependence on the Mach number, we use the same intervals and dependencies as Eq (21), but with the three variable fit parameters A, B, and C:  #@NEW_LINE#@#  
+(22)  #@NEW_LINE#@#  
+From fitting the downstream data, we derive the fit parameter as  #@NEW_LINE#@#  
+(23)  #@NEW_LINE#@#  
+
+
+V_Sensitivity_analysis  #@NEW_LINE#@#  
+Different_methods  #@NEW_LINE#@#  
+In Fig 5 the drag coefficients are provided as derived from the three different methods A, B, C (see Section Results Analysis Methods above).  #@NEW_LINE#@#  In all three cases, the dashed line is the data function as given by Eqs (22) with (23), i.e.  #@NEW_LINE#@#  as derived from method C. The data shows that although all three methods provide qualitatively the same results, method C obviously delivers the best result.  #@NEW_LINE#@#  
+The drag coefficient as derived from the three different methods A, B, and C.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g005  #@NEW_LINE#@#  
+
+Initial_interval_width  #@NEW_LINE#@#  
+Next, we study the effect of the width of the omitted initial interval (see section Data Analysis Procedure Initial Interval Considerations) on the results.  #@NEW_LINE#@#  As shown in Fig 6 we have varied the initial interval in a reasonable range.  #@NEW_LINE#@#  Besides minor differences, the data points are qualitatively the same (particularly the downstream data point, to which Eq (22) was fitted).  #@NEW_LINE#@#  
+t0 = 17.1 s was finally chosen from theoretical considerations.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g006  #@NEW_LINE#@#  
+
+Sampling_interval_width  #@NEW_LINE#@#  
+The sampling interval is expected to have more effect on the results than all the other parameters.  #@NEW_LINE#@#  Fig 7 shows the data points for three different velocity increase intervals v. According to Eq (20) a changing v results in different time intervals.  #@NEW_LINE#@#  Obviously, the choice v = 10m/s from theoretical considerations seems optimal.  #@NEW_LINE#@#  
+Intervals are given by the different speed changes v within the interval (see Eq (20)).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g007  #@NEW_LINE#@#  
+
+AOA_uncertainty  #@NEW_LINE#@#  
+To study the impact of the relatively high AOA uncertainty on the resulting drag coefficient as given by Eq (22) with Eq (23), we performed a sensitivity analysis by randomly varying the AOA for each time step by up to 20% around its value shown by in Fig 1 (AOA limited to 0° and 90°).  #@NEW_LINE#@#  We ran 1000 samples and calculated for each value the fitting parameters A, B, and C. A histogram of them is shown in Fig 8 with the standard variation .  #@NEW_LINE#@#  The value of the fitting parameter is depicted on the abscissae and their quantity on the ordinate.  #@NEW_LINE#@#  The gray area in Fig 4 shows the ± uncertainty of the distribution function.  #@NEW_LINE#@#  It can be seen from the error in Eqs (24) that for increasing Mach numbers the error due to the AOA uncertainty increases, in particular for the slope C of the line for Ma  1.1, because it shows with  = 0.26 the highest variation.  #@NEW_LINE#@#  For the derived ± the corresponding error of the fitting parameters are  #@NEW_LINE#@#  
+(24)  #@NEW_LINE#@#  
+AOA sensitivity analysis for fit parameters A, B, and C. For each trajectory time step the AOA was randomly sampled 1000 times with variations up to 20%.  #@NEW_LINE#@#  The abscissae show the value of a fitting parameter binned in seven value ranges.  #@NEW_LINE#@#  The vertical bar to each range measures the number of values obtained from the variations that fall into this range.  #@NEW_LINE#@#  From the resulting histogram, the standard variation  for each of the fitting parameters A, B, and C is derived.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g008  #@NEW_LINE#@#  
+Note, that the mean of the sensitivity analysis matches our calculated fitting parameters for A and B.  #@NEW_LINE#@#  For the slope C they do not match exactly.  #@NEW_LINE#@#  This is due to the limitation of the AOA to 0° and 90° and the high sensitivity of this fitting parameter.  #@NEW_LINE#@#  
+The combined error of the data statistics Eq (23) and the AOA sensitivity analysis Eq (24) is  #@NEW_LINE#@#  
+(25)  #@NEW_LINE#@#  
+The final result reads  #@NEW_LINE#@#  
+(26)  #@NEW_LINE#@#  
+This continuous function together with the total error as given by Eq (25) is displayed in Fig 4 as a dashed line and the gray region.  #@NEW_LINE#@#  
+Compared to theoretical expectations for subsonic speeds as given by Eq (21) we have with CD = 0.60 ± 0.05 a perfect match between our data and theoretical expectations.  #@NEW_LINE#@#  In addition, our overall pattern, is compliant with an increase of CD below the sonic speed and a decrease above it.  #@NEW_LINE#@#  However, for transonic speeds we see an increase of the drag coefficient of just CD = 0.14, which is only 19% of the theoretically expected CD = 0.74.  #@NEW_LINE#@#  
+
+
+VI_Discussion  #@NEW_LINE#@#  
+In order to grasp this unexpected result, we apply fluid dynamics theory (Standard literature for further information on aerodynamics can be found in reference [10] and [11].).  #@NEW_LINE#@#  The key elements are the overall shape of the body and the relevant Reynold numbers.  #@NEW_LINE#@#  Relative to the wind flow, Baumgartners body is quite blunt, where the pressure suit with its folds adds roughness, while the technical equipment and cameras cause an unevenness of the surface (see Fig 9).  #@NEW_LINE#@#  Moreover, the backpack and Baumgartners limbs form even a quite complex body shape.  #@NEW_LINE#@#  We therefore identify Baumgartners irregular blunt body very approximately by a cylinder with surface roughness on all length scales.  #@NEW_LINE#@#  
+(Credit: Art Thompson / Stratos team).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g009  #@NEW_LINE#@#  
+The Reynolds number Re (see Fig 10) describes the proportion between the inertial and viscous forces and hence the type of flow, laminar or turbulent.  #@NEW_LINE#@#  It is between 2.3  105  12.2  105 for the considered time zone 29 s less_than t less_than 68 s.  #@NEW_LINE#@#  
+The representative physical length scale of 1 m and a constant dynamic viscosity of 15×106 kg s1 m1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g010  #@NEW_LINE#@#  
+Drag_crisis  #@NEW_LINE#@#  
+Fluid dynamic tells us that blunt bodies, i.e.  #@NEW_LINE#@#  bodies which are not streamlined, are subject dominantly to pressure drag and only little to skin friction drag.  #@NEW_LINE#@#  Because they are blunt they undergo a so-called drag crisis (see Fig 11) for Re  105.  #@NEW_LINE#@#  Drag crisis is a drop of drag by up to a factor of 10 for smooth surfaces like a table tennis ball.  #@NEW_LINE#@#  The drop is due to the fact that the laminar flow from the stagnation point to the separation point, located at maximum body cross-section) becomes turbulent, which moves the separation point of the flow backward (delayed separation).  #@NEW_LINE#@#  This reduces recirculation behind the blunt body and hence lowers drag.  #@NEW_LINE#@#  However, if the surface is rough (sand-grain size k increases), turbulence in the upstream flow is induced already at lower Reynolds number, causing a less pronounced drag drop (see Fig 11).  #@NEW_LINE#@#  If the surface is very rough, uneven, and the bodys shape is even not well defined, as in our case, we do not expect any drag crisis because we have turbulence all over the surface at any Reynolds numbers Re  104.  #@NEW_LINE#@#  We therefore do not expect, and in fact do not see, any dependency of CD from the Reynolds number below the critical Mach number.  #@NEW_LINE#@#  In our analysis, the constant A in Eq (22) models this constant pressure drag.  #@NEW_LINE#@#  
+(from S.F.  #@NEW_LINE#@#  Hoerner [11]).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0187798.g011  #@NEW_LINE#@#  
+
+Wave_drag  #@NEW_LINE#@#  
+At the critical Mach number local supersonic flow and hence shock waves start to emerge from major surface discontinuities (edges) where the flow is forced to accelerate.  #@NEW_LINE#@#  This erratic shock formation and general flow instabilities correspond to pressure discontinuities, which transform a considerable part of the impinging flow energy into heat.  #@NEW_LINE#@#  This loss in energy corresponds to a counteracting force, the so-called wave drag (a.k.a.  #@NEW_LINE#@#  transonic compressibility drag).  #@NEW_LINE#@#  However, for Mach number up to 0.7 or 0.8 compressibility effects have only minor effects on the flow pattern and drag.  #@NEW_LINE#@#  For increasing Mach numbers the surface extent that generates shock wave increases and the shock waves intensify.  #@NEW_LINE#@#  They now interact with the boundary layer so that a separation of the boundary layer occurs immediately behind the shock.  #@NEW_LINE#@#  This condition accounts for a large increase in drag, which is known as shock-induced (boundary-layer) separation.  #@NEW_LINE#@#  This separation empirically causes a roughly quadratic increase of the wave-drag coefficient with Mach number.  #@NEW_LINE#@#  Generally, the term B(Ma  0.6)2 in Eq (22) models the wave drag.  #@NEW_LINE#@#  
+Once a supersonic flow has been established, however, the flow stabilizes and the drag coefficient is reduced.  #@NEW_LINE#@#  We then essentially have a shock wave that builds up at the upstream front of the body and another one at the unsteady geometry at the downstream tail of the body.  #@NEW_LINE#@#  It is usually modeled by the term  C(Ma  1.1) in Eq (22).  #@NEW_LINE#@#  The shock waves generate the characteristic double boom of a supersonic body flying past, which was indeed captured for Baumgartners supersonic free fall in this video recording provided here http://www.youtube.com/watch?v=yZFz6y4UCuo.  #@NEW_LINE#@#  
+Given this fluid dynamics effects it becomes clear why drag crisis and the wave-drag coefficient is so insignificant: Because the body is quite blunt, the pressure drag seems to be dominant all the way up to sonic speed.  #@NEW_LINE#@#  The surface roughness and the complex body shape at all speeds seem to induce a highly turbulent flow even close to the surface.  #@NEW_LINE#@#  This destroys any boundary layer, thus strongly suppressing a delayed flow separation effect and shock-induced boundary-layer separation.  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors thank the whole STRATOS team, in particular Art Thompson, for support and making the flight data available to us, and Albert Pernpeintner for valuable comments on the data interpretation.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+

@@ -1,0 +1,127 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0139262"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Genome-Wide Association Study of Peripheral Arterial Disease in a Japanese Population  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Characteristics of peripheral arterial disease (PAD) are the occlusion or stenosis of multiple vessel sites caused mainly by atherosclerosis and chronic lower limb ischemia.  #@NEW_LINE#@#  To identify PAD susceptible loci, we conducted a genome-wide association study (GWAS) with 785 cases and 3,383 controls in a Japanese population using 431,666 single nucleotide polymorphisms (SNP).  #@NEW_LINE#@#  After staged analyses including a total of 3,164 cases and 20,134 controls, we identified 3 novel PAD susceptibility loci at IPO5/RAP2A, EDNRA and HDAC9 with genome wide significance (combined P = 6.8 x 1014, 5.3 x 109 and 8.8 x 108, respectively).  #@NEW_LINE#@#  Fine-mapping at the IPO5/RAP2A locus revealed that rs9584669 conferred risk of PAD.  #@NEW_LINE#@#  Luciferase assay showed that the risk allele at this locus reduced expression levels of IPO5.  #@NEW_LINE#@#  To our knowledge, these are the first genetic risk factors for PAD.  #@NEW_LINE#@#  
+
+Introduction  #@NEW_LINE#@#  
+Peripheral artery disease (PAD) is characterized by the obstruction of the blood supply to multiple sites including carotid, mesenteric, renal, upper and lower extremities mainly caused by atherosclerosis [1].  #@NEW_LINE#@#  Chronic ischemic change of lower extremity arteries are the most common condition of the disease and cause serious impairment and reduced quality of life.  #@NEW_LINE#@#  People with PAD are also known to have roughly a three-fold increase in risk of major cardiovascular events and mortality compared with those without PAD [26].  #@NEW_LINE#@#  PAD is now estimated to be the third leading cause of death of atherosclerotic-related vascular disease.  #@NEW_LINE#@#  The number of PAD patients has increased by more than 20% over the past decade, and its prevalence is expected to increase worldwide [7].  #@NEW_LINE#@#  Previously known risk factors for PAD include gender, age and smoking, and is also associated with conditions such as hypertension, dyslipidemia, and diabetes mellitus [810].  #@NEW_LINE#@#  Although these conditions themselves have a genetic susceptibility component, positive PAD family history has been shown to be an independent predictor of the disease [1114].  #@NEW_LINE#@#  The Swedish twin registry reported a high risk of disease among those whose twin had PAD and estimated the genetic effect and non-shared environmental effect to account for 58% and 42% of the variation in incidence, respectively [11].  #@NEW_LINE#@#  In addition to sibling studies, a number of candidate gene and linkage analysis studies have been performed in PAD, but are collectively still inconclusive [15].  #@NEW_LINE#@#  Since PAD is considered a polygenic disease influenced by multiple environmental factors, a more systematic approach is required to identify genetic factors.  #@NEW_LINE#@#  Here, we report three loci associated with PAD susceptibility based on a GWAS conducted in a Japanese population.  #@NEW_LINE#@#  
+
+Materials_and_Methods  #@NEW_LINE#@#  
+Study_populations  #@NEW_LINE#@#  
+The majority of case and control samples included in this GWAS and follow-up stages were obtained from BioBank Japan [16].  #@NEW_LINE#@#  A subset of the replication case samples were obtained from the Tokyo Medical University Hospital, The University of Tokyo Hospital and affiliated hospitals from Sep 2009 to Sep 2014.  #@NEW_LINE#@#  Characteristics of the study subjects were summarized in Table 1.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0139262.t001  #@NEW_LINE#@#  
+The BioBank Japan project (see URLs) commenced in 2003 for the collection of genomic DNA, serum and clinical information from approximately 300,000 cases diagnosed with any of 47 diseases by a collaborative network of 66 hospitals in all areas of Japan.  #@NEW_LINE#@#  We used PAD cases that were collected from May 2003 to December 2006 in BioBank Japan for GWAS analysis after checking the clinical information.  #@NEW_LINE#@#  All the cases were diagnosed as PAD on the basis of the clinical information.  #@NEW_LINE#@#  We included PAD patients with ABI index less_than 0.9 used or a Fontaine class of IIa more or history of PAD therapy (stent, atherectomy and other surgical treatment).  #@NEW_LINE#@#  All study subjects provided written informed consent to participate in this study.  #@NEW_LINE#@#  The consent was obtained for the banking when we enrolled.  #@NEW_LINE#@#  The protocol was approved by the RIKEN Yokohama Campus Ethics Committee, Research Ethics Committee/Human Genome, Gene Analysis Research Ethics Committee of Graduate School of Medicine of the University of Tokyo, and the University of Tokyo hospital, Tokyo Medical University's Ethics Committee, Ethics committee of Kansai Medical University, Ethics committee of Kyorin University, Ethics committee of Ome Municipal General Hospital and Human Genome, Gene Analysis Research Ethics Committee of Ibaraki prefectural Central Hospital.  #@NEW_LINE#@#  
+
+SNP_genotyping  #@NEW_LINE#@#  
+Samples were genotyped by the Illumina HumanHap610-Quad BeadChip for the cases and Illumina HumanHap550v3 for controls.  #@NEW_LINE#@#  We applied stringent quality-control criteria and tested 785 cases and 3,383 controls for 497,509 autosomal SNPs commonly available on both BeadChips.  #@NEW_LINE#@#  In the GWAS, we applied SNP quality control (call rate of 0.99 in both cases and controls and Hardy-Weinberg equilibrium test P  1.0 × 106 in controls); 431,666 SNPs on all chromosomes passed the quality control filters and were further analyzed.  #@NEW_LINE#@#  All control samples for the follow-up stage were genotyped using the Illumina HumanHap610-Quad BeadChip.  #@NEW_LINE#@#  To confirm the accuracy of Illumine genotyping at rs9584669, we conducted direct genotyping using Invader assay (Third Wave Technologies) [17] and found no inconsistency between the results of Invader assay and Illumina genotyping.  #@NEW_LINE#@#  All cluster plots were checked by visual inspection by trained personnel, and SNPs with ambiguous calls were excluded.  #@NEW_LINE#@#  For cases in the follow-up stage, we used the multiplex PCR-based Invader Assay.  #@NEW_LINE#@#  
+
+Statistical_analyses  #@NEW_LINE#@#  
+The analysis of the association between SNPs and PAD were assessed with the Cochran-Armitage trend test.  #@NEW_LINE#@#  Significance level of the GWAS was set at 1.2 x 107 (0.05/431,666) after Bonferroni correction for multiple testing.  #@NEW_LINE#@#  To further validate the results of the GWAS, we selected the 500 SNPs with the most significant Cochrane-Armitage trend p values for replication analyses in additional 1,150 cases and 16,752 controls.  #@NEW_LINE#@#  Of the selected 500 SNPs, 145 showed evidence of strong linkage disequilibrium (r2  0.8) with other selected markers as assessed by the Haploview software.  #@NEW_LINE#@#  We thus selected 355 SNPs for further genotyping.  #@NEW_LINE#@#  Combined analysis was performed using the Mantel-Haenszel method.  #@NEW_LINE#@#  We examined the inflation of test statistics, genomic control (gc) by genomic control method [18].  #@NEW_LINE#@#  We also conducted principal component analysis (PCA) to assess population stratification using the GWAS data [19].  #@NEW_LINE#@#  We obtained the other genotype data from the Phase II HapMap database.  #@NEW_LINE#@#  Relationships between clinical profiles and genotype of the cases were examined by 2 test for gender difference and coronary risk factors, and one-way ANOVA for quantitative clinical parameters.  #@NEW_LINE#@#  
+
+Fine-mapping  #@NEW_LINE#@#  
+We carried out Sanger sequencing for a 100kb region around rs9584669 (chromosome position (NCBI build 38); 97,658,00397,758,002) using 48 case samples.  #@NEW_LINE#@#  We found a total of 249 SNPs and conducted re-sequence using additional 48 case samples.  #@NEW_LINE#@#  We selected 191 SNPs of MAF  0.05 and chose 25 tag SNPs.  #@NEW_LINE#@#  We also analyzed the LD pattern and determined the LD block using the Haploview software.  #@NEW_LINE#@#  We conducted invader assay for all tag SNPs using GWAS case samples (n = 750) and a subset of GWAS control samples (n = 2,418).  #@NEW_LINE#@#  Statistical analysis was performed using the Mantel-Haenszel method.  #@NEW_LINE#@#  
+
+Cells  #@NEW_LINE#@#  
+Human aortic smooth muscle cells (HASMC, Gibco® Invitrogen cell culture) were cultured in Smooth Muscle Cell Medium (SMCM, ScienCell research laboratories) and maintained at 37°C in atmospheres of humidified air with 5%CO2.  #@NEW_LINE#@#  
+
+Luciferase_assay  #@NEW_LINE#@#  
+We checked the H3K27Ac sequences of the IPO5/RAP2A region on chromosome 13q32.2 (UCSC genome browser; http://genome.ucsc.edu) and cloned genomic fragments for the H3K27Ac sequences (chromosome position (NCBI build 38); 97,980,37397,980,941 for IPO5 and 97,428,26197,428,846 for RAP2A) to the multiple cloning site of the pGL3 basic vectors (Promega).  #@NEW_LINE#@#  We confirmed a marked increase of luciferase activity compared to the empty pGL3 basic vector.  #@NEW_LINE#@#  Then we prepared 25 base pair double stranded oligonucleotides (S1 Table) including the target SNPs of interest (rs9584669, rs9556806, rs9805548, rs9556797, rs9556705, rs4001162, rs9556799) and inserted each of them to the IPO5/RAP2A H3K27Ac sequence cloned pGL3 vectors.  #@NEW_LINE#@#  We transfected these constructs in human aortic smooth muscle cells (HASMC) using the nucleofectorTM system (Amaxa).  #@NEW_LINE#@#  Forty-eight hours after transfection, we analyzed the luciferase activity using the dual- luciferase reporter assay system according to the manufacturers protocol.  #@NEW_LINE#@#  (Promega Corporation, Wisconsin, USA) and luminomater (Centro LB960, BERTHOLD TECHNOLOGIES GmbH & Co. KG).  #@NEW_LINE#@#  The relative firefly/Renilla luciferase value was calculated for each sample and standardized each value based on the value of the IPO5/RAP2A H3K27Ac sequence cloned pGL3 vectors in the same experiment.  #@NEW_LINE#@#  The empty pGL3-basic vector was used as a negative control.  #@NEW_LINE#@#  Each experiment was independently performed three times and each sample was studied in duplicate.  #@NEW_LINE#@#  Students t-test was conducted to estimate statistical difference of non-risk allele and risk allele activity.  #@NEW_LINE#@#  
+
+Software  #@NEW_LINE#@#  
+For general statistical analysis, we used R statistical environment version 2.10.0. or PLINK1.05 [20].  #@NEW_LINE#@#  To draw the LD map, we used Haploview software [21].  #@NEW_LINE#@#  To make regional maps, we used Locus zoom software.  #@NEW_LINE#@#  
+
+URLs  #@NEW_LINE#@#  
+BioBank Japan project; http://biobankjp.org/.  #@NEW_LINE#@#  HapMap project, http://hapmap.ncbi.nlm.nih.gov/.  #@NEW_LINE#@#  PLINK 1.05, http://pngu.mgh.harvard.edu/~purcell/plink/.  #@NEW_LINE#@#  R software, http://www.r-project.org/; LocusZoom, http://csg.sph.umich.edu/locuszoom/; eQTL database, http://www.hsph.harvard.edu/liming-liang/software/eqtl/.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+GWAS  #@NEW_LINE#@#  
+To identify novel PAD susceptible loci, we performed a GWAS for PAD with a Japanese population consisting of 785 cases and 3,383 controls.  #@NEW_LINE#@#  We evaluated the presence of population stratification by comparison to HapMap samples using principal component analyses and found that all cases and controls clustered among the Asian population and almost all subjects fell into the two main known clusters of the Japanese general population (S1 Fig).  #@NEW_LINE#@#  We examined the association between SNP genotypes and PAD using the Cochran-Armitage trend test (S2 Table).  #@NEW_LINE#@#  Fig 1a indicated-log10 P values of the 431,666 SNPs we examined.  #@NEW_LINE#@#  In this GWAS, no SNP reached the threshold for statistical significance based on a Bonferroni correction (P less_than 1.2 x 107).  #@NEW_LINE#@#  The inflation of test statistics, genomic control (gc) was 1.04 (Fig 1b).  #@NEW_LINE#@#  To further explore the suggestive loci, we decided to focus on the top 500 SNPs ranked by p-value in the GWAS which was reduced to 355 loci after considering linkage disequilibrium (LD).  #@NEW_LINE#@#  We then genotyped another panel of 1,150 cases and 16,752 controls, and 13 SNPs showed a p less_than 0.0001 (S3 Table).  #@NEW_LINE#@#  For these loci, an additional 1,229 cases were examined, expanding the total number of PAD cases to 3,164 (S4 Table).  #@NEW_LINE#@#  By combination of P values for these association analyses, we identified three loci that were associated with PAD, in close proximity to the genes IPO5/RAP2A, EDNRA and HDAC9 (Table 2, Fig 2).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0139262.g001  #@NEW_LINE#@#  
+Estimated LD structure of the genomic region in the JPT HapMap samples is shown as light-blue lines, and the genomic locations of genes within the regions of interest were annotated using the UCSC Genome Browser and are shown as arrows.  #@NEW_LINE#@#  SNPs are colored according to their LD with the tag SNP.  #@NEW_LINE#@#  Diamonds in red represent the most significantly associated SNP in each region in the GWAS.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0139262.g002  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0139262.t002  #@NEW_LINE#@#  
+We explored the possibility of confounding effects by age, gender, and classical risk factors including diabetes, hypertension, smoking, and hyperlipidemia within the patient group using one-way ANOVA and x2 test for three significant SNPs, and found no obvious relation between genotypes and these factors.  #@NEW_LINE#@#  This indicated that these three SNP loci were independent of these lifestyle for PAD in the Japanese population (S5 Table).  #@NEW_LINE#@#  
+
+Fine_mapping_of_13q32_locus  #@NEW_LINE#@#  
+As the identified SNPs on the top locus are located within the flanking region of two genes, we further investigated which gene might relate to the disease susceptibility through fine mapping followed by in vitro functional analysis.  #@NEW_LINE#@#  To narrow down the IPO5/RAP2A locus on chromosome 13q32.2, we performed direct sequencing of the region with 48 case samples, and identified 249 SNPs within a 100kb LD region.  #@NEW_LINE#@#  Among them, we selected 24 tag SNPs that represent this locus for further fine-mapping.  #@NEW_LINE#@#  Association analysis of these tag SNPs with 750 cases and 2405 controls revealed rs9584669 to have the strongest p value (Cochran-Armitage trend test) (S6 Table).  #@NEW_LINE#@#  Genotyping also revealed that six SNPs with the 13q32.2 genomic region (rs9556806, rs9805548, rs9556797, rs9556705, rs4001162, rs9556799) were in absolute LD with this SNP (rs9584669).  #@NEW_LINE#@#  
+
+Functional_analysis_of_the_associated_SNP_on_chr13q32  #@NEW_LINE#@#  
+Since none of these 7 SNPs within this associated region account for a change in amino acid sequence of the protein, we investigated whether these SNPs would affect IPO5 and/or RAP2A expression using a reporter gene analysis in human aortic smooth muscle cells (HASMC).  #@NEW_LINE#@#  We used this cell because abundant expression of both IPO5 and RAP2A mRNA were observed in quantitative RT-PCR experiments.  #@NEW_LINE#@#  Fig 3 showed that only clones containing the rs9584669 SNP non-risk allele had an approximately 1.5-fold greater transcriptional activity than those containing the risk allele in the IPO5 promoter construct.  #@NEW_LINE#@#  From this result, we hypothesized that the rs9584669 SNP genomic locus physically interacts to the promoter region of IPO5 in a long range looping manner, and the transcriptional repressive factor(s) which interacts strongly with the genomic complex includes the risk SNP suppress transcription of IPO5.  #@NEW_LINE#@#  No allelic difference was observed in other IPO5 promoter constructs and the RAP2A promoter constructs (S3 Fig).  #@NEW_LINE#@#  These results indicate that the associated SNP affected the transcription level of IPO5, but not RAP2A.  #@NEW_LINE#@#  
+A clone containing the rs9584669 SNP non-risk allele had an approximately 1.5-fold greater transcriptional activity than those containing the risk allele in H3K27Ac mark for IPO5 and was evaluated using the student's t-test.  #@NEW_LINE#@#  NR and R indicate non-risk and risk alleles, respectively.  #@NEW_LINE#@#  (+) shows the result after six hours of stimulation by Ionomycin and PMA.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0139262.g003  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Importin-5 (IPO5) is a member of the importin beta family [22] and is mainly localized in the cytoplasm, especially in the nuclear pore complex.  #@NEW_LINE#@#  This protein transports nuclear localization signal (NLS)-containing cargo from cytoplasm to nucleus in the presence of nucleoside triphosphates and the small GTP binding protein Ran [23].  #@NEW_LINE#@#  One important role of IPO5 is to promote excretion of apolipoprotein A-1 [24], a major protein component of HDL particles and mediates transport of lipids from peripheral tissues as part of the reverse cholesterol transport pathway.  #@NEW_LINE#@#  Apolipoprotein A-1 also controls off-load of cholesterol esters from HDL particles to liver through scavenger receptor B1 and to LDL via cholesterol ester transfer protein.  #@NEW_LINE#@#  Through these processes, HDL reduces the accumulation of plaque inside of blood vessel intima [25].  #@NEW_LINE#@#  Since a clinical feature of PAD involves atherosclerotic change of the mid to small arteries, potential of HDL function may be key to preventing disease progression.  #@NEW_LINE#@#  In this sense, rs9584669 allele may reflect anti-atherosclerotic ability of each individual.  #@NEW_LINE#@#  
+Another significant SNP, rs68422241, was located in the 5 flanking region of the endothelin receptor type A gene (EDNRA).  #@NEW_LINE#@#  EDNRA encodes a receptor for endothelin-1 [26], a peptide that plays a role in potent and long-lasting vasoconstriction [27] and pro-inflammatory effects [28].  #@NEW_LINE#@#  Endothelin-1 mediates activation of vascular smooth muscle cells (VSMC) and showed increased expression in human atherosclerotic lesions [29, 30], indicating that endothelin-1 contributes to the pathogenesis of chronic inflammation associated with atherosclerosis.  #@NEW_LINE#@#  Endothelin-1 also induces the release of inflammatory cytokines, including interleukin (IL)-6, IL-1 and C-reactive protein, from VSMC and/or monocytes [3133].  #@NEW_LINE#@#  Signaling of a receptor for endothelin-1, EDNRA, mediates activation and proliferation of VSMC, and its selective inhibitors prevent endothelial dysfunction, structural vascular change in atherosclerosis, and also inhibit cholesterol induced atherosclerosis [3436].  #@NEW_LINE#@#  Furthermore, other studies indicated that EDNRA antagonists also reduced the adhesion of inflammatory cells to endothelial cells through inhibition of adhesion molecule expression [37, 38].  #@NEW_LINE#@#  Together with our genetic evidence, these known findings also suggest that the endothelin-1EDNRA cascade has an important role in the development and progression of PAD.  #@NEW_LINE#@#  It is of note that a functional genetic variant of EDNRA was also associated with other vascular diseases including coronary artery disease [39], intra cranial aneurysm [40] and ischemic stroke [41].  #@NEW_LINE#@#  
+We also found an association with a SNP, rs2074633, near the HDAC9 gene encoding histone deacetylase-9.  #@NEW_LINE#@#  Histone deacetylase (HDAC) is a component of multiprotein complexes and modulate transcription events; thus, the HDAC family plays a critical role in transcriptional regulation and cell cycle progression [42].  #@NEW_LINE#@#  HDAC9 classifies as a class IIa enzyme and is known to shuttle between the nucleus and the cytoplasm [43].  #@NEW_LINE#@#  Another function of this protein is related to tissue remodeling via the stress-response pathway [4446].  #@NEW_LINE#@#  A genetic variant in HDAC9 is also associated with large vessel ischemic stroke, carotid atherosclerosis and coronary artery disease [41, 47, 48].  #@NEW_LINE#@#  Since severe intimal thickness of mid to small arteries are characteristics of PAD, combined with these previous findings, it is possible that HDAC9 may be involved in the pathogenesis of this disorder and its progression.  #@NEW_LINE#@#  
+Through a GWAS and a subsequent replication study in Japanese subjects, we identified three novel PAD susceptible loci near the genes IPO5/RAP2A, EDNRA and HDAC9.  #@NEW_LINE#@#  Because of the genetic difference among ethnicity, the relevance of our findings to other ethnic groups remains to be clarified.  #@NEW_LINE#@#  Another limitation might be that, we might miss some positive results because of the relatively small sample size at initial GWAS stage.  #@NEW_LINE#@#  To our knowledge, our study is the first to identify these loci for PAD through GWAS.  #@NEW_LINE#@#  We believe that knowledge of genetic risk factors and their molecular cascade associated with PAD will contribute to a better understanding of the pathogenesis and aid in early detection of PAD.  #@NEW_LINE#@#  
+
+Supporting_Information  #@NEW_LINE#@#  
+S1_Fig_  #@NEW_LINE#@#  
+(a) Principal components analysis (PCA) of population in the GWAS.  #@NEW_LINE#@#  The relatedness among cases and controls for GWAS along with the European (CEU), African (YRI), and East-Asian (JPT and CHB) data from the HapMap project was analyzed.  #@NEW_LINE#@#  The individuals were plotted in a two-dimensional graph,with the first (x axis) and the second (y axis) components of the Eigenvector factors.  #@NEW_LINE#@#  (b) The relatedness, along with the East-Asian (JPT and CHB) data from the HapMap project was analyzed.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s001  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S2_Fig_LD_structure_at_chr_13q322_locus  #@NEW_LINE#@#  
+Linkage disequilibrium plot for rs9584669 including all SNPs within 100kb region.  #@NEW_LINE#@#  Tag SNPs are circled.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s002  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S3_Fig_Result_of_Dual_reporter_Luciferase_assay_for_IPO5_(a)_and_RAP2A_(b)  #@NEW_LINE#@#  
+No allelic diffrence of transcriptional activity was observed in all the 13SNPs.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s003  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Table_Oligo_nucleotide_sequences_used_for_luciferase_assay  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s004  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_Results_of_GWAS  #@NEW_LINE#@#  
+OR; odds ratio, P values were caluculated Cochran-Armitage trend test.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s005  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_Association_results_of_355_loci_ranked_by_p-value_in_the_GWAS  #@NEW_LINE#@#  
+OR; odds ratio, NG; no good; Combined P value was calculated Mantel-haenszel test.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s006  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S4_Table_Association_results_of_the_13_SNPs  #@NEW_LINE#@#  
+ID; identifier, Chr; chromosome, OR; odds ratio, CI; confidence interval; Combined P value was calculated by Mantel-Haenszel test.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s007  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S5_Table_Association_between_conventional_risk_factors_for_PAD_and_3_SNPs_in_cases  #@NEW_LINE#@#  
+HT, hypertension; DM, diabetes mellitus; HL, hyperlipidemia; BI, brain infarction; CAD, coronary artery disease, * For age, mean ± SD is shown.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s008  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S6_Table_Association_study_of_tag_SNPs_at_chromosome_13q32_region  #@NEW_LINE#@#  
+ID; identifier, MAF; minor allele frequency, OR; odds ratio, *; P value was calculated by Cochran-Armitage trend test.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0139262.s009  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We thank the technical staffs of the Laboratory for Cardiovascular Diseases and Laboratory for Genotyping Development at RIKEN.  #@NEW_LINE#@#  We also thank BioBank Japan for contributing to the completion of our study.  #@NEW_LINE#@#  We thank Yukiyoshi Masaki MD, PhD of Ome Municipal General Hospital, Yutaka Takayama MD, PhD of Ibaraki Prefectural Central Hospital, Masao Nunokawa MD, PhD of Kyorin University Hospital, Shunya Shindo MD, PhD of Tokyo Medical University Hachioji Medical Center for their help in collecting the case samples.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+Conceived and designed the experiments: KO MK T. Tanaka.  #@NEW_LINE#@#  Performed the experiments: MM KO.  #@NEW_LINE#@#  Analyzed the data: MM KO AT YO TM T. Tsunoda MK T. Tanaka.  #@NEW_LINE#@#  Contributed reagents/materials/analysis tools: MM H. Komai HS TK YI H. Kimura AH KS TM TW MK.  #@NEW_LINE#@#  Wrote the paper: MM KO T. Tanaka.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+

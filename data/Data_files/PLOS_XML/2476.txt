@@ -1,0 +1,120 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0200386"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Shipboard design and fabrication of custom 3D-printed soft robotic manipulators for the investigation of delicate deep-sea organisms  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Soft robotics is an emerging technology that has shown considerable promise in deep-sea marine biological applications.  #@NEW_LINE#@#  It is particularly useful in facilitating delicate interactions with fragile marine organisms.  #@NEW_LINE#@#  This study describes the shipboard design, 3D printing and integration of custom soft robotic manipulators for investigating and interacting with deep-sea organisms.  #@NEW_LINE#@#  Soft robotics manipulators were tested down to 2224m via a Remotely-Operated Vehicle (ROV) in the Phoenix Islands Protected Area (PIPA) and facilitated the study of a diverse suite of soft-bodied and fragile marine life.  #@NEW_LINE#@#  Instantaneous feedback from the ROV pilots and biologists allowed for rapid re-design, such as adding fingernails, and re-fabrication of soft manipulators at sea.  #@NEW_LINE#@#  These were then used to successfully grasp fragile deep-sea animals, such as goniasterids and holothurians, which have historically been difficult to collect undamaged via rigid mechanical arms and suction samplers.  #@NEW_LINE#@#  As scientific expeditions to remote parts of the world are costly and lengthy to plan, on-the-fly soft robot actuator printing offers a real-time solution to better understand and interact with delicate deep-sea environments, soft-bodied, brittle, and otherwise fragile organisms.  #@NEW_LINE#@#  This also offers a less invasive means of interacting with slow-growing deep marine organisms, some of which can be up to 18,000 years old.  #@NEW_LINE#@#  
+
+Citation: Vogt DM, Becker KP, Phillips BT, Graule MA, Rotjan RD, Shank TM, et al.  #@NEW_LINE#@#  (2018) Shipboard design and fabrication of custom 3D-printed soft robotic manipulators for the investigation of delicate deep-sea organisms.  #@NEW_LINE#@#  PLoS ONE 13(8):  #@NEW_LINE#@#  
+           e0200386.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0200386  #@NEW_LINE#@#  
+Editor: Dario Pisignano,  #@NEW_LINE#@#  
+Universita del Salento, ITALY  #@NEW_LINE#@#  
+
+Received: March 30, 2018; Accepted: June 25, 2018; Published:  August 1, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Vogt et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: This work is supported by NOAA OER Grant # NA17OAR0110083 Exploration of the Seamounts of the Phoenix Islands Protected Area to RDR, EEC, TMS and DFG and Schmidt Ocean Institute Grant: What is the Current State of the Deep-Sea Coral Ecosystem in the Phoenix Island Protected Area?  #@NEW_LINE#@#  to EEC, RDR, TMS and DFG; NSF Instrument Development for Biological Research Award # 1556164 to RJW and #1556123 to DFG; the National Academies Keck Futures Initiative of the National Academy of Sciences under award #NAKFI DBS21 to RJW and DFG; and NFS Research Fellowship awarded to KPB (#DGE1144152).  #@NEW_LINE#@#  It is also supported by the Wyss Institute for Biologically Inspired Engineering at Harvard University.  #@NEW_LINE#@#  We are grateful for the support from the National Geographic Society Innovation Challenge (Grant No.  #@NEW_LINE#@#  : SP 12-14) to RJW and DFG.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Marine biologists studying deep sea environments are confronted with technological difficulties while gaining access to, interacting with, and collecting marine life.  #@NEW_LINE#@#  Beyond the limits of technical scientific scuba diving (150m), it is necessary for submersible vehicles such as ROVs, manned submersibles, or Autonomous Underwater Vehicles (AUVs) to access, observe and interact with deep-marine environments.  #@NEW_LINE#@#  Using these platforms, marine biologists have primarily utilized suction samplers, rigid canisters, and industrial robotic manipulator arms, which are generally made of inflexible metals.  #@NEW_LINE#@#  These devices have been designed primarily for the offshore energy industry or military applications and are often not suitable for interacting with soft-bodied and highly fragile organisms.  #@NEW_LINE#@#  For several decades, marine biologists have been trying to grasp megafaunal organisms without damaging them using a traditional hard-bodied robot hand or claw.  #@NEW_LINE#@#  It is important to minimize damage to deep-sea samples, as many are vulnerable organisms with slow growth rates, and long life spans.  #@NEW_LINE#@#  For instance, a deep-sea black coral was recently aged at 4,625 years old [1], while a sponge was aged at 18,000 years old [2].  #@NEW_LINE#@#  
+Soft manipulators have previously shown their utility for underwater biological sampling [3][4][5].  #@NEW_LINE#@#  Soft manipulators are constructed out of compliant materials instead of rigid elements [6].  #@NEW_LINE#@#  The use of soft materials offers the advantage of simplifying the manipulators control, e.g., by leveraging mechanical compliance such that knowledge of the exact position and dimension of the desired object is not required.  #@NEW_LINE#@#  The soft manipulator can automatically conform to its shape with minimal applied forces.  #@NEW_LINE#@#  Additionally, soft-bodied manipulators have the advantage of not damaging delicate specimens with sharp edges or inflexible grasps.  #@NEW_LINE#@#  It has recently been shown that soft robots could be successfully used in deep sea environments down to 800m [7].  #@NEW_LINE#@#  And, subsequently, a modular soft robotic wrist [8] and an entire soft robotic arm have been developed [9].  #@NEW_LINE#@#  
+3D printing offers numerous kinds of fabrication processes, such as Stereolithography (SLA), Selective Laser Sintering (SLS), and many more as described in [10].  #@NEW_LINE#@#  3D printing has been widely democratized and allows engineers, citizen scientists, and hobbyists to 3D print objects at home.  #@NEW_LINE#@#  Along with plastics, 3D printing can also be used with composites [11], wax, and edible [12] materials.  #@NEW_LINE#@#  Yet, when 3D printing soft materials [13][14], additional challenges of potential self-collapse must be overcome to prevent the 3D printed structure from deforming under its own weight [15].  #@NEW_LINE#@#  Researchers have been able to overcome this challenge and 3D print soft robots using polyjet [16], stereolithography [17], or Fused Deposition Modeling [18] (FDM) technologies.  #@NEW_LINE#@#  
+When conducting ocean exploration on research vessels in highly remote areas, lab-manufactured tools can be limiting, as it is difficult to predict engineering scenarios in advance.  #@NEW_LINE#@#  Additionally, while many such scenarios can be anticipated, there is limited space on board to accommodate the necessary tools.  #@NEW_LINE#@#  The ability to generate in-field adaptive strategies is one real-time solution to meet the needs and conditions encountered while using minimal space on board for materials and fabrication tools.  #@NEW_LINE#@#  A comparison of traditional and ad-hoc manufacturing of a soft device is shown in Fig 1.  #@NEW_LINE#@#  3D printing has already shown its potential to be used in unconventional places such as providing medical tools in remote mountain hospitals [19] or even in space [20].  #@NEW_LINE#@#  
+The ability to iterate the design and fabricate actuators in-field is key to enable adaptations to specific and unanticipated challenges found in unstructured, remote environments (indicated by the blue background).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0200386.g001  #@NEW_LINE#@#  
+During this deep-sea expedition to the Phoenix Islands Protected Area from October 5th to November 2nd 2017, traditionally molded soft manipulators were first used for sampling and later modified over consecutive dives with feedback from biologists and ROV pilots.  #@NEW_LINE#@#  This real-time end-user feedback catalyzed the on-board design and fabrication of a new soft manipulator that was tested during the subsequent dives to sample species such as goniasterids and holothurians down to 2224m.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+Expedition_and_deep-sea_sampling  #@NEW_LINE#@#  
+The Phoenix Islands (Republic of Kiribati) are located in the central Pacific and include a total of eight islands, two shallow submerged seamounts, and a diverse array of deep seamounts including the Tokelau Chain.  #@NEW_LINE#@#  It is the largest and deepest UNESCO World Heritage site on earth [21] and offers a unique environment with high regional biodiversity and little or no human activity.  #@NEW_LINE#@#  The R/V Falkor and the ROV SuBastian (Schmidt Ocean Institute, Figs 2A and 3B), visited the PIPA seamounts to investigate deepwater corals, coral invertebrate epifauna, and sediments.  #@NEW_LINE#@#  Most sites targeted during this expedition were completely unexplored.  #@NEW_LINE#@#  
+To collect samples, the ROV SuBastian (rated to 4500m) was equipped with several standard tools including two heavy-duty manipulator arms and a hydraulic suction sampler.  #@NEW_LINE#@#  Each Schilling Robotics TITAN 4 Manipulator arm on SuBastian ROV was equipped with a distal manipulator with jaws which could open to 186.74mm and exert a maximum nominal grip force of 4092 Newtons.  #@NEW_LINE#@#  During this expedition, we initially employed soft manipulators developed at the Harvard Microrobotics Laboratory in Cambridge, Massachusetts.  #@NEW_LINE#@#  Lessons learned and real-time feedback from the ROV pilots and scientists then guided the subsequent design and fabrication of different 3D-printed manipulators, which were used during the following dives.  #@NEW_LINE#@#  The soft manipulator setup [9] brought on this expedition was organized into two parts.  #@NEW_LINE#@#  The soft grippers (Fig 3A) were installed in holsters on the ROVs forward hydraulic tray.  #@NEW_LINE#@#  They were in reach of the port robotic four-fingered manipulator, which was able to lock onto a wooden ball (acting as a handle) connected to the soft manipulator gripper.  #@NEW_LINE#@#  Retractable tubing provided low-pressure hydraulics to the soft manipulators.  #@NEW_LINE#@#  The remaining equipment required to use the soft manipulators (pump, manifold, etc.)  #@NEW_LINE#@#  was positioned on the rear side of the ROV (Fig 3B).  #@NEW_LINE#@#  The pump filled the accumulator with ambient seawater, which powered the manifold.  #@NEW_LINE#@#  A control bottle contained the electronic circuitry to communicate with both the surface controls (serial communication, RS-232), and proportionally activate the solenoid valves in the manifold.  #@NEW_LINE#@#  An adjustable pressure relief valve located between the manifold and the soft gripper ensured that the actuators were not over-pressurized.  #@NEW_LINE#@#  The full diagram of the electrical and hydraulic connections is shown in Fig 4.  #@NEW_LINE#@#  
+
+Laboratory-fabricated_soft_manipulators  #@NEW_LINE#@#  
+Fluidic soft actuators operate on a pressure differential (pneumatic or hydraulic) between the interior chambers and the surrounding pressure (Fig 5).  #@NEW_LINE#@#  Soft actuators are traditionally laboratory-fabricated and require several steps of molding to accommodate curing times of the constituent elastomeric materials [22][23].  #@NEW_LINE#@#  Although this method has proven effective, the long curing times and equipment required (e.g., vacuum chamber, oven, and mixing equipment) makes the method inefficient for in-field fabrication and rapid prototyping.  #@NEW_LINE#@#  These actuators are based on the bellows-style actuators (with foam pads) described in [7].  #@NEW_LINE#@#  When lifting up an object, one can expect a maximum pulling force of 16.6 Newtons before the actuator drops the object.  #@NEW_LINE#@#  Due to the foam layers, typical pressures applied to the object are usually limited to 6kPa, equivalent to the approximate pressure required to activate a keyboard button.  #@NEW_LINE#@#  For a typical operating pressure of 140kPa, the actuator can exert a blocked force of 0.96N and can grasp objects up to 140mm in diameter (S1 Fig).  #@NEW_LINE#@#  
+
+Ad-hoc_3D_printed_grippers  #@NEW_LINE#@#  
+Two off-the-shelf 3D printers (FlashForge Creator Pro, City of Industry, CA) were used to allow modification and manufacture of new manipulators at sea.  #@NEW_LINE#@#  The materials used for printing were Thermoplastic Polyurethane (TPU Ninjaflex, Ninjatek, St. Manheim, PA, USA) for flexible parts and PLA (Hatchbox, Pomona, CA, USA) for rigid parts.  #@NEW_LINE#@#  Fig 6 shows an example of 3D printing a soft bellows mechanism out of flexible material.  #@NEW_LINE#@#  The parts were designed using Computer Aided Design (CAD) software (Fusion 360, Autodesk, Mill Valley, CA, USA) and converted to 3D models (.stl) files in machine code for the 3D printer using a slicing software (Simplify 3D, Cincinnati, OH, USA) which generated a machine code file (.x3g) for the 3D printer.  #@NEW_LINE#@#  The ship encountered moderate seas (4m on some days), but the ships pitch and roll did not impact the quality of the 3D printing.  #@NEW_LINE#@#  
+
+
+Results_and_discussion  #@NEW_LINE#@#  
+First_dives_and_in-field_challenges  #@NEW_LINE#@#  
+
+S2 Table summarizes the ROV dives executed during the expedition.  #@NEW_LINE#@#  The first few dives were used to evaluate the grasping potential and limitations of both the existing hard grippers and suction sampler on the ROV, as well as the initial version of the soft manipulators.  #@NEW_LINE#@#  
+
+Challenges_with_ROV_tools  #@NEW_LINE#@#  
+In several instances, the ROVs standard toolkit (claws and suction sampler) was insufficient to collect desired organisms.  #@NEW_LINE#@#  For example, an aplacophoran mollusc wrapped around the base of a bamboo coral skeleton partially overgrown by a zoanthid (Gerardia sp.)  #@NEW_LINE#@#  soft coral (Fig 10) was not possible to collect without damaging the host coral.  #@NEW_LINE#@#  The flow generated by the suction sampler lacked the power needed to loosen the mollusc and attempts to obtain with the port gripper would have damaged the coral.  #@NEW_LINE#@#  
+Picking up delicate samples is a challenge using the rigid manipulator, due to the lack of haptic feedback and the strong forces that the arm can generate.  #@NEW_LINE#@#  Additionally, non-stereoscopic vision makes the positioning and alignment of the arm difficult.  #@NEW_LINE#@#  Fig 11A shows an example of sampling coral rubble (S1 Video) and Fig 11B shows the sampling of the colonial scleractinian (hard) coral Enallopsammia sp.  #@NEW_LINE#@#  Although some samples were successfully collected with the rigid manipulator, they were often damaged during the process.  #@NEW_LINE#@#  
+
+Challenges_with_laboratory-fabricated_soft_manipulator  #@NEW_LINE#@#  
+The first prototypes of our soft manipulators confronted several challenges: a) some samples were difficult to grasp from underneath due to their location on hard, volcanic substrates and b) some organisms were often sessile-attached to rocky substrates compared to sandy bottoms (Fig 12A, S2 Video).  #@NEW_LINE#@#  For example, attempts to grasp a holothurian (Fig 12B, S3 Video), firmly adhered to a rock, were unsuccessful due to the rocky substrate and strong grip of the benthic organism.  #@NEW_LINE#@#  
+During the initial dives, training was also required for the ROV pilots to become familiar with the soft manipulators.  #@NEW_LINE#@#  ROV pilots tended to orient the manipulator horizontally or perpendicular to the sample as shown in Fig 13.  #@NEW_LINE#@#  This occurred due to the constraints of positioning the robot arm or due to the habit of using bilaterally symmetrical, hard grippers.  #@NEW_LINE#@#  Real-time communication between ROV pilots, engineers, and biologists was a necessary component of successful trials, as it allowed the ROV pilots to adapt to the new and evolving soft manipulators.  #@NEW_LINE#@#  
+
+Ad-hoc_3D_printed_grippers  #@NEW_LINE#@#  
+
+
+Conclusion_and_future_directions  #@NEW_LINE#@#  
+We have described the design, fabrication, on-the-fly modifications of, and improvements to soft robotic manipulators on an oceanographic research cruise to one of the most remote regions of the Pacific Ocean.  #@NEW_LINE#@#  This tool kit offers purpose-built modes for gently interacting with fragile marine life.  #@NEW_LINE#@#  The standard hard robotic claws and slurping or suction technologies are applicable to a subset of organisms, but more delicate life forms are often excluded from deep sea biological diversity surveys as the tools necessary to interact with them are not feasible.  #@NEW_LINE#@#  Soft robotics provides the advantage of delicate interactions and manipulations to enable previously-impossible sampling strategies.  #@NEW_LINE#@#  By 3D-printing soft robotics on-board the research vessel during an active scientific expedition, we have shown that we can increase our ability to study biodiversity in a remote and resource-limited environment.  #@NEW_LINE#@#  Each soft-robotic device is also applicable to a range of sizes, morphologies and motilities.  #@NEW_LINE#@#  This ad-hoc soft robotic printing of custom manipulators reduces the time and money necessary to revisit remote research sites, as scientists do not need to return to a land-based research laboratory to engineer new sampling tools.  #@NEW_LINE#@#  Our successful tests of soft robotics sets the foundation for the development of embedded sensors and lensless imaging technology to investigate physiological parameters in situ and provide 3D reconstructions of deep-sea organisms, while leaving them unharmed.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Table_3D_printing_parameters_for_flexible_and_hard_materials  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s001  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S2_Table_Summary_of_all_the_dives  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s002  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Video_Challenges_when_grasping_brittle_specimens_with_hard_bodied_manipulator  #@NEW_LINE#@#  
+Example with coral rubble (depth: 616m).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s003  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S2_Video_Example_of_grasping_a_sea_cucumber  #@NEW_LINE#@#  
+On a sandy substrate (depth: 2224m).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s004  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S3_Video_Example_of_grasping_a_sea_cucumber  #@NEW_LINE#@#  
+On a rocky substrate (depth: 2224m).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s005  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S4_Video_Sampling_with_a_3D_printed_soft_manipulator_designed_and_constructed_on-board_the_ship  #@NEW_LINE#@#  
+Sampling a goniasterid (depth: 1162m).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s006  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S5_Video_Sampling_with_a_3D_printed_soft_manipulator_designed_and_constructed_on-board_the_ship  #@NEW_LINE#@#  
+Sampling a holothurian.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s007  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S6_Video_Multi-mode_gripper  #@NEW_LINE#@#  
+Pinch grasp on a holothurian.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s008  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S7_Video_Multi-mode_gripper  #@NEW_LINE#@#  
+Power grasp on a hexactinellid sponge.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s009  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S1_Fig_Soft_actuator_characterization  #@NEW_LINE#@#  
+All soft manipulators were tested on a material tester (Instron 5544A, Instron, Norwood, MA 02062, USA).  #@NEW_LINE#@#  The actuators were fixed at their base, and oriented downwards on a load cell.  #@NEW_LINE#@#  Pneumatic pressure was applied up to 140kPa (a typical pressure used when grasping an object) to the actuator and the blocked force was recorded.  #@NEW_LINE#@#  For each actuator type, the experiment was repeated three times; markers indicate the mean values (circles) and standard deviations (shaded area).  #@NEW_LINE#@#  The images (right) show the actuators under the minimum (0kPa) and maximum (140kPa) pressure: (a) 3D printed with fingernails, (b) 3D printed without fingernails, (c) lab molded without extension, and (d) lab molded with extension.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0200386.s010  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+This work is supported by NOAA OER Grant # NA17OAR0110083 Exploration of the Seamounts of the Phoenix Islands Protected Areato RDR, EEC, TMS and DFG and Schmidt Ocean Institute Grant: What is the Current State of the Deep-Sea Coral Ecosystem in the Phoenix Island Protected Area?  #@NEW_LINE#@#  to EEC, RDR, TMS and DFG.  #@NEW_LINE#@#  NSF Instrument Development for Biological Research Award # 1556164 to RJW and #1556123 to DFG, and the National Academies Keck Futures Initiative of the National Academy of Sciences under award #NAKFI DBS21 to RJW and DFG.  #@NEW_LINE#@#  NFS Research Fellowship awarded to KPB (#DGE1144152).  #@NEW_LINE#@#  It is also supported by the Wyss Institute for Biologically Inspired Engineering at Harvard University.  #@NEW_LINE#@#  We are grateful to the National Geographic Society Innovation Challenge (Grant No.  #@NEW_LINE#@#  : SP 12-14) to R.J.W.  #@NEW_LINE#@#  and D.F.G.  #@NEW_LINE#@#  for inspiring this underwater soft robotic research.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+The authors would like to thank the Schmidt Ocean Institute ROV team (Russell Coffield, Dean Glazebrook, Adam Wetmore, Robert Waters, Darren Elvin, Cody Peyres, Kris Ingram), members from the Science team (Luke McCartin, Alexis Weinnig, Abigail Keller, Aranteiti Kiareti Tekiau, Anna Gauthier, Thom Hoffman) and the R/V Falkor and ROV SuBastian crews for their precious assistance during the expedition.  #@NEW_LINE#@#  
+The authors acknowledge and thank the Republic of Kiribati and the Phoenix Islands Protected Area for their assistance in facilitating this research.  #@NEW_LINE#@#  It was conducted under PLOS 8/10 research permit PRP No.  #@NEW_LINE#@#  4/17 to RDR and EEC by the PIPA Implementation Office and the Republic of Kiribati.  #@NEW_LINE#@#  This work was approved and encouraged by the PIPA Conservation Trust and the PIPA Scientific Advisory Committee, and helps to fulfill the research goals articulated in the PIPA 2010-2020 Research Vision.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

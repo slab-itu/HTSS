@@ -1,0 +1,115 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0186359"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Antimicrobial activity of carbon monoxide-releasing molecule [Mn(CO)3(tpa-3N)]Br versus multidrug-resistant isolates of Avian Pathogenic Escherichia coli and its synergy with colistin  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Antimicrobial resistance is a growing global concern in human and veterinary medicine, with an ever-increasing void in the arsenal of clinicians.  #@NEW_LINE#@#  Novel classes of compounds including carbon monoxoide-releasing molecules (CORMs), for example the light-activated metal complex [Mn(CO)3(tpa-3N)]Br, could be used as alternatives/to supplement traditional antibacterials.  #@NEW_LINE#@#  Avian pathogenic Escherichia coli (APEC) represent a large reservoir of antibiotic resistance and can cause serious clinical disease in poultry, with potential as zoonotic pathogens, due to shared serotypes and virulence factors with human pathogenic E. coli.  #@NEW_LINE#@#  The in vitro activity of [Mn(CO)3(tpa-3N)]Br against multidrug-resistant APECs was assessed via broth microtitre dilution assays and synergy testing with colistin performed using checkerboard and time-kill assays.  #@NEW_LINE#@#  In vivo antibacterial activity of [Mn(CO)3(tpa-3N)]Br alone and in combination with colistin was determined using the Galleria mellonella wax moth larvae model.  #@NEW_LINE#@#  Animals were monitored for life/death, melanisation and bacterial numbers enumerated from larval haemolymph.  #@NEW_LINE#@#  In vitro testing produced relatively high [Mn(CO)3(tpa-3N)]Br minimum inhibitory concentrations (MICs) of 1024 mg/L.  #@NEW_LINE#@#  However, its activity was significantly increased with the addition of colistin, bringing MICs down to 32 mg/L.  #@NEW_LINE#@#  This synergy was confirmed in time-kill assays.  #@NEW_LINE#@#  In vivo assays showed that the combination of [Mn(CO)3(tpa-3N)]Br with colistin produced superior bacterial killing and significantly increased larval survival.  #@NEW_LINE#@#  In both in vitro and in vivo assays light activation was not required for antibacterial activity.  #@NEW_LINE#@#  This data supports further evaluation of [Mn(CO)3(tpa-3N)]Br as a potential agent for treatment of systemic infections in humans and animals, when used with permeabilising agents such as colistin.  #@NEW_LINE#@#  
+
+Citation: Betts J, Nagel C, Schatzschneider U, Poole R, La Ragione RM (2017) Antimicrobial activity of carbon monoxide-releasing molecule [Mn(CO)3(tpa-3N)]Br versus multidrug-resistant isolates of Avian Pathogenic Escherichia coli and its synergy with colistin.  #@NEW_LINE#@#  PLoS ONE 12(10):  #@NEW_LINE#@#  
+           e0186359.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0186359  #@NEW_LINE#@#  
+Editor: William M. Shafer, Emory University School of Medicine, UNITED STATES  #@NEW_LINE#@#  
+Received: August 3, 2017; Accepted: September 29, 2017; Published:  October 17, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Betts et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: Funded by Biotechnology and Biological Sciences Research Council - BB/M022579/1 to Robert Poole and Roberto M La Ragione (http://www.bbsrc.ac.uk/).  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Antimicrobial resistance is a growing global concern, with clinicians in human and veterinary medicine faced with reduced therapeutic options to treat patients with infections caused by multidrug-resistant bacteria [1].  #@NEW_LINE#@#  Gram-negative bacteria such as Escherichia coli have in recent years been highlighted as potential super bugs, due to increasing antibiotic resistance to many classes of antibiotic.  #@NEW_LINE#@#  This issue, added to the lack of antibacterials in the pipeline that specifically target Gram-negative bacteria, has left an ever-increasing void in the arsenal of clinicians, as the number of effective antibiotics declines [2].  #@NEW_LINE#@#  Antibacterials of last resort such as carbapenems and polymyxins are increasingly used as front line drugs.  #@NEW_LINE#@#  However, resistance to carbapenems via the production of carbapenemases, efflux or reduced permeability has been widely reported [3].  #@NEW_LINE#@#  This has led to the revival of previously abandoned antibiotics including colistin (polymyxin E), fosfomycin and chloramphenicol.  #@NEW_LINE#@#  With the increased use of these antibiotics, a significant rise in resistance has followed, recently noted with the discovery of MCR-1, the plasmidic colistin-resistance gene, in China [45] and in other countries in both humans and animals.  #@NEW_LINE#@#  
+One potentially problematic group of pathogens are avian pathogenic E. coli (APEC).  #@NEW_LINE#@#  APECs make up part of the normal avian intestinal flora, but can cause serious clinical disease in poultry.  #@NEW_LINE#@#  Avian colibacillosis caused by APEC is an economically important infectious disease of domestic poultry.  #@NEW_LINE#@#  The aetiological agent responsible for colibacillosis is Escherichia coli, with the most commonly implicated serotypes being O1:K1, O2:K1 and O78:K80.  #@NEW_LINE#@#  Avian colibacillosis is a respiratory and systemic disease that exerts substantial welfare and economic costs on the poultry industry worldwide [6 7].  #@NEW_LINE#@#  Losses are incurred through mortality, condemnation of carcasses at slaughter, reduced productivity and costs associated with antibiotic treatment.  #@NEW_LINE#@#  Recent epidemiological evidence suggests that approximately 40% of mortalities from broiler flocks are associated with colibacillosis [8].  #@NEW_LINE#@#  Avian colibacillosis is also responsible for up to 70% of mortality seen in broiler chicks 23 days after placement.  #@NEW_LINE#@#  Avian colibacillosis is a multifactorial disease and a number of risk factors are known, including prior or concurrent infection with respiratory viruses or Mycoplasma, stress and injury associated with formation of a social hierarchy, onset of sexual maturity and intense laying, as well as poor biosecurity, hygiene and ventilation [9].  #@NEW_LINE#@#  Vaccination has proved successful for some APEC pathotypes, but the poultry industry is still reliant on antibiotics to treat APEC.  #@NEW_LINE#@#  
+There are several reports suggesting that APECs harbour an array of resistance genes such as blaCTX-M-1, blaCMY-2 and blaTEM [10].  #@NEW_LINE#@#  As APECs share identical serotypes and many virulence factors with human pathogenic E. coli, their potential as zoonotic pathogens should also not be underestimated [11, 12].  #@NEW_LINE#@#  
+Alternatives to traditional antibacterials are investigated to supplement the growing need for antimicrobials.  #@NEW_LINE#@#  One group of potential drug candidates are carbon monoxide-releasing molecules (CORMs) such as CORM-3, which have received attention due to their effectiveness as antibacterial agents [13].  #@NEW_LINE#@#  Several novel CORMs, including those activated by light at a specific wavelength such as [Mn(CO)3(tpa-3N)]Br have potential for therapeutic use against Gram-negative bacteria including E. coli [14].  #@NEW_LINE#@#  Although the mechanisms of this compound are not entirely understood, the proposed mechanisms include membrane disruption due to hydroxyradical production, interference of metal ion uptake and inhibition of respiration, due to CO binding to respiratory cytochromes.  #@NEW_LINE#@#  
+Recent work has also demonstrated the antibacterial action of a novel tryptophan manganese(I) carbonyl complex (Trypto-CORM) against Neisseria gonorrohoeae, which in recent years has also shown increasing antibiotic resistance [15].  #@NEW_LINE#@#  Previous data suggests that the manganese-coligand core of the title compound does not reach the intracellular environment of bacteria [14].  #@NEW_LINE#@#  However, using a polymyxin such as colistin, to permeabilise the outer membrane, could facilitate entry of the metal complex and increase the compound's antibacterial activity.  #@NEW_LINE#@#  The aim of the studies described here was to evaluate the in vitro and in vivo activity of the manganese complex [Mn(CO)3(tpa-3N)]Br alone and in combination with colistin against multidrug-resistance strains of avian pathogenic E. coli.  #@NEW_LINE#@#  
+
+Materials_and_methods  #@NEW_LINE#@#  
+Bacterial_isolates__antibiotics_and_media  #@NEW_LINE#@#  
+Avian pathogenic E. coli strains (n = 124) isolated from poultry farms across the UK were provided by Ridgeway Biologicals (Compton, UK).  #@NEW_LINE#@#  All strains were cultured on MacConkey agar for 16 h at 37°C, aerobically and characterised by biochemical and molecular profiles.  #@NEW_LINE#@#  Stock cultures were stored in glycerol at -80°C.  #@NEW_LINE#@#  [Mn(CO)3(tpa-3N)]Br (USC-CN028) was synthesised at the University of Würzburg, in the laboratories of Prof Ulrich Schatzschneider according to a published procedure [16].  #@NEW_LINE#@#  Colistin sulfate powder was purchased from Cambridge Biosciences (Cambridge, UK).  #@NEW_LINE#@#  Mueller Hinton 2 agar and Mueller Hinton 2 cation adjusted broth was purchased from SigmaAldrich (Dorset, UK).  #@NEW_LINE#@#  
+
+Antibacterial_assays  #@NEW_LINE#@#  
+
+
+Results_and_discussion  #@NEW_LINE#@#  
+Results from the antibiotic susceptibility testing indicated that 45 out of 124 APEC strains tested were multidrug-resistant (Table 1, S1 Table), with resistance observed against  greater than  2 antibiotic classes in relation to breakpoints set by the European committee on antimicrobial susceptibility testing [18].  #@NEW_LINE#@#  Of these strains 7 were resistant to  greater than  5 antibiotic classes.  #@NEW_LINE#@#  No strains exhibited resistance to carbapenems or polymyxins.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.t001  #@NEW_LINE#@#  
+Growth kinetics analysis from cultures with and out exposure to UV light (365 nm, 2.5 min) showed no significant difference (P  greater than 0.5) in growth rates or growth numbers at 24 h (Fig 1, S2 Table).  #@NEW_LINE#@#  This supported previous studies and confirmed that any antimicrobial activity would be due to the manganese carbonyl complex and not the UV light exposure [14].  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.g001  #@NEW_LINE#@#  
+Results from the broth microtitre testing revealed MICs of 1024 mg/L for [Mn(CO)3(tpa-3N)]Br on all isolates (Table 2, S3 Table).  #@NEW_LINE#@#  MICs of 1 mg/L to colistin were observed for all isolates.  #@NEW_LINE#@#  In combination, MICs of the Mn complex were significantly reduced (P less_than 0.05) in the presence of colistin, with MICs reduced to  32 mg/L.  #@NEW_LINE#@#  Calculation of FICIs indicate synergy was produced between [Mn(CO)3(tpa-3N)]+ and colistin (FICIs 0.1290.281).  #@NEW_LINE#@#  It was found that UV activation (365 nm) had no impact on [Mn(CO)3(tpa-3N)]+ MICs in this study.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.t002  #@NEW_LINE#@#  
+Relatively high MICs for the Mn complex are probably due to low membrane permeability of the entire compound.  #@NEW_LINE#@#  Previous research has shown that CO released from CORM readily reaches the intracellular environment, but the manganese-coligand moiety of the molecule does not, potentially due to lower permeability or lack of active transport into bacterial cells [14].  #@NEW_LINE#@#  This could potentially limit the effectiveness of monotherapy with CORMs in medical and veterinary applications; thus, as demonstrated in the studies presented here combination therapy maybe a favourable option.  #@NEW_LINE#@#  
+Data from the kill-kinetic assays indicate that although antimicrobial activity was observed in microtitre assays, in a non-static model, regrowth in the Mn complex-treated bacteria was observed (Fig 2, S4 Table).  #@NEW_LINE#@#  The regrowth of cultures treated with the Mn complex 4 h post activation, suggests that the compound has a limited stability.  #@NEW_LINE#@#  This is potentially due to photodecomposition of the compound over time in ambient light.  #@NEW_LINE#@#  Colistin-treated cultures at 0.5 MIC produced good initial killing against both isolates tested, with regrowth observed after 24 h. Synergy observed in checkerboard assays of the CORM and colistin combination was confirmed in the kill-kinetic assays.  #@NEW_LINE#@#  The combination showed markedly (P less_than 0.05) increased killing activity when compared to either Mn complex or colistin alone, with  3 log10 CFU/mL difference at 24 h.  #@NEW_LINE#@#  
+Time-kill curve of [Mn(CO)3(tpa-3N)]Br, colistin and combination of both agents (x1 MIC + 0.5 MIC) versus APEC strain a) 99/12 and b) 236/12 over 24 h.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.g002  #@NEW_LINE#@#  
+In vivo toxicity assays showed that G. mellonella survival numbers were reduced by 20% when exposed to 200 mg/kg of [Mn(CO)3(tpa-3N)]Br and by 30% when doses of 400 mg/kg were administered (Fig 3, S5 Table).  #@NEW_LINE#@#  Toxicity increased sharply when 600 mg/kg was administered, with 100% larval mortality.  #@NEW_LINE#@#  Importantly, doses of 40 mg/kg, double the concentration required in treatment assays, produced no toxicity from the Mn complex.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.g003  #@NEW_LINE#@#  
+In vivo treatment assays found that combination therapy significantly increased larval survival over 96 h compared to monotherapy (Fig 4, S6 Table).  #@NEW_LINE#@#  Little difference was observed between UV and non UV-exposed experiments, indicating that activation and perhaps CO alone, has little impact on the antibacterial activity in this model.  #@NEW_LINE#@#  
+Survival curves (live/dead) of G. mellonella over 96 h after infection with 105 CFU/larvae of APEC strain a) 99/12 and b) 236/12 and treatment with PBS, 20mg/kg of [Mn(CO)3(tpa-3N)]Br, 0.625 mg/kg of colistin, and combination of both agents.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.g004  #@NEW_LINE#@#  
+High levels of morbidity were observed over 72 h with PBS- and Mn complex-treated larvae, with large melanisation scores recorded (Fig 5, S7 Table).  #@NEW_LINE#@#  Low melanisation scores were observed in larvae treated with colistin alone and the Mn complex-colistin combination, indicating these treatments reduce morbidity.  #@NEW_LINE#@#  Mn complex-colistin production significantly lower (P less_than 0.004) melanisation scores than treatment with PBS or monotherapy with the Mn complex or colistin.  #@NEW_LINE#@#  Alongside its antibacterial activity, colistin has been previously shown to possess potent anti-endotoxin activity [23].  #@NEW_LINE#@#  This could explain the reduced shock to the larval immune system/lower melanisation scores, in larvae treated with colistin or the Mn complex-colistin combination.  #@NEW_LINE#@#  
+Melanisation assay in Galleria mellonella infected with 105 CFU/larvae of APEC strain a) 99/12 and b) 236/12 and treated with PBS, 20 mg/kg of [Mn(CO)3(tpa-3N)]Br, colistin or a combination of both agents.  #@NEW_LINE#@#  
+Higher scores indicate greater insect morbidity.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.g005  #@NEW_LINE#@#  
+Bacterial counts over 24 h show that within larvae treated with PBS, bacterial numbers increased by  greater than 1.5 log10 CFU/100L of hemolymph at 24 h (Fig 6, S8 Table).  #@NEW_LINE#@#  Treatment with colistin at 0.625 mg/kg initially reduced bacterial numbers of both 99/12 and 236/12, before regrowth of both isolates was observed at 2 h. However, bacterial numbers at 24 h did not reach that of 0 h. Treatment with [Mn(CO)3(tpa-3N)]Br produced initial bacterial killing, more significantly against 236/12, before regrowth was observed at 4 h, resulting in bacterial numbers at 24 h reaching the original CFU/larvae at 0 h. This would indicate that in vivo, the Mn complex produces bacteriostatic action within the first 24 h of administration.  #@NEW_LINE#@#  Bacterial counts indicate that the combination therapy was bactericidal and was significantly (P less_than 0.05) more effective in reducing bacterial numbers, than any monotherapy with [Mn(CO)3(tpa-3N)]Br, colistin or PBS, with total bacterial killing at 6 h for strain 236/12 and a reduction in CFU/100 L of hemolymph to less_than1.5x101 (Fig 6).  #@NEW_LINE#@#  
+Bacterial counts over 24 h from G. mellonella post infection with 105 CFU/larvae of APEC strain a) 99/12 and b) 236/12 and treatment with [Mn(CO)3(tpa-3N)]Br, colistin, a combination of both agents or PBS.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0186359.g006  #@NEW_LINE#@#  
+Although the mechanism of synergy remains to be determined, the observed activity is probably due to increased membrane permeability from the polymyxins, allowing greater amounts of the Mn complex inside the cell, thus increasing is ability to reach any potential target sites [24].  #@NEW_LINE#@#  As the Mn complex also has the potential to distrupt bacterial membranes, overall membrane disruption would be greater in the combination, resulting in increased cell leakage and eventual cell death.  #@NEW_LINE#@#  Due to this duel attack on bacterial membranes, concentrations of colistin required for antibacterial activity are lower.  #@NEW_LINE#@#  Not only is this beneficial in terms of reduced toxicity to patients/animals, but also to combat resistance to polymyxins.  #@NEW_LINE#@#  Other membrane permeabilisers such as nonapeptide [25] could be investigated for efficacy as an alternative to colistin, from which there is a risk of nephrotoxicity.  #@NEW_LINE#@#  
+Due to the original requirement of photoactivation to trigger the release of CO, it was assumed that the Mn complex would only serve as a model compound for fundamental studies on CO antibacterial activity, but with limited therapeutic applications.  #@NEW_LINE#@#  However, after investigation, it appears that its antibacterial action is not dependent on prior or post inoculation photoactivation in vivo.  #@NEW_LINE#@#  This fortuitous discovery, could increase the application of the compound from model system to the potential treatment of systemic infections in humans and animals.  #@NEW_LINE#@#  
+In conclusion, we believe this is the first study to examine the in vivo antibacterial activity of a manganese carbonyl complex.  #@NEW_LINE#@#  Its activity against avian pathogenic E. coli (APEC) significantly increases when used in conjunction with colistin.  #@NEW_LINE#@#  The work presented here clearly demonstrates that the combination also significantly reduces APEC colony forming units within G. mellonella over 24 h and also reduces larval morbidity due to APEC infection.  #@NEW_LINE#@#  The in vivo data here also confirm the in vitro results presented and indicates that UV activation of [Mn(CO)3(tpa-3)N)]Br is not required for its antibacterial activity.  #@NEW_LINE#@#  Further work should examine the activity of the title compound against other important humans and animal pathogens, such as Acinetobacter baumannii, Pseudomonas aeruginosa and Staphylococcus aureus, which are also common carriers of antibiotic resistance genes and are associated with serious infections.  #@NEW_LINE#@#  It is clear that [Mn(CO)3(tpa-3)N)]Br and related compounds have potential for future applications in human and veterinary medicine.  #@NEW_LINE#@#  Furthermore, it appears that the antimicrobial activity of metal-carbonyl complexes does not necessarily always is based on the CO release efficiency [26].  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Table_Raw_antibiogram_data_for_124_avian_pathogenic_E_coli_strains  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s001  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S2_Table_Raw_data_for_UV_(365_nm)_exposure_effect_on_avian_pathogenic_E_coli_growth_rate  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s002  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S3_Table_Raw_minimum_inhibitory_concentrations_data_against_avian_pathogenic_E_coli_strains  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s003  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S4_Table_Raw_kill_kinetics_data_for_[Mn(CO)3(tpa-3N)]Br__colistin_and_combination_of_both_agents_(x1_MIC_+_05_MIC)_versus_APEC_strains_99_12_and_236_12_over_24_h  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s004  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S5_Table_Percentage_survival_scores_for_G_mellonella_toxicity_assay  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s005  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S6_Table_Pooled_percentage_survival_scores_for_G_mellonella_live_dead_treatment_assays_[Mn(CO)3(tpa-3N)]Br__colistin_and_combination_of_both_agents  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s006  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S7_Table_Melanisation_scores_for_G_mellonella_treatment_assays_with_[Mn(CO)3(tpa-3N)]Br__colistin_and_combination_of_both_agents  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s007  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+S8_Table_Bacterial_counts_(colony_forming_units_100L_of_haemolymph)_over_24_h_after_treatment_[Mn(CO)3(tpa-3N)]Br__colistin_and_combination_of_both_agents  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0186359.s008  #@NEW_LINE#@#  
+(XLSX)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We would like to gratefully acknowledge Dr Tim Wallis at Ridgeway Biologicals for the supply of the Escherichia coli strains.  #@NEW_LINE#@#  We would like to gratefully acknowledge the Biotechnology and Biological Sciences Council (BBSRC) for funding this work (BB/M022579/1).  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

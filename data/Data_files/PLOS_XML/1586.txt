@@ -1,0 +1,157 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002369"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Benefits and safety of gabapentinoids in chronic low back pain: A systematic review and meta-analysis of randomized controlled trials  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background_and_objective  #@NEW_LINE#@#  
+Chronic Low Back Pain (CLBP) is very common, with a lifetime prevalence between 51% and 80%.  #@NEW_LINE#@#  In majority, it is nonspecific in nature and multifactorial in etiology.  #@NEW_LINE#@#  Pregabalin (PG) and Gabapentin (GB) are gabapentinoids that have demonstrated benefit in neuropathic pain conditions.  #@NEW_LINE#@#  Despite no clear rationale, they are increasingly used for nonspecific CLBP.  #@NEW_LINE#@#  They necessitate prolonged use and are associated with adverse effects and increased cost.  #@NEW_LINE#@#  Recent guidelines from the National Health Service (NHS), England, expressed concerns on their off-label use, in addition to the risk of misuse.  #@NEW_LINE#@#  We aimed to assess the effectiveness and safety of gabapentinoids in adult CLBP patients.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Electronic databases of MEDLINE, EMBASE, and Cochrane were searched from their inception until December 20th, 2016.  #@NEW_LINE#@#  We included randomized control trials reporting the use of gabapentinoids for the treatment of CLBP of  greater than 3 months duration, in adult patients.  #@NEW_LINE#@#  Study selection and data extraction was performed independently by paired reviewers.  #@NEW_LINE#@#  Outcomes were guided by Initiative on Methods, Measurement and Pain Assessment in Clinical Trials guidelines, with pain relief and safety as the primary outcomes.  #@NEW_LINE#@#  Meta-analyses were performed for outcomes reported in 3 or more studies.  #@NEW_LINE#@#  Outcomes were reported as mean differences (MDs) or risk ratios (RRs) with their corresponding 95% confidence intervals (CIs), and I2 in percentage representing the percentage variability in effect estimates that could be explained by heterogeneity.  #@NEW_LINE#@#  GRADE (Grading of Recommendations Assessment, Development, and Evaluation) was used to assess the quality of evidence.  #@NEW_LINE#@#  
+
+Results  #@NEW_LINE#@#  
+Out of 1,385 citations, eight studies were included.  #@NEW_LINE#@#  Based on the interventions and comparators, studies were analyzed in 3 different groups.  #@NEW_LINE#@#  GB compared with placebo (3 studies, n = 185) showed minimal improvement of pain (MD = 0.22 units, 95% CI [0.5 to 0.07] I2 = 0%; GRADE: very low).  #@NEW_LINE#@#  Three studies compared PG with other types of analgesic medication (n = 332) and showed greater improvement in the other analgesic group (MD = 0.42 units, 95% CI [0.20 to 0.64] I2 = 0; GRADE: very low).  #@NEW_LINE#@#  Studies using PG as an adjuvant (n = 423) were not pooled due to heterogeneity, but the largest of them showed no benefit of adding PG to tapentadol.  #@NEW_LINE#@#  There were no deaths or hospitalizations reported.  #@NEW_LINE#@#  Compared with placebo, the following adverse events were more commonly reported with GB: dizziness-(RR = 1.99, 95% CI [1.17 to 3.37], I2 = 49); fatigue (RR = 1.85, 95% CI [1.12 to 3.05], I2 = 0); difficulties with mentation (RR = 3.34, 95% CI [1.54 to 7.25], I2 = 0); and visual disturbances (RR = 5.72, 95% CI [1.94 to 16.91], I2 = 0).  #@NEW_LINE#@#  The number needed to harm with 95% CI for dizziness, fatigue, difficulties with mentation, and visual disturbances were 7 (4 to 30), 8 (4 to 44), 6 (4 to 15), and 6 (4 to 13) respectively.  #@NEW_LINE#@#  The GRADE evidence quality was noted to be very low for dizziness and fatigue, low for difficulties with mentation, and moderate for visual disturbances.  #@NEW_LINE#@#  Functional and emotional improvements were reported by few studies and showed no significant improvements.  #@NEW_LINE#@#  
+
+Conclusions_and_relevance  #@NEW_LINE#@#  
+Existing evidence on the use of gabapentinoids in CLBP is limited and demonstrates significant risk of adverse effects without any demonstrated benefit.  #@NEW_LINE#@#  Given the lack of efficacy, risks, and costs associated, the use of gabapentinoids for CLBP merits caution.  #@NEW_LINE#@#  There is need for large high-quality trials to more definitively inform this issue.  #@NEW_LINE#@#  
+
+Trial_registration  #@NEW_LINE#@#  
+PROSPERO CRD42016034040  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Shanthanna H, Gilron I, Rajarathinam M, AlAmri R, Kamath S, Thabane L, et al.  #@NEW_LINE#@#  (2017) Benefits and safety of gabapentinoids in chronic low back pain: A systematic review and meta-analysis of randomized controlled trials.  #@NEW_LINE#@#  PLoS Med 14(8):  #@NEW_LINE#@#  
+           e1002369.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002369  #@NEW_LINE#@#  
+Academic Editor: Alexander C. Tsai, Massachusetts General Hospital, UNITED STATES  #@NEW_LINE#@#  
+Received: March 3, 2017; Accepted: July 6, 2017; Published:  August 15, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Shanthanna et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All data are available in the manuscript or the supporting information files.  #@NEW_LINE#@#  
+Funding: The article processing charges for the article were supported through funds from a Canadian Institute of Health Research (CIHR) Randomized Controlled Trials Mentoring Program grant, awarded to Dr. Shanthanna in 2014.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          ARI,  #@NEW_LINE#@#  
+            absolute risk increase; BUP,  #@NEW_LINE#@#  
+            buprenorphine; CENTRAL,  #@NEW_LINE#@#  
+            Cochrane Central Registry of Controlled Trials; CI,  #@NEW_LINE#@#  
+            confidence interval; CLBP,  #@NEW_LINE#@#  
+            chronic low back pain; CX,  #@NEW_LINE#@#  
+            Celebrex; EQUATOR,  #@NEW_LINE#@#  
+            Enhancing the QUAlity and Transparency Of health Research; GB,  #@NEW_LINE#@#  
+            gabapentin; GIC,  #@NEW_LINE#@#  
+            global impression of change; GRADE,  #@NEW_LINE#@#  
+            Grading of Recommendations Assessment, Development, and Evaluation; IMMPACT,  #@NEW_LINE#@#  
+            Initiative on Methods, Measurement and Pain Assessment in Clinical Trials; LTFU,  #@NEW_LINE#@#  
+            loss to follow-up; MD,  #@NEW_LINE#@#  
+            mean difference; NHS,  #@NEW_LINE#@#  
+            National Health Service; NNH,  #@NEW_LINE#@#  
+            number needed to harm; NP,  #@NEW_LINE#@#  
+            neuropathic pain; PG,  #@NEW_LINE#@#  
+            pregabalin; QOL,  #@NEW_LINE#@#  
+            quality of life; RCT,  #@NEW_LINE#@#  
+            randomized controlled trial; RoB,  #@NEW_LINE#@#  
+            risk of bias; RR,  #@NEW_LINE#@#  
+            risk ratio; SD,  #@NEW_LINE#@#  
+            standard deviation; SMD,  #@NEW_LINE#@#  
+            standardized mean difference; SOF,  #@NEW_LINE#@#  
+            summary of findings; TAP,  #@NEW_LINE#@#  
+            tapentadol; VAS,  #@NEW_LINE#@#  
+            visual analogue scale  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Chronic Low Back Pain (CLBP) is very common and is associated with significant patient burden and heath resource expenditure [13].  #@NEW_LINE#@#  It is largely nonspecific in nature and in up to 85% of patients lacks a clear pathoanatomical diagnosis when present in isolation [14].  #@NEW_LINE#@#  We have previously highlighted the etiological and treatment considerations for CLBP, along with the limitations within the existing evidence [5].  #@NEW_LINE#@#  A large proportion of CLBP patients are treated with routine analgesic medications with unsatisfactory results leading to frequent exploration of second line options including gabapentinoids [6, 7].  #@NEW_LINE#@#  In particular, the use of gabapentin (GB) and pregabalin (PG) is made on the rationale of modulating the enhanced neurotransmission at the level of presynaptic receptors of the afferent neurons.  #@NEW_LINE#@#  Both of these medications primarily act on the -2 delta-2 subunit of the voltage-dependent calcium channels [8, 9] and can be considered to have very similar pharmacodynamic actions on pain and other symptoms.  #@NEW_LINE#@#  They are considered to be very effective for neuropathic pain (NP) conditions.  #@NEW_LINE#@#  Attempts at exploiting their therapeutic potential for other pain conditions have shown mixed results [10, 11].  #@NEW_LINE#@#  Use of gabapentinoids for CLBP requires slow titration to therapeutic doses and establishing maintenance on a long-term basis.  #@NEW_LINE#@#  With prolonged treatment, the potential gain over possible adverse effects and risks could become unclear [9].  #@NEW_LINE#@#  There have been concerns over the excessive off-label use of GB, despite there being a clear lack of clinical studies [12], necessitating advisory guidelines by the National Health Services (NHS), United Kingdom on the risk of the misuse of gabapentinoids [13].  #@NEW_LINE#@#  Our primary objectives were to assess the benefits of GB and PG in CLBP in decreasing pain and to examine the risk of adverse effects.  #@NEW_LINE#@#  Secondarily, we assessed the effects of PG and GB on the Initiative on Methods, Measurement and Pain Assessment in Clinical Trials (IMMPACT) outcomes [14].  #@NEW_LINE#@#  The outcomes considered were physical and emotional functioning, participant ratings of global improvement and satisfaction with treatment, and participant disposition.  #@NEW_LINE#@#  Additionally, we attempted to assess whether the use of gabapentinoids selectively improve pain relief in patients with predominant neuropathic CLBP.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+As this is a systematic review, ethics committee approval is not applicable.  #@NEW_LINE#@#  
+Protocol_and_registration  #@NEW_LINE#@#  
+Our review was registered with PROSPERO with the registration number CRD42016034040.  #@NEW_LINE#@#  This report has been prepared according to PRISMA guidelines [15], as suggested by the Enhancing the QUAlity and Transparency Of health Research (EQUATOR) network (S1 PRISMA checklist).  #@NEW_LINE#@#  Our detailed review protocol has been previously published [5].  #@NEW_LINE#@#  
+
+Eligibility_criteria  #@NEW_LINE#@#  
+We included randomized controlled trials (RCTs) involving adult patients ( greater than 18 years of age) with predominant CLBP of 3 months or more, with or without leg pain.  #@NEW_LINE#@#  We did not have any language exclusions.  #@NEW_LINE#@#  Studies with mixed population of chronic pain were only included if they report outcomes separately for our study population of interest, or if at least 90% of the trial patients are  greater than 18 years with predominant CLBP.  #@NEW_LINE#@#  Studies were further screened for interventions and were included if they randomized patients to receive PG or GB, either alone or in combination with other treatment, and compared it with any active or inactive treatments.  #@NEW_LINE#@#  
+
+Information_sources  #@NEW_LINE#@#  
+We searched the electronic databases of EMBASE, MEDLINE, and the Cochrane Central Registry of Controlled Trials (CENTRAL), from their inception until January 26th, 2016. WHO clinical trial registry (http://apps.who.int/trialsearch/Default.aspx), and clinical trial registry (https://clinicaltrials.gov/), were also searched to look for any registered studies, fulfilling our eligibility criteria, and crosschecked for their resulting publications.  #@NEW_LINE#@#  To be comprehensive, bibliographies of relevant reviews and selected studies were examined.  #@NEW_LINE#@#  Since performing the original search, we also repeated our search on December 20th, 2016 to ensure that we have not missed any recent publications.  #@NEW_LINE#@#  
+
+Search_strategy  #@NEW_LINE#@#  
+The search was performed using a sensitive strategy by an experienced librarian for each specific database.  #@NEW_LINE#@#  We included terms referring to study population of low back pain, and terms referring to study interventions such as GB, PG, and anticonvulsants [5].  #@NEW_LINE#@#  The strategy is provided as a supplementary file (S1 Text).  #@NEW_LINE#@#  
+
+Study_screening_and_selection  #@NEW_LINE#@#  
+Using paired reviewers screening independently and in duplicate, study selection was performed in 2 stages.  #@NEW_LINE#@#  Titles and abstracts were screened in the first stage, followed by full text screening on citations felt potentially eligible.  #@NEW_LINE#@#  A calibration exercise between reviewer pairs ensured consistency in screening and disagreement were resolved by consensus or through discussion with the principal investigator (HS).  #@NEW_LINE#@#  A quadratic kappa statistic on the full article final decision was estimated as a measure of interobserver agreement [16].  #@NEW_LINE#@#  
+
+Data_collection_process  #@NEW_LINE#@#  
+The same paired reviewers extracted the data independently and in duplicate, using electronic data extraction forms that were piloted between the reviewers for consistency and accuracy.  #@NEW_LINE#@#  An instruction manual was provided to assist with the data extraction process.  #@NEW_LINE#@#  
+
+Data_items  #@NEW_LINE#@#  
+Data items extracted from each study included study characteristics, risk of bias (RoB) items, demographic information, participant disposition through the study, and our review outcomes on continuous and binary measures captured on 6 core domains as recommended by the IMMPACT statement guidelines [14].  #@NEW_LINE#@#  
+
+RoB_in_individual_studies  #@NEW_LINE#@#  
+RoB was assessed using the Cochrane RoB tool modified to capture the components of random sequence generation; allocation concealment; blinding of participants; blinding of outcome assessment; and analysis of incomplete outcome data.  #@NEW_LINE#@#  Further, we modified the response options of domains as definitely yes, probably yes, probably no, and definitely no.  #@NEW_LINE#@#  For each domain, the responses of definitely yes and probably yes categories were assigned a high RoB and those in the probably no and definitely no categories a low RoB[17].  #@NEW_LINE#@#  Crossover studies were assessed for reasonable washout period [18].  #@NEW_LINE#@#  No attempt was made to contact authors for clarification on the RoB items.  #@NEW_LINE#@#  Selective outcome reporting was judged based on the outcomes described in the methods section but not reported in the results section [19].  #@NEW_LINE#@#  
+
+Additional_RoB_items  #@NEW_LINE#@#  
+Additionally, we considered the domains for chronic pain studies as suggested by Moore et al.  #@NEW_LINE#@#  [20] and added the domains of outcome assessment time (12 weeks or more as low risk), outcome assessment threshold ( greater than 30% improvement in pain relief as low risk), and potential for publication bias based on the sample size threshold ( greater than 50 as low risk) to identify a trial as having the potential for publication bias based on low sample size.  #@NEW_LINE#@#  Trials with low sample size can increase the chances of erroneously large treatment effect sizes and indirectly contribute to publication bias [21, 22].  #@NEW_LINE#@#  
+
+Outcomes_and_prioritization  #@NEW_LINE#@#  
+A priori, we specified pain relief and safety (adverse effects) as our primary outcomes and others as secondary outcomes, and prioritized the use of intent to treat analysis.  #@NEW_LINE#@#  Pain relief expressed as both continuous and categorical outcomes, and at various time points, was extracted for all reported time points.  #@NEW_LINE#@#  For pooling, we considered the most common type and the longest duration of follow-up reported.  #@NEW_LINE#@#  A priori, we prioritized change scores over end scores for pooling analysis.  #@NEW_LINE#@#  Change scores are considered more efficient and powerful than comparison of final scores, as it removes a component of between-person variability from the analysis [18].  #@NEW_LINE#@#  For pain relief expressed as continuous scores, we converted all study outcomes into a common 010 numerical rating scale, as it is commonly used and easy to interpret [14].  #@NEW_LINE#@#  The approach to conversion into a common scale is shown in S2 Text.  #@NEW_LINE#@#  Safety was assessed by comparing the risk of serious adverse events causing death, hospitalisation, or study withdrawal.  #@NEW_LINE#@#  If unclear, we considered reporting the most commonly reported adverse effects.  #@NEW_LINE#@#  Due to the expected differences within measurement scales, secondary outcomes of improvement in physical and emotional functioning, and participant ratings of global improvement and satisfaction were not converted into a single common scale.  #@NEW_LINE#@#  
+
+Synthesis_of_results_and_summary_measures  #@NEW_LINE#@#  
+Data were pooled only if there are 3 or more studies contributing to an outcome domain.  #@NEW_LINE#@#  Our selection criteria allowed for a relatively homogeneous population of CLBP who tend to be approached similarly from a clinical situation.  #@NEW_LINE#@#  However, we recognized the potential for heterogeneity based on study interventions and comparator interventions.  #@NEW_LINE#@#  In view of these obvious sources of heterogeneity, we decided a priori to pool studies using PG or GB, either alone or in combination, separately.  #@NEW_LINE#@#  Extracted data were compiled and checked for accuracy using Microsoft Excel.  #@NEW_LINE#@#  RoB was assessed using a modified Cochrane RoB tool that is described below.  #@NEW_LINE#@#  For the primary analysis, we used a complete case analysis, as reported in individual studies.  #@NEW_LINE#@#  Sensitivity analyses for incomplete outcome data were performed.  #@NEW_LINE#@#  Analysis and synthesis was carried out using Review Manager (RevMan) [Computer program], Version 5.3.  #@NEW_LINE#@#  Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014; and Microsoft Excel 2011 (Mac version).  #@NEW_LINE#@#  Based on the comparator and interventions, if we did not expect much between study variance, a fixed effects model was used for pooling.  #@NEW_LINE#@#  However, if we suspected between study variance, or in the presence of unexplained heterogeneity, a random effects model was chosen [18].  #@NEW_LINE#@#  For crossover studies, we prioritized the results from a paired test.  #@NEW_LINE#@#  If not provided, results of unpaired tests were considered.  #@NEW_LINE#@#  If there was a potential for carryover effect, or if there is a significant drop out rate ( greater than 20%), the results from the first period only were considered [18].  #@NEW_LINE#@#  Statistical heterogeneity was estimated using Cochranes Q test, with a threshold of p-value at 0.10, and the percentage variability in individual effect estimates was described by I2 statistic [18].  #@NEW_LINE#@#  Risk Ratio (RR), and mean difference (MD) or standardized mean differences (SMDs) as appropriate, were estimated along with their 95% confidence intervals (CI).  #@NEW_LINE#@#  We planned to report the findings in measures of absolute risk, if they were observed to be statistically significant.  #@NEW_LINE#@#  Rating of quality of evidence was done using GRADE approach, with a summary of findings (SOF) table.  #@NEW_LINE#@#  
+
+Additional_analysis  #@NEW_LINE#@#  
+A subgroup analysis was considered in studies that screened for the presence of NP using a screening questionnaire at baseline and reported pain relief in patients of NP separately.  #@NEW_LINE#@#  Sensitivity analyses for the outcome of pain relief was carried out for studies reporting  greater than 5% loss to follow-up (LTFU).  #@NEW_LINE#@#  These were carried out using well-described imputation strategies [23, 24].  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Study_selection  #@NEW_LINE#@#  
+Our search identified a total of 1,385 citations after exclusion of duplicates.  #@NEW_LINE#@#  Among the 29 articles assessed for full text, 21 studies were excluded with reasons that are shown in Fig 1.  #@NEW_LINE#@#  Eight studies were included for qualitative and six for quantitative analysis (Fig 1).  #@NEW_LINE#@#  There was almost perfect agreement, indicated by kappa = 0.82, between reviewers at the full-text screening stage.  #@NEW_LINE#@#  
+
+Study_characteristics  #@NEW_LINE#@#  
+Important characteristics of the study population and treatments are provided in Table 1.  #@NEW_LINE#@#  Of the 8 studies, 3 compared the use of GB to placebo treatment [25, 27], and 5 used PG [2832].  #@NEW_LINE#@#  There were 2 crossover studies using GB [26] and PG [31].  #@NEW_LINE#@#  Only 2 studies were multicentered and had external funding for the conduct of their trial [25, 28].  #@NEW_LINE#@#  Among the PG trials, 3 trials used an active comparator (amitryptline, celebrex, tramacet) versus PG alone [29, 31, 32].  #@NEW_LINE#@#  As the study by Romano et al.  #@NEW_LINE#@#  had 3 arms [31], they compared PG alone versus celebrex (CX) versus a combination of PG plus CX.  #@NEW_LINE#@#  So, there were 3 comparisons involving PG as an adjunct to an analgesic medication versus their respective analgesic medication [28, 30, 31].  #@NEW_LINE#@#  The mean age ranged between 41.6 to 58.5 years, except in the study by Sakai et al.  #@NEW_LINE#@#  [32].  #@NEW_LINE#@#  However, the duration of pre-existing CLBP had a much wider range of 13 to 213 months.  #@NEW_LINE#@#  The treatment doses were titrated for clinical effect in all studies, except for Sakai et al., who had a fixed dosing of PG [32].  #@NEW_LINE#@#  The doses ranged from 300 to 3,600 mg/day with GB and 100 to 600 mg/day with PG, in divided doses.  #@NEW_LINE#@#  Only 3 studies assessed specifically for NP using a screening questionnaire [28, 31, 32].  #@NEW_LINE#@#  
+
+RoB_within_studies_(Fig_2)  #@NEW_LINE#@#  
+Six of the eight studies had a risk of selection bias, six for allocation concealment and three for sequence generation, and four involved a risk of detection bias.  #@NEW_LINE#@#  The studies by Baron et al.  #@NEW_LINE#@#  [28], and Atkinson et al.  #@NEW_LINE#@#  [25] were rated as having low RoB for most domains, and both crossover studies had a higher risk of selection bias [26, 31].  #@NEW_LINE#@#  
+
+Study_outcomes_and_synthesis_of_results  #@NEW_LINE#@#  
+Except 2 studies that reported using 0100 scale [30, 31], all others reported their pain scores on a scale of 010 NRS or Visual Analogue Scale (VAS).  #@NEW_LINE#@#  Five studies provided a dichotomous measure of treatment success by varying thresholds [2529, 32].  #@NEW_LINE#@#  All studies reported on one or more adverse effects.  #@NEW_LINE#@#  Functional improvement was reported in 5 studies [25, 26, 28, 29, 32], quality of life (QOL) improvement by 2 studies [28, 32], psychological improvement or improvement in depression by 3 studies [25, 28, 32], and global impression of change (GIC) only by 2 studies [25, 28].  #@NEW_LINE#@#  
+
+RoB_across_studies_(Fig_2)  #@NEW_LINE#@#  
+Based on our criteria, potential bias due to outcome threshold, assessment time point, and publication bias due to low sample size was observed largely by 5 studies [26, 27, 3032].  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+Despite the widespread use, our systematic review with meta-analysis found that there are very few RCTs that have attempted to assess the benefit of using GB or PG in patients of CLBP.  #@NEW_LINE#@#  Use of GB and PG, compared to placebo and active analgesic comparators, respectively, were associated with significant increase in adverse effects without limited evidence for improvement in pain scores or other outcomes.  #@NEW_LINE#@#  We were unable to examine the pooled effect of using PG as an adjuvant analgesic medication given the limited evidence and heterogeneity of studies.  #@NEW_LINE#@#  It is reasonable to assume that the clinical benefit would depend upon the primary medication and its potency within each study.  #@NEW_LINE#@#  The differences within the results of Pota et al.  #@NEW_LINE#@#  [30] and Romano et al.  #@NEW_LINE#@#  [31], compared to Baron et al.  #@NEW_LINE#@#  [28] could be attributed to methodological differences.  #@NEW_LINE#@#  The study by Baron et al.  #@NEW_LINE#@#  had a larger sample size along with longer duration of follow up.  #@NEW_LINE#@#  Hence, the existing evidence does not support the use of gabapentinoids for predominant CLBP, and calls for larger, high quality RCTs to more definitively inform this issue.  #@NEW_LINE#@#  
+Considering the expanding use of gabapentinoids for chronic pain and CLBP [33, 34], this review fulfils the immediate need to scrutinize and closely examine the existing evidence.  #@NEW_LINE#@#  Noting that there is a published Cochrane protocol [35], ours is the first review combined with meta-analysis to examine the benefits and safety of gabapentinoids in CLBP.  #@NEW_LINE#@#  Results of our review are in contrast with nonrandomized studies that have shown benefit with PG in patients of CLBP [36, 37].  #@NEW_LINE#@#  Gabapentinoids have proven efficacy in NP conditions [38].  #@NEW_LINE#@#  However, they are also widely used for conditions in which the neuropathic component is difficult to establish, most of which are off label uses [12].  #@NEW_LINE#@#  This development perhaps reflects the penumbra sort of effect (clinicians generalizing the selection criteria of clinical studies into their patient population without recognizing the limitations) [39].  #@NEW_LINE#@#  In England, there was a 46% and 53% rise in the prescription use of GB and PG respectively from 2011 to 2013 alone [13].  #@NEW_LINE#@#  A recent Canadian study showed that the off-label use of PG is as high as 75%, and the most prevalent condition of use was CLBP [40].  #@NEW_LINE#@#  The true burden of NP in CLBP is hard to establish [41].  #@NEW_LINE#@#  Distribution of pain can be considered as a corollary of the pathological process, and it is important to broadly classify patients based on their predominance of axial or leg pain for diagnosis and management [2].  #@NEW_LINE#@#  A common assumption is of leg pain indicating NP.  #@NEW_LINE#@#  However, in most cases leg pain is nonspecific and inconsistent with radicular pain, and only a painful radiculopathy with sensory signs would fulfill the diagnosis of definite NP [41].  #@NEW_LINE#@#  Even if one considers that gabapentinoids are effective against NP related to CLBP, contrasting evidences are observed in literature.  #@NEW_LINE#@#  In patients of radicular pain or pain of spinal stenosis, observational studies of CLBP demonstrate significant improvements with PG [42, 43].  #@NEW_LINE#@#  However, RCTs performed by Baron et al.  #@NEW_LINE#@#  in patients of lumbar radiculopathy and Markman et al.  #@NEW_LINE#@#  in patients of spinal stenosis did not find clinical improvements when PG was compared with placebo [44, 45].  #@NEW_LINE#@#  Cohen et al.  #@NEW_LINE#@#  examined the benefit of GB in patients of leg pain and found no difference as compared to epidural steroid injections [46].  #@NEW_LINE#@#  Even within the included study by Baron et al., the reduction of pain and NP symptoms was similar with the combination of PG with TP, compared to TP [28].  #@NEW_LINE#@#  Our results are important for practitioners across several specialties who treat patients with CLBP and have to decide on the relative merits and demerits of treatment with gabapentinoids.  #@NEW_LINE#@#  
+Our review is not without its limitations.  #@NEW_LINE#@#  We excluded studies in patients of predominant leg pain or spinal stenosis.  #@NEW_LINE#@#  This was done to limit the heterogeneity within our study population.  #@NEW_LINE#@#  Although the measure of heterogeneity (I2-proportion of variability that can be explained by individual studies) was low in many comparisons, the CIs around those I2 were very wide, reflecting that there is uncertainty in any claim of homogeneity.  #@NEW_LINE#@#  Heterogeneity has been shown to be an issue with meta-analyses involving a smaller number of trials or events [47].  #@NEW_LINE#@#  Topiramate was not considered in this review, as it has a slightly different mechanism of action and is not commonly used, although some controlled studies have shown benefit [48].  #@NEW_LINE#@#  The use of PG or GB is associated with significant adverse effects, cost [13], and potential for misuse [34, 49].  #@NEW_LINE#@#  
+Our review demonstrates that there is limited evidence on the use of gabapentinoids in nonspecific CLBP, and the existing evidence in the form of RCTs does not support their use.  #@NEW_LINE#@#  It is possible that ongoing or unpublished studies [50, 51] may more definitively inform us on this issue, although one such study specific to CLBP was withdrawn prior to enrollment [52].  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Text_Search_strategy_for_MEDLINE_and_EMBASE  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002369.s001  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Text_Rescaling_or_conversion_of_pain_scores_to_a_common_010_numerical_rating_scale  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002369.s002  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Fig_Forest_plot_showing_comparison_of_studies_using_pregabalin_as_an_adjunct_analgesic_compared_to_active_analgesic  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002369.s003  #@NEW_LINE#@#  
+(TIF)  #@NEW_LINE#@#  
+
+S1_PRISMA_checklist_  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002369.s004  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors acknowledge the assistance provided by Ms. Rachel Couban (librarian) and Dr. Li Wang (statistician), from the Michael DeGroote Pain Institute, McMaster University, Canada, in conducting the literature search and statistical analysis.  #@NEW_LINE#@#  The authors thank Drs.  #@NEW_LINE#@#  Atkinson and Sakai for sharing their study results to assist with our analysis of pain relief.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

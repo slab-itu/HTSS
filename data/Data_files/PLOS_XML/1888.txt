@@ -1,0 +1,303 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002471"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Cell salvage and donor blood transfusion during cesarean section: A pragmatic, multicentre randomised controlled trial (SALVO)  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Excessive haemorrhage at cesarean section requires donor (allogeneic) blood transfusion.  #@NEW_LINE#@#  Cell salvage may reduce this requirement.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+We conducted a pragmatic randomised controlled trial (at 26 obstetric units; participants recruited from 4 June 2013 to 17 April 2016) of routine cell salvage use (intervention) versus current standard of care without routine salvage use (control) in cesarean section among women at risk of haemorrhage.  #@NEW_LINE#@#  Randomisation was stratified, using random permuted blocks of variable sizes.  #@NEW_LINE#@#  In an intention-to-treat analysis, we used multivariable models, adjusting for stratification variables and prognostic factors identified a priori, to compare rates of donor blood transfusion (primary outcome) and fetomaternal haemorrhage 2 ml in RhD-negative women with RhD-positive babies (a secondary outcome) between groups.  #@NEW_LINE#@#  Among 3,028 women randomised (2,990 analysed), 95.6% of 1,498 assigned to intervention had cell salvage deployed (50.8% had salvaged blood returned; mean 259.9 ml) versus 3.9% of 1,492 assigned to control.  #@NEW_LINE#@#  Donor blood transfusion rate was 3.5% in the control group versus 2.5% in the intervention group (adjusted odds ratio [OR] 0.65, 95% confidence interval [CI] 0.42 to 1.01, p = 0.056; adjusted risk difference 1.03, 95% CI 2.13 to 0.06).  #@NEW_LINE#@#  In a planned subgroup analysis, the transfusion rate was 4.6% in women assigned to control versus 3.0% in the intervention group among emergency cesareans (adjusted OR 0.58, 95% CI 0.34 to 0.99), whereas it was 2.2% versus 1.8% among elective cesareans (adjusted OR 0.83, 95% CI 0.38 to 1.83) (interaction p = 0.46).  #@NEW_LINE#@#  No case of amniotic fluid embolism was observed.  #@NEW_LINE#@#  The rate of fetomaternal haemorrhage was higher with the intervention (10.5% in the control group versus 25.6% in the intervention group, adjusted OR 5.63, 95% CI 1.43 to 22.14, p = 0.013).  #@NEW_LINE#@#  We are unable to comment on long-term antibody sensitisation effects.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+The overall reduction observed in donor blood transfusion associated with the routine use of cell salvage during cesarean section was not statistically significant.  #@NEW_LINE#@#  
+
+Trial_registration  #@NEW_LINE#@#  
+This trial was prospectively registered on ISRCTN as trial number 66118656 and can be viewed on http://www.isrctn.com/ISRCTN66118656.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Khan KS, Moore PAS, Wilson MJ, Hooper R, Allard S, Wrench I, et al.  #@NEW_LINE#@#  (2017) Cell salvage and donor blood transfusion during cesarean section: A pragmatic, multicentre randomised controlled trial (SALVO).  #@NEW_LINE#@#  PLoS Med 14(12):  #@NEW_LINE#@#  
+           e1002471.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002471  #@NEW_LINE#@#  
+Academic Editor: Jenny E. Myers, University of Manchester, UNITED KINGDOM  #@NEW_LINE#@#  
+Received: August 14, 2017; Accepted: November 13, 2017; Published:  December 19, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Khan et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are summarised within the paper and its Supporting Information files.  #@NEW_LINE#@#  There are restrictions on the availability of raw data for this study, due to data confidentiality and patient privacy.  #@NEW_LINE#@#  Researchers wishing to access the SALVO trial data for the purposes of replicating or verifying our analyses can apply to the Data Sharing Committee at the Pragmatic Clinical Trials Unit, Centre for Primary Care and Public Health, Queen Mary University of London, 58 Turner Street, London E1 2AB, UK; e-mail address: pctu-data-sharing@qmul.ac.uk.  #@NEW_LINE#@#  
+Funding: This project was funded by the UK National Institute for Health Research Health Technology Assessment programme (project number 10/57/32, https://www.journalslibrary.nihr.ac.uk/programmes/hta/105732#/).  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  I have read the journals policy and the authors of this manuscript have the following competing interests: Primary NIHR grant supporting the roles of KK, PM, RH, IW, LB, TR, CM, JDa, SR, DL and JDo.  #@NEW_LINE#@#  PM also declares having been a co-applicant for two other NIHR-funded grants over within the last five years.  #@NEW_LINE#@#  Other than this, all authors declare no support from any organisation for the submitted work; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          CI,  #@NEW_LINE#@#  
+            confidence interval; HR,  #@NEW_LINE#@#  
+            hazard ratio; MFI,  #@NEW_LINE#@#  
+            Multidimensional Fatigue Inventory; NNT,  #@NEW_LINE#@#  
+            number needed to treat; OR,  #@NEW_LINE#@#  
+            odds ratio  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Childbirth by cesarean section is on the rise worldwide [1].  #@NEW_LINE#@#  Excessive blood loss (haemorrhage) is an important cause of maternal death [2], emergency hysterectomy [3], and maternal critical care admission [4] among women undergoing a cesarean birth [5].  #@NEW_LINE#@#  The treatment of major haemorrhage, in addition to optimising red cell mass and managing anaemia, includes strategies to minimise blood loss.  #@NEW_LINE#@#  Donor (allogeneic) blood transfusion is employed when the operative loss is life-threatening or when the mother has severe anaemia following arrest of haemorrhage.  #@NEW_LINE#@#  Red cell concentrates used in donor transfusion are a finite, nationally pooled resource in demand simultaneously by many clinical services [6].  #@NEW_LINE#@#  Such transfusions also carry risks for recipients [7].  #@NEW_LINE#@#  To promote alternatives to donor transfusion, harnessing the patients own reserves where feasible, is a recognised need [8,9].  #@NEW_LINE#@#  
+Along with surgical expedience and medical therapy (including tranexamic acid [10,11]), the use of intraoperative cell salvage may reduce the pressure on transfusion services.  #@NEW_LINE#@#  Cell salvage, which collects, processes, and returns the womans own blood lost during surgery, is increasingly being deployed during cesareans.  #@NEW_LINE#@#  In theory, it reduces the infectious and allergenic risks associated with donor blood transfusion.  #@NEW_LINE#@#  It has also been shown to reduce the need for such transfusions in a wide spectrum of surgical disciplines [12,13].  #@NEW_LINE#@#  However, obstetric practitioners remain concerned about the risk of amniotic fluid embolism and red cell isoimmunisation with the use of cell salvage [14,15].  #@NEW_LINE#@#  Evidence for its effective, safe use in obstetrics is limited [1618], and our systematic review [16] identified only 2 small randomised controlled trials with inconclusive findings [19,20]; thus, opinion about its value is not yet solidified [18].  #@NEW_LINE#@#  
+We conducted a large, pragmatic, multicentre randomised trial to determine whether the routine use of cell salvage during cesarean section in women at risk of haemorrhage could safely reduce the need for donor blood transfusion in comparison to the current standard of care, where salvage is not routinely used.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Study_design_and_setting  #@NEW_LINE#@#  
+The SALVO study was designed as a pragmatic, multicentre individually randomised controlled trial with cost-effectiveness analysis.  #@NEW_LINE#@#  The study protocol was approved by the UK National Research Ethics Committee (North WestHaydock, approval number 12/NW/0513), and local permission was obtained in all participating obstetric units.  #@NEW_LINE#@#  The study protocol is available as S1 Text and can also be accessed at https://njl-admin.nihr.ac.uk/document/download/2007068.  #@NEW_LINE#@#  The trial was conducted in 26 UK obstetric units.  #@NEW_LINE#@#  No changes to the protocol design, statistical parameters, outcomes, eligibility criteria, or intervention were introduced during the study.  #@NEW_LINE#@#  Three substantial amendments to the protocol concerned changes to recruitment materials and strategies as well as clarifications.  #@NEW_LINE#@#  The findings are reported as per CONSORT guidelines (S2 Text).  #@NEW_LINE#@#  
+
+Participants  #@NEW_LINE#@#  
+Our sample consisted of women who were admitted to the labour ward for delivery by emergency or elective cesarean section, with an identifiable increased risk of haemorrhage, who were at least 16 years of age, and able to understand written and spoken English for informed consent.  #@NEW_LINE#@#  We defined increased risk of haemorrhage as any emergency cesarean or as an elective cesarean for any reason other than maternal preference or known breech presentation, i.e., we excluded women undergoing an elective first cesarean due to either maternal preference or known breech presentation.  #@NEW_LINE#@#  We also excluded women with contraindications to either cell salvage or donor blood transfusion, such as active malignancy; sickle cell disease or trait; cultural, religious, or social beliefs against donor blood transfusion; or rare antibodies restricting the use of cross-matched donor blood.  #@NEW_LINE#@#  
+All study participants were provided with antenatal information about the study, and gave informed consent before being enrolled.  #@NEW_LINE#@#  All participants admitted for elective cesarean section gave written informed consent before enrolment.  #@NEW_LINE#@#  In the case of participants undergoing emergency cesarean sections, either written consent was obtained before enrolment, or, if this was not possible due to the urgency of the operation, verbal consent was obtained before enrolment, and written informed consent was then sought after delivery.  #@NEW_LINE#@#  
+
+Randomisation_and_masking  #@NEW_LINE#@#  
+Participating women were randomised by entry into a bespoke online system, using random permuted blocks of variable sizes to maintain allocation concealment, to either intervention or control, at a ratio of 1:1.  #@NEW_LINE#@#  Randomisation was stratified by treatment centre, indication for cesarean (emergency versus elective), placentation (abnormal versus normal), and multiple birth (twins or more versus singleton).  #@NEW_LINE#@#  Classification of indication for cesarean was based on urgency of delivery [21,22] as follows: emergency cesareans had varying levels of urgency based on the threat or potential threat to the life of the woman or fetus, whereas elective cesareans had no maternal or fetal compromise.  #@NEW_LINE#@#  Abnormal placentation was defined as a pathologically low-lying placenta (placenta praevia) or abnormally invasive placenta (placenta accreta, increta, or percreta) [23].  #@NEW_LINE#@#  
+Allocation concealment with third-party randomisation helped minimise selection bias.  #@NEW_LINE#@#  However, given the nature of the intervention, it was not possible to blind local treatment staff to the allocation post-randomisation, but in general the staff caring postpartum were different to those involved in intraoperative care.  #@NEW_LINE#@#  Performance bias as a result of knowing the participants allocation could lead transfusion rates to vary.  #@NEW_LINE#@#  Pragmatically, the need for donor blood transfusion postpartum was determined according to the policies of each participating hospital, and donor blood transfusion rates and transfusion thresholds were monitored for compliance with these.  #@NEW_LINE#@#  
+
+Procedures  #@NEW_LINE#@#  
+Participants were allocated either to cesarean section with routine use of cell salvage (intervention group), i.e., salvage equipment set up at the outset of cesarean to collect, process, and return blood lost at surgery after delivery of baby, or to cesarean section with the usual standard of care (control group), i.e., without routine use of cell salvage.  #@NEW_LINE#@#  In life-threatening acute haemorrhage, women were managed in line with the standard of care for such an emergency [2,23], which potentially included the use of cell salvage in the control group.  #@NEW_LINE#@#  
+The intervention was delivered by staff (anaesthetists, operating department practitioners, midwives, or nurses as per local policy) who had been formally trained in the use of the cell salvage equipment, in accordance with local procedures and requirements for competence.  #@NEW_LINE#@#  In line with the pragmatic nature of the trial, no specific cell saver model was prescribed, and both standard and continuous transfusion models were in use.  #@NEW_LINE#@#  
+For patients randomised to the intervention, full cell saver set-up for both collection and processing was mandated as part of the study protocol, as was the return of any volume of processed blood.  #@NEW_LINE#@#  Other process factors, such as swab washing [24], leukocyte depletion filter use, or number of suckers used, were left to local policyalthough swab washing was encouraged as it was expected to increase the volume of blood available for processing and thus for re-transfusion.  #@NEW_LINE#@#  
+The above process factors and adherence or non-adherence to the allocated intervention were captured on case report forms.  #@NEW_LINE#@#  For participants allocated to the intervention, we documented whether non-adherence was due to technical failure of the equipment or whether cell salvage was not set up, in violation of the protocol.  #@NEW_LINE#@#  For participants allocated to the control group, we documented whether non-adherence was due to acute emergency blood loss or whether cell salvage was set up from the beginning of the procedure, in violation of the protocol.  #@NEW_LINE#@#  As part of the continuous central trial oversight, sites with high rates of deviation were contacted and encouraged to review their procedures and equipoise.  #@NEW_LINE#@#  
+Participants were followed up until hospital discharge.  #@NEW_LINE#@#  Postnatal investigations captured the outcomes listed below.  #@NEW_LINE#@#  RhD-negative women with RhD-positive babies were assessed for anti-D dose given after delivery and exposure to fetal blood by a screening acid elution test (Kleihauer) to determine if additional anti-D was needed.  #@NEW_LINE#@#  Confirmatory flow cytometry tests were documented for Kleihauer tests indicating a fetomaternal haemorrhage of  greater than 2 ml.  #@NEW_LINE#@#  If additional anti-D was indicated or where fetomaternal haemorrhage was  greater than 4 ml, the results of repeat testing undertaken after 72 hours were documented to establish clearance of fetal cells from the maternal circulation [25].  #@NEW_LINE#@#  Adverse events were monitored, investigated, classified (serious or not; related or not), and reported to capture data on the safety of cell salvage.  #@NEW_LINE#@#  
+
+Outcomes  #@NEW_LINE#@#  
+The primary outcome was the rate of women receiving donor blood transfusion to manage haemorrhage and its consequences, either during cesarean section or between surgery and hospital discharge.  #@NEW_LINE#@#  The primary outcome was assessed at sites from medical records and subsequently verified by cross-checking transfusion laboratory records.  #@NEW_LINE#@#  
+Secondary outcomes included units of blood transfused, time to first mobilisation, length of hospital stay, pre- and postoperative serum haemoglobin, fetomaternal haemorrhage measured by Kleihauer acid elution test, maternal fatigue captured using the Multidimensional Fatigue Inventory (MFI) [26], safety outcomes (including transfusion reactions), costs of resources and service provision, and process outcomes (including volume of salvaged blood returned and technical failure of cell salvage).  #@NEW_LINE#@#  
+
+Analysis  #@NEW_LINE#@#  
+A sample size of 3,050 women (1,525 per group) was planned to detect an absolute difference in transfusion rate of 2% (5% in the standard care group, 3% in the cell salvage group, relative risk 0.6) with a power of 80% for a 2-sided test, and a type I error rate of 5% (for rate assumptions see the SALVO protocol).  #@NEW_LINE#@#  
+All analyses were performed using Stata version 12 and on an intention-to-treat basis.  #@NEW_LINE#@#  For each primary and secondary outcome, we analysed all participants with non-missing data for that outcome.  #@NEW_LINE#@#  This approach is valid if data are missing at random (MAR) [27].  #@NEW_LINE#@#  Our analysis plan specified that if more than 5% of primary outcome data were missing, we would conduct sensitivity analyses to investigate the impact of departures from the MAR assumption on our conclusions.  #@NEW_LINE#@#  Numbers of participants with missing outcome data are recorded in the results.  #@NEW_LINE#@#  Univariate and multivariable regression were used to estimate crude and adjusted odds ratios (ORs) for binary outcomes and mean differences for continuous outcomes, along with 95% confidence intervals (CIs).  #@NEW_LINE#@#  Adjusted risk differences for the primary outcome were calculated from multivariable logistic regression results using the nlcom procedure in Stata.  #@NEW_LINE#@#  Number needed to treat (NNT) was calculated as 100 divided by the risk difference in percent.  #@NEW_LINE#@#  Time to event variables were analysed using Cox proportional hazard regression to estimate the hazard ratio (HR).  #@NEW_LINE#@#  Multivariable models adjusted for stratification factors (with treatment centre as a random effect) and factors identified a priori to be prognostic for the primary outcome.  #@NEW_LINE#@#  The adjusted analysis was pre-specified as primary: such adjustment typically achieves substantial improvements in power, even when covariates are balanced [28].  #@NEW_LINE#@#  
+We performed 2 pre-specified subgroup analyses: analyses of treatment effect by indication for cesarean section (elective versus emergency) and by treatment centre.  #@NEW_LINE#@#  The first of these was analysed by statistically testing for an interaction between indication for cesarean section and treatment.  #@NEW_LINE#@#  The second was analysed by testing for a random regression coefficient for the effect of treatment at different centres, in addition to a random intercept.  #@NEW_LINE#@#  Post hoc we conducted an analysis of treatment effect by normal versus abnormal placentation, also by testing for an interaction term.  #@NEW_LINE#@#  
+We conducted 2 pre-specified sensitivity analyses: first, the primary analysis was redone excluding cases of placental abruption; second, we analysed the primary outcome where return of cell salvaged blood in the control group was reclassified as receiving a donor blood transfusion.  #@NEW_LINE#@#  Post hoc we also restricted the second sensitivity analysis so that only participants who received cell salvaged blood in the control group in an emergency setting were reclassified as having received donor blood.  #@NEW_LINE#@#  
+A cost-effectiveness analysis was carried out from the perspective of the healthcare provider (UK National Health Service) [29] based on the principal clinical outcome of the trial, with the results expressed as cost per unit of donor blood transfusion avoided.  #@NEW_LINE#@#  A decision tree model was used that collated all the relevant resource use, cost, and outcome data collected prospectively during the trial to compare the overall cost-effectiveness of cell salvage with standard care.  #@NEW_LINE#@#  The resource use for both groups of the trial was estimated by prospectively evaluating the individual components of cell salvage and standard care (bottom-up costing).  #@NEW_LINE#@#  Unit cost data were then attached to the resource use.  #@NEW_LINE#@#  A probabilistic sensitivity analysis was carried out to explore the effects of the inherent uncertainty in parameter estimates on model results [30].  #@NEW_LINE#@#  
+A trial steering committee and an independent data monitoring committee provided oversight to the study.  #@NEW_LINE#@#  
+
+Patient_and_public_involvement  #@NEW_LINE#@#  
+The UK National Childbirth Trust collaborated in the project by providing patient and public input through involvement in trial design and protocol development.  #@NEW_LINE#@#  Prior to this trial, a survey was conducted among women who received cell salvage, showing that they perceived the intervention as reassuring, safe, and preferable to donor blood transfusion (our primary outcome).  #@NEW_LINE#@#  A patient representative was a member of the trial steering committee to provide oversight and advice regarding recruitment, dissemination, and general trial management.  #@NEW_LINE#@#  We are planning to disseminate findings to participants in the form of a newsletter following primary publication of these results.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Between 4 June 2013 and 17 April 2016, 3,054 participants were recruited.  #@NEW_LINE#@#  The trial ended after inclusion and treatment of the originally planned sample of participants, with the discharge of the last patient on 21 April 2016.  #@NEW_LINE#@#  
+After exclusions for eligibility and consent issues, 3,028 participants were randomly allocated to either control or intervention.  #@NEW_LINE#@#  Of these, 1,672 were scheduled for emergency and 1,356 for elective cesarean section.  #@NEW_LINE#@#  After excluding further participants due to vaginal delivery or transfer to another hospital, 1,492 participants remained in the control group and 1,498 in the intervention group for analysis (Fig 1).  #@NEW_LINE#@#  Baseline characteristics of participants were similar in the 2 groups (Table 1; additional characteristics are available in Table A in S1 Appendix).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002471.g001  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002471.t001  #@NEW_LINE#@#  
+Adherence to the assigned intervention was 96.1% (1,434 participants) in the control group and 95.6% (1,432 participants) in the cell salvage group.  #@NEW_LINE#@#  In the cell salvage group, 50.8% had salvaged blood returned, averaging 259.9 ml (Table 2); there were 24 cases (1.6%) where the salvage machine was unavailable or out of order and 42 cases (2.8%) where the machine was simply not set up, in deviation from the protocol.  #@NEW_LINE#@#  In the control group, 15 participants (1.0%) had cell salvage used in an emergency and 43 participants (2.9%) had it set up from the start of the procedure, in deviation from the protocol.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002471.t002  #@NEW_LINE#@#  
+All participants had complete data on the primary outcome and on those characteristics specified as covariates in adjusted analyses.  #@NEW_LINE#@#  Overall, the transfusion rate was 3.5% in the control group versus 2.5% in the intervention group (adjusted OR 0.65, 95% CI 0.42 to 1.01, p = 0.056; adjusted risk difference 1.03, 95% CI 2.13 to 0.06; NNT 97, at the lower limit of 95% confidence NNT was 47 and at the upper limit the number needed to harm was 1,667) (Table 3).  #@NEW_LINE#@#  In the planned subgroup analysis, the transfusion rate was 4.6% in women assigned to control versus 3.0% in those assigned to cell salvage among emergency cesarean sections (adjusted OR 0.58, 95% CI 0.34 to 0.99), whereas it was 2.2% in women assigned to control versus 1.8% in women assigned to intervention among elective cesarean sections (adjusted OR 0.83, 95% CI 0.38 to 1.83) (interaction p = 0.46).  #@NEW_LINE#@#  The test for heterogeneity of treatment effect across treatment centres (random regression coefficient for centre) was non-significant (p = 0.09).  #@NEW_LINE#@#  In the exploratory subgroup analysis, the transfusion rate was 2.9% in women assigned to control versus 1.8% in those assigned to cell salvage among cesarean sections with normal placentation (adjusted OR 0.56, 95% CI 0.34 to 0.94), whereas it was 8.9% in women assigned to control versus 9.6% in women assigned to intervention among cesarean sections with abnormal placentation (adjusted OR 0.83, 95% CI 0.38 to 1.83) (interaction p = 0.28).  #@NEW_LINE#@#  The planned sensitivity analysis assuming that any return of cell salvaged blood in the control group was in place of a donor blood transfusion showed a reduction in the rate of participants requiring donor blood transfusion from 5.6% to 2.5% (adjusted OR 0.39, 95% CI 0.26 to 0.59, p less_than 0.001).  #@NEW_LINE#@#  A reduction was also observed when the sensitivity analysis was restricted to reclassifying only those who received salvaged blood in the control group for acute emergency blood loss (4.0% versus 2.5%, adjusted OR 0.56, 95% CI 0.36 to 0.86, p = 0.008).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002471.t003  #@NEW_LINE#@#  
+All secondary outcomes had less than 5% missing data, except for fetomaternal haemorrhage (Table 4).  #@NEW_LINE#@#  There were small differences between groups for time to mobilisation (median 0.74 versus 0.72 days for the control and intervention group, respectively, adjusted HR 1.11, 95% CI 1.03 to 1.19, p = 0.006) and length of hospital stay (2.131 versus 2.126 days, adjusted HR 1.08, 95% CI 1.00 to 1.16, p = 0.050).  #@NEW_LINE#@#  For the subgroup of RhD-negative mothers with RhD-positive babies, women assigned to the intervention group had a greater rate of fetomaternal haemorrhage 2 ml than women assigned to the control group (10.5% [n = 9] versus 25.6% [n = 21], adjusted OR 5.63, 95% CI 1.43 to 22.14, p = 0.013).  #@NEW_LINE#@#  When blood was returned in this subgroup during cell salvage, 48% of participants (n = 15) experienced exposure to fetal blood, compared to 13% (n = 6) when blood was not returned (see Table D in S1 Appendix).  #@NEW_LINE#@#  There were no differences between groups in other secondary outcomes, including adverse events.  #@NEW_LINE#@#  Of 18 events related to cell salvage, 16 were associated with leukocyte depletion filter use.  #@NEW_LINE#@#  Two serious adverse reactions were reported: one patient experienced tachycardia and difficulty breathing following re-transfusion of cell salvaged blood, and another patient experienced sudden hypotension after transfusion of 600 ml of cell salvaged blood.  #@NEW_LINE#@#  Both events were classed by the local investigator as life-threatening and potentially related to the use of cell salvage, in particular to the use of a leukocyte depletion filter (which was not mandated by the study protocol).  #@NEW_LINE#@#  In both instances, patients recovered fully after cell salvage was discontinued.  #@NEW_LINE#@#  There was not a single case of amniotic fluid embolism in any instance of cell salvage use, with or without leukocyte depletion filters (details of adverse events are available in Tables EG in S1 Appendix).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002471.t004  #@NEW_LINE#@#  
+The result of the cost-effectiveness analysis, based on the intention-to-treat analysis, showed an incremental cost-effectiveness ratio (ICER) of £8,110 (US$10,303; 9,711) per transfusion avoided for cell salvage compared to standard care.  #@NEW_LINE#@#  The probabilistic sensitivity analysis shows that although cell salvage was more effective than standard care for avoiding donor blood transfusion, it is uncertain whether it was less or more costly than standard care.  #@NEW_LINE#@#  Overall, if a decision-maker was willing to pay £50,000 (US$63,520; 59,869) to avoid a donor blood transfusion, the probability of cell salvage being cost-effective was 62% (see S1 Appendix for more detailed data).  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+This large, pragmatic, multicentre randomised trial showed that the routine use of cell salvage during cesarean section did not lead to a statistically significant reduction in the rate of donor blood transfusion in all women at risk of haemorrhage during cesarean section.  #@NEW_LINE#@#  Cell salvage was associated with increased maternal exposure to fetal blood among RhD-negative mothers.  #@NEW_LINE#@#  No other clinically relevant differences were observed in secondary outcomes.  #@NEW_LINE#@#  No cases of amniotic fluid embolism were observed, with or without leukocyte depletion filters.  #@NEW_LINE#@#  The cost-effectiveness of cell salvage is uncertain.  #@NEW_LINE#@#  
+To our knowledge, our study is the largest randomised controlled trial in the area of cell salvage in obstetrics, and the only large-scale exploration of the clinical effectiveness and cost-effectiveness of cell salvage in cesarean section.  #@NEW_LINE#@#  It was prospectively registered, robustly conducted, independently monitored, rigorously analysed, and transparently reported.  #@NEW_LINE#@#  We recruited to target with independent data monitoring, had minimal patient or data loss, and achieved comparability at baseline.  #@NEW_LINE#@#  Compliance with assignment was generally excellent, but the deployment of cell salvage in the control group was a weakness as it could have potentially averted the use of donor transfusion, reducing the control event rate.  #@NEW_LINE#@#  We could not ethically prevent such action in emergencies, but we performed a sensitivity analysis reclassifying such cases as having experienced the primary outcome (donor blood transfusion), which showed an effect consistent in direction with the main result.  #@NEW_LINE#@#  Our audit to evaluate the risk of performance bias did not show imbalance in compliance with local transfusion policies.  #@NEW_LINE#@#  Our primary analysis followed the a priori statistical analysis plan, written before unblinding the randomised allocation, as agreed upon with our trial steering and data monitoring committees.  #@NEW_LINE#@#  It adjusted for the variables pre-specified.  #@NEW_LINE#@#  The usual rule of thumb for sample size in multivariable logistic regression of 10 cases per variable [31] was met in the adjusted analysis model.  #@NEW_LINE#@#  These methodological features should provide confidence in the validity and reliability of the findings.  #@NEW_LINE#@#  The diversity of our sample, in terms of cesarean indication, age, ethnicity, and geographic spread across many treatment centres, adds to generalisability.  #@NEW_LINE#@#  A p-value that is in the region of 0.05, regardless of the side of the significance threshold on which it lies, deserves careful consideration.  #@NEW_LINE#@#  It would be incorrect to conclude that the addition of further data would push the p-value below the threshold [32].  #@NEW_LINE#@#  We believe our observations can justifiably be classed as modest [32], but not certain, evidence that can be useful in decision-making.  #@NEW_LINE#@#  
+Our finding concerning the safety of cell salvage in cesarean sections shows that concerns about the risk of amniotic fluid embolism should not be a barrier to its deployment.  #@NEW_LINE#@#  The 2 serious adverse reactions observed are in keeping with known effects of leukocyte depletion filters [33].  #@NEW_LINE#@#  If cell salvage is to be used, avoidance of these filters should be considered in order to reduce the risk of adverse reactions.  #@NEW_LINE#@#  Our finding concerning fetomaternal haemorrhage should be interpreted with caution.  #@NEW_LINE#@#  There were fewer than 10 events per variable in the model.  #@NEW_LINE#@#  This was in part because of large rates of missing data.  #@NEW_LINE#@#  Sensitivity analyses that assume worst- or best-case scenarios would inevitably give divergent results in this situation.  #@NEW_LINE#@#  It is debatable whether one could rely on accurately imputing missing outcomes from the data that were available.  #@NEW_LINE#@#  Despite these limitations, the risk of maternal exposure to fetal blood is a key issue for policies concerning obstetric use of cell salvage.  #@NEW_LINE#@#  There is a need to put mechanisms in place for maximising adherence to anti-D prophylaxis guidelines for the prevention of RhD red cell isoimmunisation.  #@NEW_LINE#@#  UK guidelines recommend a dose of 1,500 IU of anti-D following birth of an RhD-positive baby to an RhD-negative mother after cell salvage, with tests for fetomaternal haemorrhage to check if additional doses are needed [15].  #@NEW_LINE#@#  
+The findings around the secondary outcome of fetomaternal haemorrhage highlight a need not only for long-term vigilance but also for research to determine the efficacy of anti-D prophylaxis, given that our study does not provide long-term follow-up data on RhD-negative mothers.  #@NEW_LINE#@#  The UK Serious Hazards of Transfusion haemovigilance scheme has flagged up the risk of sensitisation in women who do appear to have received appropriate prophylaxis [34].  #@NEW_LINE#@#  Investigation is needed to determine if greater amounts of routine anti-D administration are required where cell salvage has been used in RhD-negative mothers.  #@NEW_LINE#@#  Additionally, the rate and severity of red cell isoimmunisation to rarer, non-RhD antibodies following cell salvage is unknown [16] and merits further study.  #@NEW_LINE#@#  
+Concerning policy-making for deployment of cell salvage, its cost-effectiveness is going to be an issue for funders of services.  #@NEW_LINE#@#  Even if routine use of cell salvage was shown to be clinically effective, it is currently unlikely to be considered cost-effective for routine use in all indications for cesarean sections.  #@NEW_LINE#@#  Emergency cesarean sections have higher blood loss, and in these, cell salvage is not currently in routine use in practice.  #@NEW_LINE#@#  The potential for benefit in this group merits confirmation through additional research.  #@NEW_LINE#@#  The future benefit will depend on the extent to which cell salvage represents good value for money when changes occur in the rate of cesarean section, the rate of donor blood transfusion, the quality of the supply chain of donor blood for transfusion, and the contingency to address shocks on the supply of donor blood.  #@NEW_LINE#@#  Further delineation of cost-effectiveness in high-risk subgroups, particularly in settings with a limited supply of blood for transfusion, will be helpful in guiding decision-making.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Appendix_Supplementary_appendix  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002471.s001  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Text_SALVO_trial_protocol  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002471.s002  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S2_Text_CONSORT_checklist  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002471.s003  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We would like to acknowledge the following sites and members of the SALVO study group for their contribution to the SALVO trial:  #@NEW_LINE#@#  
+
+
+Barts Health NHS Trust, London  #@NEW_LINE#@#  
+
+
+
+Royal London Hospital  #@NEW_LINE#@#  
+Whipps Cross University Hospital  #@NEW_LINE#@#  
+Matthew Hogg (principal investigator), Sajith Philip, Sarah Weist, Felipe Castro Cardona, Heike Bojahr, Lilith Loncke, Prudence Jones  #@NEW_LINE#@#  
+
+Royal United Hospitals Bath NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Royal United Hospital  #@NEW_LINE#@#  
+Chris Marsh (principal investigator), Sara Burnard, Wendy Duberry, Elly Doyle, Karen Patrick, Catherine Bressington, Jenny Pullen, Mel Rich, Jess Withers, Amy Lloyd  #@NEW_LINE#@#  
+
+Heart of England NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Birmingham Heartlands Hospital  #@NEW_LINE#@#  
+Nicky Osborn (principal investigator), Ahmed Mesbah, Katie Trowman, Linda Bradley, Katie Atterbury, Teresa Melody  #@NEW_LINE#@#  
+
+Birmingham Womens NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Birmingham Womens Hospital  #@NEW_LINE#@#  
+James Geoghegan (principal investigator), Philip Moore, Chloe OHara, Elizabeth Ewer  #@NEW_LINE#@#  
+
+University Hospitals Bristol NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+St Michaels Hospital, Bristol  #@NEW_LINE#@#  
+Isobel Gardner (principal investigator), Carole Shahin, Alison Kirby, Mariethel Gudaca, Eirini Troupkou, Colleen Hunt, Claire Dowse, Nicola Harvey, Nicolas Wharton, Mark Scrutton  #@NEW_LINE#@#  
+
+Chelsea and Westminster Hospital NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+West Middlesex University Hospital  #@NEW_LINE#@#  
+Dominika Dabrowska (principal investigator), Marie OConnell, Bernadette Tilley, Catherine Sheehan, Philip Barclay, Christine Adamson, Mehari Teklay, Sherif Omran, Sujatha Vishvanath, Amanpreet Sarna, Sheldon Zhang, Rafiu Ojo, Lisa Takab, Tina Brough, Emma Fox, Sarah Barker, Ano Rathambegoda, Edward Twumasi, Jacob Sheen, Belinda White, Wilky Ian Nunal, Emmanuel Espiritu  #@NEW_LINE#@#  
+
+Croydon Health Services NHS Trust  #@NEW_LINE#@#  
+
+
+
+Croydon University Hospital  #@NEW_LINE#@#  
+Bini Ajay (principal investigator), Dhileepan Srinivasan, Temilola Doherty, Valerie Fuller, Tony Hewitt, Ramandeep Sharma, Ajeet Kumar, Rebecca Byrne, Vana Wardley  #@NEW_LINE#@#  
+
+NHS Lothian  #@NEW_LINE#@#  
+
+
+
+Simpson Centre for Reproductive Health  #@NEW_LINE#@#  
+Vicki Clark (principal investigator), Arlene Wise (principal investigator), Ida Hassing, Karen Edgar  #@NEW_LINE#@#  
+
+Hinchingbrooke Health Care NHS Trust  #@NEW_LINE#@#  
+
+
+
+Hinchingbrooke Hospital  #@NEW_LINE#@#  
+Sangeeta Pathak (principal investigator), Tara Pauley, Charlotte Clayton, Aarti Bahirat  #@NEW_LINE#@#  
+
+University Hospitals of Leicester NHS Trust  #@NEW_LINE#@#  
+
+
+
+Leicester Royal Infirmary  #@NEW_LINE#@#  
+Leicester General Hospital  #@NEW_LINE#@#  
+Tommy Mousa (principal investigator), Molly Patterson, Sharon Bates, Jo Dickens, Katie Peck, Anna Muggleton, Claire Dodd, Asma Rabab, Tina Evans, Tracey Bryan, Magda Kierzenkowska, Margaret Weston, Sarah Clarke, Katie Warwick, C. Elton, P. Sharpe, A. Morris, P. Ramasamy, E. Hart, R. Leighton, O. Navti, O. Joseph  #@NEW_LINE#@#  
+
+South Tees Hospitals NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+James Cook University Hospital  #@NEW_LINE#@#  
+Sanjay Rao (principal investigator), Aethele Khunda, Hazel Alexander, Sarah Croft  #@NEW_LINE#@#  
+
+Newcastle upon Tyne Hospitals NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Royal Victoria Infirmary  #@NEW_LINE#@#  
+Paul Ayuk (principal investigator), Sophia Webster, Jill Sturt, Celia McKee, Angela Yulia, Andrea Fenn, Michelle Perkins, MaCassie Galeon, Jill Riches, Cat Rowney, Erica Del Prete, Sue Harbertson, Terri Brosnan, Sharon Chilton, Victoria Murtha, Jenna Wall, Emma Schultz, Alison Bates, Nicola King  #@NEW_LINE#@#  
+
+Norfolk and Norwich University Hospitals NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Norfolk and Norwich University Hospital  #@NEW_LINE#@#  
+Maria del Rocio Ochoa-Ferraro (principal investigator), Elizabeth Turner, Jonathon Francis, David Thornton, Carole Winstanley, Jeremy Corfe, Rachel Appleton  #@NEW_LINE#@#  
+
+London North West Healthcare NHS Trust  #@NEW_LINE#@#  
+
+
+
+Northwick Park Hospital  #@NEW_LINE#@#  
+Parijat Bhattacharjee (principal investigator)  #@NEW_LINE#@#  
+
+Nottingham University Hospitals NHS Trust  #@NEW_LINE#@#  
+
+
+
+Queens Medical Centre  #@NEW_LINE#@#  
+Nottingham City Hospital  #@NEW_LINE#@#  
+Lesley Woods (principal investigator), Jim Thornton, George Bugg, Sujata Handa, Arani Pillai, Yvette Davis, Yvonne Toomassi, Yvette Gunn, Denise Lochrie, Carys Smith  #@NEW_LINE#@#  
+
+Plymouth Hospitals NHS Trust  #@NEW_LINE#@#  
+
+
+
+Derriford Hospital  #@NEW_LINE#@#  
+Darryl Thorp-Jones (principal investigator), Heidi Hollands, Jocelyn Watson, Alison Stolton, Amanda Carney  #@NEW_LINE#@#  
+
+Barking, Havering and Redbridge University Hospitals NHS Trust  #@NEW_LINE#@#  
+
+
+
+Queens Hospital, Romford  #@NEW_LINE#@#  
+Vinod Patil (principal investigator), Annemarie McGregor, Rebecca Murray, Dorothy Sutton, Theresa McCluskey, Julie Wright, Molly Murwira, Sue Rogers, Mark Beaufond  #@NEW_LINE#@#  
+
+Sheffield Teaching Hospitals NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Royal Hallamshire Hospital  #@NEW_LINE#@#  
+Ian Wrench (principal investigator), Siobhan Gillespie, Carolyn Clark, Emma Steel, Sarah Senbeto, Paula Woodcock, Tessa Bonnett, Nicola Cawley, Hannah Yeeles  #@NEW_LINE#@#  
+
+University Hospitals of North Midlands NHS Trust  #@NEW_LINE#@#  
+
+
+
+Royal Stoke University Hospital  #@NEW_LINE#@#  
+Jules Allt (principal investigator), Charlotte Howell, Siby Sebastian, A. Rajashanker, Angela Rooney, Sara Mountford, Suzanne Jerreat, Amanda Redford, Anna Fleming, Donna Brayford, Wendy Dudley, Sarah Elson, Rachel Sparkes, Andrea Vickers, Chris Hollins, N Butler, S. Scally, Theresa Webbon, Susan Bell, Andrea Morgan, Brett Beasley, M. J. Newton  #@NEW_LINE#@#  
+
+City Hospitals Sunderland NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Sunderland Royal Hospital  #@NEW_LINE#@#  
+Aarti Ullal (principal investigator), Kim Hinshaw, Helen Cameron, Kirsten Herdman, Eileen Walton, Gill Campbell, Lesley Hewitt, Deborah Bonney, Kathleen Hubbard, Karen Armstrong, Judith Ormonde, Joanne Knight, Kathryn Witte, Dawn Edmundson, Sonia Thompson, Denise Mace, Sharon Morrell, Suzanne Stelling, Marion Collings, Julie Harris, Amanda Bargh, Judith Holland, Chris Field, Catherine Parkinson  #@NEW_LINE#@#  
+
+Abertawe Bro Morgannwg University Health Board  #@NEW_LINE#@#  
+
+
+
+Singleton Hospital  #@NEW_LINE#@#  
+Susan Williams (principal investigator), Sue Catling, Sharon Jones, Trudy Smith, Helen Worrell, Sarah Fox  #@NEW_LINE#@#  
+
+Torbay and South Devon NHS Foundation Trust  #@NEW_LINE#@#  
+
+
+
+Torbay Hospital  #@NEW_LINE#@#  
+David Portch (principal investigator), Richard Hughes, Shakila Sudhaker, Jeremy Ackers, Pauline Fitzell, Janet Palmer  #@NEW_LINE#@#  
+
+St Helens and Knowsley Teaching Hospitals NHS Trust  #@NEW_LINE#@#  
+
+
+
+Whiston Hospital  #@NEW_LINE#@#  
+Peter Yoxall (principal investigator), Zoe Grindley  #@NEW_LINE#@#  
+
+
+The study group would like to thank local clinical midwifery, theatre, obstetric, and anaesthetic teams for their support, as well as members of the trial steering and data monitoring committees, patient and public representatives, staff at the Womens Health Research Unit and Pragmatic Clinical Trials Unit at Queen Mary University of London, and all the women who agreed to participate in the SALVO trial.  #@NEW_LINE#@#  
+The views and opinions expressed herein are those of the authors and do not necessarily reflect those of the Health Technology Assessment Programme, the National Institute for Health Research, the National Health Service, or the Department of Health.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

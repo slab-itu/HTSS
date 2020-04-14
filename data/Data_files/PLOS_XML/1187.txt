@@ -1,0 +1,159 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002252"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Effectiveness of an intervention to facilitate prompt referral to memory clinics in the United Kingdom: Cluster randomised controlled trial  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Most people with dementia do not receive timely diagnosis, preventing them from making informed plans about their future and accessing services.  #@NEW_LINE#@#  Many countries have a policy to increase timely diagnosis, but trials aimed at changing general practitioner (GP) practice have been unsuccessful.  #@NEW_LINE#@#  We aimed to assess whether a GPs personal letter, with an evidence-based leaflet about overcoming barriers to accessing help for memory problemsaimed at empowering patients and familiesincreases timely dementia diagnosis and patient presentation to general practice.  #@NEW_LINE#@#  
+
+Methods_and_finding  #@NEW_LINE#@#  
+Multicentre, cluster-randomised controlled trial with raters masked to an online computer-generated randomisation system assessing 1 y outcome.  #@NEW_LINE#@#  We recruited 22 general practices (August 2013September 2014) and 13 corresponding secondary care memory services in London, Hertfordshire, and Essex, United Kingdom.  #@NEW_LINE#@#  Eligible patients were aged 70 y, without a known diagnosis of dementia, living in their own homes.  #@NEW_LINE#@#  There were 6,387 such patients in 11 intervention practices and 8,171 in the control practices.  #@NEW_LINE#@#  The primary outcome was cognitive severity on Mini Mental State Examination (MMSE).  #@NEW_LINE#@#  Main secondary outcomes were proportion of patients consulting their GP with suspected memory disorders and proportion of those referred to memory clinics.  #@NEW_LINE#@#  There was no between-group difference in cognitive severity at diagnosis (99 intervention, mean MMSE = 22.04, 95% confidence intervals (CIs) = 20.95 to 23.13; 124 control, mean MMSE = 22.59, 95% CI = 21.58 to 23.6; p = 0.48).  #@NEW_LINE#@#  GP consultations with patients with suspected memory disorders increased in intervention versus control group (odds ratio = 1.41; 95% CI = 1.28, 1.54).  #@NEW_LINE#@#  There was no between-group difference in the proportions of patients referred to memory clinics (166, 2.5%; 220, 2.7%; p = .077 respectively).  #@NEW_LINE#@#  The study was limited as we do not know whether the additional patients presenting to GPs had objective as well as subjective memory problems and therefore should have been referred.  #@NEW_LINE#@#  In addition, we aimed to empower patients but did not do anything to change GP practice.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+Our intervention to access timely dementia diagnosis resulted in more patients presenting to GPs with memory problems, but no diagnoses increase.  #@NEW_LINE#@#  We are uncertain as to the reason for this and do not know whether empowering the public and targeting GPs would have resulted in a successful intervention.  #@NEW_LINE#@#  Future interventions should be targeted at both patients and GPs.  #@NEW_LINE#@#  
+
+Trial_registration  #@NEW_LINE#@#  
+Current Controlled Trials ISRCTN19216873  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Livingston G, Baio G, Sommerlad A, de Lusignan S, Poulimenos S, Morris S, et al.  #@NEW_LINE#@#  (2017) Effectiveness of an intervention to facilitate prompt referral to memory clinics in the United Kingdom: Cluster randomised controlled trial.  #@NEW_LINE#@#  PLoS Med 14(3):  #@NEW_LINE#@#  
+           e1002252.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002252  #@NEW_LINE#@#  
+Academic Editor: Bruce L. Miller, University of California San Francisco Memory and Aging Center, UNITED STATES  #@NEW_LINE#@#  
+Received: July 3, 2016; Accepted: February 3, 2017; Published:  March 14, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Livingston et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: Anonymised open access copies of the research databases are available in UCL Discovery at http://discovery.ucl.ac.uk/1539079/  #@NEW_LINE#@#  
+Funding: The study was funded by the Alzheimer's Society UK PG-2012-183.  #@NEW_LINE#@#  The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          ACE,  #@NEW_LINE#@#  
+            Addenbrookes Cognitive Examination; GP,  #@NEW_LINE#@#  
+            general practitioner; ICC,  #@NEW_LINE#@#  
+            intracluster correlation; MCI,  #@NEW_LINE#@#  
+            mild cognitive impairment; MMSE,  #@NEW_LINE#@#  
+            Mini Mental State Examination; MRC,  #@NEW_LINE#@#  
+            Medical Research Council; OR,  #@NEW_LINE#@#  
+            odds ratio; RCT,  #@NEW_LINE#@#  
+            randomised controlled trial; SD,  #@NEW_LINE#@#  
+            standard deviation  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+The number of people with dementia is increasing worldwide as the population ages [1].  #@NEW_LINE#@#  Across developed countries, many people with dementia never receive a diagnosis, while others receive one late in the illness [2].  #@NEW_LINE#@#  Our systematic review of interventions to increase the rates of dementia diagnosis reports no clearly successful intervention; although educating general practitioners (GPs) increased their ability to diagnose dementia, this approach did not result in increased diagnostic rates [3].  #@NEW_LINE#@#  Currently, the dementias are incurable, but early diagnosis allows people to plan for the future [4], receive treatment to reduce cognitive and neuropsychiatric symptoms [5,6], and access social and voluntary care.  #@NEW_LINE#@#  Early diagnosis also helps family carers [7], reduces crises, and delays care home entry [8] for people with dementia with little negative effects [9].  #@NEW_LINE#@#  
+Family carers report difficulty in obtaining a diagnosis of dementia for their relative, which can take several years, with the delay causing increased anxiety and carer burden [1012].  #@NEW_LINE#@#  Families find that some relatives with memory problems are reluctant to consult their GP about it and deny problems when seen [11,13].  #@NEW_LINE#@#  Barriers to seeking help or diagnosis include fear of the diagnosis, concerns about stigma, GP disinclination to make this diagnosis, negative responses from other family members, normalisation of symptoms, and a lack of awareness about the signs of dementia [1316].  #@NEW_LINE#@#  
+Our systematic review of interventions to increase the rates of dementia diagnosis reports no clearly successful intervention; although educating GPs increased their ability to diagnose dementia, this did not result in increased diagnostic rates [3].  #@NEW_LINE#@#  Previous interventions have neither specifically targeted and tried to empower older people nor used the relationship with GPs to address barriers to diagnosis other than symptom recognition.  #@NEW_LINE#@#  This has helped in other fields; for example, GP personal letters with information leaflets changed patients behaviour regarding diagnosis of bowel cancer, leading to increase in uptake of diagnostic procedures [17].  #@NEW_LINE#@#  
+We therefore aimed to facilitate patients and families to present to their GP and gain a timely diagnosis of dementia (as evaluated through cognitive severity at presentation), through a personalised letter and evidence-based leaflet [11] sent directly to patients registered with general practices and to evaluate this in a randomised controlled trial (RCT).  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+Study_design  #@NEW_LINE#@#  
+Multicentre, parallel group, cluster RCT.  #@NEW_LINE#@#  We recruited general practices in southeast England (north and east London, Hertfordshire, and Essex).  #@NEW_LINE#@#  The practices were diverse in socioeconomic status and ethnic composition and ranged from inner-city to rural locations.  #@NEW_LINE#@#  The corresponding memory services were in Camden and Islington NHS Foundation Trust, North East London NHS Foundation Trust, East London NHS Foundation Trust, Barnet, Enfield and Haringey Mental Health Trust, and Hertfordshire NHS Partnership Foundation Trust.  #@NEW_LINE#@#  We obtained written ethics approval for the study from National Research Ethics Service (NRES) Committee London, Queen Square for the trial (ID: 13\LO 996).  #@NEW_LINE#@#  Research and development permission was obtained from local trusts and clinical commissioning group areas in which the GP practices were located.  #@NEW_LINE#@#  The protocol is available (S1 Text) at http://www.isrctn.com/ISRCTN19216873 and the CONSORT statement in S2 Text.  #@NEW_LINE#@#  
+
+Patients  #@NEW_LINE#@#  
+We included registered patients 70 y or older within general practices.  #@NEW_LINE#@#  We excluded people known to have dementia or who lived in care homes.  #@NEW_LINE#@#  All participating GP practices and memory clinics gave written informed consent.  #@NEW_LINE#@#  
+
+Randomisation_and_masking  #@NEW_LINE#@#  
+The trial statistician (GB) set up an online computer-generated randomisation system, allocating participants to intervention or usual care in ratio 1:1 stratified by geographical location (London, Essex, Hertfordshire) using random permuted blocks.  #@NEW_LINE#@#  He was not involved in the remainder of the trial until analysis.  #@NEW_LINE#@#  Independent raters, masked to randomisation status, collected data about patients referred from participating GP practices to memory services, both for the year before and the year after the study.  #@NEW_LINE#@#  We masked memory services but could not mask GP practices or their patients who received a leaflet.  #@NEW_LINE#@#  Masked raters collected information from Morbidity Information Query and Export Syntax (MIQUEST), a Department of Health interface for anonymised data extraction from GP practices [18].  #@NEW_LINE#@#  
+
+Procedures  #@NEW_LINE#@#  
+
+Outcomes  #@NEW_LINE#@#  
+Our primary outcome was to determine if our intervention led to people with dementia or MCI presenting earlier to specialist dementia services, i.e., with higher cognitive scores at diagnosis compared with usual care over 12 mo.  #@NEW_LINE#@#  
+The secondary outcomes compared the effect of the intervention versus treatment as usual (TAU) on:  #@NEW_LINE#@#  
+Possible harm:  #@NEW_LINE#@#  
+
+Patient_involvement  #@NEW_LINE#@#  
+Family carers were interviewed for the original content of the leaflet [11] and then family carers, people with cognitive disorder, and GPs from the Alzheimers Society were asked about leaflet redesign.  #@NEW_LINE#@#  Members of the Alzheimers Society Research Network contributed to the design of the study, monitored the conduct of the study, and were on the steering group.  #@NEW_LINE#@#  
+
+Statistical_analysis  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+We approached 43 practices, and 22 were randomised.  #@NEW_LINE#@#  The consolidated reporting of trials (CONSORT: Fig 1) diagram shows practices and patients progress through the trial.  #@NEW_LINE#@#  We recruited GP practices between 16th August 2013 and 14th December 2013 and the corresponding memory services between 11th December 2013 and 23rd September 2014.  #@NEW_LINE#@#  All memory services linked to the practices included in the study were recruited.  #@NEW_LINE#@#  We collected follow-up data from participating memory services between 16th April 2014 and 2nd October 2015.  #@NEW_LINE#@#  We stopped the trial once we had recruited the practices and follow-up was completed.  #@NEW_LINE#@#  Table 1 shows the baseline characteristics of those presenting to memory clinics with a suspected diagnosis of dementia.  #@NEW_LINE#@#  As expected, the majority of patients were female and the mean age was around 80-y-old.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002252.g001  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002252.t001  #@NEW_LINE#@#  
+There were 223 people with scores from the combined Mini Mental State Examination (MMSE) at follow-up (99/109; 90.8% in the intervention and 124/157; 79.0% control), of whom 173 had had an MMSE; 83 intervention and 90 control.  #@NEW_LINE#@#  The intracluster correlation (ICC) for the GP practices for the primary outcome was 0.0024.  #@NEW_LINE#@#  Three hundred and eighty-six patients were referred but because of death, refusal, and moving, 62 were never fully assessed.  #@NEW_LINE#@#  Two hundred and sixty-six out of three hundred and twenty-four people (82.15%) who presented to memory clinics from the practices and were fully assessed received a diagnosis of cognitive disorder.  #@NEW_LINE#@#  
+Overall, we analysed 223/266 (83.8%) diagnosed patients.  #@NEW_LINE#@#  The raw scores on MMSE and Addenbrookes Cognitive Examination (ACE) in each group are in Table 2.  #@NEW_LINE#@#  There was no effect of the intervention on cognitive severity at diagnosis (intervention group mean combined MMSE score = 22.04, 95% CI = 20.95 to 23.13, standard deviation (SD) = 5.54; control group mean combined MMSE = 22.59, 95% CI = 21.58 to 23.6, SD = 5.73; p = 0.48).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002252.t002  #@NEW_LINE#@#  
+Similarly, in a sensitivity analysis, we found no evidence of an effect of the intervention on the mean MMSE at presentation between the 83 patients in the intervention (mean MMSE score: 22.4, SD: 5.5) and 90 in the control group (mean MMSE score: 22.3, SD: 6.3) with a valid MMSE (p = 0.91).  #@NEW_LINE#@#  
+Both intervention and control groups had more presentations to the GP for cognitive problems in the year after than the year before baseline (see Table 3 for secondary outcomes.  #@NEW_LINE#@#  There were more consultations with people with a suspected memory disorder in the GP practices in the intervention compared to the control adjusted for the initial rate of GP recording.  #@NEW_LINE#@#  GPs who had recorded seeing more patients with memory problems in the year before baseline also recorded seeing more in the year after.  #@NEW_LINE#@#  Both intervention and control groups present more to their GP with suspected memory problems although this increase is greater in those in the intervention than the control group (odds ratio [OR] = 1.41, CI: 1.281.54).  #@NEW_LINE#@#  GPs reacted to the increased numbers presenting to them by referring a lesser proportion than in the year before the intervention, and the decrease is more marked in the intervention group (chance of being referred in intervention group versus control OR = 0.70, CI: 0.570.85).  #@NEW_LINE#@#  However, as more patients presented to their GP, the proportion of eligible patients (those aged over 70) referred to a memory clinic increased in both groups and there was no significant difference between the two groups (OR = 1.08; CI: 0.911.27).  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002252.t003  #@NEW_LINE#@#  
+There was no between-group difference in the rate of referral in the year after the intervention of eligible patients in the practices (2.5% and 2.7% intervention and control group, respectively).  #@NEW_LINE#@#  Nor was there a between-group difference in referral rate of those subsequently diagnosed with either dementia or mild cognitive impairment (MCI; 113: 85.6% and 161: 83.9%; p = 0.79 for intervention and control group, respectively).  #@NEW_LINE#@#  Both groups had significant increase in diagnosis rates of cognitive disorder in memory clinics between the year before baseline and follow-up: the intervention arm increased from 16.2% to 22.6%; and for control from 12.0% to 23.0%, overall p less_than 0.0001.  #@NEW_LINE#@#  
+There was no difference in the rate of memory services appointments of eligible patients offered in the year after the intervention between the intervention and the control group (160/6,387 [2.5%] and 206/8,171 [2.5%], respectively [p = 0.99]).  #@NEW_LINE#@#  
+Both intervention and control groups had a significant increase in referrals to memory services between the year before baseline and the year after.  #@NEW_LINE#@#  The intervention arm increased from 106 (1.65%) to 166 (2.6%), p less_than 0.0003; and for control from 104 (1.3%) to 220 (2.7%), p less_than 0.0001.  #@NEW_LINE#@#  For both arms combined, the preintervention and postintervention rates were 210 (1.4%) and 386 (2.6%; p less_than 0.0001), respectively.  #@NEW_LINE#@#  The mean combined MMSE score for the whole population in the year before the intervention was 21.5, and the year after was 22.1 (p = 0.38).  #@NEW_LINE#@#  
+There was no difference between the intervention and the control group in the rate of people referred without a cognitive disorder in the year after the intervention; 23 (0.3%) versus 35 (0.4%; p = 0.61), although this increased in both groups over time; intervention group (0.2% to 0.3%; p = 0.19); control group (0.1% to 0.4%; p less_than 0.0004).  #@NEW_LINE#@#  
+All GPs were contacted, and no adverse events from the intervention were reported in relation to patient distress or difficulty with increased volume of work.  #@NEW_LINE#@#  
+The costs of the leaflet were £2.16 per recipient, comprising £0.66 for producing the leaflet (£198 per 300 leaflets); £1 per patient to identify patients on practice lists to send the leaflet to, including identifying their postal address; and £0.50 for postage and packing costs.  #@NEW_LINE#@#  
+
+Discussion  #@NEW_LINE#@#  
+There was no between-group difference in our primary outcome, cognitive severity at diagnosis.  #@NEW_LINE#@#  Our intervention was designed to empower patients and increase early diagnosis of dementia through increasing presentation to GPs with memory symptoms.  #@NEW_LINE#@#  The letters resulted in more people presenting to their GPs from the intervention practices with suspected memory problems.  #@NEW_LINE#@#  Although there was also a secular increase in GP referrals in both groups, GPs in the intervention group referred less of the people who presented to them with memory problems than in the nonintervention group.  #@NEW_LINE#@#  We do not know whether the extra patients presenting but not referred were worried well or had cognitive deficits, but overall in both groups there was no increase in the MMSE at diagnosis over time, so GPs are not referring earlier.  #@NEW_LINE#@#  
+While very low cost, this evidence-based complex intervention planned in accordance with the Medical Research Council (MRC) complex intervention development recommendations [20], and incorporating the identified elements of behaviour change of capability; opportunity; and motivation for the patients [31], joins the list of unsuccessful interventions to change GP behaviour and increase timely diagnosis.  #@NEW_LINE#@#  Previous interventions had not succeeded by trying to work through GPs, we therefore adopted a new approach.  #@NEW_LINE#@#  
+We are unable to be definitive as to why our approach was unsuccessful, but there are several possible reasons.  #@NEW_LINE#@#  Our intervention helped empower patients with memory problems to present to GPs.  #@NEW_LINE#@#  There was nothing specifically targeted at GPs to change their referral behaviour.  #@NEW_LINE#@#  The intervention may have encouraged some people who do not have dementia to attend their GP and then be reassured their memory problem was not due to dementia, or receive treatment for another problem.  #@NEW_LINE#@#  Neither GPs nor their patients reported the intervention was upsetting or worrying or led to too much GP work.  #@NEW_LINE#@#  GPs may usually refer people at crisis points or with more severe dementia, and both GPs and some memory clinics, despite national policy, may not think referral is indicated in mild dementia.  #@NEW_LINE#@#  This seems to have been a pattern in the past with high mortality in the year after diagnosis [32].  #@NEW_LINE#@#  
+While the national strategy to increase dementia diagnosis has changed the behaviour of GPs, no intervention trial has done so [3].  #@NEW_LINE#@#  To our knowledge, this is the first analysis of whether the change in policy also leads to an earlier diagnosis in terms of cognitive severity.  #@NEW_LINE#@#  We find that it does not.  #@NEW_LINE#@#  Thus, GPs are referring more frequently but not earlier in the illness.  #@NEW_LINE#@#  It is possible that patients in the intervention group, who presented to GPs and were not referred, had a milder dementia or MCI.  #@NEW_LINE#@#  
+Nonetheless, in the UK, an increase in diagnostic rates has followed the National Dementia Strategy and the subsequent increase in memory clinics [33].  #@NEW_LINE#@#  The Dementia Identification Scheme, offering financial incentives to GPs for new diagnoses of dementia, started in October 2014 (https://www.england.nhs.uk/wp-content/uploads/2014/10/dementia-ident-schm-fin.pdf) and coincided with the study period.  #@NEW_LINE#@#  National statistics about the people on dementia registers and our finding of highly significant increases in referral rates since the year before baseline in both groups suggest the successful drivers of behaviour change were multifactorial and likely to include national strategies (UK National Dementia Strategy and the Prime Ministers challenge on dementia) and societal change with an increase in publicity about dementia in the national media, which can be considered as large and continuing interventions.  #@NEW_LINE#@#  
+GPs do not refer all patients with suspected dementia to memory clinics, but our data accounted for individual GPs previous referral practice.  #@NEW_LINE#@#  We did not expect the reduction in using the MMSE as an initial measure of cognition and had to modify our primary outcome measure.  #@NEW_LINE#@#  However, we successfully recruited to this study and there were enough people with data on the combined MMSE, with more than twice as many new referrals in each group than our initial power calculation required.  #@NEW_LINE#@#  We estimated missing MMSE scores by using the ACE score and other covariates.  #@NEW_LINE#@#  We assumed that MMSE score can be calculated by the observed covariates through our model and accounting for uncertainty in the estimation procedure using multiple imputation.  #@NEW_LINE#@#  While this is more robust than relating the MMSE and ACE scores using simple regression models to calculate point estimates, there may be unobserved factors, potentially explaining absence in the main outcome variable.  #@NEW_LINE#@#  We assumed the ACE-R and ACE111 were equivalent, as most of the questions are the same and they correlate significantly (r = 0.99, p less_than 0.01).  #@NEW_LINE#@#  The ACE-III also continues to show high sensitivity and specificity at cutoffs of the ACE-R [23].  #@NEW_LINE#@#  We were, however, reassured that our other analyses produced similar results to our primary analysis.  #@NEW_LINE#@#  We equated timely referral with earlier referral, but this may not be so.  #@NEW_LINE#@#  The increase in diagnoses over time may mean more people were helped by an early referral.  #@NEW_LINE#@#  We did not undertake a full economic evaluation of the intervention.  #@NEW_LINE#@#  
+There was considerable missing data regarding ethnicity from the practices in Hertfordshire, which are areas of around 85% white UK ethnicity for the whole population (http://www.theguardian.com/news/datablog/2011/may/18/ethnic-population-england-wales#data, accessed 23.6.16).  #@NEW_LINE#@#  The people in older age groups are probably even more predominantly of white UK ethnicity.  #@NEW_LINE#@#  Only two people whose ethnicity was reported from these areas were specified as being of nonwhite UK origin.  #@NEW_LINE#@#  Thus, 68/84 (81.1%) of the people whom we did not have ethnicity data came from these Hertfordshire areas.  #@NEW_LINE#@#  Our experience is that when an areas population is overwhelmingly white UK, practitioners do not judge it necessary to specify those data in the notes.  #@NEW_LINE#@#  As other demographic data were detailed, this seems a likely explanation.  #@NEW_LINE#@#  If we assumed that those whose data were missing from any practice were white UK ethnicity, then 140 (84.3%) people in the intervention and 160 (92.3%) in the control were white UK, although this would probably be a slight overestimate.  #@NEW_LINE#@#  
+While those who are forgetful are less likely to remember to respond to a letter, we were looking for people with early illness, who do not have an all-pervasive memory problem.  #@NEW_LINE#@#  In addition, the letter discussed whether they or another relative had a memory problem and could have been picked up by partners or other relatives they were living with.  #@NEW_LINE#@#  More than half the people referred lived with someone else.  #@NEW_LINE#@#  
+We categorised the GP datasets through the coded data extracted using MIQUEST, but different GPs may record such data inconsistently, if at all.  #@NEW_LINE#@#  We were able to consider recording the year before the intervention and adjust for it.  #@NEW_LINE#@#  We therefore think the between-group differences are true differences.  #@NEW_LINE#@#  
+Clinical_implications_and_conclusions  #@NEW_LINE#@#  
+An evidence-based complex intervention to empower patients with memory symptoms or their families and increase early diagnosis of dementia through facilitating presentation to GPs was unsuccessful.  #@NEW_LINE#@#  It increased those with suspected memory problems presenting to their GPs but not referrals from there to memory services.  #@NEW_LINE#@#  We think this may be because GPs are concerned about the availability of services, both in terms of waiting lists for diagnostic services and of very limited postdiagnostic services.  #@NEW_LINE#@#  
+We recruited from diverse areas and had excellent follow-up rates, so our findings of lack of effectiveness are likely to be generalisable that GPs are not referring patients earlier in the illness.  #@NEW_LINE#@#  Interventions likely to be successful in decreasing cognitive severity at diagnosis will need to target both the public and practitioners and particularly concentrate on the benefits of earlier diagnosis.  #@NEW_LINE#@#  
+
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Text_Trial_protocol  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002252.s001  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+S2_Text_CONSORT_statement  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002252.s002  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+S3_Text_GP_intervention_leaflet  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002252.s003  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S4_Text_GP_intervention_letter  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002252.s004  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We would like to thank the National Institute for Health Research, through the Dementia and Neurodegenerative Research Network (DeNDRoN), for approaching GP practices and the GP practices and memory clinics who took part in this study; and NoClor (North Central London Research Consortium), Central & East London PCRN (Primary Care Research Network), and Herts & Essex PCRN for helping us identify the GP practices.  #@NEW_LINE#@#  We would like to thank the GPs surgeries; which were from inner and suburban London, Essex, and Hertfordshire (Camden, Haringey, Barnet, Newham, Tower Hamlets, City and Hackney, Waltham Forest, Havering, Redbridge, Barking and Dagenham, Herts Valley, and East and North Hertfordshire Clinical Commissioning Groups).  #@NEW_LINE#@#  We would also like to thank Clare Goodman who chaired the steering committee, the Alzheimers Society monitors, Frank Arrojo, Sara Gregson, Jill Hodges, and Dick Abbott and expert public involvement from Shirley Nurock of the Alzheimers Society and from Age UK, Jeanne Franklin and Eula Harrison.  #@NEW_LINE#@#  
+Moise Roche, Ritchard Ledgerd, Tom Freeth, Tara Harvey, Charlotte Stoner, Neelam Laxham, Hannah Rollman, James Sinclair, and Kunle Ashaye collected and entered data from memory clinics blind to allocation of GP practices.  #@NEW_LINE#@#  Filipa Ferreira and Jeremy van Vlymen (University of Surrey) collected data using MIQUEST from GP practices and were also blind to allocation.  #@NEW_LINE#@#  GL will act as guarantor.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: GL GB SdL GR SM JH.  #@NEW_LINE#@#  
+Data curation: GB SdL SP JH.  #@NEW_LINE#@#  
+Formal analysis: GL GB SdL SP SM JH.  #@NEW_LINE#@#  
+Funding acquisition: JH GL.  #@NEW_LINE#@#  
+Investigation: GL AS JH.  #@NEW_LINE#@#  
+Methodology: GL GB SdL SP JH.  #@NEW_LINE#@#  
+Project administration: JH GL.  #@NEW_LINE#@#  
+Resources: SdL.  #@NEW_LINE#@#  
+Supervision: GL GB JH.  #@NEW_LINE#@#  
+Writing  original draft: GL JH.  #@NEW_LINE#@#  
+Writing  review & editing: GL GB AS SdL SP SM GR JH.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

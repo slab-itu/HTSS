@@ -1,0 +1,286 @@
+article id="http://dx.doi.org/10.1371/journal.pmed.1002494"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Long-term risks and benefits associated with cesarean delivery for mother, baby, and subsequent pregnancies: Systematic review and meta-analysis  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+Background  #@NEW_LINE#@#  
+Cesarean birth rates continue to rise worldwide with recent (2016) reported rates of 24.5% in Western Europe, 32% in North America, and 41% in South America.  #@NEW_LINE#@#  The objective of this systematic review is to describe the long-term risks and benefits of cesarean delivery for mother, baby, and subsequent pregnancies.  #@NEW_LINE#@#  The primary maternal outcome was pelvic floor dysfunction, the primary baby outcome was asthma, and the primary subsequent pregnancy outcome was perinatal death.  #@NEW_LINE#@#  
+
+Methods_and_findings  #@NEW_LINE#@#  
+Medline, Embase, Cochrane, and Cumulative Index to Nursing and Allied Health Literature (CINAHL) databases were systematically searched for published studies in human subjects (last search 25 May 2017), supplemented by manual searches.  #@NEW_LINE#@#  Included studies were randomized controlled trials (RCTs) and large (more than 1,000 participants) prospective cohort studies with greater than or equal to one-year follow-up comparing outcomes of women delivering by cesarean delivery and by vaginal delivery.  #@NEW_LINE#@#  Two assessors screened 30,327 abstracts.  #@NEW_LINE#@#  Studies were graded for risk of bias by two assessors using the Scottish Intercollegiate Guideline Network (SIGN) Methodology Checklist and the Risk of Bias Assessment tool for Non-Randomized Studies.  #@NEW_LINE#@#  Results were pooled in fixed effects meta-analyses or in random effects models when significant heterogeneity was present (I2  40%).  #@NEW_LINE#@#  
+One RCT and 79 cohort studies (all from high income countries) were included, involving 29,928,274 participants.  #@NEW_LINE#@#  Compared to vaginal delivery, cesarean delivery was associated with decreased risk of urinary incontinence, odds ratio (OR) 0.56 (95% CI 0.47 to 0.66; n = 58,900; 8 studies) and pelvic organ prolapse (OR 0.29, 0.17 to 0.51; n = 39,208; 2 studies).  #@NEW_LINE#@#  Children delivered by cesarean delivery had increased risk of asthma up to the age of 12 years (OR 1.21, 1.11 to 1.32; n = 887,960; 13 studies) and obesity up to the age of 5 years (OR 1.59, 1.33 to 1.90; n = 64,113; 6 studies).  #@NEW_LINE#@#  Pregnancy after cesarean delivery was associated with increased risk of miscarriage (OR 1.17, 1.03 to 1.32; n = 151,412; 4 studies) and stillbirth (OR 1.27, 1.15 to 1.40; n = 703,562; 8 studies), but not perinatal mortality (OR 1.11, 0.89 to 1.39; n = 91,429; 2 studies).  #@NEW_LINE#@#  Pregnancy following cesarean delivery was associated with increased risk of placenta previa (OR 1.74, 1.62 to 1.87; n = 7,101,692; 10 studies), placenta accreta (OR 2.95, 1.32 to 6.60; n = 705,108; 3 studies), and placental abruption (OR 1.38, 1.27 to 1.49; n = 5,667,160; 6 studies).  #@NEW_LINE#@#  
+This is a comprehensive review adhering to a registered protocol, and guidelines for the Meta-analysis of Observational Studies in Epidemiology were followed, but it is based on predominantly observational data, and in some meta-analyses, between-study heterogeneity is high; therefore, causation cannot be inferred and the results should be interpreted with caution.  #@NEW_LINE#@#  
+
+Conclusions  #@NEW_LINE#@#  
+When compared with vaginal delivery, cesarean delivery is associated with a reduced rate of urinary incontinence and pelvic organ prolapse, but this should be weighed against the association with increased risks for fertility, future pregnancy, and long-term childhood outcomes.  #@NEW_LINE#@#  This information could be valuable in counselling women on mode of delivery.  #@NEW_LINE#@#  
+
+
+Author_summary  #@NEW_LINE#@#  
+Why_was_this_study_done?  #@NEW_LINE#@#  
+
+What_did_the_researchers_do_and_find?  #@NEW_LINE#@#  
+
+What_do_these_findings_mean?  #@NEW_LINE#@#  
+
+
+Citation: Keag OE, Norman JE, Stock SJ (2018) Long-term risks and benefits associated with cesarean delivery for mother, baby, and subsequent pregnancies: Systematic review and meta-analysis.  #@NEW_LINE#@#  PLoS Med 15(1):  #@NEW_LINE#@#  
+           e1002494.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pmed.1002494  #@NEW_LINE#@#  
+Academic Editor: Jenny E. Myers, University of Manchester, UNITED KINGDOM  #@NEW_LINE#@#  
+Received: August 10, 2017; Accepted: December 18, 2017; Published:  January 23, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Keag et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are within the paper and its Supporting Information files.  #@NEW_LINE#@#  
+Funding: No direct funding was obtained for the study.  #@NEW_LINE#@#  SJS and JEN are supported by Tommy's (registered charity no 1060508 and SCO39280).  #@NEW_LINE#@#  Tommys had no role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.  #@NEW_LINE#@#  The work was carried out at the MRC Centre for Reproductive Health at the University of Edinburgh.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          CINAHL,  #@NEW_LINE#@#  
+            Cumulative Index to Nursing and Allied Health Literature; MOOSE,  #@NEW_LINE#@#  
+            Meta-analysis Of Observational Studies in Epidemiology; NNT,  #@NEW_LINE#@#  
+            numbers needed to treat; OR,  #@NEW_LINE#@#  
+            odds ratio; RCT,  #@NEW_LINE#@#  
+            randomized controlled trial; RoBANS,  #@NEW_LINE#@#  
+            Risk of Bias Assessment tool for Non-randomized Studies; SIGN,  #@NEW_LINE#@#  
+            Scottish Intercollegiate Guideline Network  #@NEW_LINE#@#  
+Introduction  #@NEW_LINE#@#  
+Rates of cesarean delivery continue to rise worldwide, with recent (2016) reported rates of 24.5% in Western Europe, 32% in North America, and 41% in South America [1,2].  #@NEW_LINE#@#  In the presence of maternal or fetal complications, cesarean delivery can effectively reduce maternal and perinatal mortality and morbidity [2]; however, an increasing proportion of babies are delivered by cesarean when there is no medical or obstetric indication [3].  #@NEW_LINE#@#  The short-term adverse associations of cesarean delivery for the mother, such as infection, haemorrhage, visceral injury, and venous thromboembolism, have been minimized to the point that cesarean delivery is considered as safe as vaginal delivery in high-income countries [4], though in low- and middle-income countries, there is an increased risk of adverse short-term maternal outcomes even with cesarean delivery without medical indication [1].  #@NEW_LINE#@#  This notwithstanding, the long-term risks and benefits of cesarean delivery for mother, baby, and subsequent pregnancies are less frequently discussed with women, and there are few randomized controlled trials (RCTs) addressing the issue [5,6].  #@NEW_LINE#@#  Systematic reviews of observational studies investigating the longer-term associations of cesarean delivery provide conflicting results on risks and benefits for mother and baby [713].  #@NEW_LINE#@#  
+Maternal preferences are an important influence on decisions about mode of delivery.  #@NEW_LINE#@#  At present, evidence of longer-term complications of cesarean delivery has not been adequately synthesized to allow fully informed decisions about mode of delivery to be made.  #@NEW_LINE#@#  The aim of this systematic review and meta-analysis is to summarize the evidence about long-term risks and benefits of cesarean delivery for women, children, and the associations with future pregnancies.  #@NEW_LINE#@#  
+
+Methods  #@NEW_LINE#@#  
+We conducted a systematic review of literature according to the recommendations of the Meta-analysis Of Observational Studies in Epidemiology (MOOSE) Guidelines for Meta-Analyses and Systematic Reviews of Observational Studies [14].  #@NEW_LINE#@#  The study protocol was registered with the University of York Centre for Reviews and Dissemination International prospective register of systematic reviews (PROSPERO Record CRD42014007006, http://www.crd.york.ac.uk/PROSPERO/).  #@NEW_LINE#@#  
+We developed and tested the search strategy in collaboration with a librarian experienced in literature searching.  #@NEW_LINE#@#  We searched Cumulative Index to Nursing and Allied Health Literature (CINAHL) and Cochrane library databases.  #@NEW_LINE#@#  The search terms are described in S1 Table; searches began 23 March 2014, and the last search was 25 May 2017.  #@NEW_LINE#@#  Additional studies were identified from reference lists of papers.  #@NEW_LINE#@#  After removal of duplicates, the abstracts were then screened for study inclusion criteria and full-text articles then assessed for eligibility.  #@NEW_LINE#@#  
+We included RCTs and large (more than 1,000 participants) prospective cohort studies (including those with prospectively collected data analysed retrospectively) that assessed outcomes for women with term deliveries ( greater than 37 weeks gestation) after cesarean and vaginal delivery (exposures) with follow-up of greater than or equal to one year from the index delivery.  #@NEW_LINE#@#  
+Two assessors (OEK and SJS) independently screened titles and abstracts of studies, then accessed and appraised full texts.  #@NEW_LINE#@#  Data were extracted onto the RevMan programme (version 5.3) (OEK and SJS).  #@NEW_LINE#@#  Where available, data for outcomes following operative vaginal delivery were included in the vaginal delivery group.  #@NEW_LINE#@#  In order to detect bias and to grade the quality of studies, we used the Scottish Intercollegiate Guideline Network (SIGN) Methodology checklists for cohort studies and RCTs where appropriate and graded the studies as high quality with little or no risk of bias (++), acceptable with some flaws in the study with an associated risk of bias (+), or low quality with significant flaws (0) (OEK and SJS) [15].  #@NEW_LINE#@#  As an additional assessment of bias and study quality, we used the Risk of Bias Assessment tool for Non-randomized Studies (RoBANS), which has shown moderate reliability and promising validity [16].  #@NEW_LINE#@#  Studies were excluded if they did not provide sufficient information to assess methods or data analysis.  #@NEW_LINE#@#  Authors were contacted to clarify ambiguities in published results, in particular figures for outcomes in cesarean delivery and vaginal delivery groups [1719].  #@NEW_LINE#@#  Where there was disagreement over eligibility for inclusion or assessment of study quality, this was referred to a meeting of all authors.  #@NEW_LINE#@#  
+We analysed the data in three groups of prespecified outcomes: maternal, childhood, and subsequent pregnancy outcomes.  #@NEW_LINE#@#  The primary outcome chosen for each database search was that which we felt patients would be most concerned about.  #@NEW_LINE#@#  As there were several other relevant outcomes for each database search, we added these as secondary outcomes (see Table 1).  #@NEW_LINE#@#  
+Table displaying the primary and secondary outcomes specified for database searches of maternal, childhood, and subsequent pregnancy outcomes.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002494.t001  #@NEW_LINE#@#  
+Results were pooled in a MantelHaenszel fixed effects meta-analysis with ORs, 95% confidence intervals, and two-sided p-values.  #@NEW_LINE#@#  Heterogeneity was assessed using the chi-squared and I-squared tests, with random effects models used when substantial heterogeneity was present, i.e., when I-squared exceeded 40%.  #@NEW_LINE#@#  Results were summarized in tables and illustrated using forest plots.  #@NEW_LINE#@#  Planned sensitivity analyses were by study quality, cohort size ( greater than 50,000), GDP of country of publication (top two thirds, bottom third of International Monetary Fund list), and study period (cohort pre-1980, post-1980) and were applied where appropriate.  #@NEW_LINE#@#  This study period cutoff was chosen as cesarean delivery rates and obstetric care have changed significantly since 1980.  #@NEW_LINE#@#  
+Post_hoc_protocol_changes_to_methods  #@NEW_LINE#@#  
+Prior to analysis, we made the following changes to our methods from the published protocol.  #@NEW_LINE#@#  We clarified that the definition of prospective cohort study included studies if data had been collected prospectively, even if analysis was retrospective.  #@NEW_LINE#@#  We changed the threshold of heterogeneity that we would use random effects meta-analysis from chi-squared test p-value less_than0.05 to the more conservative I2  greater than  40%.  #@NEW_LINE#@#  We added the RoBANS tool for the assessment of bias and study quality to the use of the SIGN checklist.  #@NEW_LINE#@#  In addition, at the data extraction stage, we made a decision to report both small for gestational age and low birth weight as secondary subsequent pregnancy outcomes in our analysis rather than fetal growth restriction as specified in our protocol.  #@NEW_LINE#@#  
+
+
+Results  #@NEW_LINE#@#  
+Electronic searches provided 30,327 citations and hand-searching of references provided a further 57 papers.  #@NEW_LINE#@#  After exclusions, 80 studies were included (one RCT and 79 observational studies) (see flow diagrams in S1 Fig, S2 Fig and S3 Fig; of note, three of the 80 studies contributed to both the maternal outcomes and subsequent pregnancy outcomes meta-analyses and are included in both flowcharts; thus, the sum of all papers in flow diagrams is 83).  #@NEW_LINE#@#  For the purpose of combining estimates, the RCT was not meta-analysed with the observational studies, but the results were presented separately.  #@NEW_LINE#@#  Two independent reviewers assessed study quality.  #@NEW_LINE#@#  Several studies had high or unclear risk of detection bias through inadequate blinding of outcome assessments, and many had a high risk of attrition bias caused by the inadequate handling of incomplete outcome data.  #@NEW_LINE#@#  The majority of studies were of acceptable quality, and many were adjusted for multiple confounding factors.  #@NEW_LINE#@#  Of note, in the majority of studies, the adjusted ORs were not substantially different from the crude ORs.  #@NEW_LINE#@#  All studies were from high-income countries (top third of GDP list); 13 were hospital studies, and 67 were population studies (see S2 Table, S3 Table, S4 Table and S5 Table).  #@NEW_LINE#@#  
+Results of meta-analyses are summarized in Table 2 and Figs 13.  #@NEW_LINE#@#  
+In addition to the meta-analyses shown, one RCT assessed dysmenorrhea and menorrhagia with no statistically significant associations.  #@NEW_LINE#@#  One RCT and one cohort study investigated sexual dysfunction, notably dyspareunia, with conflicting results.  #@NEW_LINE#@#  No studies investigated maternal death or healthcare usage.  #@NEW_LINE#@#  RCT, randomized controlled trial.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002494.g001  #@NEW_LINE#@#  
+As studies had multiple cohorts and different follow-up periods, meta-analyses were divided according to age or duration of follow-up.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002494.g002  #@NEW_LINE#@#  
+An additional outcome not included in this modified forest plot is uterine rupture, OR 25.81 (95% confidence intervals 10.96 to 60.76).  #@NEW_LINE#@#  OR, odds ratio.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002494.g003  #@NEW_LINE#@#  
+Table summarizing the meta-analyses performed detailing the number of studies, number of participants, effect estimate of each outcome and statistical method used.  #@NEW_LINE#@#  As studies had multiple cohorts and different follow-up periods, meta-analyses were divided according to age or duration of follow-up.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pmed.1002494.t002  #@NEW_LINE#@#  
+Maternal_outcomes  #@NEW_LINE#@#  
+One RCT of 2,088 participants [5] and data from 23 reports of prospective cohort studies (total of 3,849,075 participants) were included [2042] (see S2 Table for characteristics).  #@NEW_LINE#@#  
+
+Childhood_outcomes  #@NEW_LINE#@#  
+Thirty-five manuscripts met the inclusion criteria (see S3 Table for characteristics) [17,19,4476].  #@NEW_LINE#@#  As studies had multiple cohorts and different follow-up periods, meta-analyses were divided according to age or duration of follow-up.  #@NEW_LINE#@#  
+
+Subsequent_pregnancy_outcomes  #@NEW_LINE#@#  
+There were 24 cohort studies assessing outcomes for pregnancy following cesarean delivery (see S4 Table for characteristics) [29,35,40,7898].  #@NEW_LINE#@#  
+
+Non-prespecified_outcomes  #@NEW_LINE#@#  
+Whilst searching for the outcomes defined in our protocol, we identified studies looking at the risk of additional outcomes, including childhood type 1 diabetes [17,99102] and celiac disease [99,103].  #@NEW_LINE#@#  These were not defined as outcome variables in our protocol, and we did not therefore systematically review the risks of these events.  #@NEW_LINE#@#  However, the results of these studies are summarized in S6 Table.  #@NEW_LINE#@#  
+
+
+Discussion  #@NEW_LINE#@#  
+This systematic review and meta-analysis has highlighted the long-term risks and benefits of cesarean delivery for mother, baby, and subsequent pregnancies when compared to vaginal delivery in term ( greater than 37 weeks gestation) pregnancies.  #@NEW_LINE#@#  We found that cesarean delivery is associated with reduced rates of urinary incontinence and pelvic organ prolapse but has adverse associations with fertility, future pregnancy outcome, future pregnancy complications, and long-term childhood outcomes.  #@NEW_LINE#@#  
+We attempted to minimize bias in the review by adhering to a registered protocol and following the MOOSE guidelines [14].  #@NEW_LINE#@#  We only included studies with a large number of participants.  #@NEW_LINE#@#  In order to minimize publication bias, the database searches were comprehensive, without language or date restrictions, and efforts were made to include unpublished data through contacting authors.  #@NEW_LINE#@#  However, as with all systematic reviews, publication bias is a possibility.  #@NEW_LINE#@#  Despite the strengths of this systematic review, we recognize that the associations are based on predominantly observational data, which itself may be vulnerable to bias.  #@NEW_LINE#@#  
+We chose our outcomes a priori.  #@NEW_LINE#@#  Whilst this minimized bias, we have been unable to include some data from well-conducted prospective randomized trials.  #@NEW_LINE#@#  Examples include [6] and [104], both of which looked at neurodevelopmental outcomes at two years of age in children delivered by planned cesarean delivery versus planned vaginal delivery.  #@NEW_LINE#@#  Neither study demonstrated statistically significant differences in the two delivery groups; therefore, including these would not have substantially altered the conclusions of our review.  #@NEW_LINE#@#  
+Two independent reviewers assessed study quality using two bias assessment tools that correlated well.  #@NEW_LINE#@#  Any bias was mainly due to attrition bias or detection bias.  #@NEW_LINE#@#  These biases are likely to have operated in different directions, with attrition bias reducing the observed difference between the treatment groups and detection bias magnifying it.  #@NEW_LINE#@#  Importantly, excluding studies of low quality did not change findings, suggesting that any bias will have had minimal effect.  #@NEW_LINE#@#  However, as with all meta-analyses of observational studies, some caution must be exercised in the interpretation of results.  #@NEW_LINE#@#  This is especially true in analyses where high levels of between-study heterogeneity were observed (pelvic organ prolapse, subfertility, placenta previa, uterine rupture, preterm labour), likely to reflect differences in the definitions of outcomes and confounders, follow-up times, and parity in cohorts, or where there the range of confidence intervals were very wide (placenta accreta, uterine rupture, hysterectomy, antepartum haemorrhage).  #@NEW_LINE#@#  
+Observational studies of the risks and benefits of cesarean delivery have multiple potential confounding factors.  #@NEW_LINE#@#  The majority of included studies adjusted for at least some of these (S2 Table, S3 Table, S4 Table).  #@NEW_LINE#@#  Maternal age, parity, and BMI were commonly adjusted-for variables.  #@NEW_LINE#@#  Studies assessing childhood outcomes frequently also adjusted for birth weight, breastfeeding, maternal education, and maternal smoking.  #@NEW_LINE#@#  Studies assessing the association of cesarean delivery with subsequent pregnancy outcomes additionally adjusted for a range of maternal complications in previous pregnancy such as hypertension, diabetes and preterm labour.  #@NEW_LINE#@#  In this systematic review and summary meta-analysis of mainly observational data we were unable to adjust for confounding factors.  #@NEW_LINE#@#  However, it is worth noting that in the majority of studies included, multivariable analysis did not significantly alter findings of univariable analysis.  #@NEW_LINE#@#  Nevertheless, our findings must be interpreted with caution.  #@NEW_LINE#@#  
+We were unable to analyse results by the indication for cesarean delivery or the category of cesarean deliveryplanned (elective) or emergency.  #@NEW_LINE#@#  Nevertheless, several studies did assess outcomes by classification of cesarean delivery (elective or emergency) or timing of cesarean delivery (pre-labour, intrapartum, or second stage of labour) without significant changes in the ORs of complications [25,27,54,56,58,60,71].  #@NEW_LINE#@#  Cesarean delivery rates varied depending on the country where the study was performed and the cohort dates; for example, the [75] study cohort in 1966 had a cesarean delivery rate of 5%.  #@NEW_LINE#@#  This may affect generalizability of the findings to modern practice, but temporal differences in obstetric practice are unavoidable in studies of long-term complications.  #@NEW_LINE#@#  
+Although previous systematic reviews have assessed individual outcomes [812,101,105109], we have found no other published reviews synthesizing the evidence for all long-term risks and benefits of cesarean delivery relating to mother, baby, and subsequent pregnancies.  #@NEW_LINE#@#  There is a lack of documented evidence about medium- to long-term outcomes in women and their babies after a planned cesarean delivery or a planned vaginal birth [4].  #@NEW_LINE#@#  Therefore, the findings of this review will form a valuable and necessary addition to discussions about mode of delivery and consenting for planned cesarean delivery.  #@NEW_LINE#@#  Patients may attribute different weight to the outcomes; for example, some might prioritize minimizing the risk of stillbirth in a future pregnancy, while others might prioritize minimizing the risk of respiratory morbidity for their baby.  #@NEW_LINE#@#  The information included in this review will allow women (and their caregivers) to make more personally relevant decisions.  #@NEW_LINE#@#  
+Although we cannot conclude that cesarean delivery causes certain outcomes, patients and clinicians should be aware that cesarean delivery is associated with long-term risks for the baby and for subsequent pregnancies and a reduced risk of urinary incontinence and pelvic organ prolapse for the mother.  #@NEW_LINE#@#  The significance that women attribute to these individual risks is likely to vary, but it is imperative that clinicians take care to ensure that women are made aware of any risk that they are likely to attach significance to.  #@NEW_LINE#@#  Women and clinicians thus should be aware of both the short- and long-term risks and benefits of cesarean delivery and discuss these when deciding on mode of delivery.  #@NEW_LINE#@#  
+If the associations between cesarean delivery and outcomes were known to be causal, the key significant associations in this review could be summarized using numbers needed to treat (NNT) for benefit or harm.  #@NEW_LINE#@#  We have calculated the NNT for benefit and harm for each statistically significant outcome from the meta-analyses and displayed this in S7 Table.  #@NEW_LINE#@#  These are aimed to help put the risks and benefits of cesarean delivery into context and could be used as a basis for a tool to help counselling and consenting for cesarean delivery in the antenatal period, keeping in mind these figures are based on observational data.  #@NEW_LINE#@#  The estimates suggest that around 17 cesareans would be needed to prevent one case of urinary incontinence (NNT for benefit 17 95% CI 14,22), but for every 1,500 cesareans performed, there would be approximately nine additional cases of childhood asthma (NNT for harm 162 95% CI 107-308), and in subsequent pregnancies, an additional 166 women with subfertility (NNT for harm 9 95% CI 8-12), three women with placenta praevia (NNT for harm 494 95% CI 420, 589), two women with uterine rupture (NNT for harm 538 95% CI 224-1340), 21 miscarriages (NNT for harm 69 95% CI 37-386), and one stillbirth (NNT for harm 1144 95% CI 773-2059).  #@NEW_LINE#@#  
+
+Conclusion  #@NEW_LINE#@#  
+We have synthesised the evidence for the long-term risks and benefits of cesarean section.  #@NEW_LINE#@#  This information should help inform discussions about mode of delivery and may facilitate appropriate personalized delivery planning and shared decision-making.  #@NEW_LINE#@#  Further research into the long-term risks and benefits of cesarean delivery on maternal request will be beneficial.  #@NEW_LINE#@#  Whilst randomized trials might be the gold standard in this regard, one that addressed all relevant outcomes would have to be so large and with such a long follow-up so as to be likely to be unfeasible.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Protocol_  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s001  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S1_Moose_Checklist_  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s002  #@NEW_LINE#@#  
+(DOC)  #@NEW_LINE#@#  
+
+S1_Table_Search_strategy  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s003  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Table_Maternal_outcomesStudy_characteristics  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s004  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Table_Childhood_outcomesStudy_characteristics  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s005  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Table_Subsequent_pregnancy_outcomesStudy_characteristics  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s006  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S5_Table_Risk_of_bias_assessment_tool_for_Non-randomized_studies  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s007  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S6_Table_Non-prespecified_childhood_outcomes_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s008  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S7_Table_Summary_of_associations_and_numbers_needed_to_treat_for_benefit_or_harm  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s009  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S1_Fig_Study_flow_diagram_of_maternal_outcomes_database_search  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s010  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S2_Fig_Study_flow_diagram_of_childhood_outcomes_database_search  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s011  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S3_Fig_Study_flow_diagram_of_subsequent_pregnancy_outcomes_database_search  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s012  #@NEW_LINE#@#  
+(DOCX)  #@NEW_LINE#@#  
+
+S4_Fig_A_random_effects_meta-analysis_of_urinary_incontinence_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s013  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S5_Fig_A_random_effects_meta-analysis_of_pelvic_organ_prolapse_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s014  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S6_Fig_A_random_effects_meta-analysis_of_fecal_incontinence_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s015  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S7_Fig_A_fixed_effects_meta-analysis_of_pelvic_pain_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s016  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S8_Fig_A_random_effects_meta-analysis_of_no_further_pregnancy_up_to_28_years_after_cesarean_delivery_compared_with_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s017  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S9_Fig_A_random_effects_meta-analysis_of_asthma_in_children_up_to_12_years_old_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s018  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S10_Fig_A_random_effects_meta-analysis_of_asthma_in_adults_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s019  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S11_Fig_A_random_effects_meta-analysis_of_wheeze_in_children_up_to_5_years_old_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s020  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S12_Fig_A_fixed_effects_meta-analysis_of_wheeze_in_children_615_years_old_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s021  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S13_Fig_A_random_effects_meta-analysis_of_hypersensitivity_or_allergy_or_dermatitis_or_atopy_in_children_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s022  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S14_Fig_A_random_effects_meta-analysis_of_children_being_overweight_at_38_years_old_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s023  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S15_Fig_A_random_effects_meta-analysis_of_obesity_in_children_up_to_5_years_old_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s024  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S16_Fig_A_random_effects_meta-analysis_of_obesity_in_children_615_years_old_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s025  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S17_Fig_A_fixed_effects_meta-analysis_of_adulthood_obesity_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s026  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S18_Fig_A_fixed_effects_meta-analysis_of_inflammatory_bowel_disease_in_children_and_adults_up_to_age_35_years_after_cesarean_delivery_compared_to_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s027  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S19_Fig_A_fixed_effects_meta-analysis_of_perinatal_death_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s028  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S20_Fig_A_random_effects_meta-analysis_of_placenta_previa_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s029  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S21_Fig_A_random_effects_meta-analysis_of_placenta_accreta_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s030  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S22_Fig_A_random_effects_meta-analysis_of_placental_abruption_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s031  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S23_Fig_A_random_effects_meta-analysis_of_uterine_rupture_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s032  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S24_Fig_A_random_effects_meta-analysis_of_miscarriage_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s033  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S25_Fig_A_fixed_effects_meta-analysis_of_ectopic_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s034  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S26_Fig_A_fixed_effects_meta-analysis_of_stillbirth_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s035  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S27_Fig_A_random_effects_meta-analysis_of_hysterectomy_in_pregnancy_after_caesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s036  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S28_Fig_A_fixed_effects_meta-analysis_of_having_antepartum_haemorrhage_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s037  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S29_Fig_A_random_effects_meta-analysis_of_postpartum_haemorrhage_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s038  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S30_Fig_A_random_effects_meta-analysis_of_preterm_labour_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s039  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S31_Fig_A_random_effects_meta-analysis_of_having_a_small_for_gestational_age_baby_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s040  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S32_Fig_A_random_effects_meta-analysis_of_having_a_baby_with_low_birthweight_(less_than2_500_g)_in_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s041  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+S33_Fig_A_fixed_effects_meta-analysis_of_neonatal_death_following_a_pregnancy_after_cesarean_delivery_compared_to_pregnancy_after_vaginal_delivery  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pmed.1002494.s042  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+We would like to thank Mrs Sheila Fisken (Academic Support Librarian for Medicine, University of Edinburgh) for her contribution to the database search strategies.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+

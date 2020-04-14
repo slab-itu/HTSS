@@ -1,0 +1,190 @@
+article id="http://dx.doi.org/10.1371/journal.pone.0179989"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Interactive locomotion: Investigation and modeling of physically-paired humans while walking  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+In spite of extensive studies on human walking, less research has been conducted on human walking gait adaptation during interaction with another human.  #@NEW_LINE#@#  In this paper, we study a particular case of interactive locomotion where two humans carry a rigid object together.  #@NEW_LINE#@#  Experimental data from two persons walking together, one in front of the other, while carrying a stretcher-like object is presented, and the adaptation of their walking gaits and coordination of the foot-fall patterns are analyzed.  #@NEW_LINE#@#  It is observed that in more than 70% of the experiments the subjects synchronize their walking gaits; it is shown that these walking gaits can be associated to quadrupedal gaits.  #@NEW_LINE#@#  Moreover, in order to understand the extent by which the passive dynamics can explain this synchronization behaviour, a simple 2D model, made of two-coupled spring-loaded inverted pendulums, is developed, and a comparison between the experiments and simulations with this model is presented, showing that with this simple model we are able to reproduce some aspects of human walking behaviour when paired with another human.  #@NEW_LINE#@#  
+
+Citation: Lanini J, Duburcq A, Razavi H, Le Goff CG, Ijspeert AJ (2017) Interactive locomotion: Investigation and modeling of physically-paired humans while walking.  #@NEW_LINE#@#  PLoS ONE 12(9):  #@NEW_LINE#@#  
+           e0179989.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pone.0179989  #@NEW_LINE#@#  
+Editor: Yury P. Ivanenko,  #@NEW_LINE#@#  
+Fondazione Santa Lucia Istituto di Ricovero e Cura a Carattere Scientifico, ITALY  #@NEW_LINE#@#  
+
+Received: December 13, 2016; Accepted: June 7, 2017; Published:  September 6, 2017  #@NEW_LINE#@#  
+Copyright:  © 2017 Lanini et al.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Data Availability: All relevant data are available from a Figshare repository (https://figshare.com/s/863ae60ad1b988f1c837) (DOI: 10.6084/m9.figshare.4309475).  #@NEW_LINE#@#  
+Funding: The authors Jessica Lanini and Auke Ijspeert received funding from European Commission project CogIMon, H2020-ICT-2014-1 for this work.  #@NEW_LINE#@#  Author Hamed Razavi received funding from European Commission project WALKMAN, FP7-ICT-2013- 10.  #@NEW_LINE#@#  Author Alexis Duburcq received no specific funding for this work.  #@NEW_LINE#@#  
+Competing interests:  The authors have declared that no competing interests exist.  #@NEW_LINE#@#  
+1_Introduction  #@NEW_LINE#@#  
+Extensive studies have investigated the effect of sensory feedback on human walking gait.  #@NEW_LINE#@#  Zivotofsky et al.  #@NEW_LINE#@#  [1, 2] have studied different types of sensory feedback, including tactile (e.g., holding hands) and have shown that different types of sensory feedback, such as visual, acoustic, and tactile cause synchronous walking; the tactile feedback was found to be the most effective in causing synchronization.  #@NEW_LINE#@#  Also, in [3] the interpersonal synchronization between pairs of subjects walking side-by-side (without holding hands) on a treadmill was shown to have spells of attraction to certain phase relations, but no strict phase locking was found, implying that the interlimb coupling without haptic feedback is weaker.  #@NEW_LINE#@#  
+Moreover, biomechanical properties of partners, such as leg length, influence the strength of synchronization during unintentional gait entrainment.  #@NEW_LINE#@#  Nessler et al.  #@NEW_LINE#@#  [4] found that among all the pairs walking side-by-side on two treadmills under different sensory feedback conditions, those ones who exhibited unilateral step frequency locking (a.k.a.  #@NEW_LINE#@#  entrainment) had significantly lower leg length differences between the partners.  #@NEW_LINE#@#  Moreover, a significant correlation was found between leg length difference and both difference in stepping frequency and frequency locking.  #@NEW_LINE#@#  
+Even though, as presented in some of the work above, side-by-side walking has been well analyzed by considering different sensory feedbacks and anthropometric parameters, to the best of our knowledge the effect of the haptic interaction through an object between two people, one walking in front of the other, on their walking gaits has not been investigated yet.  #@NEW_LINE#@#  
+In this paper, we will present a particular case of interpersonal coordination that occurs when two persons walk while physically paired by carrying an object together (see Fig 1).  #@NEW_LINE#@#  This configuration may be associated to quadrupedal locomotion.  #@NEW_LINE#@#  
+Two subjects were asked to walk while mechanically paired through a stretcher-like object.  #@NEW_LINE#@#  Each subject was equipped by 34 reflective markers that were used in combination with a motion capture system (VICON) to track the kinematic movements.  #@NEW_LINE#@#  A computer, placed on the center of the stretcher-like object, was used to record the force data from four 3D force sensors integrated in each handle.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0179989.g001  #@NEW_LINE#@#  
+The aim of this work is to investigate the implication of the coupling on the walking gaits of each human subject and understand the mechanism of gait synchronization by studying a simple model consisting of two bipedal agents connected with a spring-damper.  #@NEW_LINE#@#  Through such a study the following questions will be investigated:  #@NEW_LINE#@#  
+The rest of this paper is organized as follows.  #@NEW_LINE#@#  In Section 2 the results of human experiments will be presented: Center of Mass (CoM) displacement, CoM velocity, Gait Cycle Time (GCT), and step length in unconstrained walking and mechanically paired walking with another subject will be compared, and gait foot-fall patterns of the two paired bipeds will be analyzed.  #@NEW_LINE#@#  In Section 3 a simple model of mechanically paired bipeds will be presented.  #@NEW_LINE#@#  The systematic parameter search for finding periodic orbits of this mechanical model will be described in Section 4.  #@NEW_LINE#@#  Finally, in Section 5 a comparison between the experimental data and simulation results will be presented.  #@NEW_LINE#@#  
+
+2_Human-human_interactive_locomotion__Experiments  #@NEW_LINE#@#  
+In this section, we present and analyze the kinematic data collected in the paired-walking experiments, where two subjects carry a stretcher-like object together (see Fig 1).  #@NEW_LINE#@#  
+21_Methods  #@NEW_LINE#@#  
+The experiments were conducted at gait laboratory of the Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland, according to the principles expressed in the Declaration of Helsinki.  #@NEW_LINE#@#  Participants provided their written consent on the experiment protocol approved by the EPFL human research ethics committee (HREC No 004-2015) (see S1 Ethic Statement).  #@NEW_LINE#@#  Six healthy subjects with a mean age of 27 participated in the experiments.  #@NEW_LINE#@#  More details about the subjects anthropometrics data can be found in Table 1.  #@NEW_LINE#@#  
+As Table 2 shows, the same subjects were used to compose different pairs and perform different roles (i.e., walking in front (A) or behind (B) the object).  #@NEW_LINE#@#  
+Each experiment consisted of two trials:  #@NEW_LINE#@#  
+The average number of steps for a subject changes depending on the type of trial: on average, a solo trial consists of 8.8 ± 1.06 number of steps per subject per trial, while the average number of steps in a paired trial is 8.12 ± 0.49.  #@NEW_LINE#@#  
+Overall, 7 pairs, made by a combination of 6 different subjects, performed the trials.  #@NEW_LINE#@#  A motion capture system (VICON) was used to track the kinematic movements of each subject with 34 markers placed on the subjects body according to the Plug-In-Gait convention [5].  #@NEW_LINE#@#  For the off-line data processing we used two commercial software packages: the Vicon Nexus software and MATLAB (The MathWorks Inc.).  #@NEW_LINE#@#  Nexus software was used to label markers, detect gaps in the data and filter them through a low-pass digital Butterworth filter that filters out signal noise above 300 Hz.  #@NEW_LINE#@#  Finally, MATLAB scripts were used to compute all the gait parameters of interest, described below:  #@NEW_LINE#@#  
+
+22_Main_results  #@NEW_LINE#@#  
+In this subsection we will present the main results that were obtained from the experiments using the methodologies explained in Subsection 2.1.  #@NEW_LINE#@#  
+
+
+3_The_model  #@NEW_LINE#@#  
+Several models can be used for bipedal locomotion, however, perhaps the simplest model that can explain some key features of human walking, such as CoM displacement and Ground Reaction Forces (GRF), is the SLIP model, initially designed to model running but then extended to model walking as well [12, 13].  #@NEW_LINE#@#  Because of its simplicity and explanatory power we decided to use such a model as a constituent unit to describe two bipedal agents walking together while mechanically paired.  #@NEW_LINE#@#  
+As shown in Fig 6, in our model, two SLIP models are linked together with a spring-mass-damper connection, where the following assumptions are made:  #@NEW_LINE#@#  
+On the left one SLIP is in the single support phase (the swing leg is not represented), while the SLIP on the right is in the double support phase.  #@NEW_LINE#@#  In the middle a mass is connected to the CoM of each pendulum through a spring and damper system representing the arms impedance.  #@NEW_LINE#@#  We indicate the center of mass of each SLIP by mi for i = 1, 2, while li,  and i represent the SLIPs initial leg length, the leg stiffness, and the angles of attack, respectively; ki, bi and  are the impedance parameters and the equilibrium lengths of each connection between the SLIPs CoM and the CoM of the object, which has a total length of Lt and its relative position with respect to the first SLIP is indicated as xt.  #@NEW_LINE#@#  Finally, xi and zi indicate each SLIPs CoM horizontal and vertical position while d is the distance between the foot point of the first pendulums stance spring and that of the second pendulum.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pone.0179989.g006  #@NEW_LINE#@#  
+The first three points are directly related to the choice of using the SLIP model as a constituent unit, while the final two points refer to the coupling between the two bipedal agents.  #@NEW_LINE#@#  The assumption of using a spring and damper system to model the coupling can be associated on one side to the mechanical characteristics of human muscles and on the other side to the arms oscillatory behaviour observed from the experimental data.  #@NEW_LINE#@#  Finally, the last assumption is related to a qualitative analysis of the interaction force data, where in the experiments, by using Optoforce sensors integrated in each handle of the stretcher-like object, we observed that the variations of the force in the forward direction result to be greater than the vertical ones (see for example S2 Fig).  #@NEW_LINE#@#  
+31_SLIP_model  #@NEW_LINE#@#  
+The SLIP model is one of the simplest models that yields human-like results in terms of walking behaviour [13].  #@NEW_LINE#@#  The SLIP model can be used to model both walking and running [12, 13].  #@NEW_LINE#@#  As previously mentioned, with the SLIP model it is possible to reproduce the GRFs that point towards the CoM and depend only on the leg length and stiffness.  #@NEW_LINE#@#  In such a model, in order to be able to replicate human data, it is necessary to set appropriate values for the parameters such as spring stiffness, angle of attack, and mass.  #@NEW_LINE#@#  Moreover, the only variables of the model that have to be initialized with appropriate values are the CoM position at the apex (that is, the point where the height of the CoM reaches its maximum value) and the CoM velocity or, alternatively, the initial energy of the system.  #@NEW_LINE#@#  To avoid dependency of the vertical position on the leg length, the vertical position of the apex is always defined with respect to the one reached by the CoM when the legs spring is at rest.  #@NEW_LINE#@#  The horizontal position at the apex is computed with respect to the support point.  #@NEW_LINE#@#  
+
+32_Paired_SLIPs_model  #@NEW_LINE#@#  
+The paired model is made up of two SLIPs connected together by a parallel mass, spring and damper system, as shown in Fig 6.  #@NEW_LINE#@#  This system can be described by the following equations of motion  #@NEW_LINE#@#  
+(2)  #@NEW_LINE#@#  
+(3)  #@NEW_LINE#@#  
+(4)  #@NEW_LINE#@#  
+(5)  #@NEW_LINE#@#  
+(6)  #@NEW_LINE#@#  
+where  #@NEW_LINE#@#  
+For this model, the initial conditions are crucial; in particular, it is necessary to define  #@NEW_LINE#@#  
+Furthermore, in order to better replicate human gait, we choose the range of the following parameters according to [6, 13]:  #@NEW_LINE#@#  
+
+Table 4 shows the mechanical range of these parameters.  #@NEW_LINE#@#  
+Regarding the arm equilibrium lengths (L01 and L02), we note that since we always assume that at the beginning of the simulations the arms lengths (L1(0) and L2(0)) are equal to their equilibrium lengths, and the only way L01 and L02 appear in the equations of motion is in the form of (L1  L01) and (L2  L02), the specific values of L01 and L02 will not effect the results.  #@NEW_LINE#@#  
+Since the paired-SLIPs model described above has no means of injection of energy, but has dissipation of energy, it generally does not possess periodic solutions.  #@NEW_LINE#@#  However, as we can see in Section 4 and 5, it is possible to find approximate periodic orbits up to a very small threshold (e.g., state values that vary less than 0.1% from step to step) in a relatively large window of time (100 s).  #@NEW_LINE#@#  With this definition of an approximate periodic orbit, we are still able to study the role of passive mechanism in achieving synchronized periodic solutions in paired walking.  #@NEW_LINE#@#  
+To obtain periodic solutions as defined above, for given mi, li, and initial conditions , and initial energy, , by a systematic search (Subsection 4.1), we find legs stiffness (), angle of attack (i), arms stiffness (ki), and damping (bi) such that the paired SLIP model reaches a periodic walking gait as previously defined.  #@NEW_LINE#@#  
+
+
+4_Periodic_solutions_of_the_model  #@NEW_LINE#@#  
+41_Systematic_search  #@NEW_LINE#@#  
+In this section we present a method to find the system parameters (arms/legs stiffness and angles of attack) which lead to solutions that respect the approximate periodic condition.  #@NEW_LINE#@#  Because of the complexity of the model and the high dimensionality of the search grid (NP, where P is the number of parameters to analyze), the analysis is completed in three steps such that in each step we only search for two parameters.  #@NEW_LINE#@#  
+In each step of the systematic search we evaluate the following Periodicity Score (SP) function:  #@NEW_LINE#@#  
+
+where  (103) is the maximum variation between two consecutive apexes, that is,  #@NEW_LINE#@#  
+
+for k = 1, 2.  #@NEW_LINE#@#  The value of the tolerance  has been set according to the variation of the apex height of the subjects during the experiments.  #@NEW_LINE#@#  Finally, , where RMSk, with k = 1, 2, is the root mean square of the norm of the difference between subsequent apex positions of pendulum k; that is,  #@NEW_LINE#@#  
+
+In this formula,  #@NEW_LINE#@#  
+The periodicity score described above is defined based on the notion of the return map, which sends the horizontal and vertical positions of each pendulum at the apex in the current step to the ones in the next step.  #@NEW_LINE#@#  Intuitively, the higher the periodicity score is, the closer is the apex to its value in the previous steps.  #@NEW_LINE#@#  In this way we are able to define a score that is capable of measuring the periodicity of the solutions for our system.  #@NEW_LINE#@#  
+The three steps of the systematic search are explained in details in the following:  #@NEW_LINE#@#  
+An alternative approach could be searching for all four parameters (i.e., leg stiffness and angle of attack, arm stiffness and damping) at the same time, however, with the above systematic search, at each stage only two parameters are searched for; this approach greatly reduces the computation time.  #@NEW_LINE#@#  
+We note that the first two steps of the systematic search are important to find the legs and arms impedance able to guarantee a periodic walking behaviour of the paired system as defined in Subsection 3.2: at the beginning, the two pendulums are unpaired, and we look for individual locomotion periodicity by testing different leg stiffnesses and angles of attack; then the paired system is analyzed by fixing the legs stiffness and angles of attack and testing the walking gait for different arms impedance.  #@NEW_LINE#@#  Finally, Step 3 is necessary to better adjust legs stiffness and angles of attack of each pendulum while paired compared to the values found in Step 1, which were optimized for the unpaired system.  #@NEW_LINE#@#  
+
+Fig 7 presents the results of the three steps of the algorithm.  #@NEW_LINE#@#  It turns out that the system has a higher periodicity score for higher stiffness values.  #@NEW_LINE#@#  
+
+42_An_example_of_a_synchronized_gait  #@NEW_LINE#@#  
+Since in a periodic gait, as defined in Subsection 3.2, the trajectories and the velocities of the two pendulums are almost identical (with a tolerance of 103), the periodic gaits found by the systematic search are necessarily synchronized gaits as defined in Section 2.  #@NEW_LINE#@#  Here, we present an example of such a synchronized gait found by the systematic search algorithm (see Fig 8 and S1 Video).  #@NEW_LINE#@#  In this simulation, the mass and leg length are assumed to be the same for both pendulums (m1 = m2 = 80 kg, l1 = l2 = 1 m).  #@NEW_LINE#@#  With the initial conditions shown in Table 5, the parameters are found using the systematic search method, the outcome of which is shown in Table 6.  #@NEW_LINE#@#  
+As expected from the systematic search, the convergence of the system to a synchronized gait strongly depends on the right choice of parameters.  #@NEW_LINE#@#  By choosing a wrong set of parameters, the two SLIPs that start with different initial conditions will fall after a few steps (see S2 Video).  #@NEW_LINE#@#  This could suggest that once coupled, each simulated bipedal agent has to properly adjust its arms impedance and legs stiffness according to the behaviour of the other agent.  #@NEW_LINE#@#  
+
+
+5_Data_comparison  #@NEW_LINE#@#  
+As explained in the Section 1, we would like to understand whether the behaviour of two subjects walking together while mechanically paired could be explained just by the passive mechanics of the overall system.  #@NEW_LINE#@#  To this end, the paired SLIPs model which is introduced in Section 3, is used in this section to replicate and predict the human experimental data.  #@NEW_LINE#@#  For each bipedal agent we use anthropometric data to set the mass and leg length for data comparison.  #@NEW_LINE#@#  With this comparison two main questions have to be addressed:  #@NEW_LINE#@#  
+There is a slight difference between these two questions.  #@NEW_LINE#@#  In the first one, we want to force the model to capture the experimental data from the paired trials, while in the second one, just by using the knowledge of the preferred walking gait parameters of each subject in solo trial, we would like to check whether the model can predict the paired behaviour.  #@NEW_LINE#@#  To answer both aforementioned questions, two different data fitting analyses are proposed in Subsections 5.1 and 5.2.  #@NEW_LINE#@#  
+51_Simulation_of_the_paired_behaviour_by_fitting_the_experimental_paired_trial_data  #@NEW_LINE#@#  
+In this subsection we present a method to examine whether the model is capable of reproducing the behaviour of the real paired system.  #@NEW_LINE#@#  To this end, we search for sets of model parameters that allow the system to reach a periodic walking gait as defined in Subsection 3.2 which is, at the same time, consistent with the experimental paired data; such a search for model parameters is referred to as paired trial fitting.  #@NEW_LINE#@#  To implement the paired trial fitting, it is necessary to introduce a new systematic search that is slightly different from the one described in Subsection 4.1.  #@NEW_LINE#@#  In particular, the three main steps of the systematic search in Subsection 4.1 remain the same, as well as the parameters we search for.  #@NEW_LINE#@#  However, since we want to constrain the model to fit the experimental paired trial data, a new score, called Global Score (SG), which will be evaluated at the end of each search step, is defined as follows:  #@NEW_LINE#@#  
+
+where SR is the Real Conditions Score and is used to evaluate how close are the apex position and velocity of the modeled system to the experimental one, SS, is the Synchronization Score, which is defined based on the ratio of the GCT of Subject A to that of Subject B by which we measure how well synchronized the gaits are, and finally SP is the score defined in Subsection 4.1.  #@NEW_LINE#@#  Exact definitions of SR and SS can be found in S1 Appendix.  #@NEW_LINE#@#  
+In the simulations, the mass and leg length of each pendulum are set to be the same as those of the corresponding subject in the pair, while the mass of the object in between is set to be the same as that of the stretcher-like object from the experiments.  #@NEW_LINE#@#  
+
+52_Simulation_of_the_paired_behaviour_by_fitting_the_experimental_solo_trial_data  #@NEW_LINE#@#  
+In order to evaluate the predictive power of the model presented in Section 3, the approach adopted here is to fit each modeled agent (that is, each SLIP) to each subjects features, such as mass, leg length, initial velocity, apex height, etc.  #@NEW_LINE#@#  during the solo trial.  #@NEW_LINE#@#  We then search for sets of parameters (angle of attack, arms impedance, and legs stiffness) as described in Subsection 4.1; we call this search for the model parameters solo trial fitting.  #@NEW_LINE#@#  Unlike Subsection 5.1, no optimization for matching the simulations with the experimental data of the paired trial has been taken into account.  #@NEW_LINE#@#  The score used for the systematic search in this case is the one introduced in Subsection 4.1.  #@NEW_LINE#@#  
+
+53_Methods_and_results  #@NEW_LINE#@#  
+The implementations of the solo trial fitting and the paired trial fitting show that there exist solutions which respect the periodicity condition introduced in Subsection 3.2 for a specific set of impedance parameters.  #@NEW_LINE#@#  Several walking parameters of the paired model are compared with the experimental results in order to evaluate whether the model is able to replicate and/or predict humans behaviour.  #@NEW_LINE#@#  
+In particular, the main evaluated variables are:  #@NEW_LINE#@#  
+We did not analyze the interlimb coordination since in the presented model the synchronized gait is obtained so that the interactions between the modeled agents and the object reduce over time in order to reduce energy dissipation.  #@NEW_LINE#@#  
+With respect to the first parameter analyzed, the CoM vertical displacement of each modeled agent is compared with that of the corresponding subject.  #@NEW_LINE#@#  Moreover, the CoM displacement of each modeled agent is compared between the solo and paired trials through Procrustes analysis [10].  #@NEW_LINE#@#  Fig 9 shows that in both solo and paired trial fittings the model is able to reproduce CoM vertical displacement of the subjects during paired trials.  #@NEW_LINE#@#  Moreover, in the solo trial fitting the model is able to reproduce humans behaviour of keeping the same vertical CoM displacement between the solo and paired trials.  #@NEW_LINE#@#  Indeed, by applying Procrustes analysis [10] between each modeled agents CoM vertical displacement during the paired and solo trials, we obtained a dissimilarity measure close to zero in all the cases.  #@NEW_LINE#@#  
+For the GCT, step length, and forward velocity, we performed repeated measure ANOVA with three different conditions, namely, solo trial, paired trial in position A (front), and paired trial in position B (back), as evaluated for the experiments (see Subsections 2.1).  #@NEW_LINE#@#  
+The graphs in Fig 10 show that, in contrast to humans behaviour, in the solo trial fitting results there is not a significant tendency for each modeled agent to either increase the GCT or decrease the step length and the forward velocity when paired compared to the solo trial.  #@NEW_LINE#@#  
+On the right side of Fig 10, we report the means and standard deviations of the forward velocities in four different cases: paired and solo trial fitting results and experimental solo and paired trials.  #@NEW_LINE#@#  We can observe that the forward velocity in the solo trial fitting is always higher than the one expected in the experimental paired trials.  #@NEW_LINE#@#  Indeed, the value of the forward velocity in solo trial fitting remains close to those of the experimental solo trials of each subject.  #@NEW_LINE#@#  
+A final comparison between the behaviour of the paired SLIPs model and the experimental data is realized in terms of the gait foot-fall pattern.  #@NEW_LINE#@#  To perform such a comparison, just a short window of time of the experimental foot-fall pattern data can be evaluated because of the limitated size of the room where the experiments took place.  #@NEW_LINE#@#  As a consequence, the same time window will be considered in the comparison of the gait foot-fall pattern between the experiments and the simulations.  #@NEW_LINE#@#  
+As an example, the foot-fall patterns in the experiments and the simulations are presented in Fig 11 for Pair 02 (similar results are obtained for other pairs), where we can observe Trot like gait (on the left) and Pace like gait (on the right).  #@NEW_LINE#@#  Since the model is 2-dimensional, we cannot distinguish between the trot and the pace gait.  #@NEW_LINE#@#  The distinction reported is based on the initial configuration of the two SLIPs: by assuming, for example, that the two pendulums start with the same leg (indicated as right), one can monitor such a leg with respect to the other (indicated as left).  #@NEW_LINE#@#  In this way if the two SLIPs reach a periodic gait while moving forward the same leg (right or left) at the same time, we can associate the resultant gait to a pace-like gait and otherwise to a trot-like gait.  #@NEW_LINE#@#  In Fig 11 the foot-fall pattern results of the paired trial fitting are presented.  #@NEW_LINE#@#  With the paired trial fitting we are able to reproduce trot and pace gaits observed in the experimental data with the same stepping frequency of the analyzed subject.  #@NEW_LINE#@#  To visualize how well the paired trial fitting can predict the experimental data, snapshots of the simulations versus the experimental data for Trial 4 of Pair 02 are presented in Fig 12 (see also S3 Video).  #@NEW_LINE#@#  With the solo trial fitting we are still able to reproduce the coordinated gaits (in particular, pace and trot gaits), but with a different stepping frequency compared to the one observed in the experimental data.  #@NEW_LINE#@#  Such a discrepancy is due to the model limitation in reproducing the reduction in forward velocity, as explained before for Fig 10.  #@NEW_LINE#@#  
+
+
+6_Discussion  #@NEW_LINE#@#  
+The presented work investigates the effects of a mechanical connection between two bipedal agents on their walking gaits, aiming to answer the following questions:  #@NEW_LINE#@#  
+To answer the above questions, we present human-human interactive locomotion experiments showing how the mechanical coupling causes changes in the human walking gait; in particular, we observe that such a mechanical coupling causes a statistically significant reduction in the preferred forward speed (p = 0.015), step length (p = 0.017), and a significant increase of the GCT (p = 0.02).  #@NEW_LINE#@#  This adaptation of the gait through reduction of speed and increase of GCT could be due to the fact that each subject tries to accomodate to the motion of the other subject which is detected by interaction forces, visual and acoustic information.  #@NEW_LINE#@#  
+The vertical component of the CoM trajectory of each subject does not significantly change when paired (the worst dissimilarity measure value is d = 5.3  106).  #@NEW_LINE#@#  Moreover, we observe coordination in the foot-fall patterns of the paired subject in 72.5 ± 19.9% of each trial, on average.  #@NEW_LINE#@#  That is, on average in 72.5 ± 19.9% of each trial the subjects paired together through a mechanical link while walking for few steps have the same stride frequency and establish a constant phase lag between homologous legs.  #@NEW_LINE#@#  Indeed, the subjects reproduce some foot-fall patterns generally associated to quadrupedal type gaits (e.g.  #@NEW_LINE#@#  pace, trot, and diagonal-sequence).  #@NEW_LINE#@#  This inter-subject coordination can be considered as a starting point for further investigation through longer trials.  #@NEW_LINE#@#  
+We also present a simplified model for the mechanical analysis of the interactive locomotion.  #@NEW_LINE#@#  The model can be used to infer some properties of the real system and to evaluate whether some human behaviours can be associated to passive mechanical properties.  #@NEW_LINE#@#  Performing the systematic search presented in Subsection 4.1, it is observed that the region of periodic behaviour as defined in Subsection 3.2 presented in terms of angles of attack and legs stiffness, enlarges once the two pendulums are paired compared to the case of solo walking (i.e., without any mechanical connections).  #@NEW_LINE#@#  This observation suggests that the mechanical link may be used by the bipedal agents as a way to make the system more robust.  #@NEW_LINE#@#  
+Moreover, the simulation results show that the paired-SLIPs model can predict some characteristics of the gaits during the interactive locomotion.  #@NEW_LINE#@#  In particular, it is able to:  #@NEW_LINE#@#  
+However, the change in the forward velocity once the two subjects are paired, even for the ones with similar preferred speed during the solo trials, cannot be explained just by a mechanical effect with our simple model.  #@NEW_LINE#@#  As discussed before, according to the experiments, mechanical coupling the system has the effect of reducing the mean forward velocity for at least one subject within each pair.  #@NEW_LINE#@#  With the first algorithm, in which we optimize the system for the paired system parameters, we obtain a very good match between the experimental data and the simulation results even in terms of the forward velocity.  #@NEW_LINE#@#  However, when we do not optimize for experimental paired data, we cannot match the level of reduction in the forward velocity found in the experimental data for most of the subjects once paired with another one, and the forward velocity remains close to its value in the solo experimental trial, which was chosen to be the initial condition of the simulated paired system.  #@NEW_LINE#@#  
+Moreover, the model does not demonstrate the D-S gait mainly because the two SLIP models must have the same motion due to dissipation.  #@NEW_LINE#@#  
+These results suggest that some behavior of humans while carrying objects with other humans seem to be only due to the passive mechanical properties rather than high-level control strategies such as foot-placement.  #@NEW_LINE#@#  However, some other features of the emerging paired walking gait might be related to cognitive and/or psychological effects, that in the model may be represented by addition or subtraction of energy according to a specific control architecture.  #@NEW_LINE#@#  Probably, more complex motor control actions have to be considered in order to better understand this phenomenon.  #@NEW_LINE#@#  
+
+Supporting_information  #@NEW_LINE#@#  
+S1_Appendix_Real_conditions_score_and_synchronization_score_description  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s001  #@NEW_LINE#@#  
+(TEX)  #@NEW_LINE#@#  
+
+S1_Video_Paired-SLIPs_model_with_periodic_walking_gait  #@NEW_LINE#@#  
+The video shows a simulation of the paired-SLIPs model where the right choice of parameters allow the system to converge a periodic walking gait.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s002  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S2_Video_Paired-SLIPs_model_with_unstable_walking_gait  #@NEW_LINE#@#  
+The video shows a simulation of the paired-SLIPs model where the wrong choice of parameters does not allow the system to converge a periodic walking gait.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s003  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S3_Video_Comparison_between_paired-SLIPs_model_and_experimental_data  #@NEW_LINE#@#  
+The video shows the results both from the experimental data and model data obtained by implementing the paired trial fitting (see Subsection 5.1).  #@NEW_LINE#@#  Red dots refer to the modeled CoMs, the pivot points and the carried mass, which are all connected with single red lines.  #@NEW_LINE#@#  Blue dots represent the CoMs of each subject and that of the table.  #@NEW_LINE#@#  Finally, grey dots represent the markers placed on the subjects recorded during the experiments (dark grey is used to show the right side of the subject while light grey indicates the left side).  #@NEW_LINE#@#  In this case only the lower limb grey dots have been connected to better represent the subjects legs and feet.  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s004  #@NEW_LINE#@#  
+(MP4)  #@NEW_LINE#@#  
+
+S1_Fig_Percentage_of_gait_types  #@NEW_LINE#@#  
+Relationship among the percentages of the different types of gait (pace gait in light blue, trot gait in blue and diagonal-sequence in grey) and three walking gait parameters: forward velocity (on the top), gait cycle time (in the middle) and step length (on the bottom).  #@NEW_LINE#@#  Such a relationship is evaluated for each pair (from Pair01, indicated with one star, to Pair07, indicated with seven stars).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s005  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S2_Fig_Vertical_and_forward_interaction_forces  #@NEW_LINE#@#  
+In this figure an evaluation of the vertical and forward interaction forces for Pair01 is shown.  #@NEW_LINE#@#  The four plots refer to four force sensors (Optoforce, OMD-30-FE-450N) placed in each handle of the strecher-like object that was used for the experiments.  #@NEW_LINE#@#  Sensor 1 and 3 were placed at the Subject A side (Sensor 1 on the right and Sensor 3 on the left), while Sensor 2 and 4 were placed at the Subject B side (Sensor 2 on the right and Sensor 4 on the left).  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s006  #@NEW_LINE#@#  
+(EPS)  #@NEW_LINE#@#  
+
+S1_Ethic_Statement_Ethic_statement_approved_by_the_EPFL_human_research_ethics_committee_(HREC_No_004-2015)  #@NEW_LINE#@#  
+https://doi.org/10.1371/journal.pone.0179989.s007  #@NEW_LINE#@#  
+(PDF)  #@NEW_LINE#@#  
+
+
+Acknowledgments  #@NEW_LINE#@#  
+The authors thank Amy Wu, Ionescu Anisoara and Cole Simpson for the suggestions and discussions.  #@NEW_LINE#@#  
+
+Author_Contributions  #@NEW_LINE#@#  
+
+
+Conceptualization: JL AD HR AJI.  #@NEW_LINE#@#  
+Data curation: JL CLG.  #@NEW_LINE#@#  
+Formal analysis: JL AD.  #@NEW_LINE#@#  
+Funding acquisition: AJI.  #@NEW_LINE#@#  
+Investigation: JL.  #@NEW_LINE#@#  
+Methodology: JL AD CLG.  #@NEW_LINE#@#  
+Project administration: JL AJI.  #@NEW_LINE#@#  
+Resources: AJI CLG.  #@NEW_LINE#@#  
+Software: JL AD CLG.  #@NEW_LINE#@#  
+Supervision: HR AJI.  #@NEW_LINE#@#  
+Validation: JL AD HR.  #@NEW_LINE#@#  
+Visualization: JL HR AJI.  #@NEW_LINE#@#  
+Writing  original draft: JL.  #@NEW_LINE#@#  
+Writing  review & editing: HR AJI JL.  #@NEW_LINE#@#  
+
+
+
+References  #@NEW_LINE#@#  
+
+
+

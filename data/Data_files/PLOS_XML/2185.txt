@@ -1,0 +1,50 @@
+article id="http://dx.doi.org/10.1371/journal.pbio.2005568"  #@NEW_LINE#@#  
+title  #@NEW_LINE#@#  
+Do non-native species contribute to biodiversity?  #@NEW_LINE#@#  
+
+Abstract  #@NEW_LINE#@#  
+The Convention on Biological Diversity (CBD) emphasises the role of biodiversity in delivering benefits essential for all people and, as a result, seeks to safeguard all life-forms.  #@NEW_LINE#@#  The indices that are used to measure progress towards international conservation and sustainability goals, however, focus solely on the native component of biodiversity.  #@NEW_LINE#@#  A subset of non-native species can cause undesirable economic, social, or biological effects.  #@NEW_LINE#@#  But non-native species also contribute to regional biodiversity (species richness and biotic interactions) and ecosystem services.  #@NEW_LINE#@#  In some regions and cities, non-native species make up more than half of all species.  #@NEW_LINE#@#  Currently, the contributions of these species to biodiversity and ecosystem services are overlooked.  #@NEW_LINE#@#  Here, I argue that biodiversity and sustainability indices should include all species.  #@NEW_LINE#@#  This is not only consistent with definitions of biodiversity but also will promote the idea that long-term, sustainable, human well-being is intricately tied to benefits derived from nature.  #@NEW_LINE#@#  
+
+Citation: Schlaepfer MA (2018) Do non-native species contribute to biodiversity?  #@NEW_LINE#@#  PLoS Biol 16(4):  #@NEW_LINE#@#  
+           e2005568.  #@NEW_LINE#@#  
+
+        https://doi.org/10.1371/journal.pbio.2005568  #@NEW_LINE#@#  
+Published:  April 17, 2018  #@NEW_LINE#@#  
+Copyright:  © 2018 Martin A. Schlaepfer.  #@NEW_LINE#@#  This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.  #@NEW_LINE#@#  
+Funding: The author received no specific funding for this work.  #@NEW_LINE#@#  
+Competing interests:  The author has declared that no competing interests exist.  #@NEW_LINE#@#  
+Abbreviations:  #@NEW_LINE#@#  
+          CBD,  #@NEW_LINE#@#  
+            Convention on Biological Diversity; IPBES,  #@NEW_LINE#@#  
+            Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services; IUCN,  #@NEW_LINE#@#  
+            International Union for Conservation of Nature; SDG,  #@NEW_LINE#@#  
+            Sustainable Development Goal  #@NEW_LINE#@#  
+Provenance: Not commissioned; externally peer reviewed.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2005568.t001  #@NEW_LINE#@#  
+Non-native_species_as_an_integral_component_of_biodiversity  #@NEW_LINE#@#  
+There are several reasons why non-native species should be considered part of biodiversity and included in biodiversity and sustainability indices.  #@NEW_LINE#@#  
+First, the absence of non-native species from biodiversity indices stands in contradiction to the CBD and SDGs.  #@NEW_LINE#@#  The CBD definition of biodiversity (Article 2) encompasses the biological dimensions of the world (genes, species, ecosystems and their interactions), but it makes no distinction between native and non-native life forms, nor does it refer to notions of intactness, which forms the basis for excluding non-native species from the Biodiversity Intactness Index (Table 1).  #@NEW_LINE#@#  Aichi Target 2 and Goal 15.9 of the SDGs require national and local governments to account for the diverse values of biodiversity.  #@NEW_LINE#@#  
+Second, non-native species should be included in key biodiversity indices because they represent large fractions of modern ecosystems and regional species-pools.  #@NEW_LINE#@#  Non-native plants and birds can make up 50% or more of species in some urban [29,30], insular [9,31,32], and old-field [33] environments.  #@NEW_LINE#@#  There is a risk that regional policy makers in areas in which non-native species comprise a significant component of the landscape will perceive biodiversity indices to be irrelevant if they are based solely on native species.  #@NEW_LINE#@#  
+Finally, and perhaps most importantly, societys motivations for the conservation of biodiversity are evolving and the indicators used to measure the state of the environment and progress towards our goals should too.  #@NEW_LINE#@#  Biodiversity indices will need to encompass all species if they are to remain socially relevant and illustrate the full gamut of what are now called ecosystem services (and disservices), or natures contributions to people [3] (Fig 1).  #@NEW_LINE#@#  
+Left: A bow hunter on the Big Island of Hawaii with his catch, a non-native mouflon (feral sheep, Aries sp.).  #@NEW_LINE#@#  Mouflon threaten native plant species that have not evolved to resist mammalian herbivory.  #@NEW_LINE#@#  Right: Introduced goldenrod (Solidago gigantea) population near the city of Geneva, Switzerland.  #@NEW_LINE#@#  Goldenrod displaces native plants on a local scale and thus is considered invasive in Switzerland.  #@NEW_LINE#@#  But it is also appreciated for its ornamental and medicinal properties, and it serves as a resource for insects (hymenoptera and diptera, as seen in photograph).  #@NEW_LINE#@#  Current biodiversity indices and assessments capture the negative aspects of such non-native species (i.e., their potential for harm) but not their contributions to biodiversity (increase in regional species richness, interaction with other species) nor the ecosystem services (provisioning, regulating, cultural, supporting) that are socially and biologically relevant.  #@NEW_LINE#@#  Photos by author.  #@NEW_LINE#@#  
+
+
+              https://doi.org/10.1371/journal.pbio.2005568.g001  #@NEW_LINE#@#  
+
+Drawbacks_of_accounting_for_non-native_species  #@NEW_LINE#@#  
+Some will argue that if non-native species are considered as an integral part of biodiversity then, by extension, it will be harder to make the case that non-native species are potentially problematic.  #@NEW_LINE#@#  Such a change might also be viewed as devaluing conservation efforts that focus on native species.  #@NEW_LINE#@#  Others have argued that some fraction of the negative impacts of non-native species may be underestimated and will only be known with time [7].  #@NEW_LINE#@#  These are legitimate concerns.  #@NEW_LINE#@#  
+Accounting for non-native species does not imply that they are inherently desirable, nor that native and non-native species are biologically or culturally interchangeable.  #@NEW_LINE#@#  Nor does counting all species as an initial step to describing the environment preclude scientists from conducting risk assessments of different species or groups of species regarding undesirable outcomes [7].  #@NEW_LINE#@#  But to exclude non-native species a priori and without justification from indices (Table 1) and assessments of the state of the environment, as is sometimes done [22,34], prevents any subsequent debate about their relative merits.  #@NEW_LINE#@#  
+
+Moving_forward  #@NEW_LINE#@#  
+There are several steps that can be taken to better align future conservation planning with the mission of CBD and the SDGs.  #@NEW_LINE#@#  
+The idea of considering non-native species in biodiversity assessments remains controversial [39] in part because it runs against decades of studies alerting policy makers and the public to the potential dangers associated with these species.  #@NEW_LINE#@#  Scientifically and politically, however, it may be the best thing to do, as it will ultimately ensure that indices and the databases that underlie them cover all dimensions of the living world and remain relevant to groups of stakeholders that extend beyond conservation biologists.  #@NEW_LINE#@#  The discussion about how to best integrate non-native species into biodiversity indicators will need to take place not only within a scientific debate about the contributions of these species to society but also a broader social debate about what type of nature we need to ensure a good life for present and future generations.  #@NEW_LINE#@#  
+
+Acknowledgments  #@NEW_LINE#@#  
+Stefanie Deinet and Louise McRae kindly provided data on the number of non-native populations in the Living Planet Index.  #@NEW_LINE#@#  I also thank A. Lehmann and L. Gallagher for their constructive feedback on earlier versions of this manuscript.  #@NEW_LINE#@#  
+
+References  #@NEW_LINE#@#  
+
+
+
